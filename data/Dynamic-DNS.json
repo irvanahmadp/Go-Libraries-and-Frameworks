@@ -1,0 +1,35 @@
+{
+	"name": "Dynamic DNS",
+	"index_last_check": 0,
+	"last_update": 1624214918,
+	"libraries": [
+		{
+			"id": 19664994,
+			"name": "godns",
+			"description": "A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net \u0026 DuckDNS \u0026 DreamHost, etc, written in Go.",
+			"html_url": "https://github.com/TimothyYe/godns",
+			"homepage": "https://xiaozhou.net/godns-project-2014-05-18.html",
+			"created_at": "2014-05-11T11:49:17Z",
+			"updated_at": "2021-06-20T06:09:04Z",
+			"svn_url": "https://github.com/TimothyYe/godns",
+			"stargazers_count": 829,
+			"watchers_count": 829,
+			"forks_count": 158,
+			"open_issues_count": 7
+		},
+		{
+			"id": 84874313,
+			"name": "ddns",
+			"description": "Personal DDNS client with Digital Ocean Networking DNS as backend.",
+			"html_url": "https://github.com/skibish/ddns",
+			"homepage": "",
+			"created_at": "2017-03-13T21:02:27Z",
+			"updated_at": "2021-06-16T15:50:33Z",
+			"svn_url": "https://github.com/skibish/ddns",
+			"stargazers_count": 191,
+			"watchers_count": 191,
+			"forks_count": 19,
+			"open_issues_count": 0
+		}
+	]
+}

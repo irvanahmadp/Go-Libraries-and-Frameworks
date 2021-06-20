@@ -1,0 +1,91 @@
+{
+	"name": "XML",
+	"index_last_check": 0,
+	"last_update": 1624217101,
+	"libraries": [
+		{
+			"id": 111842183,
+			"name": "zek",
+			"description": "Generate a Go struct from XML.",
+			"html_url": "https://github.com/miku/zek",
+			"homepage": "",
+			"created_at": "2017-11-23T19:03:11Z",
+			"updated_at": "2021-06-18T10:38:06Z",
+			"svn_url": "https://github.com/miku/zek",
+			"stargazers_count": 466,
+			"watchers_count": 466,
+			"forks_count": 40,
+			"open_issues_count": 8
+		},
+		{
+			"id": 70380104,
+			"name": "xpath",
+			"description": "XPath package for Golang, supports HTML, XML, JSON document query.",
+			"html_url": "https://github.com/antchfx/xpath",
+			"homepage": "",
+			"created_at": "2016-10-09T05:51:24Z",
+			"updated_at": "2021-06-20T08:32:17Z",
+			"svn_url": "https://github.com/antchfx/xpath",
+			"stargazers_count": 398,
+			"watchers_count": 398,
+			"forks_count": 54,
+			"open_issues_count": 9
+		},
+		{
+			"id": 70380227,
+			"name": "xquery",
+			"description": "Extract data or evaluate value from HTML/XML documents using XPath",
+			"html_url": "https://github.com/antchfx/xquery",
+			"homepage": "https://github.com/antchfx/xpath",
+			"created_at": "2016-10-09T05:54:10Z",
+			"updated_at": "2021-05-22T09:57:43Z",
+			"svn_url": "https://github.com/antchfx/xquery",
+			"stargazers_count": 153,
+			"watchers_count": 153,
+			"forks_count": 25,
+			"open_issues_count": 0
+		},
+		{
+			"id": 143763518,
+			"name": "xml2map",
+			"description": "XML to MAP converter written Golang",
+			"html_url": "https://github.com/sbabiv/xml2map",
+			"homepage": "",
+			"created_at": "2018-08-06T17:51:46Z",
+			"updated_at": "2021-06-09T18:08:01Z",
+			"svn_url": "https://github.com/sbabiv/xml2map",
+			"stargazers_count": 32,
+			"watchers_count": 32,
+			"forks_count": 5,
+			"open_issues_count": 1
+		},
+		{
+			"id": 87889223,
+			"name": "xmlwriter",
+			"description": "xmlwriter is a pure-Go library providing procedural XML generation based on libxml2's xmlwriter module",
+			"html_url": "https://github.com/shabbyrobe/xmlwriter",
+			"homepage": "",
+			"created_at": "2017-04-11T04:43:26Z",
+			"updated_at": "2021-05-26T06:49:04Z",
+			"svn_url": "https://github.com/shabbyrobe/xmlwriter",
+			"stargazers_count": 19,
+			"watchers_count": 19,
+			"forks_count": 3,
+			"open_issues_count": 1
+		},
+		{
+			"id": 71943139,
+			"name": "XML-Comp",
+			"description": "Compare ANY markup documents.",
+			"html_url": "https://github.com/XML-Comp/XML-Comp",
+			"homepage": "",
+			"created_at": "2016-10-25T22:09:12Z",
+			"updated_at": "2021-04-23T04:41:47Z",
+			"svn_url": "https://github.com/XML-Comp/XML-Comp",
+			"stargazers_count": 15,
+			"watchers_count": 15,
+			"forks_count": 8,
+			"open_issues_count": 8
+		}
+	]
+}

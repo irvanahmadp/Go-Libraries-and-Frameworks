@@ -1,0 +1,49 @@
+{
+	"name": "Windows",
+	"index_last_check": 0,
+	"last_update": 1624214919,
+	"libraries": [
+		{
+			"id": 1278292,
+			"name": "go-ole",
+			"description": "win32 ole implementation for golang",
+			"html_url": "https://github.com/go-ole/go-ole",
+			"homepage": "",
+			"created_at": "2011-01-21T12:45:20Z",
+			"updated_at": "2021-06-15T07:38:41Z",
+			"svn_url": "https://github.com/go-ole/go-ole",
+			"stargazers_count": 758,
+			"watchers_count": 758,
+			"forks_count": 139,
+			"open_issues_count": 53
+		},
+		{
+			"id": 47895104,
+			"name": "d3d9",
+			"description": "Direct3D9 wrapper for Go.",
+			"html_url": "https://github.com/gonutz/d3d9",
+			"homepage": "",
+			"created_at": "2015-12-12T21:24:38Z",
+			"updated_at": "2021-06-19T22:32:48Z",
+			"svn_url": "https://github.com/gonutz/d3d9",
+			"stargazers_count": 122,
+			"watchers_count": 122,
+			"forks_count": 9,
+			"open_issues_count": 0
+		},
+		{
+			"id": 160324925,
+			"name": "gosddl",
+			"description": "GoSDDL converter",
+			"html_url": "https://github.com/MonaxGT/gosddl",
+			"homepage": "",
+			"created_at": "2018-12-04T08:36:11Z",
+			"updated_at": "2021-02-14T13:03:11Z",
+			"svn_url": "https://github.com/MonaxGT/gosddl",
+			"stargazers_count": 5,
+			"watchers_count": 5,
+			"forks_count": 1,
+			"open_issues_count": 0
+		}
+	]
+}

@@ -1,0 +1,91 @@
+{
+	"name": "Command Line - Standard CLI",
+	"index_last_check": 5,
+	"last_update": 1624214937,
+	"libraries": [
+		{
+			"id": 52618352,
+			"name": "cli",
+			"description": "CLI - A package for building command line app with go",
+			"html_url": "https://github.com/mkideal/cli",
+			"homepage": "",
+			"created_at": "2016-02-26T16:45:29Z",
+			"updated_at": "2021-06-11T08:51:31Z",
+			"svn_url": "https://github.com/mkideal/cli",
+			"stargazers_count": 578,
+			"watchers_count": 578,
+			"forks_count": 38,
+			"open_issues_count": 3
+		},
+		{
+			"id": 111885079,
+			"name": "argparse",
+			"description": "Argparse for golang. Just because `flag` sucks",
+			"html_url": "https://github.com/akamensky/argparse",
+			"homepage": "",
+			"created_at": "2017-11-24T06:42:20Z",
+			"updated_at": "2021-06-19T15:20:15Z",
+			"svn_url": "https://github.com/akamensky/argparse",
+			"stargazers_count": 335,
+			"watchers_count": 335,
+			"forks_count": 42,
+			"open_issues_count": 10
+		},
+		{
+			"id": 45495453,
+			"name": "climax",
+			"description": "Climax is an alternative CLI with the human face",
+			"html_url": "https://github.com/tucnak/climax",
+			"homepage": "http://git.io/climax",
+			"created_at": "2015-11-03T21:04:57Z",
+			"updated_at": "2021-06-04T17:16:47Z",
+			"svn_url": "https://github.com/tucnak/climax",
+			"stargazers_count": 186,
+			"watchers_count": 186,
+			"forks_count": 17,
+			"open_issues_count": 6
+		},
+		{
+			"id": 92344024,
+			"name": "cli",
+			"description": "Simple and complete API for building command line applications in Go",
+			"html_url": "https://github.com/teris-io/cli",
+			"homepage": "",
+			"created_at": "2017-05-24T23:07:07Z",
+			"updated_at": "2021-05-26T03:10:37Z",
+			"svn_url": "https://github.com/teris-io/cli",
+			"stargazers_count": 91,
+			"watchers_count": 91,
+			"forks_count": 9,
+			"open_issues_count": 2
+		},
+		{
+			"id": 222531705,
+			"name": "clir",
+			"description": "A Simple and Clear CLI library. Dependency free.",
+			"html_url": "https://github.com/leaanthony/clir",
+			"homepage": "",
+			"created_at": "2019-11-18T19:52:00Z",
+			"updated_at": "2021-05-27T07:23:31Z",
+			"svn_url": "https://github.com/leaanthony/clir",
+			"stargazers_count": 66,
+			"watchers_count": 66,
+			"forks_count": 9,
+			"open_issues_count": 5
+		},
+		{
+			"id": 79711179,
+			"name": "argv",
+			"description": "Argparse for golang. Just because `flag` sucks",
+			"html_url": "https://github.com/cosiner/argv",
+			"homepage": "",
+			"created_at": "2017-01-22T10:37:21Z",
+			"updated_at": "2021-03-30T02:32:52Z",
+			"svn_url": "https://github.com/cosiner/argv",
+			"stargazers_count": 30,
+			"watchers_count": 30,
+			"forks_count": 6,
+			"open_issues_count": 1
+		}
+	]
+}

@@ -1,0 +1,91 @@
+{
+	"name": "WebAssembly",
+	"index_last_check": 0,
+	"last_update": 1624214920,
+	"libraries": [
+		{
+			"id": 136505169,
+			"name": "tinygo",
+			"description": "Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.",
+			"html_url": "https://github.com/tinygo-org/tinygo",
+			"homepage": "https://tinygo.org",
+			"created_at": "2018-06-07T16:39:19Z",
+			"updated_at": "2021-06-19T16:58:29Z",
+			"svn_url": "https://github.com/tinygo-org/tinygo",
+			"stargazers_count": 8150,
+			"watchers_count": 8150,
+			"forks_count": 424,
+			"open_issues_count": 264
+		},
+		{
+			"id": 139271597,
+			"name": "dom",
+			"description": "DOM library for Go and WASM",
+			"html_url": "https://github.com/dennwc/dom",
+			"homepage": "",
+			"created_at": "2018-06-30T18:37:35Z",
+			"updated_at": "2021-06-14T22:16:09Z",
+			"svn_url": "https://github.com/dennwc/dom",
+			"stargazers_count": 428,
+			"watchers_count": 428,
+			"forks_count": 51,
+			"open_issues_count": 11
+		},
+		{
+			"id": 185039321,
+			"name": "go-canvas",
+			"description": "Library to use HTML5 Canvas  from Go-WASM, with all drawing within go code",
+			"html_url": "https://github.com/markfarnan/go-canvas",
+			"homepage": "",
+			"created_at": "2019-05-05T14:05:55Z",
+			"updated_at": "2021-06-14T21:30:05Z",
+			"svn_url": "https://github.com/markfarnan/go-canvas",
+			"stargazers_count": 135,
+			"watchers_count": 135,
+			"forks_count": 9,
+			"open_issues_count": 5
+		},
+		{
+			"id": 169691861,
+			"name": "webapi",
+			"description": "Go Lang Web Assembly bindings for DOM, HTML etc",
+			"html_url": "https://github.com/gowebapi/webapi",
+			"homepage": "",
+			"created_at": "2019-02-08T05:58:35Z",
+			"updated_at": "2021-06-16T15:50:16Z",
+			"svn_url": "https://github.com/gowebapi/webapi",
+			"stargazers_count": 82,
+			"watchers_count": 82,
+			"forks_count": 8,
+			"open_issues_count": 2
+		},
+		{
+			"id": 140969738,
+			"name": "wasmbrowsertest",
+			"description": "Run WASM tests inside your browser",
+			"html_url": "https://github.com/agnivade/wasmbrowsertest",
+			"homepage": "",
+			"created_at": "2018-07-14T18:42:24Z",
+			"updated_at": "2021-04-07T05:36:46Z",
+			"svn_url": "https://github.com/agnivade/wasmbrowsertest",
+			"stargazers_count": 80,
+			"watchers_count": 80,
+			"forks_count": 9,
+			"open_issues_count": 0
+		},
+		{
+			"id": 126721876,
+			"name": "vert",
+			"description": "WebAssembly interop between Go and JS values.",
+			"html_url": "https://github.com/norunners/vert",
+			"homepage": "",
+			"created_at": "2018-03-25T17:26:47Z",
+			"updated_at": "2021-05-23T19:32:09Z",
+			"svn_url": "https://github.com/norunners/vert",
+			"stargazers_count": 48,
+			"watchers_count": 48,
+			"forks_count": 6,
+			"open_issues_count": 2
+		}
+	]
+}
