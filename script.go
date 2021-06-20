@@ -235,7 +235,8 @@ func updateCategoryDataFile(categories []Category, appData *App) {
 						categoryData.Libraries = repositories
 						categoryData.LastUpdate = nowUnixTime
 						saveCategoryDataJSON(categoryData, categoryDataFileName)
-						break
+
+						panic("panic #5 : rate limit already 0")
 					}
 				}
 			}
