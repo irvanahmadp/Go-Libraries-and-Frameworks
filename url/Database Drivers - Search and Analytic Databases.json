@@ -1,0 +1,12 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/blevesearch/bleve",
+		"https://api.github.com/repos/olivere/elastic",
+		"https://api.github.com/repos/cch123/elasticsql",
+		"https://api.github.com/repos/mattbaird/elastigo",
+		"https://api.github.com/repos/elastic/go-elasticsearch",
+		"https://api.github.com/repos/OwnLocal/goes",
+		"https://api.github.com/repos/go-ego/riot",
+		"https://api.github.com/repos/seiflotfy/skizze"
+	]
+}

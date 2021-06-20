@@ -1,0 +1,29 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/xyproto/algernon",
+		"https://api.github.com/repos/caddyserver/caddy",
+		"https://api.github.com/repos/hashicorp/consul",
+		"https://api.github.com/repos/blind-oracle/cortex-tenant",
+		"https://api.github.com/repos/cortesi/devd",
+		"https://api.github.com/repos/Bilibili/discovery",
+		"https://api.github.com/repos/krotik/dudeldu",
+		"https://api.github.com/repos/coreos/etcd",
+		"https://api.github.com/repos/getfider/fider",
+		"https://api.github.com/repos/checkr/flagr",
+		"https://api.github.com/repos/markphelps/flipt",
+		"https://api.github.com/repos/thomaspoignant/go-feature-flag",
+		"https://api.github.com/repos/fabiocicerchia/go-proxy-cache",
+		"https://api.github.com/repos/ortuman/jackal",
+		"https://api.github.com/repos/rekby/lets-proxy2",
+		"https://api.github.com/repos/minio/minio",
+		"https://api.github.com/repos/blind-oracle/nginx-prometheus",
+		"https://api.github.com/repos/nsqio/nsq",
+		"https://api.github.com/repos/camgraff/protoxy",
+		"https://api.github.com/repos/blind-oracle/psql-streamer",
+		"https://api.github.com/repos/blind-oracle/riemann-relay",
+		"https://api.github.com/repos/spiral/roadrunner",
+		"https://api.github.com/repos/drakkan/sftpgo",
+		"https://api.github.com/repos/leberKleber/simple-jwt-provider",
+		"https://api.github.com/repos/tricksterproxy/trickster"
+	]
+}

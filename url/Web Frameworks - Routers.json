@@ -1,0 +1,27 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/gernest/alien",
+		"https://api.github.com/repos/GuilhermeCaruso/bellt",
+		"https://api.github.com/repos/go-zoo/bone",
+		"https://api.github.com/repos/claygod/Bxog",
+		"https://api.github.com/repos/go-chi/chi",
+		"https://api.github.com/repos/buaazp/fasthttprouter",
+		"https://api.github.com/repos/razonyang/fastrouter",
+		"https://api.github.com/repos/gocraft/web",
+		"https://api.github.com/repos/goji/goji",
+		"https://api.github.com/repos/goroute/route",
+		"https://api.github.com/repos/vardius/gorouter",
+		"https://api.github.com/repos/gowww/router",
+		"https://api.github.com/repos/julienschmidt/httprouter",
+		"https://api.github.com/repos/dimfeld/httptreemux",
+		"https://api.github.com/repos/go-playground/lars",
+		"https://api.github.com/repos/gorilla/mux",
+		"https://api.github.com/repos/go-ozzo/ozzo-routing",
+		"https://api.github.com/repos/go-playground/pure",
+		"https://api.github.com/repos/VividCortex/siesta",
+		"https://api.github.com/repos/husobee/vestigo",
+		"https://api.github.com/repos/nbari/violetear",
+		"https://api.github.com/repos/rs/xmux",
+		"https://api.github.com/repos/xujiajun/gorouter"
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/spf13/afero",
+		"https://api.github.com/repos/viant/afs",
+		"https://api.github.com/repos/xis/baraka",
+		"https://api.github.com/repos/bigfile/bigfile",
+		"https://api.github.com/repos/codingsince1985/checksum",
+		"https://api.github.com/repos/otiai10/copy",
+		"https://api.github.com/repos/homedepot/flop",
+		"https://api.github.com/repos/artonge/go-csv-tag",
+		"https://api.github.com/repos/hugocarreira/go-decent-copy",
+		"https://api.github.com/repos/barasher/go-exiftool",
+		"https://api.github.com/repos/artonge/go-gtfs",
+		"https://api.github.com/repos/1set/gut",
+		"https://api.github.com/repos/dastoori/higgs",
+		"https://api.github.com/repos/rjeczalik/notify",
+		"https://api.github.com/repos/qmuntal/opc",
+		"https://api.github.com/repos/parsyl/parquet",
+		"https://api.github.com/repos/pdfcpu/pdfcpu",
+		"https://api.github.com/repos/dixonwille/skywalker",
+		"https://api.github.com/repos/posener/tarfs",
+		"https://api.github.com/repos/1set/todotxt",
+		"https://api.github.com/repos/C2FO/vfs"
+	]
+}

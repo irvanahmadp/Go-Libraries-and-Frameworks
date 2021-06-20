@@ -1,0 +1,10 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/go-gl/gl",
+		"https://api.github.com/repos/go-gl/glfw",
+		"https://api.github.com/repos/technohippy/go-glmatrix",
+		"https://api.github.com/repos/goxjs/gl",
+		"https://api.github.com/repos/goxjs/glfw",
+		"https://api.github.com/repos/go-gl/mathgl"
+	]
+}

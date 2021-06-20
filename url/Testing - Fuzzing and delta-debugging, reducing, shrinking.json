@@ -1,0 +1,7 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/dvyukov/go-fuzz",
+		"https://api.github.com/repos/google/gofuzz",
+		"https://api.github.com/repos/zimmski/tavor"
+	]
+}

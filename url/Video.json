@@ -1,0 +1,15 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/3d0c/gmf",
+		"https://api.github.com/repos/asticode/go-astisub",
+		"https://api.github.com/repos/asticode/go-astits",
+		"https://api.github.com/repos/quangngotan95/go-m3u8",
+		"https://api.github.com/repos/unki2aut/go-mpd",
+		"https://api.github.com/repos/giorgisio/goav",
+		"https://api.github.com/repos/ziutek/gst",
+		"https://api.github.com/repos/wargarblgarbl/libgosubs",
+		"https://api.github.com/repos/adrg/libvlc-go",
+		"https://api.github.com/repos/grafov/m3u8",
+		"https://api.github.com/repos/korandiz/v4l"
+	]
+}

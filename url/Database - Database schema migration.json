@@ -1,0 +1,19 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/khezen/avro",
+		"https://api.github.com/repos/GuiaBolso/darwin",
+		"https://api.github.com/repos/RichardKnop/go-fixtures",
+		"https://api.github.com/repos/lawzava/go-pg-migrate",
+		"https://api.github.com/repos/robinjoseph08/go-pg-migrations",
+		"https://api.github.com/repos/pressly/goose",
+		"https://api.github.com/repos/go-gormigrate/gormigrate",
+		"https://api.github.com/repos/golang-migrate/migrate",
+		"https://api.github.com/repos/lopezator/migrator",
+		"https://api.github.com/repos/larapulse/migrator",
+		"https://api.github.com/repos/pravasan/pravasan",
+		"https://api.github.com/repos/adlio/schema",
+		"https://api.github.com/repos/skeema/skeema",
+		"https://api.github.com/repos/gobuffalo/pop",
+		"https://api.github.com/repos/rubenv/sql-migrate"
+	]
+}

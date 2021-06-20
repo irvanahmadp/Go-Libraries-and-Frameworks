@@ -1,0 +1,22 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/azul3d/engine",
+		"https://api.github.com/repos/hajimehoshi/ebiten",
+		"https://api.github.com/repos/EngoEngine/engo",
+		"https://api.github.com/repos/g3n/engine",
+		"https://api.github.com/repos/beefsack/go-astar",
+		"https://api.github.com/repos/veandco/go-sdl2",
+		"https://api.github.com/repos/ungerik/go3d",
+		"https://api.github.com/repos/xtaci/gonet",
+		"https://api.github.com/repos/xiaonanln/goworld",
+		"https://api.github.com/repos/name5566/leaf",
+		"https://api.github.com/repos/lonng/nano",
+		"https://api.github.com/repos/oakmound/oak",
+		"https://api.github.com/repos/topfreegames/pitaya",
+		"https://api.github.com/repos/faiface/pixel",
+		"https://api.github.com/repos/gonutz/prototype",
+		"https://api.github.com/repos/gen2brain/raylib-go",
+		"https://api.github.com/repos/JoelOtter/termloop",
+		"https://api.github.com/repos/kelindar/tile"
+	]
+}

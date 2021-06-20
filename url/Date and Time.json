@@ -1,0 +1,23 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/uniplaces/carbon",
+		"https://api.github.com/repos/1set/cronrange",
+		"https://api.github.com/repos/rickb777/date",
+		"https://api.github.com/repos/araddon/dateparse",
+		"https://api.github.com/repos/hako/durafmt",
+		"https://api.github.com/repos/wlbr/feiertage",
+		"https://api.github.com/repos/yaa110/go-persian-calendar",
+		"https://api.github.com/repos/xhit/go-str2duration",
+		"https://api.github.com/repos/nathan-osman/go-sunrise",
+		"https://api.github.com/repos/stoewer/go-week",
+		"https://api.github.com/repos/bykof/gostradamus",
+		"https://api.github.com/repos/relvacode/iso8601",
+		"https://api.github.com/repos/GuilhermeCaruso/kair",
+		"https://api.github.com/repos/jinzhu/now",
+		"https://api.github.com/repos/kirillDanshin/nulltime",
+		"https://api.github.com/repos/awoodbeck/strftime",
+		"https://api.github.com/repos/SaidinWoT/timespan",
+		"https://api.github.com/repos/leekchan/timeutil",
+		"https://api.github.com/repos/osteele/tuesday"
+	]
+}

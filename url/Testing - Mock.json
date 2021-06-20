@@ -1,0 +1,17 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/maxbrunsfeld/counterfeiter",
+		"https://api.github.com/repos/elgohr/go-localstack",
+		"https://api.github.com/repos/DATA-DOG/go-sqlmock",
+		"https://api.github.com/repos/DATA-DOG/go-txdb",
+		"https://api.github.com/repos/h2non/gock",
+		"https://api.github.com/repos/golang/mock",
+		"https://api.github.com/repos/seborama/govcr",
+		"https://api.github.com/repos/SpectoLabs/hoverfly",
+		"https://api.github.com/repos/jarcoal/httpmock",
+		"https://api.github.com/repos/gojuno/minimock",
+		"https://api.github.com/repos/tv42/mockhttp",
+		"https://api.github.com/repos/pasdam/mockit",
+		"https://api.github.com/repos/cabify/timex"
+	]
+}

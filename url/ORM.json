@@ -1,0 +1,25 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/astaxie/beego",
+		"https://api.github.com/repos/facebook/ent",
+		"https://api.github.com/repos/jschoedt/go-firestorm",
+		"https://api.github.com/repos/go-pg/pg",
+		"https://api.github.com/repos/jirfag/go-queryset",
+		"https://api.github.com/repos/rushteam/gosql",
+		"https://api.github.com/repos/huandu/go-sqlbuilder",
+		"https://api.github.com/repos/gosuri/go-store",
+		"https://api.github.com/repos/go-gorm/gorm",
+		"https://api.github.com/repos/xxjwxc/gormt",
+		"https://api.github.com/repos/go-gorp/gorp",
+		"https://api.github.com/repos/Fs02/grimoire",
+		"https://api.github.com/repos/abrahambotros/lore",
+		"https://api.github.com/repos/marlow/marlow",
+		"https://api.github.com/repos/gobuffalo/pop",
+		"https://api.github.com/repos/coocood/qbs",
+		"https://api.github.com/repos/go-reform/reform",
+		"https://api.github.com/repos/go-rel/rel",
+		"https://api.github.com/repos/volatiletech/sqlboiler",
+		"https://api.github.com/repos/upper/db",
+		"https://api.github.com/repos/albrow/zoom"
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/mewkiz/flac",
+		"https://api.github.com/repos/Comcast/gaad",
+		"https://api.github.com/repos/DylanMeeus/GoAudio",
+		"https://api.github.com/repos/dh1tw/gosamplerate",
+		"https://api.github.com/repos/bogem/id3v2",
+		"https://api.github.com/repos/gen2brain/malgo",
+		"https://api.github.com/repos/tosone/minimp3",
+		"https://api.github.com/repos/go-mix/mix",
+		"https://api.github.com/repos/go-music-theory/music-theory",
+		"https://api.github.com/repos/hajimehoshi/oto",
+		"https://api.github.com/repos/gordonklaus/portaudio",
+		"https://api.github.com/repos/rakyll/portmidi",
+		"https://api.github.com/repos/mccoyst/vorbis",
+		"https://api.github.com/repos/mdlayher/waveform"
+	]
+}

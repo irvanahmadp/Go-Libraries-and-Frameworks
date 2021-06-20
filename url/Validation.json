@@ -1,0 +1,15 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/osamingo/checkdigit",
+		"https://api.github.com/repos/guiferpa/gody",
+		"https://api.github.com/repos/twharmon/govalid",
+		"https://api.github.com/repos/asaskevich/govalidator",
+		"https://api.github.com/repos/thedevsaddam/govalidator",
+		"https://api.github.com/repos/faceair/jio",
+		"https://api.github.com/repos/go-ozzo/ozzo-validation",
+		"https://api.github.com/repos/thazelart/terraform-validator",
+		"https://api.github.com/repos/gookit/validate",
+		"https://api.github.com/repos/gobuffalo/validate",
+		"https://api.github.com/repos/go-playground/validator"
+	]
+}

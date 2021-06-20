@@ -1,0 +1,16 @@
+{
+  "URLs": [
+    "https://api.github.com/repos/maxence-charriere/go-app",
+    "https://api.github.com/repos/fyne-io/fyne",
+    "https://api.github.com/repos/asticode/go-astilectron",
+    "https://api.github.com/repos/mattn/go-gtk",
+    "https://api.github.com/repos/sciter-sdk/go-sciter",
+    "https://api.github.com/repos/gotk3/gotk3",
+    "https://api.github.com/repos/dtylman/gowd",
+    "https://api.github.com/repos/therecipe/qt",
+    "https://api.github.com/repos/andlabs/ui",
+    "https://api.github.com/repos/wailsapp/wails",
+    "https://api.github.com/repos/lxn/walk",
+    "https://api.github.com/repos/webview/webview"
+  ]
+}

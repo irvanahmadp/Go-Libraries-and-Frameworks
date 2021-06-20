@@ -1,0 +1,16 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/magic003/alice",
+		"https://api.github.com/repos/golobby/container",
+		"https://api.github.com/repos/goava/di",
+		"https://api.github.com/repos/uber-go/dig",
+		"https://api.github.com/repos/i-love-flamingo/dingo",
+		"https://api.github.com/repos/uber-go/fx",
+		"https://api.github.com/repos/vardius/gocontainer",
+		"https://api.github.com/repos/goioc/di",
+		"https://api.github.com/repos/go-kata/kinit",
+		"https://api.github.com/repos/logrange/linker",
+		"https://api.github.com/repos/BlueOwlOpenSource/nject",
+		"https://api.github.com/repos/Fs02/wire"
+	]
+}

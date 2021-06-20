@@ -1,0 +1,10 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/rjeczalik/gh",
+		"https://api.github.com/repos/libgit2/git2go",
+		"https://api.github.com/repos/go-git/go-git",
+		"https://api.github.com/repos/sourcegraph/go-vcs",
+		"https://api.github.com/repos/src-d/hercules",
+		"https://api.github.com/repos/beyang/hgo"
+	]
+}

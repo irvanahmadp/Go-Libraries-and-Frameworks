@@ -1,0 +1,22 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/mattn/anko",
+		"https://api.github.com/repos/alexeyco/binder",
+		"https://api.github.com/repos/google/cel-go",
+		"https://api.github.com/repos/krotik/ecal",
+		"https://api.github.com/repos/antonmedv/expr",
+		"https://api.github.com/repos/gentee/gentee",
+		"https://api.github.com/repos/jcla1/gisp",
+		"https://api.github.com/repos/olebedev/go-duktape",
+		"https://api.github.com/repos/Shopify/go-lua",
+		"https://api.github.com/repos/deuill/go-php",
+		"https://api.github.com/repos/sbinet/go-python",
+		"https://api.github.com/repos/dop251/goja",
+		"https://api.github.com/repos/aarzilli/golua",
+		"https://api.github.com/repos/yuin/gopher-lua",
+		"https://api.github.com/repos/PaesslerAG/gval",
+		"https://api.github.com/repos/db47h/ngaro",
+		"https://api.github.com/repos/ian-kent/purl",
+		"https://api.github.com/repos/d5/tengo"
+	]
+}

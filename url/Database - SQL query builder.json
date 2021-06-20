@@ -1,0 +1,24 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/arthurkushman/buildsqlx",
+		"https://api.github.com/repos/rocketlaunchr/dbq",
+		"https://api.github.com/repos/gchaincl/dotsql",
+		"https://api.github.com/repos/didi/gendry",
+		"https://api.github.com/repos/xujiajun/godbal",
+		"https://api.github.com/repos/doug-martin/goqu",
+		"https://api.github.com/repos/twharmon/gosql",
+		"https://api.github.com/repos/yandex/go-hasql",
+		"https://api.github.com/repos/galeone/igor",
+		"https://api.github.com/repos/go-jet/jet",
+		"https://api.github.com/repos/spacetab-io/mpath-go",
+		"https://api.github.com/repos/pupizoid/ormlite",
+		"https://api.github.com/repos/go-ozzo/ozzo-dbx",
+		"https://api.github.com/repos/HnH/qry",
+		"https://api.github.com/repos/bokwoon95/go-structured-query",
+		"https://api.github.com/repos/leporo/sqlf",
+		"https://api.github.com/repos/lqs/sqlingo",
+		"https://api.github.com/repos/elgris/sqrl",
+		"https://api.github.com/repos/Masterminds/squirrel",
+		"https://api.github.com/repos/knq/xo"
+	]
+}

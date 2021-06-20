@@ -1,0 +1,29 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/hlandau/acme",
+		"https://api.github.com/repos/cossacklabs/acra",
+		"https://api.github.com/repos/andskur/argon2-hashing",
+		"https://api.github.com/repos/raja/argon2pw",
+		"https://api.github.com/repos/golang/crypto",
+		"https://api.github.com/repos/jaredfolkins/badactor",
+		"https://api.github.com/repos/Ullaakut/cameradar",
+		"https://api.github.com/repos/mvmaasakkers/certificates",
+		"https://api.github.com/repos/prashantgupta24/firewalld-rest",
+		"https://api.github.com/repos/m1/go-generate-password",
+		"https://api.github.com/repos/lane-c-wagner/go-password-validator",
+		"https://api.github.com/repos/hillu/go-yara",
+		"https://api.github.com/repos/dwin/goArgonPass",
+		"https://api.github.com/repos/dwin/goSecretBoxPassword",
+		"https://api.github.com/repos/go-acme/lego",
+		"https://api.github.com/repos/awnumar/memguard",
+		"https://api.github.com/repos/kevinburke/nacl",
+		"https://api.github.com/repos/pjebs/optimus-go",
+		"https://api.github.com/repos/hlandau/passlib",
+		"https://api.github.com/repos/unrolled/secure",
+		"https://api.github.com/repos/xaionaro-go/secureio",
+		"https://api.github.com/repos/elithrar/simple-scrypt",
+		"https://api.github.com/repos/ssh-vault/ssh-vault",
+		"https://api.github.com/repos/adrianosela/sslmgr",
+		"https://api.github.com/repos/cossacklabs/themis"
+	]
+}

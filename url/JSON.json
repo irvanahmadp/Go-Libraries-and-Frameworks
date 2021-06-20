@@ -1,0 +1,31 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/spyzhov/ajson",
+		"https://api.github.com/repos/simonnilsson/ask",
+		"https://api.github.com/repos/cocoonspace/dynjson",
+		"https://api.github.com/repos/lucassscaravelli/ej",
+		"https://api.github.com/repos/vtopc/epoch",
+		"https://api.github.com/repos/valyala/fastjson",
+		"https://api.github.com/repos/skanehira/gjo",
+		"https://api.github.com/repos/tidwall/gjson",
+		"https://api.github.com/repos/ddymko/go-jsonerror",
+		"https://api.github.com/repos/nicklaw5/go-respond",
+		"https://api.github.com/repos/elgs/gojq",
+		"https://api.github.com/repos/ChimeraCoder/gojson",
+		"https://api.github.com/repos/yazgazan/jaydiff",
+		"https://api.github.com/repos/wI2L/jettison",
+		"https://api.github.com/repos/mholt/json-to-go",
+		"https://api.github.com/repos/json-to-proto/json-to-proto.github.io",
+		"https://api.github.com/repos/m-zajac/json2go",
+		"https://api.github.com/repos/AmuzaTkts/jsonapi-errors",
+		"https://api.github.com/repos/wI2L/jsondiff",
+		"https://api.github.com/repos/miolini/jsonf",
+		"https://api.github.com/repos/ricardolonga/jsongo",
+		"https://api.github.com/repos/RichardKnop/jsonhal",
+		"https://api.github.com/repos/sinhashubham95/jsonic",
+		"https://api.github.com/repos/zerosnake0/jzon",
+		"https://api.github.com/repos/Qntfy/kazaam",
+		"https://api.github.com/repos/mickep76/mapslice-json",
+		"https://api.github.com/repos/sanbornm/mp"
+	]
+}

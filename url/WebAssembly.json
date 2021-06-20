@@ -1,0 +1,10 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/dennwc/dom",
+		"https://api.github.com/repos/markfarnan/go-canvas",
+		"https://api.github.com/repos/tinygo-org/tinygo",
+		"https://api.github.com/repos/norunners/vert",
+		"https://api.github.com/repos/agnivade/wasmbrowsertest",
+		"https://api.github.com/repos/gowebapi/webapi"
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/NicoNex/echotron",
+		"https://api.github.com/repos/ewohltman/ephemeral-roles",
+		"https://api.github.com/repos/go-chat-bot/bot",
+		"https://api.github.com/repos/go-joe/joe",
+		"https://api.github.com/repos/oklahomer/go-sarah",
+		"https://api.github.com/repos/olebedev/go-tgbot",
+		"https://api.github.com/repos/gempir/go-twitch-irc",
+		"https://api.github.com/repos/saniales/golang-crypto-trading-bot",
+		"https://api.github.com/repos/nikepan/govkbot",
+		"https://api.github.com/repos/sbstjn/hanu",
+		"https://api.github.com/repos/stellar/kelp",
+		"https://api.github.com/repos/zhulik/margelet",
+		"https://api.github.com/repos/onrik/micha",
+		"https://api.github.com/repos/olivia-ai/olivia",
+		"https://api.github.com/repos/innogames/slack-bot",
+		"https://api.github.com/repos/shomali11/slacker",
+		"https://api.github.com/repos/alexandre-normand/slackscot",
+		"https://api.github.com/repos/yanzay/tbot",
+		"https://api.github.com/repos/tucnak/telebot",
+		"https://api.github.com/repos/Syfaro/telegram-bot-api",
+		"https://api.github.com/repos/kyleterry/tenyks"
+	]
+}

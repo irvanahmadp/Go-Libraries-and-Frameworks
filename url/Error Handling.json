@@ -1,0 +1,16 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/emperror/emperror",
+		"https://api.github.com/repos/rotisserie/eris",
+		"https://api.github.com/repos/snwfdhmp/errlog",
+		"https://api.github.com/repos/emperror/errors",
+		"https://api.github.com/repos/pkg/errors",
+		"https://api.github.com/repos/neuronlabs/errors",
+		"https://api.github.com/repos/PumpkinSeed/errors",
+		"https://api.github.com/repos/bnkamalesh/errors",
+		"https://api.github.com/repos/joomcode/errorx",
+		"https://api.github.com/repos/SonicRoshan/falcon",
+		"https://api.github.com/repos/hashicorp/go-multierror",
+		"https://api.github.com/repos/ztrue/tracerr"
+	]
+}

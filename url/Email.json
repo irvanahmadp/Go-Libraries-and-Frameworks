@@ -1,0 +1,21 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/albertito/chasquid",
+		"https://api.github.com/repos/aymerick/douceur",
+		"https://api.github.com/repos/jordan-wright/email",
+		"https://api.github.com/repos/AfterShip/email-verifier",
+		"https://api.github.com/repos/toorop/go-dkim",
+		"https://api.github.com/repos/go-email-validator/go-email-validator",
+		"https://api.github.com/repos/emersion/go-imap",
+		"https://api.github.com/repos/emersion/go-message",
+		"https://api.github.com/repos/vanng822/go-premailer",
+		"https://api.github.com/repos/xhit/go-simple-mail",
+		"https://api.github.com/repos/hectane/hectane",
+		"https://api.github.com/repos/matcornic/hermes",
+		"https://api.github.com/repos/mailchain/mailchain",
+		"https://api.github.com/repos/mailgun/mailgun-go",
+		"https://api.github.com/repos/mailhog/MailHog",
+		"https://api.github.com/repos/sendgrid/sendgrid-go",
+		"https://api.github.com/repos/mailhog/smtp"
+	]
+}

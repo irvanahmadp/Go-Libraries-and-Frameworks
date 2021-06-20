@@ -1,0 +1,16 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/onatm/clockwerk",
+		"https://api.github.com/repos/whiteShtef/clockwork",
+		"https://api.github.com/repos/krayzpipes/cronticker",
+		"https://api.github.com/repos/rk/go-cron",
+		"https://api.github.com/repos/reugn/go-quartz",
+		"https://api.github.com/repos/go-co-op/gocron",
+		"https://api.github.com/repos/roylee0704/gron",
+		"https://api.github.com/repos/bamzi/jobrunner",
+		"https://api.github.com/repos/albrow/jobs",
+		"https://api.github.com/repos/kilgaloon/leprechaun",
+		"https://api.github.com/repos/carlescere/scheduler",
+		"https://api.github.com/repos/madflojo/tasks"
+	]
+}

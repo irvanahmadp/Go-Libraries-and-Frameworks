@@ -1,0 +1,13 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/hishamkaram/geoserver",
+		"https://api.github.com/repos/hishamkaram/gismanager",
+		"https://api.github.com/repos/consbio/mbtileserver",
+		"https://api.github.com/repos/paulmach/osm",
+		"https://api.github.com/repos/maguro/pbf",
+		"https://api.github.com/repos/pantrif/s2-geojson",
+		"https://api.github.com/repos/golang/geo",
+		"https://api.github.com/repos/tidwall/tile38",
+		"https://api.github.com/repos/wroge/wgs84"
+	]
+}

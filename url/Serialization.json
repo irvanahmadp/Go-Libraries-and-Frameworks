@@ -1,0 +1,25 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/PromonLogicalis/asn1",
+		"https://api.github.com/repos/glycerine/bambam",
+		"https://api.github.com/repos/32leaves/bel",
+		"https://api.github.com/repos/ghostiam/binstruct",
+		"https://api.github.com/repos/fxamacker/cbor",
+		"https://api.github.com/repos/pascaldekloe/colfer",
+		"https://api.github.com/repos/jszwec/csvutil",
+		"https://api.github.com/repos/epiclabs-io/elastic",
+		"https://api.github.com/repos/huydang284/fixedwidth",
+		"https://api.github.com/repos/o1egl/fwencoder",
+		"https://api.github.com/repos/glycerine/go-capnproto",
+		"https://api.github.com/repos/ugorji/go",
+		"https://api.github.com/repos/sbourlon/go-lctree",
+		"https://api.github.com/repos/gogo/protobuf",
+		"https://api.github.com/repos/golang/protobuf",
+		"https://api.github.com/repos/json-iterator/go",
+		"https://api.github.com/repos/mitchellh/mapstructure",
+		"https://api.github.com/repos/yvasiyarov/php_session_decoder",
+		"https://api.github.com/repos/vimeda/pletter",
+		"https://api.github.com/repos/tuvistavie/structomap",
+		"https://api.github.com/repos/recolude/unitpacking"
+	]
+}

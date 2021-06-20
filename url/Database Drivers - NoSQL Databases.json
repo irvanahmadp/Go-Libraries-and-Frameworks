@@ -1,0 +1,30 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/aerospike/aerospike-client-go",
+		"https://api.github.com/repos/solher/arangolite",
+		"https://api.github.com/repos/viant/asc",
+		"https://api.github.com/repos/couchbase/goforestdb",
+		"https://api.github.com/repos/couchbase/go-couchbase",
+		"https://api.github.com/repos/pilosa/go-pilosa",
+		"https://api.github.com/repos/nitishm/go-rejson",
+		"https://api.github.com/repos/couchbase/gocb",
+		"https://api.github.com/repos/btnguyen2k/gocosmos",
+		"https://api.github.com/repos/gocql/gocql",
+		"https://api.github.com/repos/piaohao/godis",
+		"https://api.github.com/repos/defcronyke/godscache",
+		"https://api.github.com/repos/bradfitz/gomemcache",
+		"https://api.github.com/repos/dancannon/gorethink",
+		"https://api.github.com/repos/zegl/goriak",
+		"https://api.github.com/repos/kamva/mgm",
+		"https://api.github.com/repos/globalsign/mgo",
+		"https://api.github.com/repos/mongodb/mongo-go-driver",
+		"https://api.github.com/repos/cihangir/neo4j",
+		"https://api.github.com/repos/davemeehan/Neo4j-GO",
+		"https://api.github.com/repos/jmcvetta/neoism",
+		"https://api.github.com/repos/qiniu/qmgo",
+		"https://api.github.com/repos/bsm/redeo",
+		"https://api.github.com/repos/gomodule/redigo",
+		"https://api.github.com/repos/go-redis/redis",
+		"https://api.github.com/repos/shomali11/xredis"
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/justinas/alice",
+		"https://api.github.com/repos/codemodus/catena",
+		"https://api.github.com/repos/codemodus/chain",
+		"https://api.github.com/repos/go-on/wrap",
+		"https://api.github.com/repos/alioygur/gores",
+		"https://api.github.com/repos/carbocation/interpose",
+		"https://api.github.com/repos/HereMobilityDevelopers/mediary",
+		"https://api.github.com/repos/stephens2424/muxchain",
+		"https://api.github.com/repos/urfave/negroni",
+		"https://api.github.com/repos/unrolled/render",
+		"https://api.github.com/repos/thedevsaddam/renderer",
+		"https://api.github.com/repos/InVisionApp/rye",
+		"https://api.github.com/repos/thoas/stats"
+	]
+}

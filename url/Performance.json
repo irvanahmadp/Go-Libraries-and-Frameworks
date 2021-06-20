@@ -1,0 +1,9 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/jaegertracing/jaeger",
+		"https://api.github.com/repos/pixie-labs/pixie",
+		"https://api.github.com/repos/pkg/profile",
+		"https://api.github.com/repos/arl/statsviz",
+		"https://api.github.com/repos/kamilsk/tracer"
+	]
+}

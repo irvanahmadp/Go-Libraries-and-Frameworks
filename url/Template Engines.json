@@ -1,0 +1,26 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/yosssi/ace",
+		"https://api.github.com/repos/eknkc/amber",
+		"https://api.github.com/repos/dskinner/damsel",
+		"https://api.github.com/repos/benbjohnson/ego",
+		"https://api.github.com/repos/dannyvankooten/extemplate",
+		"https://api.github.com/repos/valyala/fasttemplate",
+		"https://api.github.com/repos/jung-kurt/gofpdf",
+		"https://api.github.com/repos/m1/gospin",
+		"https://api.github.com/repos/foolin/goview",
+		"https://api.github.com/repos/shiyanhui/hero",
+		"https://api.github.com/repos/CloudyKit/jet",
+		"https://api.github.com/repos/ziutek/kasia.go",
+		"https://api.github.com/repos/osteele/liquid",
+		"https://api.github.com/repos/johnfercher/maroto",
+		"https://api.github.com/repos/hoisie/mustache",
+		"https://api.github.com/repos/flosch/pongo2",
+		"https://api.github.com/repos/valyala/quicktemplate",
+		"https://api.github.com/repos/aymerick/raymond",
+		"https://api.github.com/repos/sipin/gorazor",
+		"https://api.github.com/repos/robfig/soy",
+		"https://api.github.com/repos/Masterminds/sprig",
+		"https://api.github.com/repos/gobuffalo/velvet"
+	]
+}

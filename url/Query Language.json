@@ -1,0 +1,18 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/ccbrown/api-fu",
+		"https://api.github.com/repos/tomwright/dasel",
+		"https://api.github.com/repos/thedevsaddam/gojsonq",
+		"https://api.github.com/repos/99designs/gqlgen",
+		"https://api.github.com/repos/tmc/graphql",
+		"https://api.github.com/repos/neelance/graphql-go",
+		"https://api.github.com/repos/graphql-go/graphql",
+		"https://api.github.com/repos/Zaba505/gws",
+		"https://api.github.com/repos/AsaiYusuke/jsonpath",
+		"https://api.github.com/repos/elgs/jsonql",
+		"https://api.github.com/repos/bhmj/jsonslice",
+		"https://api.github.com/repos/a8m/rql",
+		"https://api.github.com/repos/timsolov/rest-query-parser",
+		"https://api.github.com/repos/SonicRoshan/straf"
+	]
+}

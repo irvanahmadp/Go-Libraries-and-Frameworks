@@ -1,0 +1,11 @@
+{
+  "URLs": [
+    "https://api.github.com/repos/dawidd6/go-appindicator",
+    "https://api.github.com/repos/deckarep/gosx-notifier",
+    "https://api.github.com/repos/prashantgupta24/activity-tracker",
+    "https://api.github.com/repos/prashantgupta24/mac-sleep-notifier",
+    "https://api.github.com/repos/go-vgo/robotgo",
+    "https://api.github.com/repos/getlantern/systray",
+    "https://api.github.com/repos/shurcooL/trayhost"
+  ]
+}

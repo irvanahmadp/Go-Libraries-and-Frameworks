@@ -1,0 +1,20 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/Vertamedia/chproxy",
+		"https://api.github.com/repos/nikepan/clickhouse-bulk",
+		"https://api.github.com/repos/codingconcepts/datagen",
+		"https://api.github.com/repos/sj14/dbbench",
+		"https://api.github.com/repos/siddontang/go-mysql",
+		"https://api.github.com/repos/siddontang/go-mysql-elasticsearch",
+		"https://api.github.com/repos/flike/kingshard",
+		"https://api.github.com/repos/2tvenom/myreplication",
+		"https://api.github.com/repos/knocknote/octillery",
+		"https://api.github.com/repos/github/orchestrator",
+		"https://api.github.com/repos/cybertec-postgresql/pg_timetable",
+		"https://api.github.com/repos/sosedoff/pgweb",
+		"https://api.github.com/repos/hexdigest/prep",
+		"https://api.github.com/repos/prest/prest",
+		"https://api.github.com/repos/andizzle/rwdb",
+		"https://api.github.com/repos/youtube/vitess"
+	]
+}

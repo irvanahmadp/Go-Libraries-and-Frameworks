@@ -1,0 +1,16 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/leaanthony/debme",
+		"https://api.github.com/repos/mjibson/esc",
+		"https://api.github.com/repos/UnnoTed/fileb0x",
+		"https://api.github.com/repos/omeid/go-resources",
+		"https://api.github.com/repos/GeertJohan/go.rice",
+		"https://api.github.com/repos/wlbr/mule",
+		"https://api.github.com/repos/gobuffalo/packr",
+		"https://api.github.com/repos/soypat/rebed",
+		"https://api.github.com/repos/go-playground/statics",
+		"https://api.github.com/repos/rakyll/statik",
+		"https://api.github.com/repos/wlbr/templify",
+		"https://api.github.com/repos/shurcooL/vfsgen"
+	]
+}

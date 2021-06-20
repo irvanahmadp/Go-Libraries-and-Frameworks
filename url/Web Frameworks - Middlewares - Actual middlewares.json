@@ -1,0 +1,13 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/posener/client-timing",
+		"https://api.github.com/repos/rs/cors",
+		"https://api.github.com/repos/rs/formjson",
+		"https://api.github.com/repos/github/go-fault",
+		"https://api.github.com/repos/mitchellh/go-server-timing",
+		"https://api.github.com/repos/ulule/limiter",
+		"https://api.github.com/repos/philippgille/ln-paywall",
+		"https://api.github.com/repos/didip/tollbooth",
+		"https://api.github.com/repos/sebest/xff"
+	]
+}

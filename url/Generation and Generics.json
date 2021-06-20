@@ -1,0 +1,17 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/t0pep0/efaceconv",
+		"https://api.github.com/repos/clipperhouse/gen",
+		"https://api.github.com/repos/senselogic/GENERIS",
+		"https://api.github.com/repos/abice/go-enum",
+		"https://api.github.com/repos/ahmetalpbalkan/go-linq",
+		"https://api.github.com/repos/pieterclaerhout/go-xray",
+		"https://api.github.com/repos/awalterschulze/goderive",
+		"https://api.github.com/repos/wzshiming/gotype",
+		"https://api.github.com/repos/hexdigest/gowrap",
+		"https://api.github.com/repos/rjeczalik/interfaces",
+		"https://api.github.com/repos/dave/jennifer",
+		"https://api.github.com/repos/ungerik/pkgreflect",
+		"https://api.github.com/repos/xiaoxin01/typeregistry"
+	]
+}

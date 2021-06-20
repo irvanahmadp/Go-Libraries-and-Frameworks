@@ -1,0 +1,20 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/leekchan/accounting",
+		"https://api.github.com/repos/bojanz/currency",
+		"https://api.github.com/repos/bnkamalesh/currency",
+		"https://api.github.com/repos/shopspring/decimal",
+		"https://api.github.com/repos/newity/fastme",
+		"https://api.github.com/repos/FlashBoys/go-finance",
+		"https://api.github.com/repos/alpeb/go-finance",
+		"https://api.github.com/repos/pieterclaerhout/go-finance",
+		"https://api.github.com/repos/m1/go-finnhub",
+		"https://api.github.com/repos/rhymond/go-money",
+		"https://api.github.com/repos/aclindsa/ofxgo",
+		"https://api.github.com/repos/i25959341/orderbook",
+		"https://api.github.com/repos/BoltApp/sleet",
+		"https://api.github.com/repos/sdcoffey/techan",
+		"https://api.github.com/repos/claygod/transaction",
+		"https://api.github.com/repos/dannyvankooten/vat"
+	]
+}

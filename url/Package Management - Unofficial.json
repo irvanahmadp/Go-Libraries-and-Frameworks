@@ -1,0 +1,17 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/Masterminds/glide",
+		"https://api.github.com/repos/tools/godep",
+		"https://api.github.com/repos/mattn/gom",
+		"https://api.github.com/repos/nitrous-io/goop",
+		"https://api.github.com/repos/lunny/gop",
+		"https://api.github.com/repos/gpmgo/gopm",
+		"https://api.github.com/repos/kardianos/govendor",
+		"https://api.github.com/repos/pote/gpm",
+		"https://api.github.com/repos/VividCortex/johnny-deps",
+		"https://api.github.com/repos/lucasepe/modgv",
+		"https://api.github.com/repos/raydac/mvn-golang",
+		"https://api.github.com/repos/jingweno/nut",
+		"https://api.github.com/repos/DamnWidget/VenGO"
+	]
+}

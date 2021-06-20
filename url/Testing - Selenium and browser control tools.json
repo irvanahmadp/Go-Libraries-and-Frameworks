@@ -1,0 +1,10 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/mafredri/cdp",
+		"https://api.github.com/repos/knq/chromedp",
+		"https://api.github.com/repos/aerokube/ggr",
+		"https://api.github.com/repos/mxschmitt/playwright-go",
+		"https://api.github.com/repos/go-rod/rod",
+		"https://api.github.com/repos/aerokube/selenoid"
+	]
+}

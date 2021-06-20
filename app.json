@@ -1,0 +1,418 @@
+{
+	"last_update": 1624156156,
+	"rate_limit": 60,
+	"rate_limit_remaining": 0,
+	"rate_limit_reset": 1624159731,
+	"categories": [
+		{
+			"name": "Audio and Music",
+			"description": "Libraries for manipulating audio.",
+			"last_update": 1624156131
+		},
+		{
+			"name": "Authentication and OAuth",
+			"description": "Libraries for implementing authentications schemes.",
+			"last_update": 1624156137
+		},
+		{
+			"name": "Bot Building",
+			"description": "Libraries for building and working with bots.",
+			"last_update": 0
+		},
+		{
+			"name": "Build Automation",
+			"description": "Libraries and tools helping with build automation.",
+			"last_update": 1624156150
+		},
+		{
+			"name": "CSS Preprocessors",
+			"description": "Libraries for preprocessing CSS files.",
+			"last_update": 1624156155
+		},
+		{
+			"name": "Command Line - Advanced Console UIs",
+			"description": "Libraries for building Console Applications and Console User Interfaces.",
+			"last_update": 0
+		},
+		{
+			"name": "Command Line - Standard CLI",
+			"description": "Libraries for building standard or basic Command Line applications.",
+			"last_update": 0
+		},
+		{
+			"name": "Configuration",
+			"description": "Libraries for configuration parsing.",
+			"last_update": 0
+		},
+		{
+			"name": "Continuous Integration",
+			"description": "Tools for help with continuous integration.",
+			"last_update": 0
+		},
+		{
+			"name": "Data Structures",
+			"description": "Generic datastructures and algorithms in Go.",
+			"last_update": 0
+		},
+		{
+			"name": "Database - Database schema migration",
+			"description": "",
+			"last_update": 0
+		},
+		{
+			"name": "Database - Database tools",
+			"description": "",
+			"last_update": 0
+		},
+		{
+			"name": "Database - Databases implemented in Go",
+			"description": "",
+			"last_update": 0
+		},
+		{
+			"name": "Database - SQL query builder",
+			"description": "libraries for building and using SQL",
+			"last_update": 0
+		},
+		{
+			"name": "Database Drivers - Multiple Backends.",
+			"description": "",
+			"last_update": 1
+		},
+		{
+			"name": "Database Drivers - NoSQL Databases",
+			"description": "",
+			"last_update": 0
+		},
+		{
+			"name": "Database Drivers - Relational Databases",
+			"description": "",
+			"last_update": 0
+		},
+		{
+			"name": "Database Drivers - Search and Analytic Databases",
+			"description": "",
+			"last_update": 0
+		},
+		{
+			"name": "Date and Time",
+			"description": "Libraries for working with dates and times.",
+			"last_update": 0
+		},
+		{
+			"name": "Distributed Systems",
+			"description": "Packages that help with building Distributed Systems.",
+			"last_update": 0
+		},
+		{
+			"name": "Dynamic DNS",
+			"description": "Tools for updating dynamic DNS records.",
+			"last_update": 1624156155
+		},
+		{
+			"name": "Email",
+			"description": "Libraries and tools that implement email creation and sending.",
+			"last_update": 0
+		},
+		{
+			"name": "Embeddable Scripting Languages",
+			"description": "Embedding other languages inside your go code.",
+			"last_update": 0
+		},
+		{
+			"name": "Error Handling",
+			"description": "Libraries for handling errors.",
+			"last_update": 0
+		},
+		{
+			"name": "File Handling",
+			"description": "Libraries for handling files and file systems.",
+			"last_update": 0
+		},
+		{
+			"name": "Financial",
+			"description": "Packages for accounting and finance.",
+			"last_update": 0
+		},
+		{
+			"name": "Forms",
+			"description": "Libraries for working with forms.",
+			"last_update": 0
+		},
+		{
+			"name": "Functional",
+			"description": "Packages to support functional programming in Go.",
+			"last_update": 0
+		},
+		{
+			"name": "Game Development",
+			"description": "Awesome game development libraries.",
+			"last_update": 0
+		},
+		{
+			"name": "Generation and Generics",
+			"description": "Tools to enhance the language with features like generics via code generation.",
+			"last_update": 0
+		},
+		{
+			"name": "Geographic",
+			"description": "Geographic tools and servers",
+			"last_update": 0
+		},
+		{
+			"name": "Go Compilers",
+			"description": "Tools for compiling Go to other languages.",
+			"last_update": 0
+		},
+		{
+			"name": "Goroutines",
+			"description": "Tools for managing and working with Goroutines.",
+			"last_update": 0
+		},
+		{
+			"name": "Images",
+			"description": "Libraries for manipulating images.",
+			"last_update": 0
+		},
+		{
+			"name": "IoT (Internet of Things)",
+			"description": "Libraries for programming devices of the IoT.",
+			"last_update": 0
+		},
+		{
+			"name": "JSON",
+			"description": "Libraries for working with JSON.",
+			"last_update": 0
+		},
+		{
+			"name": "Job Scheduler",
+			"description": "Libraries for scheduling jobs.",
+			"last_update": 0
+		},
+		{
+			"name": "Logging",
+			"description": "Libraries for generating and working with log files.",
+			"last_update": 0
+		},
+		{
+			"name": "Machine Learning",
+			"description": "Libraries for Machine Learning.",
+			"last_update": 0
+		},
+		{
+			"name": "Messaging",
+			"description": "Libraries that implement messaging systems.",
+			"last_update": 0
+		},
+		{
+			"name": "Microsoft Office",
+			"description": "",
+			"last_update": 0
+		},
+		{
+			"name": "Microsoft Office - Microsoft Excel",
+			"description": "Libraries for working with Microsoft Excel.",
+			"last_update": 0
+		},
+		{
+			"name": "Miscellaneous - Dependency Injection",
+			"description": "Libraries for working with dependency injection.",
+			"last_update": 0
+		},
+		{
+			"name": "Miscellaneous - Project Layout",
+			"description": "Unofficial set of patterns for structuring projects.",
+			"last_update": 0
+		},
+		{
+			"name": "Miscellaneous - Strings",
+			"description": "Libraries for working with strings.",
+			"last_update": 0
+		},
+		{
+			"name": "Miscellaneous - Uncategorized",
+			"description": "These libraries were placed here because none of the other categories seemed to fit.",
+			"last_update": 0
+		},
+		{
+			"name": "Natural Language Processing",
+			"description": "Libraries for working with human languages.",
+			"last_update": 0
+		},
+		{
+			"name": "Networking",
+			"description": "Libraries for working with various layers of the network.",
+			"last_update": 0
+		},
+		{
+			"name": "Networking - HTTP Clients",
+			"description": "Libraries for making HTTP requests.",
+			"last_update": 0
+		},
+		{
+			"name": "ORM",
+			"description": "Libraries that implement Object-Relational Mapping or datamapping techniques.",
+			"last_update": 0
+		},
+		{
+			"name": "OpenGL",
+			"description": "Libraries for using OpenGL in Go.",
+			"last_update": 0
+		},
+		{
+			"name": "Package Management - Official",
+			"description": "Official experimental tooling for package management",
+			"last_update": 0
+		},
+		{
+			"name": "Package Management - Unofficial",
+			"description": "Unofficial libraries for package and dependency management",
+			"last_update": 0
+		},
+		{
+			"name": "Performance",
+			"description": "",
+			"last_update": 0
+		},
+		{
+			"name": "Query Language",
+			"description": "",
+			"last_update": 0
+		},
+		{
+			"name": "Resource Embedding",
+			"description": "",
+			"last_update": 0
+		},
+		{
+			"name": "Science and Data Analysis",
+			"description": "Libraries for scientific computing and data analyzing.",
+			"last_update": 0
+		},
+		{
+			"name": "Security",
+			"description": "Libraries that are used to help make your application more secure.",
+			"last_update": 0
+		},
+		{
+			"name": "Serialization",
+			"description": "Libraries and tools for binary serialization.",
+			"last_update": 0
+		},
+		{
+			"name": "Server Applications",
+			"description": "",
+			"last_update": 0
+		},
+		{
+			"name": "Stream Processing",
+			"description": "Libraries and tools for stream processing and reactive programming.",
+			"last_update": 0
+		},
+		{
+			"name": "Template Engines",
+			"description": "Libraries and tools for templating and lexing.",
+			"last_update": 0
+		},
+		{
+			"name": "Testing - Fail injection",
+			"description": "",
+			"last_update": 0
+		},
+		{
+			"name": "Testing - Fuzzing and delta-debugging, reducing, shrinking",
+			"description": "",
+			"last_update": 0
+		},
+		{
+			"name": "Testing - Mock",
+			"description": "",
+			"last_update": 0
+		},
+		{
+			"name": "Testing - Selenium and browser control tools",
+			"description": "",
+			"last_update": 0
+		},
+		{
+			"name": "Testing - Testing Frameworks",
+			"description": "",
+			"last_update": 0
+		},
+		{
+			"name": "Text Processing - Specific Formats",
+			"description": "",
+			"last_update": 0
+		},
+		{
+			"name": "Text Processing - Utility",
+			"description": "",
+			"last_update": 0
+		},
+		{
+			"name": "Third-party APIs",
+			"description": "Libraries for accessing third party APIs.",
+			"last_update": 0
+		},
+		{
+			"name": "UUID",
+			"description": "Libraries for working with UUIDs.",
+			"last_update": 0
+		},
+		{
+			"name": "Utilities",
+			"description": "General utilities and tools to make your life easier.",
+			"last_update": 0
+		},
+		{
+			"name": "Validation",
+			"description": "Libraries for validation.",
+			"last_update": 0
+		},
+		{
+			"name": "Version Control",
+			"description": "Libraries for version control.",
+			"last_update": 0
+		},
+		{
+			"name": "Video",
+			"description": "Libraries for manipulating video.",
+			"last_update": 0
+		},
+		{
+			"name": "Web Frameworks",
+			"description": "Full stack web frameworks.",
+			"last_update": 0
+		},
+		{
+			"name": "Web Frameworks - Middlewares - Actual middlewares",
+			"description": "",
+			"last_update": 0
+		},
+		{
+			"name": "Web Frameworks - Middlewares - Libraries for creating HTTP middlewares",
+			"description": "",
+			"last_update": 0
+		},
+		{
+			"name": "Web Frameworks - Routers",
+			"description": "",
+			"last_update": 0
+		},
+		{
+			"name": "WebAssembly",
+			"description": "",
+			"last_update": 0
+		},
+		{
+			"name": "Windows",
+			"description": "",
+			"last_update": 0
+		},
+		{
+			"name": "XML",
+			"description": "Libraries and tools for manipulating XML.",
+			"last_update": 0
+		}
+	]
+}

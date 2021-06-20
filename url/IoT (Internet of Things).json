@@ -1,0 +1,15 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/connectordb/connectordb",
+		"https://api.github.com/repos/goiot/devices",
+		"https://api.github.com/repos/xcodersun/eywa",
+		"https://api.github.com/repos/tibcosoftware/flogo",
+		"https://api.github.com/repos/paypal/gatt",
+		"https://api.github.com/repos/hybridgroup/gobot",
+		"https://api.github.com/repos/amimof/huego",
+		"https://api.github.com/repos/vaelen/iot",
+		"https://api.github.com/repos/Mainflux/mainflux",
+		"https://api.github.com/repos/google/periph",
+		"https://api.github.com/repos/sensorbee/sensorbee"
+	]
+}

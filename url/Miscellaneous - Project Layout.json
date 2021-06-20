@@ -1,0 +1,13 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/lacion/cookiecutter-golang",
+		"https://api.github.com/repos/zitryss/go-sample",
+		"https://api.github.com/repos/Fs02/go-todo-backend",
+		"https://api.github.com/repos/wajox/gobase",
+		"https://api.github.com/repos/golang-standards/project-layout",
+		"https://api.github.com/repos/golang-templates/seed",
+		"https://api.github.com/repos/insidieux/inizio",
+		"https://api.github.com/repos/sagikazarmark/modern-go-application",
+		"https://api.github.com/repos/catchplay/scaffold"
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/apache/calcite-avatica-go",
+		"https://api.github.com/repos/viant/bgc",
+		"https://api.github.com/repos/nakagami/firebirdsql",
+		"https://api.github.com/repos/mattn/go-adodb",
+		"https://api.github.com/repos/denisenkom/go-mssqldb",
+		"https://api.github.com/repos/mattn/go-oci8",
+		"https://api.github.com/repos/go-sql-driver/mysql",
+		"https://api.github.com/repos/mattn/go-sqlite3",
+		"https://api.github.com/repos/godror/godror",
+		"https://api.github.com/repos/minus5/gofreetds",
+		"https://api.github.com/repos/jackc/pgx",
+		"https://api.github.com/repos/alexeyco/pig",
+		"https://api.github.com/repos/lib/pq",
+		"https://api.github.com/repos/cvilsmeier/sqinn-go"
+	]
+}

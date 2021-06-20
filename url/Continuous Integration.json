@@ -1,0 +1,11 @@
+{
+	"URLs": [
+		"https://api.github.com/repos/ovh/cds",
+		"https://api.github.com/repos/drone/drone",
+		"https://api.github.com/repos/duck8823/duci",
+		"https://api.github.com/repos/nikogura/gomason",
+		"https://api.github.com/repos/mattn/goveralls",
+		"https://api.github.com/repos/go-playground/overalls",
+		"https://api.github.com/repos/LawrenceWoodman/roveralls"
+	]
+}
