@@ -37,7 +37,7 @@ type ListURL struct {
 	URLs []string `json:"URLs"`
 }
 
-//CategiryData struct
+//CategoryData struct
 type CategoryData struct {
 	Name           string    `json:"name"`
 	IndexLastCheck int       `json:"index_last_check"`
@@ -47,7 +47,7 @@ type CategoryData struct {
 
 //Library struct
 type Library struct {
-	Id          int       `json:"id"`
+	ID          int       `json:"id"`
 	Name        string    `json:"name"`
 	Description string    `json:"description"`
 	RepoURL     string    `json:"html_url"`
@@ -103,7 +103,11 @@ func getNowUnixTime() int64 {
 
 func getReadmeMD(categories []Category) []byte {
 	header := "# Go Libraries and Frameworks\n"
-	header += "[![License](https://img.shields.io/github/license/IrvanAhmadP/Go-Libraries-and-Frameworks)](https://img.shields.io/github/license/IrvanAhmadP/Go-Libraries-and-Frameworks)\n\n"
+
+	//header += "[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) "
+	header += "![Issues](https://img.shields.io/github/issues/IrvanAhmadP/Go-Libraries-and-Frameworks) "
+	header += "![License](https://img.shields.io/github/license/IrvanAhmadP/Go-Libraries-and-Frameworks)\n\n"
+
 	header += "List of Go frameworks, libraries and software inspired by [go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars).\n\n"
 	header += "List of frameworks and libraries from [awesome-go](https://github.com/avelino/awesome-go).\n\n"
 	readme := header
@@ -215,7 +219,7 @@ func updateCategoryDataFile(categories []Category, appData *App) {
 
 					updateOldData := false
 					for indexRepository, repositoryCheck := range repositories {
-						if repositoryCheck.Id == repository.Id {
+						if repositoryCheck.ID == repository.ID {
 							repositories[indexRepository] = repository
 							updateOldData = true
 							break
