@@ -102,7 +102,8 @@ func getNowUnixTime() int64 {
 }
 
 func getReadmeMD(categories []Category) []byte {
-	header := "# Go Libraries\n"
+	header := "# Go Libraries and Frameworks\n"
+	header += "[![License](https://img.shields.io/github/license/IrvanAhmadP/Go-Libraries-and-Frameworks)](https://img.shields.io/github/license/IrvanAhmadP/Go-Libraries-and-Frameworks)\n\n"
 	header += "List of Go frameworks, libraries and software inspired by [go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars).\n\n"
 	header += "List of frameworks and libraries from [awesome-go](https://github.com/avelino/awesome-go).\n\n"
 	readme := header
