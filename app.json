@@ -1,8 +1,8 @@
 {
-	"last_update": 1624240103,
+	"last_update": 1624249696,
 	"rate_limit": 60,
 	"rate_limit_remaining": 0,
-	"rate_limit_reset": 1624243679,
+	"rate_limit_reset": 1624253275,
 	"categories": [
 		{
 			"name": "Audio and Music",
@@ -317,7 +317,7 @@
 		{
 			"name": "Testing - Fail injection",
 			"description": "",
-			"last_update": 0
+			"last_update": 1624249675
 		},
 		{
 			"name": "Testing - Fuzzing and delta-debugging, reducing, shrinking",
@@ -357,7 +357,7 @@
 		{
 			"name": "UUID",
 			"description": "Libraries for working with UUIDs.",
-			"last_update": 0
+			"last_update": 1624249692
 		},
 		{
 			"name": "Utilities",
@@ -382,7 +382,7 @@
 		{
 			"name": "Web Frameworks",
 			"description": "Full stack web frameworks.",
-			"last_update": 0
+			"last_update": 1624249676
 		},
 		{
 			"name": "Web Frameworks - Middlewares - Actual middlewares",
