@@ -92,7 +92,7 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 ## Audio and Music
 Libraries for manipulating audio.
 
-*Last Update: 2021-06-21 11:28:16*
+*Last Update: 2021-06-21 12:25:01*
 
 <details>
   <summary>Show Table</summary>
@@ -118,7 +118,7 @@ Libraries for manipulating audio.
 ## Authentication and OAuth
 Libraries for implementing authentications schemes.
 
-*Last Update: 2021-06-21 11:28:16*
+*Last Update: 2021-06-21 12:25:01*
 
 <details>
   <summary>Show Table</summary>
@@ -162,7 +162,7 @@ Libraries for implementing authentications schemes.
 ## Bot Building
 Libraries for building and working with bots.
 
-*Last Update: 2021-06-21 11:28:16*
+*Last Update: 2021-06-21 12:25:01*
 
 <details>
   <summary>Show Table</summary>
@@ -195,7 +195,7 @@ Libraries for building and working with bots.
 ## Build Automation
 Libraries and tools helping with build automation.
 
-*Last Update: 2021-06-21 11:28:16*
+*Last Update: 2021-06-21 12:25:01*
 
 <details>
   <summary>Show Table</summary>
@@ -216,7 +216,7 @@ Libraries and tools helping with build automation.
 ## CSS Preprocessors
 Libraries for preprocessing CSS files.
 
-*Last Update: 2021-06-21 11:28:16*
+*Last Update: 2021-06-21 12:25:01*
 
 <details>
   <summary>Show Table</summary>
@@ -230,7 +230,7 @@ Libraries for preprocessing CSS files.
 ## Command Line - Advanced Console UIs
 Libraries for building Console Applications and Console User Interfaces.
 
-*Last Update: 2021-06-21 11:28:16*
+*Last Update: 2021-06-21 12:25:01*
 
 <details>
   <summary>Show Table</summary>
@@ -273,7 +273,7 @@ Libraries for building Console Applications and Console User Interfaces.
 ## Command Line - Standard CLI
 Libraries for building standard or basic Command Line applications.
 
-*Last Update: 2021-06-21 11:28:16*
+*Last Update: 2021-06-21 12:25:01*
 
 <details>
   <summary>Show Table</summary>
@@ -291,7 +291,7 @@ Libraries for building standard or basic Command Line applications.
 ## Continuous Integration
 Tools for help with continuous integration.
 
-*Last Update: 2021-06-21 11:28:16*
+*Last Update: 2021-06-21 12:25:01*
 
 <details>
   <summary>Show Table</summary>
@@ -310,7 +310,7 @@ Tools for help with continuous integration.
 ## Dynamic DNS
 Tools for updating dynamic DNS records.
 
-*Last Update: 2021-06-21 11:28:16*
+*Last Update: 2021-06-21 12:25:01*
 
 <details>
   <summary>Show Table</summary>
@@ -324,7 +324,7 @@ Tools for updating dynamic DNS records.
 ## Microsoft Office
 
 
-*Last Update: 2021-06-21 11:28:16*
+*Last Update: 2021-06-21 12:25:01*
 
 <details>
   <summary>Show Table</summary>
@@ -337,7 +337,7 @@ Tools for updating dynamic DNS records.
 ## Package Management - Official
 Official experimental tooling for package management
 
-*Last Update: 2021-06-21 11:28:16*
+*Last Update: 2021-06-21 12:25:01*
 
 <details>
   <summary>Show Table</summary>
@@ -350,7 +350,7 @@ Official experimental tooling for package management
 ## Template Engines
 Libraries and tools for templating and lexing.
 
-*Last Update: 2021-06-21 11:28:16*
+*Last Update: 2021-06-21 12:25:01*
 
 <details>
   <summary>Show Table</summary>
@@ -384,7 +384,7 @@ Libraries and tools for templating and lexing.
 ## Testing - Fail injection
 
 
-*Last Update: 2021-06-21 11:28:16*
+*Last Update: 2021-06-21 12:25:01*
 
 <details>
   <summary>Show Table</summary>
@@ -397,7 +397,7 @@ Libraries and tools for templating and lexing.
 ## UUID
 Libraries for working with UUIDs.
 
-*Last Update: 2021-06-21 11:28:16*
+*Last Update: 2021-06-21 12:25:01*
 
 <details>
   <summary>Show Table</summary>
@@ -419,7 +419,7 @@ Libraries for working with UUIDs.
 ## Validation
 Libraries for validation.
 
-*Last Update: 2021-06-21 11:28:16*
+*Last Update: 2021-06-21 12:25:01*
 
 <details>
   <summary>Show Table</summary>
@@ -442,7 +442,7 @@ Libraries for validation.
 ## Version Control
 Libraries for version control.
 
-*Last Update: 2021-06-21 11:28:16*
+*Last Update: 2021-06-21 12:25:01*
 
 <details>
   <summary>Show Table</summary>
@@ -460,7 +460,7 @@ Libraries for version control.
 ## Video
 Libraries for manipulating video.
 
-*Last Update: 2021-06-21 11:28:16*
+*Last Update: 2021-06-21 12:25:01*
 
 <details>
   <summary>Show Table</summary>
@@ -483,7 +483,7 @@ Libraries for manipulating video.
 ## Web Frameworks
 Full stack web frameworks.
 
-*Last Update: 2021-06-21 11:28:16*
+*Last Update: 2021-06-21 12:25:01*
 
 <details>
   <summary>Show Table</summary>
@@ -541,7 +541,7 @@ Full stack web frameworks.
 ## Web Frameworks - Middlewares - Actual middlewares
 
 
-*Last Update: 2021-06-21 11:28:16*
+*Last Update: 2021-06-21 12:25:01*
 
 <details>
   <summary>Show Table</summary>
@@ -562,7 +562,7 @@ Full stack web frameworks.
 ## Web Frameworks - Middlewares - Libraries for creating HTTP middlewares
 
 
-*Last Update: 2021-06-21 11:28:16*
+*Last Update: 2021-06-21 12:25:01*
 
 <details>
   <summary>Show Table</summary>
@@ -587,7 +587,7 @@ Full stack web frameworks.
 ## Web Frameworks - Routers
 
 
-*Last Update: 2021-06-21 11:28:16*
+*Last Update: 2021-06-21 12:25:01*
 
 <details>
   <summary>Show Table</summary>
@@ -622,7 +622,7 @@ Full stack web frameworks.
 ## WebAssembly
 
 
-*Last Update: 2021-06-21 11:28:16*
+*Last Update: 2021-06-21 12:25:01*
 
 <details>
   <summary>Show Table</summary>
@@ -640,7 +640,7 @@ Full stack web frameworks.
 ## Windows
 
 
-*Last Update: 2021-06-21 11:28:16*
+*Last Update: 2021-06-21 12:25:01*
 
 <details>
   <summary>Show Table</summary>
@@ -655,7 +655,7 @@ Full stack web frameworks.
 ## XML
 Libraries and tools for manipulating XML.
 
-*Last Update: 2021-06-21 11:28:16*
+*Last Update: 2021-06-21 12:25:01*
 
 <details>
   <summary>Show Table</summary>
