@@ -97,6 +97,10 @@ func getNowString() string {
 	return time.Now().Format("2006-01-02 15:04:05")
 }
 
+func getStringFromUnixTime(unixtime int64) string {
+	return time.Unix(unixtime, 0).Format("2006-01-02 15:04:05")
+}
+
 func getNowUnixTime() int64 {
 	return time.Now().Unix()
 }
@@ -115,6 +119,8 @@ func getReadmeMD(categories []Category) []byte {
 	readme += "### Contents\n"
 	for _, category := range categories {
 		categoryURL := strings.ReplaceAll(category.Name, " ", "-")
+		categoryURL = strings.ReplaceAll(categoryURL, "(", "")
+		categoryURL = strings.ReplaceAll(categoryURL, ")", "")
 		categoryURL = "#" + strings.ToLower(categoryURL)
 		readme += "* [" + category.Name + "](" + categoryURL + ")\n"
 	}
@@ -133,7 +139,7 @@ func getReadmeMD(categories []Category) []byte {
 				fmt.Println(err)
 			}
 
-			categoryContent := getCategoryMD(category.Name, category.Description, categoryData.Libraries)
+			categoryContent := getCategoryMD(category.Name, category.Description, categoryData.LastUpdate, categoryData.Libraries)
 			readme += categoryContent + "\n\n"
 		}
 	}
@@ -269,11 +275,11 @@ func saveCategoryDataJSON(categoryData CategoryData, categoryDataFileName string
 	saveFile("data", categoryDataFileName, categoryDataJSON)
 }
 
-func getCategoryMD(name string, description string, libraries []Library) string {
+func getCategoryMD(name string, description string, lastUpdate int64, libraries []Library) string {
 	headerTable := `## %s
 %s
 
-*Last Update: ` + getNowString() + `*
+*Last Update: %s*
 
 <details>
   <summary>Show Table</summary>
@@ -281,8 +287,10 @@ func getCategoryMD(name string, description string, libraries []Library) string 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |`
 
+	lastUpdateString := getStringFromUnixTime(lastUpdate)
+	table := fmt.Sprintf(headerTable, lastUpdateString, name, description)
+
 	contentTable := "\n| [%s](%s) | %d | %d | %d | %s | %s | %s |"
-	table := fmt.Sprintf(headerTable, name, description)
 	for _, library := range libraries {
 		repoURL := library.HomePageURL
 		if library.HomePageURL == "" {
