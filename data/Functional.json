@@ -1,0 +1,63 @@
+{
+	"name": "Functional",
+	"index_last_check": 0,
+	"last_update": 1624267525,
+	"libraries": [
+		{
+			"id": 21420279,
+			"name": "go-underscore",
+			"description": " Helpfully Functional Go -  A useful collection of Go utilities. Designed for programmer happiness. ",
+			"html_url": "https://github.com/tobyhede/go-underscore",
+			"homepage": "",
+			"created_at": "2014-07-02T10:27:16Z",
+			"updated_at": "2021-06-18T03:20:33Z",
+			"svn_url": "https://github.com/tobyhede/go-underscore",
+			"stargazers_count": 1197,
+			"watchers_count": 1197,
+			"forks_count": 65,
+			"open_issues_count": 4
+		},
+		{
+			"id": 134690350,
+			"name": "fpGo",
+			"description": "Monad, Functional Programming features for Golang",
+			"html_url": "https://github.com/TeaEntityLab/fpGo",
+			"homepage": "",
+			"created_at": "2018-05-24T09:08:45Z",
+			"updated_at": "2021-06-15T09:03:59Z",
+			"svn_url": "https://github.com/TeaEntityLab/fpGo",
+			"stargazers_count": 179,
+			"watchers_count": 179,
+			"forks_count": 12,
+			"open_issues_count": 0
+		},
+		{
+			"id": 156291371,
+			"name": "fuego",
+			"description": "Functional Experiment in Golang",
+			"html_url": "https://github.com/seborama/fuego",
+			"homepage": "",
+			"created_at": "2018-11-05T22:24:09Z",
+			"updated_at": "2021-05-29T06:02:07Z",
+			"svn_url": "https://github.com/seborama/fuego",
+			"stargazers_count": 91,
+			"watchers_count": 91,
+			"forks_count": 8,
+			"open_issues_count": 0
+		},
+		{
+			"id": 340210292,
+			"name": "gofp",
+			"description": "A super simple Lodash like utility library with essential functions that empowers the development in Go",
+			"html_url": "https://github.com/rbrahul/gofp",
+			"homepage": "",
+			"created_at": "2021-02-19T00:01:39Z",
+			"updated_at": "2021-06-14T20:02:58Z",
+			"svn_url": "https://github.com/rbrahul/gofp",
+			"stargazers_count": 74,
+			"watchers_count": 74,
+			"forks_count": 3,
+			"open_issues_count": 0
+		}
+	]
+}
