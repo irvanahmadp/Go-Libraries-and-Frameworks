@@ -248,12 +248,6 @@ func updateCategoryDataFile(categories []Category, appData *App) {
 
 			categories[indexCategory].LastUpdate = nowUnixTime
 
-		} else if len(urls) > 60 {
-			fmt.Println("category: ", category.Name, " too many libraries ")
-			fmt.Println("libraries: ", len(urls))
-			fmt.Println("RateLimitRemaining: ", appData.RateLimitRemaining)
-			fmt.Println("nowUnixTime: ", nowUnixTime)
-			fmt.Println("RateLimitReset: ", appData.RateLimitReset)
 		} else {
 			fmt.Println("category: ", category.Name, " skip")
 			fmt.Println("libraries: ", len(urls))
