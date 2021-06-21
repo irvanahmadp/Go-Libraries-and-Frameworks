@@ -1,0 +1,21 @@
+{
+	"name": "Testing - Fail injection",
+	"index_last_check": 0,
+	"last_update": 1624240102,
+	"libraries": [
+		{
+			"id": 179026050,
+			"name": "failpoint",
+			"description": "An implementation of failpoints for Golang.",
+			"html_url": "https://github.com/pingcap/failpoint",
+			"homepage": "",
+			"created_at": "2019-04-02T07:48:18Z",
+			"updated_at": "2021-06-07T09:39:43Z",
+			"svn_url": "https://github.com/pingcap/failpoint",
+			"stargazers_count": 588,
+			"watchers_count": 588,
+			"forks_count": 51,
+			"open_issues_count": 10
+		}
+	]
+}

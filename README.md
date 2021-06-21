@@ -91,7 +91,7 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 ## Audio and Music
 Libraries for manipulating audio.
 
-*Last Update: 2021-06-21 02:25:26*
+*Last Update: 2021-06-21 08:48:23*
 
 <details>
   <summary>Show Table</summary>
@@ -117,7 +117,7 @@ Libraries for manipulating audio.
 ## Authentication and OAuth
 Libraries for implementing authentications schemes.
 
-*Last Update: 2021-06-21 02:25:26*
+*Last Update: 2021-06-21 08:48:23*
 
 <details>
   <summary>Show Table</summary>
@@ -161,7 +161,7 @@ Libraries for implementing authentications schemes.
 ## Bot Building
 Libraries for building and working with bots.
 
-*Last Update: 2021-06-21 02:25:26*
+*Last Update: 2021-06-21 08:48:23*
 
 <details>
   <summary>Show Table</summary>
@@ -194,7 +194,7 @@ Libraries for building and working with bots.
 ## Build Automation
 Libraries and tools helping with build automation.
 
-*Last Update: 2021-06-21 02:25:26*
+*Last Update: 2021-06-21 08:48:24*
 
 <details>
   <summary>Show Table</summary>
@@ -215,7 +215,7 @@ Libraries and tools helping with build automation.
 ## CSS Preprocessors
 Libraries for preprocessing CSS files.
 
-*Last Update: 2021-06-21 02:25:26*
+*Last Update: 2021-06-21 08:48:25*
 
 <details>
   <summary>Show Table</summary>
@@ -229,7 +229,7 @@ Libraries for preprocessing CSS files.
 ## Command Line - Advanced Console UIs
 Libraries for building Console Applications and Console User Interfaces.
 
-*Last Update: 2021-06-21 02:25:26*
+*Last Update: 2021-06-21 08:48:25*
 
 <details>
   <summary>Show Table</summary>
@@ -272,7 +272,7 @@ Libraries for building Console Applications and Console User Interfaces.
 ## Command Line - Standard CLI
 Libraries for building standard or basic Command Line applications.
 
-*Last Update: 2021-06-21 02:25:26*
+*Last Update: 2021-06-21 08:48:25*
 
 <details>
   <summary>Show Table</summary>
@@ -287,10 +287,29 @@ Libraries for building standard or basic Command Line applications.
 | [argv](https://github.com/cosiner/argv) | 30 | 6 | 1 | Argparse for golang. Just because `flag` sucks | 2017-01-22 10:37:21 | 2021-03-30 02:32:52 |
 </details>
 
+## Continuous Integration
+Tools for help with continuous integration.
+
+*Last Update: 2021-06-21 08:48:25*
+
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [drone](https://drone.io) | 23,336 | 2,281 | 75 | Drone is a Container-Native, Continuous Delivery Platform | 2014-02-07 07:54:44 | 2021-06-20 14:23:32 |
+| [cds](https://ovh.github.io/cds/) | 3,444 | 325 | 166 | Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform | 2016-10-11 08:28:23 | 2021-06-20 10:18:34 |
+| [goveralls](https://github.com/mattn/goveralls) | 691 | 128 | 10 | A tool for testing, building, signing, and publishing binaries. | 2013-04-17 10:58:40 | 2021-06-07 04:20:28 |
+| [overalls](https://github.com/go-playground/overalls) | 106 | 26 | 3 | :jeans:Multi-Package go project coverprofile for tools like goveralls | 2015-07-30 11:30:11 | 2021-03-06 16:05:33 |
+| [duci](https://github.com/duck8823/duci) | 65 | 3 | 5 | The simple ci server  | 2018-04-01 01:51:02 | 2021-06-07 11:55:05 |
+| [gomason](https://github.com/nikogura/gomason) | 51 | 6 | 1 | A tool for testing, building, signing, and publishing binaries. | 2017-11-18 00:59:11 | 2021-05-21 04:31:31 |
+| [roveralls](https://github.com/lawrencewoodman/roveralls) | 14 | 4 | 0 | A Go recursive coverage testing tool | 2016-06-26 07:45:32 | 2020-08-20 00:07:58 |
+</details>
+
 ## Dynamic DNS
 Tools for updating dynamic DNS records.
 
-*Last Update: 2021-06-21 02:25:26*
+*Last Update: 2021-06-21 08:48:25*
 
 <details>
   <summary>Show Table</summary>
@@ -301,10 +320,147 @@ Tools for updating dynamic DNS records.
 | [ddns](https://github.com/skibish/ddns) | 191 | 19 | 0 | Personal DDNS client with Digital Ocean Networking DNS as backend. | 2017-03-13 21:02:27 | 2021-06-16 15:50:33 |
 </details>
 
+## Microsoft Office
+
+
+*Last Update: 2021-06-21 08:48:25*
+
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [unioffice](https://unidoc.io/unioffice/) | 2,884 | 321 | 25 | Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents | 2017-08-29 01:25:48 | 2021-06-20 15:54:40 |
+</details>
+
+## Package Management - Official
+Official experimental tooling for package management
+
+*Last Update: 2021-06-21 08:48:25*
+
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [dep](https://golang.github.io/dep/) | 13,162 | 1,104 | 0 | Go dependency management tool experiment (deprecated) | 2016-10-07 00:04:51 | 2021-06-20 13:32:47 |
+</details>
+
+## Template Engines
+Libraries and tools for templating and lexing.
+
+*Last Update: 2021-06-21 08:48:25*
+
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [gofpdf](http://godoc.org/github.com/jung-kurt/gofpdf) | 3,815 | 597 | 56 | A PDF document generator with high level support for text, drawing and images | 2015-03-13 11:57:30 | 2021-06-20 09:33:58 |
+| [sprig](http://masterminds.github.io/sprig/) | 2,378 | 263 | 78 | Useful template functions for Go templates. | 2013-11-22 01:20:40 | 2021-06-20 18:49:26 |
+| [quicktemplate](https://github.com/valyala/quicktemplate) | 2,118 | 113 | 27 | Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template | 2016-03-06 21:42:01 | 2021-06-19 20:58:46 |
+| [pongo2](https://www.schlachter.tech/pongo2) | 1,983 | 193 | 54 | Django-syntax like template-engine for Go | 2013-08-23 01:00:08 | 2021-06-19 21:31:38 |
+| [hero](https://shiyanhui.github.io/hero) | 1,462 | 96 | 27 | A handy, fast and powerful go template engine. | 2017-01-15 13:31:50 | 2021-06-18 02:51:28 |
+| [mustache](https://github.com/hoisie/mustache) | 1,013 | 186 | 32 | The mustache template language in Go | 2009-12-30 21:05:05 | 2021-05-07 07:50:12 |
+| [amber](https://github.com/eknkc/amber) | 873 | 58 | 23 | Amber is an elegant templating engine for Go Programming Language, inspired from HAML and Jade | 2012-10-31 20:27:24 | 2021-06-03 05:44:37 |
+| [ace](https://github.com/yosssi/ace) | 801 | 44 | 28 | HTML template engine for Go | 2014-07-13 13:39:19 | 2021-06-03 05:47:01 |
+| [jet](https://shiyanhui.github.io/hero) | 791 | 79 | 16 | Jet  template engine | 2016-03-31 16:53:36 | 2021-06-18 13:00:23 |
+| [gorazor](https://github.com/sipin/gorazor) | 781 | 86 | 2 | Razor view engine for go | 2014-05-01 05:30:31 | 2021-06-10 11:50:41 |
+| [fasttemplate](https://github.com/valyala/fasttemplate) | 503 | 61 | 9 | Simple and fast template engine for Go | 2015-08-19 12:44:22 | 2021-06-19 20:59:06 |
+| [ego](https://github.com/benbjohnson/ego) | 490 | 35 | 10 | An ERB-style templating language for Go. | 2014-02-23 18:14:41 | 2021-06-18 11:13:37 |
+| [raymond](https://github.com/aymerick/raymond) | 430 | 61 | 18 | Handlebars for golang | 2015-04-22 13:07:59 | 2021-06-04 06:08:06 |
+| [maroto](https://pkg.go.dev/github.com/johnfercher/maroto?tab=doc) | 381 | 68 | 19 | A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple. | 2019-05-20 23:27:47 | 2021-06-19 10:01:11 |
+| [goview](https://github.com/foolin/goview) | 234 | 22 | 10 | Goview is a lightweight, minimalist and idiomatic template library based on golang html/template for building Go web application. | 2019-04-14 11:22:41 | 2021-06-13 04:24:56 |
+| [soy](https://github.com/robfig/soy) | 155 | 36 | 6 | Go implementation for Soy templates (Google Closure templates) | 2013-12-15 01:14:48 | 2021-02-04 18:50:34 |
+| [liquid](https://godoc.org/github.com/osteele/liquid) | 125 | 28 | 13 | A Liquid template engine in Go | 2017-06-26 14:39:52 | 2021-06-18 05:32:56 |
+| [velvet](http://masterminds.github.io/sprig/) | 73 | 6 | 2 | A sweet velvety templating package | 2016-12-29 16:46:57 | 2021-06-13 16:26:57 |
+| [kasia.go](https://github.com/ziutek/kasia.go) | 72 | 7 | 2 | Templating system for HTML and other text documents - go implementation | 2010-12-07 10:46:05 | 2021-05-05 02:28:01 |
+| [extemplate](https://github.com/dannyvankooten/extemplate) | 38 | 9 | 2 | Wrapper package for Go's template/html to allow for easy file-based template inheritance. | 2018-08-10 20:34:19 | 2021-06-18 14:44:18 |
+| [gospin](https://github.com/m1/gospin) | 27 | 6 | 3 | Article spinning and spintax/spinning syntax engine written in Go, useful for A/B, testing pieces of text/articles and creating more natural conversations | 2019-02-22 17:04:51 | 2021-05-21 04:32:26 |
+| [damsel](https://github.com/dskinner/damsel) | 24 | 4 | 1 | Package damsel provides html outlining via css-selectors and common template functionality. | 2012-05-02 23:06:48 | 2020-09-12 23:20:49 |
+</details>
+
+## Testing - Fail injection
+
+
+*Last Update: 2021-06-21 08:48:25*
+
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [failpoint](https://github.com/pingcap/failpoint) | 588 | 51 | 10 | An implementation of failpoints for Golang. | 2019-04-02 07:48:18 | 2021-06-07 09:39:43 |
+</details>
+
+## Validation
+Libraries for validation.
+
+*Last Update: 2021-06-21 08:48:25*
+
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [validator](https://github.com/go-playground/validator) | 8,032 | 709 | 134 | :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving | 2015-02-12 16:32:22 | 2021-06-20 16:57:03 |
+| [govalidator](https://github.com/asaskevich/govalidator) | 4,803 | 484 | 131 | [Go] Package of validators and sanitizers for strings, numerics, slices and structs | 2014-06-20 10:45:23 | 2021-06-21 00:41:57 |
+| [ozzo-validation](https://github.com/go-ozzo/ozzo-validation) | 2,154 | 135 | 20 | An idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags. | 2016-06-22 03:47:43 | 2021-06-20 16:57:26 |
+| [govalidator](https://github.com/thedevsaddam/govalidator) | 995 | 89 | 28 | Validate Golang request data with simple rules. Highly inspired by Laravel's request validation. | 2017-09-13 16:42:20 | 2021-06-18 06:20:26 |
+| [validate](https://pkg.go.dev/github.com/gookit/validate) | 428 | 62 | 7 | ⚔ Go package for data validation and filtering. support Map, Struct, Form data. Go通用的数据验证与过滤库，使用简单，内置大部分常用验证、过滤器，支持自定义验证器、自定义消息、字段翻译。 | 2018-07-16 08:23:49 | 2021-06-20 05:07:54 |
+| [checkdigit](https://github.com/osamingo/checkdigit) | 77 | 2 | 0 | Provide check digit algorithms and calculators written in Go | 2019-04-05 09:46:36 | 2021-03-29 18:47:26 |
+| [validate](https://pkg.go.dev/github.com/gookit/validate) | 59 | 18 | 5 | This package provides a framework for writing validations for Go applications. | 2018-02-10 18:25:55 | 2021-04-01 19:07:51 |
+| [jio](https://github.com/faceair/jio) | 58 | 9 | 0 | jio is a json schema validator similar to joi | 2018-10-28 11:02:45 | 2021-05-26 03:38:40 |
+| [terraform-validator](https://github.com/thazelart/terraform-validator) | 50 | 4 | 6 | A norms and conventions validator for Terraform | 2019-05-29 11:37:15 | 2021-05-03 21:44:55 |
+| [gody](https://pkg.go.dev/github.com/guiferpa/gody) | 49 | 3 | 1 | :balloon: A lightweight struct validator for Go | 2018-11-01 21:08:16 | 2021-02-19 02:07:17 |
+| [govalid](https://github.com/twharmon/govalid) | 22 | 3 | 0 | Struct validation using tags | 2019-02-17 23:25:43 | 2021-04-27 16:03:31 |
+</details>
+
+## Version Control
+Libraries for version control.
+
+*Last Update: 2021-06-21 08:48:25*
+
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [go-git](https://pkg.go.dev/github.com/go-git/go-git/v5) | 2,403 | 252 | 190 | A highly extensible Git implementation in pure Go. | 2019-12-19 10:27:02 | 2021-06-20 09:37:26 |
+| [git2go](https://github.com/libgit2/git2go) | 1,632 | 284 | 42 | Git to Go; bindings for libgit2. Like McDonald's but tastier. | 2013-03-05 19:50:43 | 2021-06-18 03:20:23 |
+| [hercules](https://github.com/src-d/hercules) | 1,359 | 117 | 37 | Gaining advanced insights from Git repository history. | 2016-12-12 17:30:29 | 2021-06-20 03:01:59 |
+| [gh](https://github.com/rjeczalik/gh) | 75 | 12 | 2 | Scriptable server and net/http middleware for GitHub Webhooks. | 2015-03-08 21:04:05 | 2020-05-08 16:42:07 |
+| [go-vcs](https://sourcegraph.com/sourcegraph/go-vcs) | 75 | 21 | 23 | manipulate and inspect VCS repositories in Go | 2013-06-02 02:36:18 | 2021-06-09 06:01:11 |
+| [hgo](https://github.com/beyang/hgo) | 13 | 3 | 0 | Hgo is a collection of Go packages providing read-access to local Mercurial repositories. | 2014-06-18 03:54:40 | 2020-05-05 03:52:16 |
+</details>
+
+## Video
+Libraries for manipulating video.
+
+*Last Update: 2021-06-21 08:48:25*
+
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [goav](https://github.com/giorgisio/goav) | 1,637 | 294 | 44 | Golang bindings for FFmpeg | 2015-05-21 05:31:14 | 2021-06-20 19:34:31 |
+| [m3u8](http://tools.ietf.org/html/draft-pantos-http-live-streaming) | 834 | 218 | 43 | Parser and generator of M3U8-playlists for Apple HLS. Library for Go language. :cinema: | 2013-02-05 22:26:30 | 2021-06-19 07:17:03 |
+| [gmf](https://github.com/3d0c/gmf) | 691 | 134 | 39 | Go Media Framework | 2013-04-03 09:07:47 | 2021-06-13 00:21:08 |
+| [go-astits](https://github.com/asticode/go-astits) | 369 | 34 | 6 | Demux and mux MPEG Transport Streams (.ts) natively in GO | 2017-07-04 13:06:15 | 2021-06-20 18:21:06 |
+| [go-astisub](https://github.com/asticode/go-astisub) | 316 | 61 | 5 | Manipulate subtitles in GO (.srt, .ssa/.ass, .stl, .ttml, .vtt (webvtt), teletext, etc.) | 2016-12-16 14:47:59 | 2021-06-19 18:44:28 |
+| [libvlc-go](https://pkg.go.dev/github.com/adrg/libvlc-go/v3) | 217 | 31 | 2 | Go bindings for libVLC and high-level media player interface | 2015-01-06 14:01:50 | 2021-06-19 07:40:44 |
+| [gst](https://github.com/ziutek/gst) | 159 | 46 | 9 | Go bindings for GStreamer (retired: currently I don't use/develop this package) | 2011-07-26 00:44:40 | 2021-04-21 01:25:11 |
+| [go-m3u8](https://tools.ietf.org/html/rfc8216) | 75 | 10 | 0 | Parse and generate m3u8 playlists for Apple HTTP Live Streaming (HLS) in Golang (ported from gem https://github.com/sethdeckard/m3u8) | 2018-11-06 02:42:27 | 2021-06-02 05:43:35 |
+| [v4l](https://pkg.go.dev/github.com/korandiz/v4l) | 58 | 10 | 0 | Facade to the Video4Linux video capture interface.  | 2016-10-25 10:50:25 | 2021-05-16 09:56:04 |
+| [libgosubs](https://github.com/wargarblgarbl/libgosubs) | 14 | 3 | 0 | golang library to read and write various subtitle formats | 2017-05-03 21:05:25 | 2021-05-20 14:04:11 |
+| [go-mpd](https://github.com/unki2aut/go-mpd) | 9 | 1 | 0 | Go library for parsing and generating MPEG-DASH Media Presentation Description (MPD) files | 2018-11-02 19:09:07 | 2021-06-13 08:14:53 |
+</details>
+
 ## Web Frameworks
 Full stack web frameworks.
 
-*Last Update: 2021-06-21 02:25:26*
+*Last Update: 2021-06-21 08:48:25*
 
 <details>
   <summary>Show Table</summary>
@@ -317,7 +473,7 @@ Full stack web frameworks.
 ## Web Frameworks - Middlewares - Actual middlewares
 
 
-*Last Update: 2021-06-21 02:25:26*
+*Last Update: 2021-06-21 08:48:25*
 
 <details>
   <summary>Show Table</summary>
@@ -338,7 +494,7 @@ Full stack web frameworks.
 ## Web Frameworks - Middlewares - Libraries for creating HTTP middlewares
 
 
-*Last Update: 2021-06-21 02:25:26*
+*Last Update: 2021-06-21 08:48:25*
 
 <details>
   <summary>Show Table</summary>
@@ -363,7 +519,7 @@ Full stack web frameworks.
 ## Web Frameworks - Routers
 
 
-*Last Update: 2021-06-21 02:25:26*
+*Last Update: 2021-06-21 08:48:25*
 
 <details>
   <summary>Show Table</summary>
@@ -398,7 +554,7 @@ Full stack web frameworks.
 ## WebAssembly
 
 
-*Last Update: 2021-06-21 02:25:26*
+*Last Update: 2021-06-21 08:48:25*
 
 <details>
   <summary>Show Table</summary>
@@ -416,7 +572,7 @@ Full stack web frameworks.
 ## Windows
 
 
-*Last Update: 2021-06-21 02:25:26*
+*Last Update: 2021-06-21 08:48:25*
 
 <details>
   <summary>Show Table</summary>
@@ -431,7 +587,7 @@ Full stack web frameworks.
 ## XML
 Libraries and tools for manipulating XML.
 
-*Last Update: 2021-06-21 02:25:26*
+*Last Update: 2021-06-21 08:48:25*
 
 <details>
   <summary>Show Table</summary>
