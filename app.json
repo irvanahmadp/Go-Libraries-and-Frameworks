@@ -1,8 +1,8 @@
 {
-	"last_update": 1624327324,
+	"last_update": 1624347318,
 	"rate_limit": 60,
 	"rate_limit_remaining": 0,
-	"rate_limit_reset": 1624330901,
+	"rate_limit_reset": 1624350896,
 	"categories": [
 		{
 			"name": "Audio and Music",
@@ -37,7 +37,7 @@
 		{
 			"name": "Command Line - Standard CLI",
 			"description": "Libraries for building standard or basic Command Line applications.",
-			"last_update": 0
+			"last_update": 1624347302
 		},
 		{
 			"name": "Configuration",
@@ -247,7 +247,7 @@
 		{
 			"name": "Networking - HTTP Clients",
 			"description": "Libraries for making HTTP requests.",
-			"last_update": 0
+			"last_update": 1624347298
 		},
 		{
 			"name": "ORM",
@@ -257,7 +257,7 @@
 		{
 			"name": "OpenGL",
 			"description": "Libraries for using OpenGL in Go.",
-			"last_update": 0
+			"last_update": 1624347295
 		},
 		{
 			"name": "Package Management - Official",

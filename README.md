@@ -90,9 +90,9 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 * [Windows](#windows)
 * [XML](#xml)
 ### Audio and Music
-2021-06-20 22:25:04
+Libraries for manipulating audio.
 
-*Last Update: Libraries for manipulating audio.*
+<sup>*Last Update: 2021-06-20 22:25:04*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -116,9 +116,9 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 </details>
 
 ### Authentication and OAuth
-2021-06-20 22:25:10
+Libraries for implementing authentications schemes.
 
-*Last Update: Libraries for implementing authentications schemes.*
+<sup>*Last Update: 2021-06-20 22:25:10*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -160,9 +160,9 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 </details>
 
 ### Bot Building
-2021-06-21 02:25:13
+Libraries for building and working with bots.
 
-*Last Update: Libraries for building and working with bots.*
+<sup>*Last Update: 2021-06-21 02:25:13*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -193,9 +193,9 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 </details>
 
 ### Build Automation
-2021-06-21 01:48:43
+Libraries and tools helping with build automation.
 
-*Last Update: Libraries and tools helping with build automation.*
+<sup>*Last Update: 2021-06-21 01:48:43*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -214,9 +214,9 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 </details>
 
 ### CSS Preprocessors
-2021-06-21 01:48:46
+Libraries for preprocessing CSS files.
 
-*Last Update: Libraries for preprocessing CSS files.*
+<sup>*Last Update: 2021-06-21 01:48:46*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -228,9 +228,9 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 </details>
 
 ### Command Line - Advanced Console UIs
-2021-06-21 01:48:47
+Libraries for building Console Applications and Console User Interfaces.
 
-*Last Update: Libraries for building Console Applications and Console User Interfaces.*
+<sup>*Last Update: 2021-06-21 01:48:47*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -271,27 +271,58 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 </details>
 
 ### Command Line - Standard CLI
-2021-06-21 01:48:57
+Libraries for building standard or basic Command Line applications.
 
-*Last Update: Libraries for building standard or basic Command Line applications.*
+<sup>*Last Update: 2021-06-22 14:35:02*</sup>
 
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [cobra](https://cobra.dev) | 21,968 | 1,850 | 321 | A Commander for modern Go CLI interactions | 2013-09-03 20:40:26 | 2021-06-22 07:03:10 |
+| [cli](https://github.com/urfave/cli) | 15,983 | 1,400 | 82 | A simple, fast, and fun package for building command line apps in Go | 2013-07-13 19:32:06 | 2021-06-22 06:12:12 |
+| [kingpin](https://github.com/alecthomas/kingpin) | 3,064 | 231 | 25 | CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser | 2014-05-14 20:09:04 | 2021-06-21 22:43:40 |
+| [dnote](https://www.getdnote.com) | 2,099 | 85 | 58 | A simple command line notebook for programmers | 2017-03-30 23:07:25 | 2021-06-19 03:28:43 |
+| [go-flags](http://godoc.org/github.com/jessevdk/go-flags) | 1,963 | 239 | 29 | go command line option parser | 2012-08-31 13:57:58 | 2021-06-21 22:52:12 |
+| [pflag](https://ops.city) | 1,470 | 245 | 104 | Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags. | 2013-08-30 14:53:31 | 2021-06-22 06:46:20 |
+| [cli](https://github.com/mitchellh/cli) | 1,338 | 104 | 7 | A Go library for implementing command-line interfaces. | 2013-11-03 06:47:54 | 2021-06-19 18:22:24 |
+| [go-arg](https://github.com/alexflint/go-arg) | 1,177 | 66 | 6 | Struct-based argument parsing in Go | 2015-11-01 01:30:06 | 2021-06-18 16:06:46 |
+| [liner](https://github.com/peterh/liner) | 789 | 103 | 12 | Pure Go line editor with history, inspired by linenoise | 2012-08-15 16:34:55 | 2021-06-15 03:49:53 |
+| [complete](https://github.com/posener/complete) | 776 | 60 | 20 | bash completion written in go + bash completion for go command | 2017-05-05 21:34:07 | 2021-06-18 12:06:55 |
+| [mow.cli](https://github.com/jawher/mow.cli) | 740 | 50 | 26 | A versatile library for building CLI applications in Go | 2014-12-18 19:34:20 | 2021-06-21 08:31:24 |
+| [flaggy](https://github.com/integrii/flaggy) | 718 | 22 | 12 | Idiomatic Go input parsing with subcommands, positional values, and flags at any position. No required project or package layout and no external dependencies. | 2018-03-05 05:55:05 | 2021-06-14 08:15:02 |
+| [ops](https://ops.city) | 602 | 68 | 129 | ops - build and run nanos unikernels | 2018-09-10 17:57:47 | 2021-06-21 19:17:24 |
 | [cli](https://github.com/mkideal/cli) | 578 | 38 | 3 | CLI - A package for building command line app with go | 2016-02-26 16:45:29 | 2021-06-11 08:51:31 |
 | [argparse](https://github.com/akamensky/argparse) | 335 | 42 | 10 | Argparse for golang. Just because `flag` sucks | 2017-11-24 06:42:20 | 2021-06-19 15:20:15 |
 | [climax](http://git.io/climax) | 186 | 17 | 6 | Climax is an alternative CLI with the human face | 2015-11-03 21:04:57 | 2021-06-04 17:16:47 |
+| [hiboot](https://hiboot.netlify.app/) | 160 | 28 | 3 | hiboot is a high performance web and cli application framework with dependency injection support | 2018-03-16 11:21:46 | 2021-06-12 12:38:29 |
+| [commandeer](https://github.com/jaffee/commandeer) | 147 | 15 | 3 | Automatically sets up command line flags based on struct fields and tags. | 2017-10-12 02:51:05 | 2021-06-16 20:17:11 |
+| [wmenu](https://github.com/dixonwille/wmenu) | 137 | 18 | 1 | An easy to use menu structure for cli applications that prompts users to make choices. | 2016-04-20 13:09:44 | 2021-06-11 10:14:48 |
+| [sflags](https://ops.city) | 129 | 24 | 9 | Generate flags by parsing structures | 2016-12-04 14:49:27 | 2021-06-09 06:45:51 |
+| [flag](https://github.com/cosiner/flag) | 115 | 6 | 1 | Flag is a simple but powerful command line option parsing library for Go support infinite level subcommand | 2016-10-05 16:49:41 | 2021-05-29 20:22:59 |
+| [clif](https://github.com/ukautz/clif) | 108 | 11 | 3 | Another CLI framework for Go. It works on my machine. | 2015-05-30 18:30:08 | 2021-05-25 03:55:56 |
+| [job](https://github.com/liujianping/job) | 101 | 7 | 1 | JOB, make your short-term command as a long-term job. 将命令行规划成任务的工具 | 2019-04-09 11:14:51 | 2021-06-09 03:31:02 |
 | [cli](https://github.com/teris-io/cli) | 91 | 9 | 2 | Simple and complete API for building command line applications in Go | 2017-05-24 23:07:07 | 2021-05-26 03:10:37 |
+| [env](https://github.com/codingconcepts/env) | 78 | 5 | 1 | Tag-based environment configuration for structs | 2017-06-14 20:01:55 | 2021-06-15 05:47:16 |
+| [cmdr](https://hedzr.github.io/cmdr-docs/) | 75 | 7 | 1 | Golang library with POSIX-compliant command-line UI (CLI) and Hierarchical-configuration. Better substitute for stdlib flag. | 2019-05-15 09:58:02 | 2021-06-17 06:44:46 |
 | [clir](https://github.com/leaanthony/clir) | 66 | 9 | 5 | A Simple and Clear CLI library. Dependency free. | 2019-11-18 19:52:00 | 2021-05-27 07:23:31 |
+| [gocmd](https://github.com/devfacet/gocmd) | 52 | 6 | 1 | A Go library for building command line applications. | 2018-01-08 04:52:02 | 2021-05-29 20:35:23 |
+| [wlog](https://github.com/dixonwille/wlog) | 51 | 6 | 0 | A simple logging interface that supports cross-platform color and concurrency. | 2016-04-13 16:47:40 | 2021-04-25 04:09:14 |
+| [strumt](https://github.com/antham/strumt) | 45 | 4 | 0 | Strumt is a library to create prompt chain | 2017-06-19 19:33:16 | 2021-05-21 04:31:26 |
+| [flagvar](https://pkg.go.dev/github.com/sgreben/flagvar?tab=doc) | 36 | 1 | 0 | A collection of CLI argument types for the Go `flag` package. | 2018-05-18 18:45:16 | 2020-09-18 12:21:54 |
+| [go-getoptions](https://github.com/DavidGamba/go-getoptions) | 35 | 5 | 0 | Fully featured Go (golang) command line option parser with built-in auto-completion support. | 2015-12-18 02:21:14 | 2021-06-08 17:56:32 |
+| [cmd](https://github.com/posener/cmd) | 33 | 1 | 0 | The standard library flag package with its missing features | 2019-10-29 00:32:11 | 2021-06-11 12:03:34 |
 | [argv](https://github.com/cosiner/argv) | 30 | 6 | 1 | Argparse for golang. Just because `flag` sucks | 2017-01-22 10:37:21 | 2021-03-30 02:32:52 |
+| [go-commander](http://yitsushi.github.io/go-commander/) | 22 | 4 | 1 | Go library to simplify CLI workflow | 2016-10-10 10:09:41 | 2021-05-01 01:52:24 |
+| [sand](https://ops.city) | 15 | 1 | 0 | Package for creating interpreters | 2018-11-18 22:44:41 | 2021-05-10 22:00:31 |
+| [ts](https://github.com/liujianping/ts) | 13 | 1 | 0 | timestamp convert & compare tool. 时间戳转换与对比工具 | 2019-06-25 10:21:13 | 2021-02-13 09:18:33 |
 </details>
 
 ### Continuous Integration
-2021-06-21 08:48:16
+Tools for help with continuous integration.
 
-*Last Update: Tools for help with continuous integration.*
+<sup>*Last Update: 2021-06-21 08:48:16*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -308,9 +339,9 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 </details>
 
 ### Database - Database schema migration
-2021-06-22 09:01:53
 
-*Last Update: *
+
+<sup>*Last Update: 2021-06-22 09:01:53*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -335,9 +366,9 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 </details>
 
 ### Database Drivers - Multiple Backends.
-2021-06-21 16:25:23
 
-*Last Update: *
+
+<sup>*Last Update: 2021-06-21 16:25:23*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -351,9 +382,9 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 </details>
 
 ### Database Drivers - Search and Analytic Databases
-2021-06-22 09:02:00
 
-*Last Update: *
+
+<sup>*Last Update: 2021-06-22 09:02:00*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -371,9 +402,9 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 </details>
 
 ### Dynamic DNS
-2021-06-21 16:25:26
+Tools for updating dynamic DNS records.
 
-*Last Update: Tools for updating dynamic DNS records.*
+<sup>*Last Update: 2021-06-21 16:25:26*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -385,9 +416,9 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 </details>
 
 ### Functional
-2021-06-21 16:25:25
+Packages to support functional programming in Go.
 
-*Last Update: Packages to support functional programming in Go.*
+<sup>*Last Update: 2021-06-21 16:25:25*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -401,9 +432,9 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 </details>
 
 ### Microsoft Office
-2021-06-21 11:28:15
 
-*Last Update: *
+
+<sup>*Last Update: 2021-06-21 11:28:15*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -414,9 +445,9 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 </details>
 
 ### Miscellaneous - Strings
-2021-06-22 09:02:03
+Libraries for working with strings.
 
-*Last Update: Libraries for working with strings.*
+<sup>*Last Update: 2021-06-22 09:02:03*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -428,10 +459,50 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 | [stringy](https://pkg.go.dev/github.com/gobeam/Stringy?tab=doc) | 67 | 5 | 0 | Convert string to camel case, snake case, kebab case / slugify, custom delimiter, pad string, tease string and many other functionalities with help of by Stringy package. | 2020-04-03 03:34:10 | 2021-06-06 00:05:41 |
 </details>
 
-### Package Management - Official
-2021-06-21 08:48:20
+### Networking - HTTP Clients
+Libraries for making HTTP requests.
 
-*Last Update: Official experimental tooling for package management*
+<sup>*Last Update: 2021-06-22 14:34:58*</sup>
+
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [resty](https://github.com/go-resty/resty) | 4,382 | 363 | 33 | Simple HTTP and REST client library for Go | 2015-08-28 17:48:47 | 2021-06-22 07:25:55 |
+| [heimdall](http://gojek.tech) | 1,957 | 159 | 29 | An enhanced HTTP client for Go | 2018-01-19 09:32:26 | 2021-06-21 11:30:04 |
+| [grequests](https://github.com/levigross/grequests) | 1,792 | 105 | 28 | A Go "clone" of the great and famous Requests library | 2015-06-11 16:41:48 | 2021-06-22 01:26:40 |
+| [sling](https://github.com/dghubble/sling) | 1,329 | 105 | 0 | A Go HTTP client library for creating and sending API requests | 2015-04-02 08:42:52 | 2021-06-16 15:42:48 |
+| [gentleman](https://pkg.go.dev/github.com/h2non/gentleman?tab=doc) | 902 | 49 | 19 | Plugin-driven, extensible HTTP client toolkit for Go | 2016-02-21 23:00:24 | 2021-06-16 15:42:58 |
+| [pester](https://github.com/sethgrid/pester) | 553 | 61 | 4 | Go (golang) http calls with retries and backoff  | 2015-05-20 13:50:49 | 2021-06-21 16:34:44 |
+| [request](https://pkg.go.dev/github.com/monaco-io/request?tab=doc) | 123 | 17 | 0 | go request, go http client | 2020-03-25 06:24:18 | 2021-06-18 16:14:30 |
+| [rq](https://github.com/ddo/rq) | 39 | 2 | 1 | A nicer interface for golang stdlib HTTP client | 2017-12-26 10:48:27 | 2021-06-15 12:31:58 |
+| [go-http-client](https://github.com/bozd4g/go-http-client) | 25 | 4 | 0 | An enhanced http client for Golang | 2019-12-14 11:22:19 | 2021-05-21 05:19:24 |
+| [httpretry](https://github.com/ybbus/httpretry) | 14 | 1 | 0 | Enriches the standard go http client with retry functionality. | 2020-02-05 10:17:42 | 2021-05-20 19:41:31 |
+</details>
+
+### OpenGL
+Libraries for using OpenGL in Go.
+
+<sup>*Last Update: 2021-06-22 14:34:55*</sup>
+
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [glfw](https://github.com/go-gl/glfw) | 1,108 | 136 | 12 | Go bindings for GLFW 3 | 2013-05-19 06:38:45 | 2021-06-15 22:38:17 |
+| [gl](https://github.com/go-gl/gl) | 814 | 55 | 11 | Go bindings for OpenGL (generated via glow) | 2015-02-22 03:29:45 | 2021-06-10 21:54:18 |
+| [mathgl](https://github.com/go-gl/mathgl) | 379 | 49 | 9 | A pure Go 3D math library. | 2013-02-13 14:18:55 | 2021-06-14 02:50:14 |
+| [gl](https://github.com/goxjs/gl) | 150 | 16 | 9 | Go cross-platform OpenGL bindings. | 2015-05-18 08:10:15 | 2021-06-04 02:46:58 |
+| [glfw](https://github.com/goxjs/glfw) | 70 | 15 | 10 | Go cross-platform glfw library for creating an OpenGL context and receiving events. | 2014-12-27 22:40:24 | 2021-04-22 20:14:17 |
+| [go-glmatrix](https://github.com/technohippy/go-glmatrix) | 2 | 2 | 0 | go-glmatrix is a golang version of glMatrix, which is "designed to perform vector and matrix operations stupidly fast". | 2020-07-02 13:40:40 | 2021-03-17 16:22:40 |
+</details>
+
+### Package Management - Official
+Official experimental tooling for package management
+
+<sup>*Last Update: 2021-06-21 08:48:20*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -442,9 +513,9 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 </details>
 
 ### Query Language
-2021-06-22 09:01:41
 
-*Last Update: *
+
+<sup>*Last Update: 2021-06-22 09:01:41*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -467,10 +538,34 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 | [gws](https://github.com/Zaba505/gws) | 4 | 1 | 2 | A WebSocket client and server for GraphQL | 2020-06-08 19:51:36 | 2020-11-16 02:47:54 |
 </details>
 
-### Server Applications
-2021-06-21 16:25:01
+### Resource Embedding
 
-*Last Update: *
+
+<sup>*Last Update: 2021-06-22 14:35:14*</sup>
+
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [packr](https://github.com/gobuffalo/packr) | 3,239 | 175 | 62 | The simple and easy way to embed static files into Go binaries. | 2017-03-15 22:24:53 | 2021-06-21 10:30:22 |
+| [statik](https://github.com/rakyll/statik) | 3,205 | 201 | 33 | Embed files into a Go executable | 2014-02-04 14:54:51 | 2021-06-20 06:08:19 |
+| [go.rice](https://github.com/GeertJohan/go.rice) | 2,218 | 135 | 35 | go.rice is a Go package that makes working with resources such as html,js,css,images,templates, etc very easy. | 2013-10-23 21:29:34 | 2021-06-21 00:42:10 |
+| [vfsgen](https://github.com/shurcooL/vfsgen) | 931 | 79 | 32 | Takes an input http.FileSystem (likely at go generate time) and generates Go code that statically implements it. | 2015-05-18 13:03:02 | 2021-06-18 15:30:57 |
+| [esc](http://godoc.org/github.com/mjibson/esc) | 597 | 66 | 11 | A simple file embedder for Go | 2014-01-26 05:08:04 | 2021-06-19 03:43:39 |
+| [fileb0x](https://github.com/UnnoTed/fileb0x) | 585 | 48 | 8 | a better customizable tool to embed files in go; also update embedded files remotely without restarting the server | 2016-01-23 20:19:33 | 2021-06-02 12:58:17 |
+| [go-resources](https://github.com/omeid/go-resources) | 172 | 18 | 3 | Unfancy resources embedding for Go with out of box http.FileSystem support. | 2015-02-21 15:40:17 | 2021-06-14 12:38:59 |
+| [statics](https://github.com/go-playground/statics) | 62 | 4 | 0 | :file_folder: Embeds static resources into go files for single binary compilation + works with http.FileSystem + symlinks | 2015-10-07 11:49:52 | 2020-11-10 12:17:01 |
+| [templify](https://github.com/wlbr/templify) | 26 | 4 | 1 | A tool to be used with 'go generate' to embed external template files into Go code. | 2016-05-22 16:42:47 | 2021-02-07 19:39:17 |
+| [rebed](https://github.com/soypat/rebed) | 15 | 1 | 0 | Recreates directory and files from embedded filesystem using Go 1.16 embed.FS type. | 2021-02-17 18:19:49 | 2021-06-09 06:01:08 |
+| [mule](https://github.com/wlbr/mule) | 9 | 1 | 1 | mule is a tool to be used with 'go generate' to embed external resources files into Go code. | 2020-01-17 10:56:00 | 2021-01-05 11:20:02 |
+| [debme](https://github.com/leaanthony/debme) | 7 | 1 | 0 | embed.FS wrapper providing additional functionality | 2021-04-16 00:25:13 | 2021-06-07 21:17:48 |
+</details>
+
+### Server Applications
+
+
+<sup>*Last Update: 2021-06-21 16:25:01*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -505,9 +600,9 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 </details>
 
 ### Stream Processing
-2021-06-22 09:01:59
+Libraries and tools for stream processing and reactive programming.
 
-*Last Update: Libraries and tools for stream processing and reactive programming.*
+<sup>*Last Update: 2021-06-22 09:01:59*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -520,9 +615,9 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 </details>
 
 ### Template Engines
-2021-06-21 08:47:59
+Libraries and tools for templating and lexing.
 
-*Last Update: Libraries and tools for templating and lexing.*
+<sup>*Last Update: 2021-06-21 08:47:59*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -554,9 +649,9 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 </details>
 
 ### Testing - Fail injection
-2021-06-21 11:27:55
 
-*Last Update: *
+
+<sup>*Last Update: 2021-06-21 11:27:55*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -567,9 +662,9 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 </details>
 
 ### Testing - Fuzzing and delta-debugging, reducing, shrinking
-2021-06-22 09:01:52
 
-*Last Update: *
+
+<sup>*Last Update: 2021-06-22 09:01:52*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -582,9 +677,9 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 </details>
 
 ### Testing - Mock
-2021-06-22 09:01:46
 
-*Last Update: *
+
+<sup>*Last Update: 2021-06-22 09:01:46*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -607,9 +702,9 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 </details>
 
 ### Testing - Selenium and browser control tools
-2021-06-21 16:25:20
 
-*Last Update: *
+
+<sup>*Last Update: 2021-06-21 16:25:20*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -625,9 +720,9 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 </details>
 
 ### Text Processing - Utility
-2021-06-21 16:25:16
 
-*Last Update: *
+
+<sup>*Last Update: 2021-06-21 16:25:16*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -649,9 +744,9 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 </details>
 
 ### UUID
-2021-06-21 11:28:12
+Libraries for working with UUIDs.
 
-*Last Update: Libraries for working with UUIDs.*
+<sup>*Last Update: 2021-06-21 11:28:12*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -671,9 +766,9 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 </details>
 
 ### Validation
-2021-06-21 08:48:13
+Libraries for validation.
 
-*Last Update: Libraries for validation.*
+<sup>*Last Update: 2021-06-21 08:48:13*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -694,9 +789,9 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 </details>
 
 ### Version Control
-2021-06-21 08:48:11
+Libraries for version control.
 
-*Last Update: Libraries for version control.*
+<sup>*Last Update: 2021-06-21 08:48:11*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -712,9 +807,9 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 </details>
 
 ### Video
-2021-06-21 08:48:07
+Libraries for manipulating video.
 
-*Last Update: Libraries for manipulating video.*
+<sup>*Last Update: 2021-06-21 08:48:07*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -735,9 +830,9 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 </details>
 
 ### Web Frameworks
-2021-06-21 11:27:56
+Full stack web frameworks.
 
-*Last Update: Full stack web frameworks.*
+<sup>*Last Update: 2021-06-21 11:27:56*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -793,9 +888,9 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 </details>
 
 ### Web Frameworks - Middlewares - Actual middlewares
-2021-06-21 02:25:21
 
-*Last Update: *
+
+<sup>*Last Update: 2021-06-21 02:25:21*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -814,9 +909,9 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 </details>
 
 ### Web Frameworks - Middlewares - Libraries for creating HTTP middlewares
-2021-06-21 02:25:16
 
-*Last Update: *
+
+<sup>*Last Update: 2021-06-21 02:25:16*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -839,9 +934,9 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 </details>
 
 ### Web Frameworks - Routers
-2021-06-21 02:25:04
 
-*Last Update: *
+
+<sup>*Last Update: 2021-06-21 02:25:04*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -874,9 +969,9 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 </details>
 
 ### WebAssembly
-2021-06-21 01:48:40
 
-*Last Update: *
+
+<sup>*Last Update: 2021-06-21 01:48:40*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -892,9 +987,9 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 </details>
 
 ### Windows
-2021-06-21 01:48:39
 
-*Last Update: *
+
+<sup>*Last Update: 2021-06-21 01:48:39*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -907,9 +1002,9 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 </details>
 
 ### XML
-2021-06-21 02:25:01
+Libraries and tools for manipulating XML.
 
-*Last Update: Libraries and tools for manipulating XML.*
+<sup>*Last Update: 2021-06-21 02:25:01*</sup>
 
 <details>
   <summary>Show Table</summary>
