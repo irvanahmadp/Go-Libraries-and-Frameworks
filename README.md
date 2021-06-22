@@ -1,4 +1,5 @@
 # Go Libraries and Frameworks
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![Issues](https://img.shields.io/github/issues/IrvanAhmadP/Go-Libraries-and-Frameworks)
 ![License](https://img.shields.io/github/license/IrvanAhmadP/Go-Libraries-and-Frameworks)
 
@@ -93,7 +94,6 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 Libraries for manipulating audio.
 
 <sup>*Last Update: 2021-06-20 22:25:04*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -119,7 +119,6 @@ Libraries for manipulating audio.
 Libraries for implementing authentications schemes.
 
 <sup>*Last Update: 2021-06-20 22:25:10*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -163,7 +162,6 @@ Libraries for implementing authentications schemes.
 Libraries for building and working with bots.
 
 <sup>*Last Update: 2021-06-21 02:25:13*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -196,7 +194,6 @@ Libraries for building and working with bots.
 Libraries and tools helping with build automation.
 
 <sup>*Last Update: 2021-06-21 01:48:43*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -217,7 +214,6 @@ Libraries and tools helping with build automation.
 Libraries for preprocessing CSS files.
 
 <sup>*Last Update: 2021-06-21 01:48:46*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -231,7 +227,6 @@ Libraries for preprocessing CSS files.
 Libraries for building Console Applications and Console User Interfaces.
 
 <sup>*Last Update: 2021-06-21 01:48:47*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -274,7 +269,6 @@ Libraries for building Console Applications and Console User Interfaces.
 Libraries for building standard or basic Command Line applications.
 
 <sup>*Last Update: 2021-06-22 14:35:02*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -323,7 +317,6 @@ Libraries for building standard or basic Command Line applications.
 Tools for help with continuous integration.
 
 <sup>*Last Update: 2021-06-21 08:48:16*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -342,7 +335,6 @@ Tools for help with continuous integration.
 
 
 <sup>*Last Update: 2021-06-22 09:01:53*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -369,7 +361,6 @@ Tools for help with continuous integration.
 
 
 <sup>*Last Update: 2021-06-21 16:25:23*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -385,7 +376,6 @@ Tools for help with continuous integration.
 
 
 <sup>*Last Update: 2021-06-22 09:02:00*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -405,7 +395,6 @@ Tools for help with continuous integration.
 Tools for updating dynamic DNS records.
 
 <sup>*Last Update: 2021-06-21 16:25:26*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -419,7 +408,6 @@ Tools for updating dynamic DNS records.
 Packages to support functional programming in Go.
 
 <sup>*Last Update: 2021-06-21 16:25:25*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -435,7 +423,6 @@ Packages to support functional programming in Go.
 
 
 <sup>*Last Update: 2021-06-21 11:28:15*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -448,7 +435,6 @@ Packages to support functional programming in Go.
 Libraries for working with strings.
 
 <sup>*Last Update: 2021-06-22 09:02:03*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -459,11 +445,78 @@ Libraries for working with strings.
 | [stringy](https://pkg.go.dev/github.com/gobeam/Stringy?tab=doc) | 67 | 5 | 0 | Convert string to camel case, snake case, kebab case / slugify, custom delimiter, pad string, tease string and many other functionalities with help of by Stringy package. | 2020-04-03 03:34:10 | 2021-06-06 00:05:41 |
 </details>
 
+### Networking
+Libraries for working with various layers of the network.
+
+<sup>*Last Update: 2021-06-22 16:25:01*</sup>
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [fasthttp](https://github.com/valyala/fasthttp) | 15,359 | 1,263 | 35 | Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http | 2015-10-18 22:19:57 | 2021-06-22 09:18:24 |
+| [kcptun](https://github.com/xtaci/kcptun) | 12,483 | 2,416 | 69 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。KCPプロトコルに基づく安全なトンネル。KCP 프로토콜을 기반으로 하는 보안 터널입니다。 | 2016-02-26 09:54:46 | 2021-06-22 01:26:19 |
+| [dns](https://miek.nl/2014/august/16/go-dns-package) | 5,621 | 881 | 7 | DNS library in Go | 2010-08-03 21:56:23 | 2021-06-22 07:41:34 |
+| [quic-go](https://github.com/lucas-clemente/quic-go) | 5,484 | 699 | 85 | A QUIC implementation in pure go | 2016-04-06 20:16:27 | 2021-06-22 06:51:39 |
+| [gnet](https://gnet.host) | 4,733 | 545 | 23 | 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。 | 2019-02-24 03:48:45 | 2021-06-22 08:43:52 |
+| [gopacket](https://github.com/google/gopacket) | 4,208 | 817 | 175 | Provides packet processing capabilities for Go | 2015-03-16 20:46:00 | 2021-06-22 06:42:35 |
+| [httplab](https://github.com/gchaincl/httplab) | 3,700 | 121 | 12 | The interactive web server | 2017-02-08 17:13:19 | 2021-06-21 20:17:58 |
+| [kcp-go](https://github.com/xtaci/kcp-go) | 2,992 | 537 | 27 |  A Crypto-Secure, Production-Grade Reliable-UDP Library for golang with FEC  | 2015-06-16 06:15:55 | 2021-06-19 03:19:22 |
+| [gobgp](https://osrg.github.io/gobgp/) | 2,229 | 490 | 107 | BGP implemented in the Go Programming Language | 2014-09-14 01:51:58 | 2021-06-22 07:32:21 |
+| [ssh](https://godoc.org/github.com/gliderlabs/ssh) | 2,057 | 242 | 36 | Easy SSH servers in Golang | 2016-10-03 21:53:44 | 2021-06-20 02:04:34 |
+| [fortio](https://fortio.org) | 1,941 | 162 | 74 | Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats. | 2017-10-10 01:01:39 | 2021-06-22 06:51:24 |
+| [go-getter](https://github.com/hashicorp/go-getter) | 1,187 | 147 | 96 | Package for downloading things from a string URL using a variety of protocols. | 2015-10-12 23:17:07 | 2021-06-18 07:51:05 |
+| [gev](https://github.com/Allenxuxu/gev) | 1,161 | 138 | 5 | 🚀Gev is a lightweight, fast non-blocking TCP network library / websocket server based on Reactor mode. Support custom protocols to quickly and easily build high-performance servers.  | 2019-09-01 12:16:18 | 2021-06-21 13:12:03 |
+| [nff-go](https://github.com/intel-go/nff-go) | 1,065 | 125 | 61 | NFF-Go -Network Function Framework for GO (former YANFF) | 2017-03-29 17:07:29 | 2021-06-16 17:38:32 |
+| [sftp](https://github.com/pkg/sftp) | 1,010 | 285 | 17 | SFTP support for the go.crypto/ssh package | 2013-11-05 04:36:00 | 2021-06-21 22:25:57 |
+| [grab](https://github.com/cavaliercoder/grab) | 860 | 106 | 25 | A download manager package for Go | 2016-01-05 12:46:35 | 2021-06-20 12:46:04 |
+| [ftp](https://github.com/jlaffaye/ftp) | 808 | 273 | 8 | FTP client package for Go | 2011-05-06 18:31:51 | 2021-06-22 06:20:19 |
+| [mdns](https://github.com/hashicorp/mdns) | 776 | 171 | 32 | Simple mDNS client/server library in Golang | 2014-01-29 19:39:18 | 2021-06-13 12:06:51 |
+| [gosnmp](https://github.com/gosnmp/gosnmp) | 732 | 244 | 22 | An SNMP library written in Go | 2012-08-27 05:59:24 | 2021-06-19 07:30:34 |
+| [vssh](https://github.com/yahoo/vssh) | 715 | 53 | 1 | Go Library to Execute Commands Over SSH at Scale | 2020-06-09 16:19:22 | 2021-06-18 15:19:25 |
+| [lhttp](https://github.com/fanux/lhttp) | 623 | 125 | 6 | go websocket, a better way to buid your IM server | 2015-12-29 01:13:36 | 2021-06-11 07:47:35 |
+| [cidranger](https://github.com/yl2chen/cidranger) | 617 | 69 | 6 | Fast IP to CIDR lookup in Golang | 2017-08-21 05:50:14 | 2021-06-21 06:45:43 |
+| [peerdiscovery](https://github.com/schollz/peerdiscovery) | 491 | 35 | 5 | Pure-Go library for cross-platform local peer discovery using UDP multicast :woman: :repeat: :woman: | 2018-04-22 23:59:37 | 2021-06-11 19:07:41 |
+| [gotcp](https://github.com/gansidui/gotcp) | 483 | 156 | 0 | A Go package for quickly building tcp servers | 2014-04-13 14:54:01 | 2021-06-21 18:43:35 |
+| [stun](https://github.com/gortc/stun) | 466 | 48 | 4 | Fast RFC 5389 STUN implementation in go | 2016-04-24 17:46:38 | 2021-06-15 07:29:21 |
+| [go-stun](https://github.com/ccding/go-stun) | 447 | 83 | 2 | A go implementation of the STUN client (RFC 3489 and RFC 5389) | 2013-08-17 22:16:33 | 2021-06-10 09:35:48 |
+| [gopcap](https://github.com/akrennmair/gopcap) | 424 | 136 | 12 | A simple wrapper around libpcap for the Go programming language | 2009-11-19 10:13:48 | 2021-06-19 13:02:57 |
+| [raw](https://github.com/mdlayher/raw) | 397 | 69 | 13 | Package raw enables reading and writing data at the device driver level for a network interface.  MIT Licensed. | 2015-07-06 16:11:47 | 2021-06-14 21:48:08 |
+| [tcp_server](https://github.com/firstrow/tcp_server) | 381 | 133 | 4 | golang tcp server | 2014-10-13 20:38:42 | 2021-06-15 07:10:15 |
+| [gmqtt](https://github.com/DrmagicE/gmqtt) | 376 | 73 | 5 | Gmqtt is a flexible, high-performance MQTT broker library that fully implements the MQTT protocol V3.1.1 and V5 in golang | 2018-09-16 11:46:17 | 2021-06-19 16:52:17 |
+| [gaio](https://github.com/xtaci/gaio) | 358 | 37 | 11 | High performance async-io(proactor) networking for Golang。golangのための高性能非同期io(proactor)ネットワーキング | 2019-12-20 05:19:00 | 2021-06-22 08:43:28 |
+| [arp](https://tools.ietf.org/html/rfc826) | 256 | 42 | 3 | Package arp implements the ARP protocol, as described in RFC 826. MIT Licensed. | 2015-07-06 18:50:34 | 2021-05-11 16:55:07 |
+| [ftpserverlib](https://github.com/fclairamb/ftpserverlib) | 251 | 62 | 2 | golang ftp server library | 2016-09-25 12:05:29 | 2021-06-16 18:03:57 |
+| [buffstreams](https://github.com/StabbyCutyou/buffstreams) | 244 | 32 | 7 | A library to simplify writing applications using TCP sockets to stream protobuff messages | 2015-06-29 19:07:31 | 2021-05-12 12:13:22 |
+| [ethernet](https://en.wikipedia.org/wiki/Ethernet_frame) | 224 | 30 | 0 | Package ethernet implements marshaling and unmarshaling of IEEE 802.3 Ethernet II frames and IEEE 802.1Q VLAN tags. MIT Licensed. | 2015-07-03 00:15:18 | 2021-06-14 21:53:03 |
+| [gnxi](https://github.com/google/gnxi) | 183 | 87 | 13 | gNXI Tools - gRPC Network Management/Operations Interface Tools | 2017-09-26 08:19:41 | 2021-06-10 02:22:35 |
+| [nbio](https://github.com/lesismal/nbio) | 169 | 19 | 2 | High-performance, non-blocking, event-driven, easy-to-use networking framework written in Go, support TLS/HTTP 1.X/Websocket. | 2020-01-25 11:46:54 | 2021-06-21 02:13:28 |
+| [jazigo](https://github.com/udhos/jazigo) | 166 | 14 | 3 | Jazigo is a tool written in Go for retrieving configuration for multiple devices, similar to rancid, fetchconfig, oxidized, Sweet. | 2016-06-07 19:53:53 | 2021-05-16 13:32:17 |
+| [utp](https://github.com/anacrolix/go-libutp) | 158 | 33 | 4 | Use anacrolix/go-libutp instead | 2015-03-20 04:39:22 | 2021-05-04 15:11:32 |
+| [canopus](https://github.com/zubairhamed/canopus) | 144 | 39 | 43 | CoAP Client/Server implementing RFC 7252 for the Go Language | 2015-02-24 04:12:20 | 2021-04-11 14:53:25 |
+| [sslb](https://godoc.org/github.com/gliderlabs/ssh) | 130 | 25 | 10 | Golang Super Simple Load Balance | 2015-10-18 21:31:09 | 2021-02-11 17:27:49 |
+| [dhcp6](https://tools.ietf.org/html/rfc3315) | 70 | 16 | 2 | Package dhcp6 implements a DHCPv6 server, as described in RFC 3315. MIT Licensed. | 2015-05-22 04:13:30 | 2021-04-30 17:24:35 |
+| [ether](https://github.com/songgao/ether) | 69 | 5 | 0 | A Go package for sending and receiving ethernet frames. Currently supporting Linux, Freebsd, and OS X. | 2014-05-21 03:46:30 | 2021-02-28 14:18:18 |
+| [packet](https://github.com/aerogo/packet) | 56 | 13 | 1 | :package: Send network packets over a TCP or UDP connection. | 2017-10-29 05:46:44 | 2021-04-07 01:43:57 |
+| [linkio](https://github.com/ian-kent/linkio) | 49 | 5 | 0 | Simulate network link speed | 2014-12-24 10:50:03 | 2021-04-20 21:41:59 |
+| [portproxy](https://github.com/aybabtme/portproxy) | 45 | 10 | 0 | TCP proxy, highjacks HTTP to allow CORS | 2014-12-13 02:57:36 | 2021-05-29 02:46:21 |
+| [iplib](https://github.com/c-robinson/iplib) | 45 | 5 | 0 | A library  for working with IP addresses and networks in Go | 2019-05-06 06:23:41 | 2021-06-08 18:12:15 |
+| [go-powerdns](https://pkg.go.dev/github.com/joeig/go-powerdns/v2) | 36 | 11 | 1 | Go PowerDNS 4.x API Client | 2018-06-21 21:37:33 | 2021-06-17 09:04:25 |
+| [graval](https://github.com/koofr/graval) | 26 | 5 | 0 | An experimental go FTP server framework | 2014-04-22 19:17:18 | 2020-10-02 13:42:17 |
+| [publicip](https://github.com/polera/publicip) | 23 | 5 | 0 | Go pkg for returning your public facing IP address. | 2016-12-28 19:31:07 | 2021-05-20 14:01:48 |
+| [panoptes-stream](https://github.com/yahoo/panoptes-stream) | 23 | 3 | 0 | A cloud native distributed streaming network telemetry. | 2020-10-09 04:26:26 | 2021-06-09 13:06:57 |
+| [golibwireshark](https://github.com/sunwxg/golibwireshark) | 19 | 4 | 0 | GoHooks make it easy to send and consume secured web-hooks from a Go application | 2015-11-16 06:48:41 | 2021-02-06 07:31:26 |
+| [gohooks](https://github.com/averageflow/gohooks) | 12 | 1 | 0 | GoHooks make it easy to send and consume secured web-hooks from a Go application | 2020-10-30 17:20:36 | 2021-01-28 02:19:56 |
+| [goshark](https://github.com/sunwxg/goshark) | 11 | 2 | 0 | A simple wrapper around libpcap for the Go programming language | 2015-11-01 07:23:09 | 2021-04-27 05:55:24 |
+| [llb](https://github.com/kirillDanshin/llb) | 11 | 0 | 0 | Simulate network link speed | 2016-02-21 06:30:17 | 2020-09-30 19:25:46 |
+| [tspool](https://github.com/two/tspool) | 9 | 1 | 0 | tcp server pool | 2018-10-27 01:05:03 | 2021-03-04 06:34:07 |
+| [httpproxy](https://github.com/wzshiming/httpproxy) | 9 | 1 | 0 | HTTP proxy handler and dialer | 2018-07-18 09:42:34 | 2021-03-02 01:56:42 |
+</details>
+
 ### Networking - HTTP Clients
 Libraries for making HTTP requests.
 
 <sup>*Last Update: 2021-06-22 14:34:58*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -485,7 +538,6 @@ Libraries for making HTTP requests.
 Libraries for using OpenGL in Go.
 
 <sup>*Last Update: 2021-06-22 14:34:55*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -503,7 +555,6 @@ Libraries for using OpenGL in Go.
 Official experimental tooling for package management
 
 <sup>*Last Update: 2021-06-21 08:48:20*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -516,7 +567,6 @@ Official experimental tooling for package management
 
 
 <sup>*Last Update: 2021-06-22 09:01:41*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -542,7 +592,6 @@ Official experimental tooling for package management
 
 
 <sup>*Last Update: 2021-06-22 14:35:14*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -566,7 +615,6 @@ Official experimental tooling for package management
 
 
 <sup>*Last Update: 2021-06-21 16:25:01*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -603,7 +651,6 @@ Official experimental tooling for package management
 Libraries and tools for stream processing and reactive programming.
 
 <sup>*Last Update: 2021-06-22 09:01:59*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -618,7 +665,6 @@ Libraries and tools for stream processing and reactive programming.
 Libraries and tools for templating and lexing.
 
 <sup>*Last Update: 2021-06-21 08:47:59*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -652,7 +698,6 @@ Libraries and tools for templating and lexing.
 
 
 <sup>*Last Update: 2021-06-21 11:27:55*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -665,7 +710,6 @@ Libraries and tools for templating and lexing.
 
 
 <sup>*Last Update: 2021-06-22 09:01:52*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -680,7 +724,6 @@ Libraries and tools for templating and lexing.
 
 
 <sup>*Last Update: 2021-06-22 09:01:46*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -705,7 +748,6 @@ Libraries and tools for templating and lexing.
 
 
 <sup>*Last Update: 2021-06-21 16:25:20*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -723,7 +765,6 @@ Libraries and tools for templating and lexing.
 
 
 <sup>*Last Update: 2021-06-21 16:25:16*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -747,7 +788,6 @@ Libraries and tools for templating and lexing.
 Libraries for working with UUIDs.
 
 <sup>*Last Update: 2021-06-21 11:28:12*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -769,7 +809,6 @@ Libraries for working with UUIDs.
 Libraries for validation.
 
 <sup>*Last Update: 2021-06-21 08:48:13*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -792,7 +831,6 @@ Libraries for validation.
 Libraries for version control.
 
 <sup>*Last Update: 2021-06-21 08:48:11*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -810,7 +848,6 @@ Libraries for version control.
 Libraries for manipulating video.
 
 <sup>*Last Update: 2021-06-21 08:48:07*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -833,7 +870,6 @@ Libraries for manipulating video.
 Full stack web frameworks.
 
 <sup>*Last Update: 2021-06-21 11:27:56*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -891,7 +927,6 @@ Full stack web frameworks.
 
 
 <sup>*Last Update: 2021-06-21 02:25:21*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -912,7 +947,6 @@ Full stack web frameworks.
 
 
 <sup>*Last Update: 2021-06-21 02:25:16*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -937,7 +971,6 @@ Full stack web frameworks.
 
 
 <sup>*Last Update: 2021-06-21 02:25:04*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -972,7 +1005,6 @@ Full stack web frameworks.
 
 
 <sup>*Last Update: 2021-06-21 01:48:40*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -990,7 +1022,6 @@ Full stack web frameworks.
 
 
 <sup>*Last Update: 2021-06-21 01:48:39*</sup>
-
 <details>
   <summary>Show Table</summary>
 
@@ -1005,7 +1036,6 @@ Full stack web frameworks.
 Libraries and tools for manipulating XML.
 
 <sup>*Last Update: 2021-06-21 02:25:01*</sup>
-
 <details>
   <summary>Show Table</summary>
 
