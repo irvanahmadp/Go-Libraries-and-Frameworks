@@ -279,7 +279,7 @@ func getCategoryMD(name string, description string, lastUpdate int64, libraries 
 	headerTable := `### %s
 %s
 
-*Last Update: %s*
+<sup>*Last Update: %s*</sup>
 
 <details>
   <summary>Show Table</summary>
@@ -288,7 +288,7 @@ func getCategoryMD(name string, description string, lastUpdate int64, libraries 
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |`
 
 	lastUpdateString := getStringFromUnixTime(lastUpdate)
-	table := fmt.Sprintf(headerTable, name, lastUpdateString, description)
+	table := fmt.Sprintf(headerTable, name, description, lastUpdateString)
 
 	contentTable := "\n| [%s](%s) | %d | %d | %d | %s | %s | %s |"
 	for _, library := range libraries {
