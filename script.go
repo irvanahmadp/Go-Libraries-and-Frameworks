@@ -116,7 +116,7 @@ func getReadmeMD(categories []Category) []byte {
 	header += "List of frameworks and libraries from [awesome-go](https://github.com/avelino/awesome-go).\n\n"
 	readme := header
 
-	readme += "### Contents\n"
+	readme += "## Contents\n"
 	for _, category := range categories {
 		categoryURL := strings.ReplaceAll(category.Name, " ", "-")
 		categoryURL = strings.ReplaceAll(categoryURL, "(", "")
@@ -276,7 +276,7 @@ func saveCategoryDataJSON(categoryData CategoryData, categoryDataFileName string
 }
 
 func getCategoryMD(name string, description string, lastUpdate int64, libraries []Library) string {
-	headerTable := `## %s
+	headerTable := `### %s
 %s
 
 *Last Update: %s*
@@ -288,7 +288,7 @@ func getCategoryMD(name string, description string, lastUpdate int64, libraries 
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |`
 
 	lastUpdateString := getStringFromUnixTime(lastUpdate)
-	table := fmt.Sprintf(headerTable, lastUpdateString, name, description)
+	table := fmt.Sprintf(headerTable, name, lastUpdateString, description)
 
 	contentTable := "\n| [%s](%s) | %d | %d | %d | %s | %s | %s |"
 	for _, library := range libraries {
