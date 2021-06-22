@@ -1,0 +1,49 @@
+{
+	"name": "Miscellaneous - Strings",
+	"index_last_check": 0,
+	"last_update": 1624327323,
+	"libraries": [
+		{
+			"id": 28851913,
+			"name": "xstrings",
+			"description": "Implements string functions widely used in other languages but absent in Go.",
+			"html_url": "https://github.com/huandu/xstrings",
+			"homepage": "",
+			"created_at": "2015-01-06T07:25:26Z",
+			"updated_at": "2021-06-21T14:33:31Z",
+			"svn_url": "https://github.com/huandu/xstrings",
+			"stargazers_count": 899,
+			"watchers_count": 899,
+			"forks_count": 61,
+			"open_issues_count": 0
+		},
+		{
+			"id": 144949393,
+			"name": "strutil",
+			"description": "String utilities for Go",
+			"html_url": "https://github.com/ozgio/strutil",
+			"homepage": "https://pkg.go.dev/github.com/gobeam/Stringy?tab=doc",
+			"created_at": "2018-08-16T06:56:15Z",
+			"updated_at": "2021-06-04T00:46:11Z",
+			"svn_url": "https://github.com/ozgio/strutil",
+			"stargazers_count": 121,
+			"watchers_count": 121,
+			"forks_count": 12,
+			"open_issues_count": 1
+		},
+		{
+			"id": 252624457,
+			"name": "stringy",
+			"description": "Convert string to camel case, snake case, kebab case / slugify, custom delimiter, pad string, tease string and many other functionalities with help of by Stringy package.",
+			"html_url": "https://github.com/gobeam/stringy",
+			"homepage": "https://pkg.go.dev/github.com/gobeam/Stringy?tab=doc",
+			"created_at": "2020-04-03T03:34:10Z",
+			"updated_at": "2021-06-06T00:05:41Z",
+			"svn_url": "https://github.com/gobeam/stringy",
+			"stargazers_count": 67,
+			"watchers_count": 67,
+			"forks_count": 5,
+			"open_issues_count": 0
+		}
+	]
+}
