@@ -1,0 +1,77 @@
+{
+	"name": "Performance",
+	"index_last_check": 0,
+	"last_update": 1624435977,
+	"libraries": [
+		{
+			"id": 56342508,
+			"name": "jaeger",
+			"description": "CNCF Jaeger, a Distributed Tracing Platform",
+			"html_url": "https://github.com/jaegertracing/jaeger",
+			"homepage": "https://www.jaegertracing.io/",
+			"created_at": "2016-04-15T18:49:02Z",
+			"updated_at": "2021-06-23T06:31:00Z",
+			"svn_url": "https://github.com/jaegertracing/jaeger",
+			"stargazers_count": 13682,
+			"watchers_count": 13682,
+			"forks_count": 1617,
+			"open_issues_count": 385
+		},
+		{
+			"id": 243394576,
+			"name": "pixie",
+			"description": "Instant Kubernetes-Native Application Observability",
+			"html_url": "https://github.com/pixie-labs/pixie",
+			"homepage": "https://px.dev/",
+			"created_at": "2020-02-27T00:22:45Z",
+			"updated_at": "2021-06-23T02:55:58Z",
+			"svn_url": "https://github.com/pixie-labs/pixie",
+			"stargazers_count": 1629,
+			"watchers_count": 1629,
+			"forks_count": 71,
+			"open_issues_count": 52
+		},
+		{
+			"id": 25555486,
+			"name": "profile",
+			"description": "Simple profiling for Go",
+			"html_url": "https://github.com/pkg/profile",
+			"homepage": "https://px.dev/",
+			"created_at": "2014-10-22T01:35:18Z",
+			"updated_at": "2021-06-23T01:17:43Z",
+			"svn_url": "https://github.com/pkg/profile",
+			"stargazers_count": 1491,
+			"watchers_count": 1491,
+			"forks_count": 101,
+			"open_issues_count": 6
+		},
+		{
+			"id": 287403351,
+			"name": "statsviz",
+			"description": ":rocket: Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser",
+			"html_url": "https://github.com/arl/statsviz",
+			"homepage": "",
+			"created_at": "2020-08-14T00:00:41Z",
+			"updated_at": "2021-06-19T16:57:15Z",
+			"svn_url": "https://github.com/arl/statsviz",
+			"stargazers_count": 1378,
+			"watchers_count": 1378,
+			"forks_count": 49,
+			"open_issues_count": 6
+		},
+		{
+			"id": 193236515,
+			"name": "tracer",
+			"description": "🧶 Dead simple, lightweight tracing.",
+			"html_url": "https://github.com/kamilsk/tracer",
+			"homepage": "",
+			"created_at": "2019-06-22T13:23:27Z",
+			"updated_at": "2021-05-28T09:42:51Z",
+			"svn_url": "https://github.com/kamilsk/tracer",
+			"stargazers_count": 45,
+			"watchers_count": 45,
+			"forks_count": 1,
+			"open_issues_count": 11
+		}
+	]
+}
