@@ -1,7 +1,7 @@
 {
 	"name": "Resource Embedding",
 	"index_last_check": 0,
-	"last_update": 1624347314,
+	"last_update": 1624526716,
 	"libraries": [
 		{
 			"id": 85126896,
@@ -10,10 +10,10 @@
 			"html_url": "https://github.com/gobuffalo/packr",
 			"homepage": "",
 			"created_at": "2017-03-15T22:24:53Z",
-			"updated_at": "2021-06-21T10:30:22Z",
+			"updated_at": "2021-06-24T08:58:11Z",
 			"svn_url": "https://github.com/gobuffalo/packr",
-			"stargazers_count": 3239,
-			"watchers_count": 3239,
+			"stargazers_count": 3241,
+			"watchers_count": 3241,
 			"forks_count": 175,
 			"open_issues_count": 62
 		},
@@ -24,11 +24,11 @@
 			"html_url": "https://github.com/rakyll/statik",
 			"homepage": "",
 			"created_at": "2014-02-04T14:54:51Z",
-			"updated_at": "2021-06-20T06:08:19Z",
+			"updated_at": "2021-06-22T10:52:08Z",
 			"svn_url": "https://github.com/rakyll/statik",
-			"stargazers_count": 3205,
-			"watchers_count": 3205,
-			"forks_count": 201,
+			"stargazers_count": 3206,
+			"watchers_count": 3206,
+			"forks_count": 200,
 			"open_issues_count": 33
 		},
 		{

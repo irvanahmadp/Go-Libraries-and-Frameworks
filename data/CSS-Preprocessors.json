@@ -1,7 +1,7 @@
 {
 	"name": "CSS Preprocessors",
 	"index_last_check": 0,
-	"last_update": 1624214926,
+	"last_update": 1624526722,
 	"libraries": [
 		{
 			"id": 23666134,
@@ -24,10 +24,10 @@
 			"html_url": "https://github.com/wellington/go-libsass",
 			"homepage": "http://godoc.org/github.com/wellington/go-libsass",
 			"created_at": "2015-04-19T15:09:47Z",
-			"updated_at": "2021-06-18T22:31:34Z",
+			"updated_at": "2021-06-23T15:09:17Z",
 			"svn_url": "https://github.com/wellington/go-libsass",
-			"stargazers_count": 178,
-			"watchers_count": 178,
+			"stargazers_count": 179,
+			"watchers_count": 179,
 			"forks_count": 22,
 			"open_issues_count": 13
 		}
