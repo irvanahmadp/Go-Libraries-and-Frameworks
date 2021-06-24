@@ -475,6 +475,29 @@ Packages to support functional programming in Go.
 | [gofp](https://github.com/rbrahul/gofp) | 74 | 3 | 0 | A super simple Lodash like utility library with essential functions that empowers the development in Go | 2021-02-19 00:01:39 | 2021-06-14 20:02:58 |
 </details>
 
+### Job Scheduler
+Libraries for scheduling jobs.
+
+<sup>*Last Update: 2021-06-24 08:56:03*</sup>
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [gocron](https://github.com/go-co-op/gocron) | 889 | 78 | 10 | Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron | 2020-03-20 15:33:05 | 2021-06-24 00:15:13 |
+| [gron](https://github.com/roylee0704/gron) | 862 | 52 | 8 | gron, Cron Jobs in Go. | 2016-06-04 08:02:22 | 2021-06-17 09:41:34 |
+| [jobrunner](https://github.com/bamzi/jobrunner) | 853 | 73 | 10 | Framework for performing work asynchronously, outside of the request flow | 2015-10-21 04:17:01 | 2021-06-20 23:52:04 |
+| [jobs](https://github.com/albrow/jobs) | 482 | 39 | 17 | A persistent and flexible background jobs library for go. | 2015-02-09 22:13:29 | 2021-05-31 17:24:28 |
+| [scheduler](https://github.com/carlescere/scheduler) | 368 | 49 | 6 | Job scheduling made easy. | 2015-02-03 17:10:23 | 2021-06-16 20:42:40 |
+| [go-cron](https://github.com/rk/go-cron) | 202 | 16 | 0 | A simple Cron library for go that can execute closures or functions at varying intervals, from once a second to once a year on a specific date and time. Primarily for web applications and long running daemons. | 2011-04-15 14:50:49 | 2021-06-13 02:29:27 |
+| [go-quartz](https://pkg.go.dev/github.com/reugn/go-quartz/quartz) | 144 | 12 | 0 | Simple, zero-dependency scheduling library for Go | 2019-04-14 18:57:51 | 2021-06-20 09:39:03 |
+| [clockwerk](https://github.com/onatm/clockwerk) | 107 | 10 | 0 | Job Scheduling Library | 2017-04-09 23:10:48 | 2021-06-18 08:30:15 |
+| [leprechaun](https://github.com/kilgaloon/leprechaun) | 82 | 11 | 13 | You had one job, or more then one, which can be done in steps | 2018-04-08 13:44:04 | 2021-04-04 05:43:31 |
+| [tasks](https://github.com/madflojo/tasks) | 45 | 3 | 1 | Package tasks is an easy to use in-process scheduler for recurring tasks in Go | 2019-12-24 18:26:18 | 2021-06-08 09:12:47 |
+| [clockwork](https://github.com/whiteShtef/clockwork) | 28 | 12 | 2 | Job Scheduling Library | 2020-02-21 01:25:57 | 2021-06-19 03:47:34 |
+| [cronticker](https://github.com/krayzpipes/cronticker) | 1 | 0 | 0 | Golang ticker that works with Cron scheduling. | 2020-11-28 20:59:38 | 2021-01-02 01:57:07 |
+</details>
+
 ### Logging
 Libraries for generating and working with log files.
 
@@ -842,6 +865,72 @@ Official experimental tooling for package management
 | [rebed](https://github.com/soypat/rebed) | 15 | 1 | 0 | Recreates directory and files from embedded filesystem using Go 1.16 embed.FS type. | 2021-02-17 18:19:49 | 2021-06-09 06:01:08 |
 | [mule](https://github.com/wlbr/mule) | 9 | 1 | 1 | mule is a tool to be used with 'go generate' to embed external resources files into Go code. | 2020-01-17 10:56:00 | 2021-01-05 11:20:02 |
 | [debme](https://github.com/leaanthony/debme) | 7 | 1 | 0 | embed.FS wrapper providing additional functionality | 2021-04-16 00:25:13 | 2021-06-07 21:17:48 |
+</details>
+
+### Security
+Libraries that are used to help make your application more secure.
+
+<sup>*Last Update: 2021-06-24 08:56:08*</sup>
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [lego](https://go-acme.github.io/lego/) | 4,657 | 619 | 116 | Let's Encrypt client and ACME library written in Go | 2015-06-08 00:36:41 | 2021-06-23 21:29:14 |
+| [cameradar](https://github.com/Ullaakut/cameradar) | 2,595 | 354 | 13 | Cameradar hacks its way into RTSP videosurveillance cameras | 2016-05-20 11:35:41 | 2021-06-23 23:01:17 |
+| [crypto](https://golang.org/x/crypto) | 2,198 | 1,216 | 42 | [mirror] Go supplementary cryptography libraries | 2014-12-04 04:02:55 | 2021-06-21 01:49:15 |
+| [memguard](https://github.com/awnumar/memguard) | 1,956 | 89 | 4 | Secure software enclave for storage of sensitive information in memory. | 2017-04-22 07:40:40 | 2021-06-19 07:23:19 |
+| [acmetool](https://hlandau.github.io/acmetool/) | 1,854 | 117 | 64 | :lock: acmetool, an automatic certificate acquisition tool for ACME (Let's Encrypt) | 2015-11-15 01:56:02 | 2021-06-20 09:01:52 |
+| [secure](https://github.com/unrolled/secure) | 1,764 | 111 | 3 | HTTP middleware for Go that facilitates some quick security wins. | 2014-05-20 19:46:28 | 2021-06-22 14:15:33 |
+| [themis](https://www.cossacklabs.com/themis) | 1,300 | 110 | 9 | Easy to use cryptographic framework for data protection: secure messaging with forward secrecy and secure data storage. Has unified APIs across 14 platforms. | 2015-05-06 13:25:25 | 2021-06-22 07:24:06 |
+| [acra](https://www.cossacklabs.com/acra/) | 768 | 89 | 7 | Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("transparent") encryption. SQL, NoSQL. | 2016-11-14 16:23:25 | 2021-06-23 19:44:49 |
+| [nacl](https://godoc.org/github.com/kevinburke/nacl) | 506 | 28 | 3 | Pure Go implementation of the NaCL set of API's | 2017-07-20 19:07:19 | 2021-06-14 07:43:03 |
+| [firewalld-rest](https://pkg.go.dev/github.com/prashantgupta24/firewalld-rest) | 306 | 12 | 1 | A rest application to update firewalld rules on a linux server  | 2020-06-12 20:16:33 | 2021-03-26 06:41:02 |
+| [badactor](https://badactor.org) | 297 | 14 | 1 | BadActor.org An in-memory application driven jailer written in Go | 2014-12-12 20:05:20 | 2021-06-07 23:16:59 |
+| [ssh-vault](https://ssh-vault.com) | 290 | 20 | 8 | 🌰  encrypt/decrypt using ssh keys | 2016-09-29 14:46:30 | 2021-06-19 22:23:59 |
+| [optimus-go](https://github.com/pjebs/optimus-go) | 278 | 18 | 0 | ID hashing and Obfuscation using Knuth's Algorithm | 2015-05-05 10:12:38 | 2021-06-23 03:06:21 |
+| [go-password-validator](https://qvault.io/2020/10/15/how-to-correctly-validate-passwords-most-websites-do-it-wrong/) | 278 | 19 | 0 | Validate the Strength of a Password in Go | 2020-10-14 15:52:14 | 2021-06-17 14:03:10 |
+| [passlib](https://github.com/hlandau/passlib) | 242 | 26 | 1 | :key: Idiotproof golang password validation library inspired by Python's passlib | 2014-12-21 17:45:52 | 2021-05-24 05:31:48 |
+| [go-yara](https://github.com/hillu/go-yara) | 211 | 79 | 4 | Go bindings for YARA | 2015-01-25 01:01:11 | 2021-06-16 07:44:48 |
+| [simple-scrypt](https://github.com/elithrar/simple-scrypt) | 171 | 19 | 4 | A convenience library for generating, comparing and inspecting password hashes using the scrypt KDF in Go 🔑 | 2015-04-14 06:52:21 | 2021-05-21 04:32:23 |
+| [argon2pw](https://github.com/raja/argon2pw) | 86 | 7 | 0 | Argon2 password hashing package for go with constant time hash comparison | 2018-03-13 13:56:36 | 2021-06-05 14:35:16 |
+| [goSecretBoxPassword](https://github.com/dwin/goSecretBoxPassword) | 42 | 6 | 0 | A probably paranoid Golang utility library for securely hashing and encrypting passwords based on the Dropbox method. This implementation uses Blake2b, Scrypt and XSalsa20-Poly1305 (via NaCl SecretBox) to create secure password hashes that are also encrypted using a master passphrase. | 2017-10-19 19:34:45 | 2021-05-04 18:20:06 |
+| [certificates](https://github.com/mvmaasakkers/certificates) | 20 | 3 | 0 | An opinionated helper for generating tls certificates | 2019-03-04 07:20:36 | 2020-12-09 19:50:01 |
+| [go-generate-password](https://github.com/m1/go-generate-password) | 19 | 2 | 1 | Password generator written in Go | 2019-11-14 17:57:19 | 2021-06-03 14:24:14 |
+| [secureio](https://github.com/xaionaro-go/secureio) | 16 | 1 | 1 | An easy-to-use XChaCha20-encryption wrapper for io.ReadWriteCloser (even lossy UDP) using ECDH key exchange algorithm, ED25519 signatures and Blake3+Poly1305 checksums/message-authentication for Go (golang). Also a multiplexer. | 2018-12-25 14:20:59 | 2021-05-25 04:45:16 |
+| [goArgonPass](https://github.com/dwin/goArgonPass) | 14 | 5 | 1 | goArgonPass is a Argon2 Password utility package for Go using the crypto library package Argon2 designed to be compatible with Passlib for Python and Argon2 PHP. Argon2 was the winner of the most recent Password Hashing Competition. This is designed for use anywhere password hashing and verification might be needed and is intended to replace implementations using bcrypt or Scrypt. | 2018-05-30 01:32:10 | 2021-02-01 13:35:19 |
+| [argon2-hashing](https://www.cossacklabs.com/acra/) | 12 | 1 | 0 | A light package for generating and comparing password hashing with argon2 in Go | 2019-01-02 20:41:02 | 2021-05-15 23:48:59 |
+| [sslmgr](https://github.com/adrianosela/sslmgr) | 11 | 2 | 0 | A layer of abstraction the around acme/autocert certificate manager (Golang) | 2019-04-02 17:35:38 | 2021-06-10 17:50:47 |
+</details>
+
+### Serialization
+Libraries and tools for binary serialization.
+
+<sup>*Last Update: 2021-06-24 08:56:17*</sup>
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [go](http://jsoniter.com/migrate-from-go-std.html) | 9,439 | 769 | 143 | A high-performance 100% compatible drop-in replacement of "encoding/json" | 2016-11-30 00:30:24 | 2021-06-24 01:39:25 |
+| [protobuf](https://github.com/golang/protobuf) | 7,729 | 1,413 | 51 | Go support for Google's protocol buffers | 2014-11-23 23:07:23 | 2021-06-23 14:27:39 |
+| [protobuf](https://github.com/gogo/protobuf) | 4,667 | 608 | 207 | [Looking for new ownership] Protocol Buffers for Go with Gadgets | 2014-12-03 11:27:10 | 2021-06-23 06:48:20 |
+| [mapstructure](https://github.com/mitchellh/mapstructure) | 4,584 | 482 | 40 | Go library for decoding generic map values into native Go structures and vice versa. | 2013-05-20 05:24:34 | 2021-06-23 15:32:52 |
+| [go](https://github.com/ugorji/go) | 1,545 | 259 | 1 | idiomatic codec and rpc lib for msgpack, cbor, json, etc. msgpack.org[Go] | 2013-05-30 02:13:13 | 2021-06-23 07:19:52 |
+| [colfer](https://github.com/pascaldekloe/colfer) | 606 | 48 | 12 | binary serialization format | 2015-09-05 16:42:41 | 2021-06-05 14:01:53 |
+| [csvutil](https://github.com/jszwec/csvutil) | 540 | 29 | 0 | csvutil provides fast and idiomatic mapping between CSV and Go (golang) values. | 2017-10-30 04:09:48 | 2021-06-23 10:39:47 |
+| [cbor](https://github.com/fxamacker/cbor) | 284 | 21 | 9 | CBOR codec (in Go) with CBOR tags, Go struct tags (toarray/keyasint/omitempty), float64/32/16, big.Int, and fuzz tested billions of execs for reliable RFC 7049 & RFC 8949.  | 2019-05-15 21:22:15 | 2021-06-23 13:10:09 |
+| [go-capnproto](https://github.com/glycerine/go-capnproto) | 279 | 18 | 1 | Cap'n Proto library and parser for go. This is go-capnproto-1.0, and does not have rpc. See https://github.com/zombiezen/go-capnproto2 for 2.0 which has rpc and capabilities. | 2013-11-07 20:28:12 | 2021-06-14 12:15:27 |
+| [php_session_decoder](https://github.com/yvasiyarov/php_session_decoder) | 149 | 41 | 3 | PHP session encoder/decoder written in Go | 2012-12-23 14:04:25 | 2021-06-17 08:52:21 |
+| [bambam](https://github.com/glycerine/bambam) | 62 | 10 | 3 | auto-generate capnproto schema from your golang source files. Depends on go-capnproto-1.0 at https://github.com/glycerine/go-capnproto | 2014-09-17 14:39:12 | 2021-03-04 20:35:06 |
+| [asn1](https://github.com/Logicalis/asn1) | 47 | 21 | 6 | Asn.1 BER and DER encoding library for golang. | 2016-02-29 13:00:25 | 2020-08-21 06:42:00 |
+| [binstruct](https://github.com/ghostiam/binstruct) | 31 | 5 | 0 | Golang binary decoder for mapping data into the structure | 2018-10-23 15:42:22 | 2021-05-31 21:50:02 |
+| [elastic](https://github.com/epiclabs-io/elastic) | 15 | 1 | 1 | Converts go types no matter what | 2020-02-25 19:55:00 | 2021-05-20 08:50:22 |
+| [fwencoder](https://github.com/o1egl/fwencoder) | 14 | 3 | 0 | Fixed width file parser (encoder/decoder) in GO (golang) | 2017-12-25 12:55:29 | 2020-09-10 10:26:54 |
+| [pletter](https://github.com/vimeda/pletter) | 14 | 1 | 3 | A standard way to wrap a proto message | 2019-07-09 14:02:08 | 2021-05-21 04:32:24 |
+| [bel](https://github.com/csweichel/bel) | 12 | 4 | 2 | Generate TypeScript interfaces from Go structs/interfaces - useful for JSON RPC | 2019-02-20 20:48:24 | 2021-03-06 17:17:44 |
+| [fixedwidth](https://github.com/huydang284/fixedwidth) | 5 | 0 | 0 | A Go package for encode/decode fixed-width data | 2019-08-11 03:42:24 | 2020-12-07 08:51:25 |
+| [go-lctree](https://github.com/sbourlon/go-lctree) | 2 | 0 | 0 | go-lctree provides a CLI and Go primitives to serialize and deserialize LeetCode binary trees (e.g. "[5,4,7,3,null,2,null,-1,null,9]"). | 2020-05-04 05:39:46 | 2020-12-24 05:48:12 |
 </details>
 
 ### Server Applications
