@@ -1,8 +1,8 @@
 {
-	"last_update": 1624585484,
+	"last_update": 1624591524,
 	"rate_limit": 60,
 	"rate_limit_remaining": 0,
-	"rate_limit_reset": 1624589060,
+	"rate_limit_reset": 1624592714,
 	"categories": [
 		{
 			"name": "Audio and Music",
@@ -152,7 +152,7 @@
 		{
 			"name": "Generation and Generics",
 			"description": "Tools to enhance the language with features like generics via code generation.",
-			"last_update": 0
+			"last_update": 1624591501
 		},
 		{
 			"name": "Geographic",
@@ -237,7 +237,7 @@
 		{
 			"name": "Natural Language Processing",
 			"description": "Libraries for working with human languages.",
-			"last_update": 0
+			"last_update": 1624591507
 		},
 		{
 			"name": "Networking",
