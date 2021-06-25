@@ -213,7 +213,7 @@ Libraries and tools helping with build automation.
 ### CSS Preprocessors
 Libraries for preprocessing CSS files.
 
-<sup>*Last Update: 2021-06-25 10:25:23*</sup>
+<sup>*Last Update: 2021-06-25 12:40:04*</sup>
 <details>
   <summary>Show Table</summary>
 
@@ -355,6 +355,33 @@ Tools for help with continuous integration.
 | [migrator](https://github.com/larapulse/migrator) | 8 | 1 | 0 | MySQL database migrator | 2020-06-27 14:40:29 | 2021-06-14 12:50:02 |
 | [schema](http://pravasan.github.io/pravasan/) | 7 | 1 | 3 | Embedded schema migration package for Go | 2019-09-24 19:27:13 | 2021-01-05 05:27:47 |
 | [go-pg-migrate](https://pkg.go.dev/github.com/lawzava/go-pg-migrate) | 4 | 1 | 0 | CLI-friendly package for go-pg migrations management. | 2021-01-16 17:01:32 | 2021-02-17 10:16:36 |
+</details>
+
+### Database - Database tools
+
+
+<sup>*Last Update: 2021-06-25 12:39:54*</sup>
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [vitess](http://vitess.io) | 12,090 | 1,542 | 682 | Vitess is a database clustering system for horizontal scaling of MySQL. | 2013-06-27 21:20:28 | 2021-06-24 17:01:25 |
+| [pgweb](http://sosedoff.github.io/pgweb) | 6,907 | 545 | 53 | Cross-platform client for PostgreSQL databases | 2014-10-09 01:41:32 | 2021-06-24 07:07:07 |
+| [kingshard](https://github.com/flike/kingshard) | 5,711 | 1,143 | 153 | A high-performance MySQL proxy | 2015-07-04 02:22:32 | 2021-06-23 02:56:52 |
+| [orchestrator](https://github.com/openark/orchestrator) | 4,117 | 703 | 341 | MySQL replication topology management and HA | 2016-11-30 13:44:24 | 2021-06-25 02:51:57 |
+| [go-mysql-elasticsearch](https://github.com/go-mysql-org/go-mysql-elasticsearch) | 3,503 | 683 | 197 | Sync MySQL data into elasticsearch  | 2015-01-15 09:54:18 | 2021-06-24 11:39:22 |
+| [go-mysql](https://github.com/go-mysql-org/go-mysql) | 3,107 | 700 | 146 | a powerful mysql toolset with Go | 2014-02-21 01:56:45 | 2021-06-24 17:47:50 |
+| [prest](https://prestd.com) | 2,698 | 194 | 138 | pREST (PostgreSQL REST), simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new | 2016-11-22 05:17:05 | 2021-06-25 01:29:56 |
+| [chproxy](https://github.com/Vertamedia/chproxy) | 636 | 136 | 36 | ClickHouse http proxy and load balancer | 2017-09-18 13:09:23 | 2021-06-25 03:36:40 |
+| [pg_timetable](https://www.cybertec-postgresql.com/en/products/pg_timetable/) | 409 | 24 | 2 | pg_timetable: Advanced scheduling for PostgreSQL | 2018-12-19 10:19:51 | 2021-06-24 16:55:54 |
+| [clickhouse-bulk](https://github.com/nikepan/clickhouse-bulk) | 286 | 60 | 14 | Collects many small inserts to ClickHouse and send in big inserts | 2017-04-29 10:38:41 | 2021-06-25 03:35:34 |
+| [myreplication](https://github.com/2tvenom/myreplication) | 173 | 45 | 5 | Golang MySql binary log replication listener | 2015-02-04 20:59:49 | 2021-06-01 07:46:11 |
+| [octillery](https://github.com/blastrain/octillery) | 140 | 18 | 6 | Go package for sharding databases ( Supports every ORM or raw SQL ) | 2018-11-26 10:39:35 | 2021-06-24 02:16:54 |
+| [dbbench](https://github.com/sj14/dbbench) | 59 | 6 | 12 | 🏋️ dbbench is a simple database benchmarking tool which supports several databases and own scripts | 2018-11-24 13:21:18 | 2021-06-24 07:16:51 |
+| [datagen](https://github.com/codingconcepts/datagen) | 33 | 4 | 0 | A fast data generator that's multi-table aware and supports multi-row DML. | 2019-04-18 19:58:01 | 2021-06-06 20:04:05 |
+| [prep](http://sosedoff.github.io/pgweb) | 28 | 2 | 0 | Prep finds all SQL statements in a Go package and instruments db connection with prepared statements | 2017-12-11 23:47:38 | 2021-05-03 10:39:05 |
+| [rwdb](https://prestd.com) | 12 | 0 | 0 | Database wrapper that manage read write connections | 2017-10-04 03:55:29 | 2021-05-29 03:21:37 |
 </details>
 
 ### Database - Databases implemented in Go
@@ -533,6 +560,28 @@ Tools for compiling Go to other languages.
 | [tardisgo](http://tardisgo.github.io) | 406 | 25 | 4 | Golang->Haxe->CPP/CSharp/Java/JavaScript transpiler   | 2014-01-08 11:07:33 | 2021-05-27 06:23:26 |
 | [c4go](https://github.com/Konstantin8105/c4go) | 267 | 30 | 23 | Transpiling C code to Go code | 2018-03-28 06:24:57 | 2021-06-23 14:47:26 |
 | [f4go](https://github.com/Konstantin8105/f4go) | 24 | 5 | 4 | Transpiling fortran code to golang code | 2018-07-08 17:05:43 | 2021-06-15 21:53:09 |
+</details>
+
+### IoT (Internet of Things)
+Libraries for programming devices of the IoT.
+
+<sup>*Last Update: 2021-06-25 12:39:49*</sup>
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [gobot](https://gobot.io) | 7,204 | 904 | 163 | Golang framework for robotics, drones, and the Internet of Things (IoT) | 2013-09-21 14:09:19 | 2021-06-25 03:06:28 |
+| [flogo](http://flogo.io) | 1,767 | 239 | 153 | Project Flogo is an open source ecosystem of opinionated  event-driven capabilities to simplify building efficient & modern serverless functions, microservices & edge apps. | 2016-07-10 02:57:43 | 2021-06-24 13:13:41 |
+| [periph](https://periph.io) | 1,662 | 175 | 42 | Go·Hardware·Lean | 2016-10-13 16:53:51 | 2021-06-22 17:19:07 |
+| [mainflux](https://www.mainflux.io) | 1,444 | 434 | 92 | Industrial IoT Messaging and Device Management Platform | 2015-07-06 20:31:50 | 2021-06-24 01:48:02 |
+| [gatt](http://flogo.io) | 978 | 260 | 51 | Gatt is a Go package for building Bluetooth Low Energy peripherals | 2014-04-23 13:45:27 | 2021-06-18 01:24:00 |
+| [heedy](https://heedy.org) | 276 | 27 | 7 | An aggregator for personal metrics, and an extensible analysis engine | 2015-01-16 19:44:21 | 2021-06-22 20:36:43 |
+| [devices](https://github.com/goiot/devices) | 241 | 24 | 9 | Suite of libraries for IoT devices (written in Go), experimental for x/exp/io | 2016-05-30 08:07:02 | 2021-05-25 19:15:47 |
+| [sensorbee](http://sensorbee.io/) | 203 | 33 | 39 | Lightweight stream processing engine for IoT | 2016-02-19 07:49:56 | 2021-05-19 21:00:03 |
+| [huego](https://github.com/amimof/huego) | 182 | 28 | 3 | An extensive Philips Hue client library for Go with an emphasis on simplicity | 2017-05-16 05:31:45 | 2021-06-11 14:38:11 |
+| [iot](https://github.com/vaelen/iot) | 52 | 7 | 0 | A Go client for Google IoT Core | 2018-03-08 06:51:51 | 2021-04-30 18:44:01 |
+| [eywa](https://github.com/xcodersun/eywa) | 48 | 11 | 9 | Make IoT a lot more fun with data.  | 2016-02-20 17:02:16 | 2021-03-19 19:55:56 |
 </details>
 
 ### JSON
@@ -993,6 +1042,38 @@ Libraries for making HTTP requests.
 | [rq](https://github.com/ddo/rq) | 39 | 2 | 1 | A nicer interface for golang stdlib HTTP client | 2017-12-26 10:48:27 | 2021-06-15 12:31:58 |
 | [go-http-client](https://github.com/bozd4g/go-http-client) | 25 | 4 | 0 | An enhanced http client for Golang | 2019-12-14 11:22:19 | 2021-05-21 05:19:24 |
 | [httpretry](https://github.com/ybbus/httpretry) | 14 | 1 | 0 | Enriches the standard go http client with retry functionality. | 2020-02-05 10:17:42 | 2021-05-20 19:41:31 |
+</details>
+
+### ORM
+Libraries that implement Object-Relational Mapping or datamapping techniques.
+
+<sup>*Last Update: 2021-06-25 12:39:40*</sup>
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [gorm](https://gorm.io) | 24,240 | 2,763 | 99 | The fantastic ORM library for Golang, aims to be developer friendly | 2013-10-25 08:31:38 | 2021-06-25 03:38:53 |
+| [ent](https://entgo.io) | 7,482 | 384 | 126 | An entity framework for Go | 2019-06-12 22:53:55 | 2021-06-25 03:58:16 |
+| [pg](https://pg.uptrace.dev/) | 4,684 | 348 | 100 | Golang ORM with focus on PostgreSQL features and performance | 2013-04-24 12:31:41 | 2021-06-25 03:30:33 |
+| [sqlboiler](https://github.com/volatiletech/sqlboiler) | 4,029 | 387 | 102 | Generate a Go ORM tailored to your database schema. | 2016-02-21 06:18:25 | 2021-06-25 05:31:24 |
+| [gorp](https://github.com/go-gorp/gorp) | 3,498 | 373 | 135 | Go Relational Persistence - an ORM-ish library for Go | 2012-01-04 19:50:09 | 2021-06-23 15:04:59 |
+| [db](https://upper.io/) | 2,592 | 182 | 127 | Data access layer for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features. | 2013-10-23 02:04:36 | 2021-06-25 03:57:52 |
+| [gormt](https://xxjwxc.github.io/post/gormt/) | 1,264 | 214 | 26 | database to golang struct | 2019-05-05 13:10:26 | 2021-06-25 02:33:20 |
+| [reform](https://gopkg.in/reform.v1) | 1,148 | 51 | 71 | A better ORM for Go, based on non-empty interfaces and code generation. | 2016-02-25 09:41:09 | 2021-06-24 15:04:34 |
+| [pop](https://github.com/gobuffalo/pop) | 1,077 | 217 | 119 | A Tasty Treat For All Your Database Needs | 2018-02-07 21:13:46 | 2021-06-24 17:52:53 |
+| [go-queryset](https://github.com/jirfag/go-queryset) | 620 | 56 | 17 | 100% type-safe ORM for Go (Golang) with code generation and MySQL, PostgreSQL, Sqlite3, SQL Server support. GORM under the hood. | 2017-09-03 17:29:30 | 2021-06-17 04:28:12 |
+| [go-sqlbuilder](https://pkg.go.dev/github.com/huandu/go-sqlbuilder) | 593 | 61 | 1 | A flexible and powerful SQL string builder library plus a zero-config ORM. | 2017-12-27 16:37:48 | 2021-06-13 15:32:26 |
+| [qbs](https://github.com/coocood/qbs) | 550 | 103 | 9 | QBS stands for Query By Struct. A Go ORM. | 2013-02-02 05:40:59 | 2021-05-05 01:33:06 |
+| [rel](https://go-rel.github.io/) | 365 | 33 | 12 | :gem: Database Access Layer for Golang - Testable, Extendable and Crafted Into a Clean and Elegant API | 2019-10-06 07:08:01 | 2021-06-23 09:41:07 |
+| [zoom](https://github.com/albrow/zoom) | 276 | 24 | 2 | A blazing-fast datastore and querying engine for Go built on Redis. | 2013-07-17 00:32:34 | 2021-05-28 10:28:40 |
+| [beego](beego.me) | 190 | 51 | 0 | beego is an open-source, high-performance web framework for the Go programming language. | 2020-12-13 14:58:50 | 2021-06-25 02:31:47 |
+| [grimoire](https://fs02.github.io/grimoire) | 150 | 15 | 0 | Database access layer for golang | 2018-03-05 16:52:20 | 2021-06-14 20:06:55 |
+| [gosql](https://github.com/rushteam/gosql) | 142 | 15 | 2 | golang orm and sql builder | 2020-04-27 09:16:29 | 2021-06-21 07:03:38 |
+| [go-store](https://github.com/gosuri/go-store) | 102 | 8 | 1 | A simple and fast Redis backed key-value store library for Go | 2015-03-22 12:07:29 | 2021-06-05 22:34:23 |
+| [go-firestorm](https://github.com/jschoedt/go-firestorm) | 24 | 6 | 3 | Simple Go ORM for Google/Firebase Cloud Firestore | 2018-12-04 14:53:53 | 2021-05-21 05:19:28 |
+| [lore](https://github.com/abrahambotros/lore) | 7 | 1 | 0 | Light Object-Relational Environment (LORE) provides a simple and lightweight pseudo-ORM/pseudo-struct-mapping environment for Go | 2017-04-29 03:57:15 | 2021-04-20 15:13:47 |
+| [marlow](https://github.com/marlow/marlow) | 6 | 0 | 0 | persistence layer code generation for golang | 2020-08-11 13:34:00 | 2021-05-22 15:11:30 |
 </details>
 
 ### OpenGL
@@ -1588,14 +1669,14 @@ Full stack web frameworks.
 ### Windows
 
 
-<sup>*Last Update: 2021-06-21 01:48:39*</sup>
+<sup>*Last Update: 2021-06-25 12:40:03*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [go-ole](https://github.com/go-ole/go-ole) | 758 | 139 | 53 | win32 ole implementation for golang | 2011-01-21 12:45:20 | 2021-06-15 07:38:41 |
-| [d3d9](https://github.com/gonutz/d3d9) | 122 | 9 | 0 | Direct3D9 wrapper for Go. | 2015-12-12 21:24:38 | 2021-06-19 22:32:48 |
+| [go-ole](https://github.com/go-ole/go-ole) | 759 | 139 | 54 | win32 ole implementation for golang | 2011-01-21 12:45:20 | 2021-06-20 21:21:12 |
+| [d3d9](https://github.com/gonutz/d3d9) | 123 | 9 | 0 | Direct3D9 wrapper for Go. | 2015-12-12 21:24:38 | 2021-06-20 12:58:01 |
 | [gosddl](https://github.com/MonaxGT/gosddl) | 5 | 1 | 0 | GoSDDL converter | 2018-12-04 08:36:11 | 2021-02-14 13:03:11 |
 </details>
 
