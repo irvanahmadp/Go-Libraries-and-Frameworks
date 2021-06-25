@@ -487,10 +487,60 @@ Tools for updating dynamic DNS records.
 | [ddns](https://github.com/skibish/ddns) | 192 | 19 | 0 | Personal DDNS client with Digital Ocean Networking DNS as backend. | 2017-03-13 21:02:27 | 2021-06-20 17:48:23 |
 </details>
 
+### Error Handling
+Libraries for handling errors.
+
+<sup>*Last Update: 2021-06-25 14:25:01*</sup>
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [errors](https://godoc.org/github.com/pkg/errors) | 7,015 | 530 | 41 | Simple error handling primitives | 2015-12-27 12:05:38 | 2021-06-24 14:46:36 |
+| [go-multierror](https://github.com/hashicorp/go-multierror) | 1,291 | 85 | 12 | A Go (golang) package for representing a list of errors as a single error. | 2014-12-15 20:12:26 | 2021-06-24 09:55:19 |
+| [eris](https://github.com/rotisserie/eris) | 815 | 19 | 0 | eris provides a better way to handle, trace, and log errors in Go 🎆 | 2019-09-07 16:50:33 | 2021-06-25 06:23:24 |
+| [errorx](https://github.com/joomcode/errorx) | 748 | 25 | 4 | A comprehensive error handling library for Go | 2018-08-17 08:02:10 | 2021-06-17 15:47:01 |
+| [tracerr](https://github.com/ztrue/tracerr) | 660 | 24 | 1 | Golang errors with stack trace and source fragments. | 2019-02-06 18:57:46 | 2021-06-18 16:57:15 |
+| [errlog](https://github.com/snwfdhmp/errlog) | 396 | 16 | 1 | Reduce debugging time while programming Go. Use static and stack-trace analysis to determine which func call causes the error. | 2019-02-16 23:19:05 | 2021-06-14 15:23:44 |
+| [emperror](https://emperror.dev/emperror) | 216 | 11 | 5 | The Emperor takes care of all errors personally | 2017-06-13 00:24:28 | 2021-06-22 03:36:37 |
+| [errors](https://emperror.dev/errors) | 96 | 4 | 6 | Drop-in replacement for the standard library errors package and github.com/pkg/errors | 2019-07-09 13:02:52 | 2021-06-04 10:46:01 |
+| [errors](https://github.com/bnkamalesh/errors) | 23 | 3 | 0 | A drop-in replacement for Go errors, with some added sugar! Unwrap user-friendly messages, HTTP status code, easy wrapping with multiple error types. | 2020-07-17 18:57:04 | 2021-06-19 13:37:32 |
+| [falcon](https://github.com/SonicRoshan/falcon) | 6 | 0 | 0 | A Simple Yet Highly Powerful Package For Error Handling | 2019-09-09 12:49:43 | 2020-07-29 05:20:41 |
+| [errors](https://github.com/neuronlabs/errors) | 3 | 0 | 0 | Simple golang error handling with classification primitives. | 2019-07-26 00:15:36 | 2020-01-23 14:57:00 |
+| [errors](https://github.com/PumpkinSeed/errors) | 2 | 0 | 0 | Simple and efficient error package  | 2020-01-08 21:12:51 | 2020-02-08 06:50:05 |
+</details>
+
+### Financial
+Packages for accounting and finance.
+
+<sup>*Last Update: 2021-06-25 14:25:15*</sup>
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [decimal](https://github.com/shopspring/decimal) | 3,094 | 375 | 59 | Arbitrary-precision fixed-point decimal numbers in go | 2015-02-25 20:12:57 | 2021-06-25 06:41:19 |
+| [go-money](https://github.com/Rhymond/go-money) | 953 | 82 | 20 | Go implementation of Fowler's Money pattern | 2017-03-20 16:23:54 | 2021-06-24 06:05:31 |
+| [accounting](https://github.com/leekchan/accounting) | 659 | 50 | 6 | money and currency formatting for golang | 2015-08-10 13:23:56 | 2021-06-24 18:20:57 |
+| [go-finance](https://github.com/FlashBoys/go-finance) | 534 | 49 | 4 | :warning: Deprecrated in favor of https://github.com/piquette/finance-go  | 2016-02-28 00:37:46 | 2021-06-23 04:00:30 |
+| [techan](https://godoc.org/github.com/sdcoffey/techan) | 466 | 79 | 18 | Technical Analysis Library for Golang | 2017-03-08 03:04:08 | 2021-06-23 21:07:51 |
+| [currency](https://pkg.go.dev/github.com/bojanz/currency) | 260 | 10 | 3 | Currency handling for Go. | 2020-04-16 15:34:39 | 2021-06-23 07:08:12 |
+| [orderbook](https://github.com/i25959341/orderbook) | 209 | 68 | 5 | Matching Engine for Limit Order Book in Golang | 2018-04-24 18:05:26 | 2021-06-18 06:10:34 |
+| [go-finance](https://github.com/alpeb/go-finance) | 99 | 17 | 0 | Go library containing a collection of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds and depreciation calculations. | 2017-06-01 15:58:33 | 2021-06-18 06:12:09 |
+| [transaction](https://github.com/claygod/transaction) | 91 | 13 | 0 | Embedded database for accounts transactions. | 2017-10-11 13:50:30 | 2021-06-10 11:42:24 |
+| [ofxgo](https://github.com/aclindsa/ofxgo) | 88 | 19 | 0 | Golang library for querying and parsing OFX | 2015-11-08 13:56:53 | 2021-05-23 10:05:11 |
+| [vat](https://github.com/dannyvankooten/vat) | 82 | 11 | 4 | Go package for dealing with EU VAT. Does VAT number validation & rates retrieval. | 2016-06-18 16:10:09 | 2021-05-12 01:44:47 |
+| [sleet](https://github.com/BoltApp/sleet) | 58 | 7 | 6 | Payment abstraction library - one interface for multiple payment processors ( inspired by Ruby's ActiveMerchant ) | 2019-11-13 21:56:58 | 2021-06-22 02:07:27 |
+| [go-finnhub](https://github.com/m1/go-finnhub) | 56 | 12 | 0 | Simple and easy to use client for stock market, forex and crypto data from finnhub.io written in Go. Access real-time financial market data from 60+ stock exchanges, 10 forex brokers, and 15+ crypto exchanges | 2020-01-13 20:47:13 | 2021-05-04 02:48:46 |
+| [currency](https://github.com/bnkamalesh/currency) | 39 | 5 | 0 | A currency computations package. | 2017-05-09 06:06:38 | 2021-04-01 19:00:35 |
+| [fastme](https://github.com/newity/fastme) | 24 | 4 | 0 | Arbitrary-precision fixed-point decimal numbers in go | 2020-10-29 13:57:10 | 2021-05-31 12:29:50 |
+| [go-finance](https://www.yellowduck.be) | 5 | 2 | 0 | Finance related Go functions (e.g. exchange rates, VAT number checking, …) | 2019-09-30 06:49:07 | 2021-03-08 22:46:44 |
+</details>
+
 ### Forms
 Libraries for working with forms.
 
-<sup>*Last Update: 2021-06-25 08:44:40*</sup>
+<sup>*Last Update: 2021-06-25 14:25:12*</sup>
 <details>
   <summary>Show Table</summary>
 
@@ -521,6 +571,35 @@ Packages to support functional programming in Go.
 | [fpGo](https://github.com/TeaEntityLab/fpGo) | 179 | 12 | 0 | Monad, Functional Programming features for Golang | 2018-05-24 09:08:45 | 2021-06-15 09:03:59 |
 | [fuego](https://github.com/seborama/fuego) | 91 | 8 | 0 | Functional Experiment in Golang | 2018-11-05 22:24:09 | 2021-05-29 06:02:07 |
 | [gofp](https://github.com/rbrahul/gofp) | 74 | 3 | 0 | A super simple Lodash like utility library with essential functions that empowers the development in Go | 2021-02-19 00:01:39 | 2021-06-14 20:02:58 |
+</details>
+
+### Game Development
+Awesome game development libraries.
+
+<sup>*Last Update: 2021-06-25 14:25:06*</sup>
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [ebiten](https://ebiten.org) | 4,686 | 313 | 212 | A dead simple 2D game library for Go | 2013-06-16 15:13:01 | 2021-06-25 06:48:42 |
+| [leaf](https://github.com/name5566/leaf) | 4,035 | 1,077 | 9 | A game server framework in Go (golang) | 2014-08-04 12:40:08 | 2021-06-25 03:55:46 |
+| [pixel](https://github.com/faiface/pixel) | 3,519 | 205 | 41 | A hand-crafted 2D game library in Go | 2016-11-19 11:15:34 | 2021-06-24 17:40:52 |
+| [goworld](https://github.com/xiaonanln/goworld) | 1,862 | 347 | 16 | Scalable Distributed Game Server Engine with Hot Swapping in Golang | 2017-06-03 15:02:46 | 2021-06-25 03:31:49 |
+| [nano](https://github.com/lonng/nano) | 1,721 | 287 | 16 | Lightweight, facility, high performance golang based game server framework | 2017-08-02 06:05:14 | 2021-06-25 00:41:41 |
+| [go-sdl2](https://godoc.org/github.com/veandco/go-sdl2) | 1,557 | 193 | 51 | SDL2 binding for Go | 2013-06-05 18:30:03 | 2021-06-24 15:21:07 |
+| [engine](http://g3n.rocks) | 1,479 | 151 | 68 | Go 3D Game Engine | 2017-03-07 18:25:09 | 2021-06-24 13:05:19 |
+| [engo](https://engoengine.github.io) | 1,378 | 114 | 51 | Engo is an open-source 2D game engine written in Go. | 2014-11-12 05:50:03 | 2021-06-21 09:41:39 |
+| [termloop](https://github.com/JoelOtter/termloop) | 1,210 | 74 | 5 | Terminal-based game engine for Go, built on top of Termbox | 2015-05-23 17:12:34 | 2021-06-09 08:26:56 |
+| [gonet](https://github.com/xtaci/gonet) | 1,142 | 300 | 0 | A Game Server Skeleton in golang. | 2013-04-11 02:18:23 | 2021-06-25 03:33:49 |
+| [pitaya](https://github.com/topfreegames/pitaya) | 1,059 | 227 | 22 | Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK. | 2018-03-19 19:40:36 | 2021-06-25 06:56:21 |
+| [oak](https://github.com/oakmound/oak) | 893 | 58 | 15 | A pure Go game engine | 2017-07-15 16:24:27 | 2021-06-23 14:44:22 |
+| [raylib-go](https://github.com/gen2brain/raylib-go) | 612 | 68 | 6 | Go bindings for raylib, a simple and easy-to-use library to enjoy videogames programming. | 2017-01-27 08:31:45 | 2021-06-24 01:51:14 |
+| [engine](https://azul3d.org) | 489 | 45 | 82 | Azul3D - A 3D game engine written in Go! | 2016-02-29 04:54:44 | 2021-06-21 20:37:27 |
+| [go-astar](http://g3n.rocks) | 430 | 58 | 1 | Go implementation of the A* search algorithm | 2014-05-28 02:00:03 | 2021-06-22 01:42:56 |
+| [go3d](https://github.com/ungerik/go3d) | 200 | 36 | 2 | A performance oriented 2D/3D math package for Go | 2011-06-27 13:02:26 | 2021-06-24 06:18:57 |
+| [prototype](https://github.com/gonutz/prototype) | 56 | 4 | 1 | Simple 2D game prototyping framework. | 2015-03-04 09:24:39 | 2021-06-12 19:53:11 |
+| [tile](https://github.com/kelindar/tile) | 24 | 1 | 0 | Tile is a 2D grid engine, built with data and cache friendly ways, includes pathfinding and observers. | 2020-08-19 13:23:18 | 2021-06-16 20:36:45 |
 </details>
 
 ### Generation and Generics
@@ -757,13 +836,13 @@ Libraries for Machine Learning.
 ### Microsoft Office
 
 
-<sup>*Last Update: 2021-06-23 15:13:02*</sup>
+<sup>*Last Update: 2021-06-25 14:25:20*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [unioffice](https://unidoc.io/unioffice/) | 2,884 | 322 | 25 | Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents | 2017-08-29 01:25:48 | 2021-06-22 17:13:33 |
+| [unioffice](https://unidoc.io/unioffice/) | 2,883 | 322 | 25 | Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents | 2017-08-29 01:25:48 | 2021-06-24 17:48:49 |
 </details>
 
 ### Microsoft Office - Microsoft Excel
@@ -1232,7 +1311,7 @@ Libraries that are used to help make your application more secure.
 ### Serialization
 Libraries and tools for binary serialization.
 
-<sup>*Last Update: 2021-06-24 08:56:17*</sup>
+<sup>*Last Update: 2021-06-25 14:25:05*</sup>
 <details>
   <summary>Show Table</summary>
 
@@ -1248,6 +1327,7 @@ Libraries and tools for binary serialization.
 | [cbor](https://github.com/fxamacker/cbor) | 284 | 21 | 9 | CBOR codec (in Go) with CBOR tags, Go struct tags (toarray/keyasint/omitempty), float64/32/16, big.Int, and fuzz tested billions of execs for reliable RFC 7049 & RFC 8949.  | 2019-05-15 21:22:15 | 2021-06-23 13:10:09 |
 | [go-capnproto](https://github.com/glycerine/go-capnproto) | 279 | 18 | 1 | Cap'n Proto library and parser for go. This is go-capnproto-1.0, and does not have rpc. See https://github.com/zombiezen/go-capnproto2 for 2.0 which has rpc and capabilities. | 2013-11-07 20:28:12 | 2021-06-14 12:15:27 |
 | [php_session_decoder](https://github.com/yvasiyarov/php_session_decoder) | 149 | 41 | 3 | PHP session encoder/decoder written in Go | 2012-12-23 14:04:25 | 2021-06-17 08:52:21 |
+| [structomap](https://godoc.org/github.com/danhper/structomap) | 122 | 10 | 0 | Easily and dynamically generate maps from Go static structures | 2015-05-13 08:54:11 | 2021-03-01 12:52:38 |
 | [bambam](https://github.com/glycerine/bambam) | 62 | 10 | 3 | auto-generate capnproto schema from your golang source files. Depends on go-capnproto-1.0 at https://github.com/glycerine/go-capnproto | 2014-09-17 14:39:12 | 2021-03-04 20:35:06 |
 | [asn1](https://github.com/Logicalis/asn1) | 47 | 21 | 6 | Asn.1 BER and DER encoding library for golang. | 2016-02-29 13:00:25 | 2020-08-21 06:42:00 |
 | [binstruct](https://github.com/ghostiam/binstruct) | 31 | 5 | 0 | Golang binary decoder for mapping data into the structure | 2018-10-23 15:42:22 | 2021-05-31 21:50:02 |
@@ -1257,6 +1337,7 @@ Libraries and tools for binary serialization.
 | [bel](https://github.com/csweichel/bel) | 12 | 4 | 2 | Generate TypeScript interfaces from Go structs/interfaces - useful for JSON RPC | 2019-02-20 20:48:24 | 2021-03-06 17:17:44 |
 | [fixedwidth](https://github.com/huydang284/fixedwidth) | 5 | 0 | 0 | A Go package for encode/decode fixed-width data | 2019-08-11 03:42:24 | 2020-12-07 08:51:25 |
 | [go-lctree](https://github.com/sbourlon/go-lctree) | 2 | 0 | 0 | go-lctree provides a CLI and Go primitives to serialize and deserialize LeetCode binary trees (e.g. "[5,4,7,3,null,2,null,-1,null,9]"). | 2020-05-04 05:39:46 | 2020-12-24 05:48:12 |
+| [unitpacking](https://github.com/recolude/unitpacking) | 2 | 0 | 0 | A library for storing unit vectors in a representation that lends itself to saving space on disk. | 2021-01-17 22:31:41 | 2021-05-21 04:32:24 |
 </details>
 
 ### Server Applications
