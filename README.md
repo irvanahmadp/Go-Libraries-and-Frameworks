@@ -460,6 +460,27 @@ Tools for updating dynamic DNS records.
 | [ddns](https://github.com/skibish/ddns) | 192 | 19 | 0 | Personal DDNS client with Digital Ocean Networking DNS as backend. | 2017-03-13 21:02:27 | 2021-06-20 17:48:23 |
 </details>
 
+### Forms
+Libraries for working with forms.
+
+<sup>*Last Update: 2021-06-25 08:44:40*</sup>
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [nosurf](http://godoc.org/github.com/justinas/nosurf) | 1,165 | 94 | 9 | CSRF protection middleware for Go. | 2013-08-22 17:47:34 | 2021-06-23 06:02:11 |
+| [binding](http://mholt.github.io/binding) | 780 | 78 | 8 | Reflectionless data binding for Go's net/http (not actively maintained) | 2014-05-20 23:35:14 | 2021-06-21 14:33:41 |
+| [csrf](https://github.com/gorilla/csrf) | 670 | 98 | 1 | gorilla/csrf provides Cross Site Request Forgery (CSRF) prevention middleware for Go web applications & services 🔒 | 2015-08-03 00:35:16 | 2021-06-24 17:54:52 |
+| [form](https://github.com/go-playground/form) | 474 | 28 | 10 | :steam_locomotive: Decodes url.Values into Go value(s) and Encodes Go value(s) into url.Values. Dual Array and Full map support. | 2016-05-26 13:26:40 | 2021-06-24 17:55:09 |
+| [conform](https://github.com/leebenson/conform) | 221 | 29 | 0 | Trims, sanitizes & scrubs data based on struct tags (go, golang) | 2016-01-05 18:00:06 | 2021-06-22 21:45:54 |
+| [formam](https://github.com/monoculum/formam) | 161 | 14 | 2 | a package for decode form's values into struct in Go | 2014-10-25 00:23:30 | 2021-06-13 02:30:20 |
+| [forms](https://github.com/albrow/forms) | 121 | 16 | 2 | A lightweight go library for parsing form data or json from an http.Request. | 2014-08-07 16:11:30 | 2021-06-13 02:29:50 |
+| [qs](https://github.com/sonh/qs) | 57 | 0 | 0 | Go module for encoding structs into URL query parameters | 2020-10-02 09:50:35 | 2021-06-09 20:01:55 |
+| [bind](https://github.com/robfig/bind) | 25 | 3 | 0 |  | 2014-08-06 00:13:10 | 2020-08-28 21:26:49 |
+| [queryparam](https://github.com/TomWright/queryparam) | 9 | 5 | 0 | Go package to easily convert a URL's query parameters/values into usable struct values of the correct types. | 2018-06-14 10:23:05 | 2021-04-08 21:18:27 |
+</details>
+
 ### Functional
 Packages to support functional programming in Go.
 
@@ -612,6 +633,54 @@ Libraries for generating and working with log files.
 | [yell](https://github.com/jfcg/yell) | 1 | 0 | 0 | Yet another minimalistic logging library | 2021-02-07 16:07:27 | 2021-05-21 13:00:39 |
 </details>
 
+### Machine Learning
+Libraries for Machine Learning.
+
+<sup>*Last Update: 2021-06-25 08:44:19*</sup>
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [golearn](https://github.com/sjwhitworth/golearn) | 7,874 | 1,101 | 68 | Machine Learning for Go | 2013-12-26 13:06:14 | 2021-06-24 15:55:37 |
+| [gorgonia](https://github.com/gorgonia/gorgonia) | 4,061 | 353 | 78 | Gorgonia is a library that helps facilitate machine learning in Go. | 2016-09-14 23:19:43 | 2021-06-25 01:21:57 |
+| [tfgo](https://pgaleone.eu/tensorflow/go/2017/05/29/understanding-tensorflow-using-go/) | 1,738 | 132 | 5 | Tensorflow + Go, the gopher way | 2017-05-23 13:27:39 | 2021-06-23 19:40:02 |
+| [gosseract](https://pkg.go.dev/github.com/otiai10/gosseract) | 1,477 | 184 | 13 | Go package for OCR (Optical Character Recognition), by using Tesseract C++ library | 2013-10-11 07:27:53 | 2021-06-24 04:55:17 |
+| [gorse](https://gorse.io) | 1,284 | 144 | 12 | An open source recommender system service written in Go | 2018-08-14 11:01:09 | 2021-06-24 23:09:43 |
+| [goml](https://github.com/cdipaolo/goml) | 1,193 | 113 | 5 | On-line Machine Learning in Go (and so much more) | 2015-06-27 05:52:01 | 2021-06-24 15:58:42 |
+| [eaopt](https://pkg.go.dev/github.com/MaxHalford/eaopt) | 734 | 82 | 6 | :four_leaf_clover: Evolutionary optimization library for Go (genetic algorithm, partical swarm optimization, differential evolution) | 2016-01-31 00:04:52 | 2021-06-22 01:52:06 |
+| [bayesian](https://github.com/jbrukh/bayesian) | 706 | 124 | 8 | Naive Bayesian Classification for Golang. | 2011-11-23 04:17:00 | 2021-06-14 21:27:03 |
+| [CloudForest](https://github.com/ryanbressler/CloudForest) | 686 | 88 | 35 | Ensembles of decision trees in go/golang. | 2012-10-22 17:38:16 | 2021-06-21 08:38:17 |
+| [gobrain](https://github.com/goml/gobrain) | 480 | 55 | 1 | Neural Networks written in go | 2014-04-29 13:32:36 | 2021-06-24 02:01:23 |
+| [ocrserver](https://ocr-example.herokuapp.com/) | 380 | 90 | 0 | A simple OCR API server, seriously easy to be deployed by Docker, on Heroku as well | 2015-11-15 07:57:42 | 2021-06-22 02:53:28 |
+| [onnx-go](https://blog.owulveryck.info/2019/04/03/from-a-project-to-a-product-the-state-of-onnx-go.html) | 330 | 32 | 21 | onnx-go gives the ability to import a pre-trained neural network within Go without being linked to a framework or library. | 2018-08-28 07:39:20 | 2021-06-12 02:06:52 |
+| [go-deep](https://github.com/patrikeh/go-deep) | 315 | 31 | 7 | Artificial Neural Network | 2017-12-09 15:10:06 | 2021-05-27 19:45:03 |
+| [regommend](https://blog.owulveryck.info/2019/04/03/from-a-project-to-a-product-the-state-of-onnx-go.html) | 290 | 26 | 0 | Recommendation engine for Go | 2014-02-05 17:00:49 | 2021-06-21 14:57:05 |
+| [go-galib](https://github.com/thoj/go-galib) | 185 | 42 | 0 | Genetic Algorithms library written in Go / golang | 2009-11-30 10:46:58 | 2021-06-02 23:43:19 |
+| [goptuna](https://pkg.go.dev/github.com/c-bata/goptuna) | 180 | 10 | 11 | A hyperparameter optimization framework, inspired by Optuna. | 2019-07-24 12:03:05 | 2021-06-11 18:10:32 |
+| [goRecommend](https://pkg.go.dev/github.com/c-bata/goptuna) | 173 | 19 | 0 | Collaborative Filtering (CF) Algorithms in Go!  | 2014-07-16 05:32:23 | 2021-06-08 13:28:06 |
+| [shield](https://github.com/eaigner/shield) | 141 | 29 | 5 | Bayesian text classifier with flexible tokenizers and storage backends for Go | 2013-04-10 19:38:16 | 2021-06-12 12:32:27 |
+| [goga](https://github.com/tomcraven/goga) | 107 | 11 | 0 | Golang Genetic Algorithm | 2015-10-20 12:50:51 | 2021-06-06 18:01:17 |
+| [go-fann](https://github.com/vksnk/go-fann) | 103 | 21 | 2 | Go bindings for FANN, library for artificial neural networks | 2011-03-10 21:08:27 | 2021-04-11 03:02:00 |
+| [libsvm](https://pkg.go.dev/github.com/otiai10/gosseract) | 67 | 12 | 1 | libsvm go version | 2012-07-31 07:57:47 | 2021-01-13 19:35:07 |
+| [gonet](https://pkg.go.dev/github.com/dathoangnd/gonet) | 66 | 5 | 0 | Neural Network for Go. | 2020-01-11 18:27:28 | 2021-03-15 23:06:06 |
+| [goscore](https://gorse.io) | 65 | 20 | 3 | Go Scoring API for PMML | 2017-08-19 11:08:39 | 2021-05-17 05:16:58 |
+| [neural-go](https://github.com/schuyler/neural-go) | 62 | 15 | 1 | A multilayer perceptron network implemented in Go, with training via backpropagation. | 2011-10-17 09:31:33 | 2021-06-23 08:27:03 |
+| [go-pr](https://github.com/daviddengcn/go-pr) | 58 | 12 | 0 | Pattern recognition package in Go lang. | 2013-06-07 02:36:20 | 2020-11-22 22:15:28 |
+| [neat](https://github.com/jinyeom/neat) | 58 | 12 | 4 | NEAT (NeuroEvolution of Augmenting Topologies) implemented in Go | 2016-11-17 04:23:14 | 2020-09-07 20:06:39 |
+| [go-featureprocessing](https://github.com/nikolaydubina/go-featureprocessing) | 56 | 5 | 0 | Fast, simple sklearn-like feature processing for Go | 2020-12-18 13:09:18 | 2021-06-22 01:49:37 |
+| [fonet](https://github.com/Fontinalis/fonet) | 44 | 9 | 2 | fonet is a deep neural network package for Go. | 2017-10-03 15:57:15 | 2021-06-24 02:00:48 |
+| [golinear](https://github.com/danieldk/golinear) | 41 | 12 | 0 | liblinear bindings for Go | 2013-04-05 15:37:01 | 2021-03-15 23:05:51 |
+| [Varis](https://github.com/Xamber/Varis) | 35 | 6 | 0 | Golang Neural Network  | 2017-10-10 08:43:27 | 2021-05-27 11:07:07 |
+| [godist](https://github.com/e-dard/godist) | 28 | 6 | 0 | Probability distributions and associated methods in Go | 2014-09-05 09:48:51 | 2021-05-03 13:34:11 |
+| [go-cluster](https://github.com/e-XpertSolutions/go-cluster) | 28 | 6 | 0 | k-modes and k-prototypes clustering algorithms implementation in Go | 2017-10-04 12:24:52 | 2021-03-16 20:24:47 |
+| [probab](https://blog.owulveryck.info/2019/04/03/from-a-project-to-a-product-the-state-of-onnx-go.html) | 16 | 4 | 3 | Automatically exported from code.google.com/p/probab | 2015-09-14 12:07:52 | 2021-06-02 23:42:13 |
+| [evoli](https://github.com/khezen/evoli) | 15 | 6 | 21 | Genetic Algorithm and Particle Swarm Optimization | 2015-06-12 06:58:30 | 2021-03-15 12:19:59 |
+| [ddt](https://github.com/sgrodriguez/ddt) | 12 | 1 | 0 | Golang Dynamic Decision Tree | 2020-05-20 13:51:42 | 2021-06-18 17:26:09 |
+| [gomind](https://github.com/surenderthakran/gomind) | 11 | 1 | 7 | A simplistic Neural Network Library in Go | 2017-10-19 03:48:51 | 2021-05-15 17:23:23 |
+| [randomForest](https://blog.owulveryck.info/2019/04/03/from-a-project-to-a-product-the-state-of-onnx-go.html) | 10 | 1 | 0 | Random Forest implementation in golang | 2018-10-25 07:05:29 | 2021-05-21 04:32:07 |
+</details>
+
 ### Microsoft Office
 
 
@@ -638,6 +707,29 @@ Libraries for working with Microsoft Excel.
 | [xlsx](https://github.com/plandem/xlsx) | 136 | 19 | 11 | Fast and reliable way to work with Microsoft Excel™ [xlsx] files in Golang | 2017-08-26 23:11:38 | 2021-06-09 19:38:33 |
 | [go-excel](https://github.com/szyhf/go-excel) | 120 | 20 | 1 | A simple and light excel file reader to read a standard excel as a table faster | 一个轻量级的Excel数据读取库，用一种更`关系数据库`的方式解析Excel。 | 2017-09-03 11:51:58 | 2021-06-16 08:20:03 |
 | [goxlsxwriter](https://github.com/fterrag/goxlsxwriter) | 15 | 3 | 1 | Golang bindings for libxlsxwriter for writing XLSX files | 2017-03-13 04:15:17 | 2020-12-31 07:08:18 |
+</details>
+
+### Miscellaneous - Dependency Injection
+Libraries for working with dependency injection.
+
+<sup>*Last Update: 2021-06-25 08:44:33*</sup>
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [fx](https://go.uber.org/fx) | 2,054 | 137 | 34 | A dependency injection based application framework for Go. | 2016-10-27 00:25:00 | 2021-06-24 12:11:10 |
+| [dig](https://go.uber.org/dig) | 1,944 | 119 | 20 | A reflection based dependency injection toolkit for Go. | 2017-03-21 23:55:50 | 2021-06-24 14:27:04 |
+| [container](https://github.com/golobby/container) | 203 | 14 | 3 | A lightweight yet powerful IoC dependency injection container for Go projects | 2019-09-23 16:12:50 | 2021-06-24 19:47:56 |
+| [dingo](https://go.uber.org/dig) | 105 | 6 | 9 | Go Dependency Injection Framework | 2018-10-29 08:55:18 | 2021-05-26 13:40:49 |
+| [di](https://github.com/goava/di) | 91 | 8 | 2 | 🛠 A full-featured dependency injection container for go programming language. | 2020-02-03 19:06:39 | 2021-06-24 16:44:30 |
+| [di](https://pkg.go.dev/github.com/goioc/di/?tab=doc) | 82 | 2 | 0 | Simple and yet powerful Dependency Injection for Go | 2020-06-11 12:28:06 | 2021-06-18 02:14:22 |
+| [alice](https://godoc.org/github.com/magic003/alice) | 44 | 3 | 0 | An additive dependency injection container for Golang. | 2017-04-08 16:25:21 | 2021-02-01 22:07:46 |
+| [linker](https://github.com/logrange/linker) | 32 | 5 | 0 | Dependency Injection and Inversion of Control package | 2018-12-04 23:56:34 | 2021-05-06 05:34:51 |
+| [wire](https://github.com/Fs02/wire) | 32 | 7 | 1 | Strict Runtime Dependency Injection for Golang | 2018-07-05 10:42:24 | 2021-02-14 21:50:05 |
+| [gocontainer](https://github.com/vardius/gocontainer) | 14 | 1 | 0 | Simple Dependency Injection Container | 2019-06-06 08:18:07 | 2020-12-10 08:58:38 |
+| [kinit](https://github.com/go-kata/kinit) | 5 | 0 | 0 | GO Dependency Injection | 2021-01-24 13:41:41 | 2021-06-12 14:24:51 |
+| [nject](https://github.com/BlueOwlOpenSource/nject) | 4 | 1 | 0 | Go dependency injection: nject & npoint | 2018-10-31 18:15:43 | 2021-05-21 04:32:12 |
 </details>
 
 ### Miscellaneous - Project Layout
