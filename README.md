@@ -474,6 +474,36 @@ Tools for help with continuous integration.
 | [goes](http://godoc.org/github.com/belogik/goes) | 24 | 12 | 0 | A library to interact with Elasticsearch in Go! | 2015-12-28 18:52:03 | 2019-03-11 09:09:21 |
 </details>
 
+### Date and Time
+Libraries for working with dates and times.
+
+<sup>*Last Update: 2021-06-26 08:30:56*</sup>
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [now](https://github.com/jinzhu/now) | 3,118 | 186 | 5 | Now is a time toolkit for golang | 2013-11-18 10:55:30 | 2021-06-25 14:51:41 |
+| [dateparse](https://github.com/araddon/dateparse) | 1,441 | 103 | 33 | GoLang Parse many date strings without knowing format in advance. | 2014-04-21 02:55:48 | 2021-06-25 13:49:17 |
+| [carbon](https://github.com/uniplaces/carbon) | 597 | 45 | 11 | Carbon for Golang, an extension for Time | 2016-08-03 10:55:52 | 2021-06-24 02:55:52 |
+| [durafmt](https://github.com/hako/durafmt) | 389 | 41 | 5 | :clock8:  Better time duration formatting in Go!  | 2016-05-20 21:49:33 | 2021-06-22 13:50:53 |
+| [timeutil](https://github.com/leekchan/timeutil) | 186 | 12 | 1 | timeutil - useful extensions (Timedelta, Strftime, ...) to the golang's time package | 2015-08-02 01:32:06 | 2021-06-03 03:54:54 |
+| [gostradamus](https://github.com/bykof/gostradamus) | 153 | 2 | 1 | Gostradamus: Better DateTimes for Go 🕰️ | 2020-04-07 12:29:21 | 2021-05-27 19:45:04 |
+| [go-persian-calendar](https://pkg.go.dev/github.com/yaa110/go-persian-calendar) | 97 | 13 | 3 | The implementation of Persian (Solar Hijri) Calendar in Go | 2016-01-31 18:40:23 | 2021-06-16 06:42:33 |
+| [iso8601](https://github.com/relvacode/iso8601) | 89 | 5 | 1 | A fast ISO8601 date parser for Go | 2017-04-25 15:54:18 | 2021-06-18 10:18:41 |
+| [timespan](https://github.com/SaidinWoT/timespan) | 74 | 9 | 3 | Golang package to manipulate time intervals. | 2014-10-07 03:57:02 | 2020-10-20 14:32:08 |
+| [date](https://godoc.org/github.com/rickb777/date) | 72 | 15 | 2 | A Go package for working with dates | 2015-11-23 22:58:07 | 2021-06-22 15:28:28 |
+| [feiertage](https://github.com/wlbr/feiertage) | 39 | 4 | 1 | Gesetzliche Feiertage und mehr in Deutschland und Österreich (Bank holidays/public holidays in Austria and Germany) | 2015-11-04 14:19:27 | 2021-06-20 19:44:24 |
+| [go-sunrise](https://pkg.go.dev/github.com/yaa110/go-persian-calendar) | 35 | 5 | 0 | Go package for calculating the sunrise and sunset times for a given location | 2017-06-15 20:49:41 | 2021-06-03 14:15:31 |
+| [go-str2duration](https://pkg.go.dev/github.com/yaa110/go-persian-calendar) | 25 | 1 | 1 | Convert string to duration in golang | 2020-02-02 06:04:07 | 2021-06-22 14:03:36 |
+| [kair](https://github.com/GuilhermeCaruso/kair) | 19 | 5 | 0 | :clock1: Date and Time - Golang Formatting Library | 2018-10-03 15:44:07 | 2021-04-23 00:08:00 |
+| [nulltime](https://github.com/kirillDanshin/nulltime) | 11 | 2 | 0 | Now is a time toolkit for golang | 2016-03-06 01:44:58 | 2020-08-28 21:19:40 |
+| [cronrange](https://github.com/1set/cronrange) | 10 | 3 | 0 | time range expression in cron style | 2019-11-10 01:30:45 | 2021-04-20 15:24:22 |
+| [tuesday](https://godoc.org/github.com/osteele/tuesday) | 9 | 1 | 1 | Ruby-compatible strftime for golang | 2017-08-10 20:46:26 | 2021-06-19 03:38:21 |
+| [strftime](https://github.com/awoodbeck/strftime) | 7 | 2 | 0 | C99-compatible strftime formatter for use with Go time.Time instances. | 2018-02-10 00:35:46 | 2020-11-22 03:01:25 |
+| [go-week](https://github.com/stoewer/go-week) | 5 | 3 | 2 | A Go package to work with ISO 8601 week dates | 2018-02-23 07:02:37 | 2021-04-27 06:46:04 |
+</details>
+
 ### Distributed Systems
 Packages that help with building Distributed Systems.
 
@@ -945,19 +975,19 @@ Libraries for working with dependency injection.
 ### Miscellaneous - Project Layout
 Unofficial set of patterns for structuring projects.
 
-<sup>*Last Update: 2021-06-26 03:25:50*</sup>
+<sup>*Last Update: 2021-06-26 08:31:03*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [project-layout](https://github.com/golang-standards/project-layout) | 24,504 | 2,593 | 57 | Standard Go Project Layout | 2017-09-09 16:33:26 | 2021-06-25 11:37:55 |
+| [project-layout](https://github.com/golang-standards/project-layout) | 24,506 | 2,594 | 57 | Standard Go Project Layout | 2017-09-09 16:33:26 | 2021-06-25 23:01:29 |
 | [modern-go-application](https://github.com/sagikazarmark/modern-go-application) | 946 | 95 | 16 | Modern Go Application example | 2018-09-14 12:19:02 | 2021-06-23 12:28:50 |
 | [cookiecutter-golang](https://github.com/lacion/cookiecutter-golang) | 457 | 99 | 4 | A Go project template | 2016-12-18 18:22:26 | 2021-06-24 04:50:23 |
 | [seed](https://github.com/golang-templates/seed) | 178 | 13 | 0 | Go application GitHub repository template. | 2020-04-30 21:31:36 | 2021-06-23 22:37:59 |
 | [scaffold](https://github.com/catchplay/scaffold) | 96 | 21 | 1 | Generate scaffold project layout for Go. | 2018-12-11 10:36:03 | 2021-06-21 15:06:01 |
 | [go-sample](https://github.com/zitryss/go-sample) | 86 | 20 | 0 | Go Project Sample Layout | 2019-01-24 23:41:46 | 2021-06-13 02:29:07 |
-| [go-todo-backend](https://github.com/Fs02/go-todo-backend) | 78 | 11 | 0 | Go Todo Backend example using modular project layout for product microservice. | 2020-06-25 14:28:50 | 2021-06-24 19:52:02 |
+| [go-todo-backend](https://github.com/Fs02/go-todo-backend) | 78 | 10 | 0 | Go Todo Backend example using modular project layout for product microservice. | 2020-06-25 14:28:50 | 2021-06-24 19:52:02 |
 | [gobase](https://github.com/wajox/gobase) | 9 | 3 | 0 | This is a simple skeleton for golang application | 2020-12-15 16:54:20 | 2021-06-09 16:03:16 |
 | [inizio](https://github.com/insidieux/inizio) | 9 | 0 | 1 | Golang project standard layout generator | 2021-03-02 20:59:22 | 2021-05-21 04:32:12 |
 </details>
@@ -1328,6 +1358,49 @@ Unofficial libraries for package and dependency management
 | [rebed](https://github.com/soypat/rebed) | 15 | 1 | 0 | Recreates directory and files from embedded filesystem using Go 1.16 embed.FS type. | 2021-02-17 18:19:49 | 2021-06-09 06:01:08 |
 | [mule](https://github.com/wlbr/mule) | 9 | 1 | 1 | mule is a tool to be used with 'go generate' to embed external resources files into Go code. | 2020-01-17 10:56:00 | 2021-01-05 11:20:02 |
 | [debme](https://github.com/leaanthony/debme) | 7 | 1 | 0 | embed.FS wrapper providing additional functionality | 2021-04-16 00:25:13 | 2021-06-07 21:17:48 |
+</details>
+
+### Science and Data Analysis
+Libraries for scientific computing and data analyzing.
+
+<sup>*Last Update: 2021-06-26 08:31:06*</sup>
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [gonum](https://www.gonum.org/) | 4,958 | 400 | 213 | Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more | 2017-03-25 14:54:38 | 2021-06-25 16:27:07 |
+| [stats](https://github.com/montanaflynn/stats) | 2,005 | 131 | 14 | A well tested and comprehensive Golang statistics library package with no dependencies. | 2014-12-16 03:25:19 | 2021-06-25 01:28:47 |
+| [plot](https://github.com/gonum/plot) | 1,919 | 175 | 97 | A repository for plotting and visualizing data | 2013-07-23 07:01:13 | 2021-06-25 22:52:37 |
+| [gosl](https://github.com/cpmech/gosl) | 1,587 | 144 | 0 | Linear algebra, eigenvalues, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, differential equations. | 2015-02-09 23:00:38 | 2021-06-23 03:49:58 |
+| [streamtools](http://nytlabs.github.io/streamtools/) | 1,310 | 108 | 47 | tools for working with streams of data | 2013-07-05 18:58:45 | 2021-06-21 14:55:00 |
+| [go-dsp](http://godoc.org/github.com/mjibson/go-dsp) | 736 | 75 | 6 | Digital Signal Processing for Go | 2011-11-02 06:28:41 | 2021-06-23 08:12:31 |
+| [chart](https://github.com/vdobler/chart) | 679 | 101 | 6 | Provide basic charts in go | 2011-06-27 12:19:42 | 2021-06-21 14:34:02 |
+| [goraph](https://github.com/gyuho/goraph) | 641 | 74 | 6 | Package goraph implements graph data structure and algorithms. | 2014-02-27 03:15:55 | 2021-06-17 07:54:36 |
+| [dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 558 | 55 | 5 | DataFrames for Go: For statistics, machine-learning, and data manipulation/exploration | 2018-10-01 12:19:31 | 2021-06-24 17:04:32 |
+| [graph](https://yourbasic.org/golang/your-basic-func/) | 453 | 44 | 2 | Graph algorithms and data structures | 2017-04-27 18:43:54 | 2021-06-11 20:43:42 |
+| [orb](https://github.com/paulmach/orb) | 401 | 51 | 11 | Types and utilities for working with 2d geometry in Golang | 2016-03-28 01:19:01 | 2021-06-20 23:54:07 |
+| [ewma](https://github.com/VividCortex/ewma) | 334 | 23 | 2 | Exponentially Weighted Moving Average algorithms for Go. | 2013-07-05 21:33:25 | 2021-06-05 09:32:24 |
+| [calendarheatmap](https://github.com/nikolaydubina/calendarheatmap) | 260 | 7 | 2 | Calendar heatmap inspired by GitHub contribution activity | 2020-07-01 18:30:48 | 2021-05-21 04:32:20 |
+| [gohistogram](http://godoc.org/github.com/VividCortex/gohistogram) | 153 | 28 | 1 | Streaming approximate histograms in Go | 2013-07-02 12:53:22 | 2021-06-05 08:24:50 |
+| [TextRank](https://github.com/DavidBelicza/TextRank) | 142 | 17 | 4 | :wink: :cyclone: :strawberry: TextRank implementation in Golang with extendable features (summarization, phrase extraction) and multithreading (goroutine). | 2018-01-09 19:36:17 | 2021-06-25 13:04:42 |
+| [sparse](https://github.com/james-bowman/sparse) | 116 | 19 | 4 | Sparse matrix formats for linear algebra supporting scientific and machine learning applications | 2017-05-16 13:54:36 | 2021-06-23 22:27:46 |
+| [go-estimate](https://github.com/milosgajdos/go-estimate) | 76 | 6 | 1 | State estimation and filtering algorithms in Go | 2018-11-04 22:32:52 | 2021-06-11 06:53:45 |
+| [pagerank](https://github.com/alixaxel/pagerank) | 70 | 16 | 3 | Weighted PageRank implementation in Go | 2015-08-06 01:33:34 | 2021-06-23 10:19:33 |
+| [geom](https://github.com/skelterjohn/geom) | 47 | 16 | 1 | 2d geometry for golang | 2011-06-07 17:49:11 | 2021-04-07 08:17:36 |
+| [evaler](https://github.com/soniah/evaler) | 44 | 12 | 5 | Implements a simple floating point arithmetic expression evaluator in Go (golang). | 2012-09-04 23:37:58 | 2021-04-01 11:17:53 |
+| [goent](https://github.com/kzahedi/goent) | 25 | 1 | 0 | GO Implementation of Entropy Measures | 2017-08-08 05:37:12 | 2021-05-10 16:11:38 |
+| [triangolatte](https://github.com/tchayen/triangolatte) | 23 | 1 | 4 | 2D triangulation library. Allows translating lines and polygons (both based on points) to the language of GPUs. | 2018-07-18 21:17:09 | 2021-06-16 04:40:28 |
+| [decimal](https://github.com/db47h/decimal) | 22 | 0 | 0 | An arbitrary-precision decimal floating-point arithmetic package for Go | 2020-05-27 15:23:59 | 2021-06-05 08:18:20 |
+| [piecewiselinear](https://pkg.go.dev/github.com/sgreben/piecewiselinear) | 18 | 1 | 0 | tiny linear interpolation library for go (factored out from https://github.com/sgreben/yeetgif) | 2018-10-21 13:19:44 | 2021-06-19 03:56:31 |
+| [godesim](https://github.com/soypat/godesim) | 16 | 0 | 1 | ODE system solver made simple. For IVPs (initial value problems). | 2020-12-16 01:02:26 | 2021-06-16 03:50:02 |
+| [GoStats](https://github.com/OGFris/GoStats) | 15 | 0 | 0 | GoStats is a go library for math statistics mostly used in ML domains, it covers most of the statistical measures functions. | 2018-07-22 20:55:16 | 2021-04-26 15:21:10 |
+| [PiHex](https://pkg.go.dev/github.com/sgreben/piecewiselinear) | 14 | 2 | 0 | PiHex Library, written in Go, generates a hexadecimal number sequence in the number Pi in the range from 0 to 10,000,000. | 2016-07-22 11:21:37 | 2021-03-18 18:52:26 |
+| [ode](https://yourbasic.org/golang/your-basic-func/) | 13 | 0 | 1 | An ordinary differential equation solving library in golang. | 2016-11-11 22:40:21 | 2021-01-26 11:20:02 |
+| [assocentity](https://pkg.go.dev/github.com/ndabAP/assocentity/v8?tab=doc) | 6 | 1 | 6 | Package assocentity returns the average distance from words to a given entity | 2018-12-21 07:17:09 | 2020-10-27 12:49:42 |
+| [rootfinding](https://github.com/khezen/rootfinding) | 5 | 0 | 0 | root-finding library | 2018-10-30 22:31:48 | 2021-05-31 18:37:41 |
+| [go-gt](https://github.com/ThePaw/go-gt) | 5 | 0 | 2 | Automatically exported from code.google.com/p/go-gt | 2015-09-14 12:05:37 | 2019-09-05 08:47:43 |
+| [bradleyterry](https://pkg.go.dev/github.com/ndabAP/assocentity/v8?tab=doc) | 4 | 0 | 0 | Package to do Bradley-Terry Model pairwise compairsons | 2019-04-30 00:28:13 | 2020-09-08 12:32:53 |
 </details>
 
 ### Security

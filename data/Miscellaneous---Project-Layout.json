@@ -1,7 +1,7 @@
 {
 	"name": "Miscellaneous - Project Layout",
 	"index_last_check": 0,
-	"last_update": 1624652750,
+	"last_update": 1624671063,
 	"libraries": [
 		{
 			"id": 102969245,
@@ -10,11 +10,11 @@
 			"html_url": "https://github.com/golang-standards/project-layout",
 			"homepage": "",
 			"created_at": "2017-09-09T16:33:26Z",
-			"updated_at": "2021-06-25T11:37:55Z",
+			"updated_at": "2021-06-25T23:01:29Z",
 			"svn_url": "https://github.com/golang-standards/project-layout",
-			"stargazers_count": 24504,
-			"watchers_count": 24504,
-			"forks_count": 2593,
+			"stargazers_count": 24506,
+			"watchers_count": 24506,
+			"forks_count": 2594,
 			"open_issues_count": 57
 		},
 		{
@@ -98,7 +98,7 @@
 			"svn_url": "https://github.com/Fs02/go-todo-backend",
 			"stargazers_count": 78,
 			"watchers_count": 78,
-			"forks_count": 11,
+			"forks_count": 10,
 			"open_issues_count": 0
 		},
 		{

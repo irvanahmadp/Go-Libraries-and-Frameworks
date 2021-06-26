@@ -1,8 +1,8 @@
 {
-	"last_update": 1624656301,
+	"last_update": 1624671076,
 	"rate_limit": 60,
 	"rate_limit_remaining": 0,
-	"rate_limit_reset": 1624631134,
+	"rate_limit_reset": 1624674656,
 	"categories": [
 		{
 			"name": "Audio and Music",
@@ -97,7 +97,7 @@
 		{
 			"name": "Date and Time",
 			"description": "Libraries for working with dates and times.",
-			"last_update": 0
+			"last_update": 1624671056
 		},
 		{
 			"name": "Distributed Systems",
@@ -222,7 +222,7 @@
 		{
 			"name": "Miscellaneous - Project Layout",
 			"description": "Unofficial set of patterns for structuring projects.",
-			"last_update": 0
+			"last_update": 1624671063
 		},
 		{
 			"name": "Miscellaneous - Strings",
