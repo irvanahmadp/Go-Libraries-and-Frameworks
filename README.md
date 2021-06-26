@@ -455,6 +455,43 @@ Tools for help with continuous integration.
 | [dsc](https://github.com/viant/dsc) | 22 | 6 | 0 | Datastore Connectivity in go | 2016-06-13 20:18:10 | 2021-04-17 04:50:27 |
 </details>
 
+### Database Drivers - NoSQL Databases
+
+
+<sup>*Last Update: 2021-06-27 02:00:37*</sup>
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [redis](https://redis.uptrace.dev/) | 11,796 | 1,503 | 116 | Type-safe Redis client for Golang | 2012-07-25 13:01:39 | 2021-06-26 06:59:40 |
+| [redigo](https://github.com/gomodule/redigo) | 8,461 | 1,174 | 17 | Go client for Redis | 2012-04-14 04:31:58 | 2021-06-25 17:49:19 |
+| [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) | 5,831 | 658 | 7 | The Go driver for MongoDB | 2017-02-08 17:18:02 | 2021-06-25 22:11:26 |
+| [gocql](http://gocql.github.io/) | 2,102 | 515 | 156 | Package gocql implements a fast and robust Cassandra client for the Go programming language. | 2012-08-26 15:42:42 | 2021-06-25 17:46:15 |
+| [mgo](https://github.com/globalsign/mgo) | 1,901 | 233 | 63 | The MongoDB driver for Go | 2017-04-13 11:14:04 | 2021-06-25 04:08:29 |
+| [rethinkdb-go](https://github.com/rethinkdb/rethinkdb-go) | 1,565 | 176 | 15 | Go language driver for RethinkDB | 2013-09-12 13:56:27 | 2021-06-23 12:03:34 |
+| [gomemcache](https://github.com/bradfitz/gomemcache) | 1,352 | 375 | 45 | Go Memcached client library #golang | 2011-06-28 19:29:12 | 2021-06-24 12:07:37 |
+| [qmgo](https://github.com/qiniu/qmgo) | 521 | 58 | 25 | Qmgo - The Go driver for MongoDB. It‘s based on official mongo-go-driver but easier to use like Mgo. | 2020-08-04 09:06:00 | 2021-06-22 03:03:52 |
+| [redeo](https://github.com/bsm/redeo) | 397 | 27 | 3 | High-performance framework for building redis-protocol compatible TCP servers/services | 2014-03-06 08:46:18 | 2021-06-21 09:37:53 |
+| [neoism](https://github.com/jmcvetta/neoism) | 375 | 57 | 16 | Neo4j client for Golang | 2012-07-12 07:42:33 | 2021-06-08 21:35:52 |
+| [aerospike-client-go](https://github.com/aerospike/aerospike-client-go) | 365 | 164 | 21 | Aerospike Client Go  | 2014-07-26 02:56:21 | 2021-06-03 14:34:08 |
+| [gocb](http://blog.couchbase.com/2015/september/go-sdk-1.0-ga) | 326 | 92 | 0 | The Couchbase Go SDK | 2015-01-15 20:01:32 | 2021-06-14 16:53:32 |
+| [mgm](https://github.com/Kamva/mgm) | 323 | 31 | 2 | Mongo Go Models (mgm) is a fast and simple MongoDB ODM for Go (based on official Mongo Go Driver) | 2019-12-27 14:40:51 | 2021-06-25 19:53:31 |
+| [go-couchbase](https://godoc.org/github.com/couchbase/go-couchbase) | 312 | 87 | 41 | Couchbase client in Go | 2012-01-19 22:52:08 | 2021-06-22 14:57:10 |
+| [go-rejson](https://github.com/nitishm/go-rejson) | 168 | 27 | 6 | Golang client for redislabs' ReJSON module with support for multilple redis clients (redigo, go-redis) | 2018-04-23 00:51:05 | 2021-06-20 08:42:55 |
+| [godis](https://github.com/piaohao/godis) | 91 | 15 | 0 | redis client implement by golang, inspired by jedis. | 2019-06-14 03:14:22 | 2021-06-18 12:55:16 |
+| [Neo4j-GO](https://github.com/davemeehan/Neo4j-GO) | 76 | 15 | 0 | Neo4j REST Client in golang | 2011-06-04 16:08:35 | 2020-08-28 21:16:55 |
+| [arangolite](https://github.com/solher/arangolite) | 69 | 19 | 5 | Lightweight Golang driver for ArangoDB | 2015-10-04 17:27:34 | 2021-03-10 17:27:16 |
+| [go-pilosa](https://www.pilosa.com/) | 46 | 20 | 12 | Go client library for Pilosa | 2016-09-30 21:37:10 | 2021-06-13 07:36:01 |
+| [goforestdb](https://github.com/couchbase/goforestdb) | 30 | 4 | 7 | Go bindings for ForestDB | 2014-05-14 15:36:12 | 2021-02-25 12:12:32 |
+| [neo4j](https://github.com/cihangir/neo4j) | 26 | 7 | 8 | Neo4j Rest API Client for Go lang | 2013-05-18 08:54:01 | 2020-08-28 21:16:50 |
+| [goriak](https://godoc.org/gopkg.in/zegl/goriak.v3) | 26 | 5 | 5 | goriak - Go language driver for Riak KV | 2016-10-05 16:48:17 | 2021-05-21 04:31:42 |
+| [xredis](https://github.com/shomali11/xredis) | 15 | 2 | 0 | Go Redis Client | 2017-06-14 00:19:26 | 2021-06-02 07:51:37 |
+| [godscache](https://github.com/defcronyke/godscache) | 8 | 1 | 0 | An unofficial Google Cloud Platform Go Datastore wrapper that adds caching using memcached. For App Engine Flexible, Compute Engine, Kubernetes Engine, and more. | 2018-05-08 20:19:39 | 2021-02-06 20:45:22 |
+| [asc](https://github.com/viant/asc) | 6 | 1 | 0 | Datastore Connectivity for Aerospike for go | 2016-06-13 20:22:31 | 2020-08-28 21:15:29 |
+| [gocosmos](http://blog.couchbase.com/2015/september/go-sdk-1.0-ga) | 3 | 1 | 0 | Go driver for Azure CosmosDB SQL API | 2020-12-06 07:03:43 | 2021-05-18 10:58:47 |
+</details>
+
 ### Database Drivers - Search and Analytic Databases
 
 
@@ -1619,6 +1656,47 @@ Libraries and tools for templating and lexing.
 | [cdp](https://github.com/mafredri/cdp) | 554 | 39 | 12 | Package cdp provides type-safe bindings for the Chrome DevTools Protocol (CDP), written in the Go programming language. | 2017-03-12 10:25:41 | 2021-06-19 00:16:16 |
 | [playwright-go](https://mxschmitt.github.io/playwright-go/) | 392 | 40 | 16 | Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API. | 2020-08-16 12:46:14 | 2021-06-19 23:30:28 |
 | [ggr](https://aerokube.com/ggr/latest/) | 271 | 57 | 13 | A lightweight load balancer used to create big Selenium clusters | 2016-06-16 15:33:24 | 2021-06-19 21:14:25 |
+</details>
+
+### Testing - Testing Frameworks
+
+
+<sup>*Last Update: 2021-06-27 02:00:48*</sup>
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [goconvey](http://goconvey.co) | 6,440 | 471 | 139 | Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go. | 2013-08-21 04:52:28 | 2021-06-26 11:32:01 |
+| [ginkgo](http://onsi.github.io/ginkgo/) | 4,871 | 442 | 58 | BDD Testing Framework for Go | 2013-08-23 20:53:05 | 2021-06-25 11:57:14 |
+| [go-cmp](https://github.com/google/go-cmp) | 2,349 | 141 | 11 | Package for comparing Go values in tests | 2017-07-07 19:28:22 | 2021-06-26 04:56:06 |
+| [godog](https://github.com/cucumber/godog) | 1,367 | 148 | 57 | Cucumber for golang | 2015-06-10 13:16:31 | 2021-06-26 11:18:18 |
+| [goblin](https://github.com/franela/goblin) | 800 | 73 | 17 | Minimal and Beautiful Go testing framework | 2013-09-19 02:34:24 | 2021-06-25 10:21:43 |
+| [go-vcr](https://go-testdeep.zetta.rocks/) | 724 | 50 | 4 | Record and replay your HTTP interactions for fast, deterministic and accurate tests | 2015-12-14 12:52:17 | 2021-06-26 08:47:53 |
+| [baloo](https://godoc.org/github.com/h2non/baloo) | 712 | 27 | 8 | Expressive end-to-end HTTP API testing made easy in Go | 2016-05-29 21:40:58 | 2021-06-14 14:54:20 |
+| [gnomock](https://github.com/orlangure/gnomock) | 471 | 14 | 7 | Test your code without writing mocks with ephemeral Docker containers 📦 Setup popular services with just a couple lines of code ⏱️ No bash, no yaml, only code 💻 | 2020-01-31 14:50:52 | 2021-06-25 16:53:40 |
+| [go-mutesting](https://github.com/zimmski/go-mutesting) | 400 | 34 | 26 | Mutation testing for Go source code | 2014-12-26 22:23:44 | 2021-06-25 01:27:40 |
+| [goc](https://github.com/qiniu/goc) | 383 | 54 | 16 | A Comprehensive Coverage Testing System for The Go Programming Language | 2020-05-07 03:46:25 | 2021-06-25 06:14:51 |
+| [gofight](https://github.com/appleboy/gofight) | 373 | 35 | 8 | Testing API Handler written in Golang. | 2016-03-29 00:13:21 | 2021-06-15 18:48:22 |
+| [apitest](https://apitest.dev) | 358 | 35 | 1 | A simple and extensible behavioural testing library for Go. You can use api test to simplify REST API, HTTP handler and e2e tests. | 2018-12-26 22:27:19 | 2021-06-23 13:55:50 |
+| [frisby](https://pkg.go.dev/github.com/suzuki-shunsuke/flute/flute) | 264 | 26 | 13 | API testing framework inspired by frisby-js | 2015-09-15 14:35:58 | 2021-06-21 15:06:03 |
+| [embedded-postgres](https://github.com/fergusstrange/embedded-postgres) | 254 | 15 | 1 | Run a real Postgres database locally on Linux, OSX or Windows as part of another Go application or test | 2019-11-16 23:49:40 | 2021-06-25 20:55:53 |
+| [go-carpet](https://github.com/msoap/go-carpet) | 214 | 7 | 1 | go-carpet - show test coverage in terminal for Go source files | 2016-02-28 12:02:51 | 2021-05-21 04:32:28 |
+| [charlatan](https://github.com/percolate/charlatan) | 194 | 8 | 2 | Go Interface Mocking Tool | 2017-10-06 21:55:14 | 2021-05-08 03:35:26 |
+| [endly](https://github.com/viant/endly) | 189 | 20 | 0 | End to end functional test and automation framework | 2017-08-28 20:24:43 | 2021-06-22 18:23:38 |
+| [commander](https://github.com/commander-cli/commander) | 186 | 12 | 22 | Test your command line interfaces on windows, linux and osx and nodes viá ssh and docker | 2019-02-22 16:35:16 | 2021-05-29 04:12:20 |
+| [go-testdeep](https://go-testdeep.zetta.rocks/) | 171 | 5 | 3 | Extremely flexible golang deep comparison, extends the go testing package, tests HTTP APIs and provides tests suite | 2018-05-26 15:03:28 | 2021-06-18 11:17:45 |
+| [cupaloy](https://github.com/bradleyjkemp/cupaloy) | 166 | 21 | 9 | Simple Go snapshot testing | 2017-08-07 18:30:05 | 2021-06-25 16:32:32 |
+| [dbcleaner](https://github.com/khaiql/dbcleaner) | 130 | 11 | 1 | Clean database for testing, inspired by database_cleaner for Ruby | 2017-01-17 18:18:40 | 2021-06-18 21:07:13 |
+| [gocrest](https://github.com/corbym/gocrest) | 80 | 4 | 2 | GoCrest - Hamcrest-like matchers for Go | 2017-12-23 23:27:00 | 2021-05-14 09:54:10 |
+| [covergates](https://covergates.com) | 39 | 9 | 11 | The portal gates to coverage reports | 2020-05-29 04:02:01 | 2021-05-20 11:01:00 |
+| [dsunit](https://github.com/viant/dsunit) | 38 | 6 | 0 | Datastore Testibility | 2016-06-13 20:20:52 | 2021-02-14 11:12:04 |
+| [go-hit](https://github.com/Eun/go-hit) | 34 | 1 | 8 | http integration test framework | 2019-06-04 16:28:23 | 2021-06-07 07:32:59 |
+| [assert](https://github.com/go-playground/assert) | 33 | 9 | 2 | :exclamation:Basic Assertion Library used along side native go testing, with building blocks for custom assertions | 2015-07-20 17:53:45 | 2021-06-22 09:01:30 |
+| [flute](https://pkg.go.dev/github.com/suzuki-shunsuke/flute/flute) | 16 | 0 | 4 | Golang HTTP client testing framework | 2019-07-06 04:32:03 | 2021-05-21 04:32:27 |
+| [biff](https://github.com/fulldump/biff) | 10 | 1 | 0 | Bifurcation Framework for testing and use cases | 2018-03-28 18:35:53 | 2020-08-31 12:00:00 |
+| [badio](https://github.com/cavaliercoder/badio) | 10 | 1 | 0 | Extensions to Go's testing/iotest package | 2016-02-11 10:29:25 | 2020-08-31 08:36:30 |
+| [gogiven](https://github.com/corbym/gogiven) | 10 | 2 | 4 | gogiven - BDD testing framework for go that generates readable output directly from source code | 2017-12-31 22:33:37 | 2021-06-03 09:08:48 |
 </details>
 
 ### Text Processing - Utility
