@@ -1,7 +1,7 @@
 {
 	"name": "Testing - Fail injection",
 	"index_last_check": 0,
-	"last_update": 1624249675,
+	"last_update": 1624868023,
 	"libraries": [
 		{
 			"id": 179026050,
@@ -10,11 +10,11 @@
 			"html_url": "https://github.com/pingcap/failpoint",
 			"homepage": "",
 			"created_at": "2019-04-02T07:48:18Z",
-			"updated_at": "2021-06-07T09:39:43Z",
+			"updated_at": "2021-06-28T03:31:07Z",
 			"svn_url": "https://github.com/pingcap/failpoint",
-			"stargazers_count": 588,
-			"watchers_count": 588,
-			"forks_count": 51,
+			"stargazers_count": 590,
+			"watchers_count": 590,
+			"forks_count": 52,
 			"open_issues_count": 10
 		}
 	]

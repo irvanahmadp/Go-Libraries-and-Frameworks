@@ -213,7 +213,7 @@ Libraries and tools helping with build automation.
 ### CSS Preprocessors
 Libraries for preprocessing CSS files.
 
-<sup>*Last Update: 2021-06-25 12:40:04*</sup>
+<sup>*Last Update: 2021-06-28 15:13:41*</sup>
 <details>
   <summary>Show Table</summary>
 
@@ -440,6 +440,37 @@ Tools for help with continuous integration.
 | [ttlcache](https://github.com/cheshir/ttlcache) | 3 | 1 | 0 | Simple in-memory key-value storage with TTL for each record. | 2021-01-06 19:24:26 | 2021-05-24 05:31:48 |
 </details>
 
+### Database - SQL query builder
+libraries for building and using SQL
+
+<sup>*Last Update: 2021-06-28 15:13:22*</sup>
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [squirrel](https://github.com/Masterminds/squirrel) | 3,992 | 311 | 38 | Fluent SQL generation for golang | 2014-01-18 05:29:58 | 2021-06-27 20:42:18 |
+| [xo](https://github.com/xo/xo) | 2,801 | 254 | 24 | Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server | 2016-02-05 10:22:20 | 2021-06-26 11:01:19 |
+| [gendry](https://github.com/didi/gendry) | 1,230 | 151 | 5 | a golang library for sql builder | 2017-12-01 08:15:43 | 2021-06-27 15:59:08 |
+| [goqu](http://doug-martin.github.io/goqu/) | 1,082 | 100 | 41 | SQL builder and query library for golang | 2015-02-21 01:06:00 | 2021-06-27 16:33:14 |
+| [dotsql](https://github.com/gchaincl/dotsql) | 590 | 45 | 6 | A Golang library for using SQL. | 2014-11-20 12:14:39 | 2021-06-23 08:25:29 |
+| [ozzo-dbx](https://github.com/go-ozzo/ozzo-dbx) | 536 | 48 | 36 | A Go (golang) package that enhances the standard database/sql package by providing powerful data retrieval methods as well as DB-agnostic query building capabilities. | 2015-12-10 22:39:26 | 2021-06-27 07:09:47 |
+| [jet](https://github.com/go-jet/jet) | 426 | 27 | 16 | Type safe SQL builder with code generation and automatic query result data mapping | 2019-03-02 11:06:23 | 2021-06-22 19:59:43 |
+| [dbq](https://github.com/rocketlaunchr/dbq) | 298 | 15 | 1 | Zero boilerplate database operations for Go | 2019-07-11 02:17:33 | 2021-06-28 02:57:56 |
+| [sqrl](https://github.com/elgris/sqrl) | 224 | 27 | 8 | Fluent SQL generation for golang | 2014-06-25 10:03:06 | 2021-06-10 08:14:18 |
+| [sqlingo](https://github.com/lqs/sqlingo) | 154 | 11 | 0 | 💥 A lightweight DSL & ORM which helps you to write SQL in Go. | 2018-11-18 14:11:03 | 2021-06-27 05:52:22 |
+| [go-structured-query](https://bokwoon95.github.io/sq/) | 105 | 4 | 2 | Type safe SQL query builder and struct mapper for Go | 2020-05-30 14:07:30 | 2021-05-31 10:15:41 |
+| [igor](https://github.com/galeone/igor) | 85 | 3 | 0 | igor is an abstraction layer for PostgreSQL with a gorm like syntax. | 2016-03-10 14:45:08 | 2021-06-27 05:51:37 |
+| [go-hasql](https://golang.yandex) | 83 | 4 | 2 | Go library for accessing multi-host SQL database installations | 2020-08-19 09:56:00 | 2021-05-07 22:05:04 |
+| [godbal](https://github.com/xujiajun/godbal) | 52 | 27 | 0 | Database Abstraction Layer (dbal) for Go. Support SQL builder and get result easily  (now only support mysql) | 2018-02-28 05:47:42 | 2021-04-22 06:11:02 |
+| [buildsqlx](https://github.com/arthurkushman/buildsqlx) | 36 | 3 | 8 | Go database query builder library for PostgreSQL | 2019-08-18 08:18:21 | 2021-06-14 12:28:34 |
+| [qry](https://github.com/HnH/qry) | 20 | 3 | 1 | Write your SQL queries in raw files with all benefits of modern IDEs, use them in an easy way inside your application with all the profit of compile time constants | 2019-08-20 09:01:00 | 2021-02-03 14:40:44 |
+| [sqlf](https://github.com/leporo/sqlf) | 18 | 1 | 0 | Fast SQL query builder for Go | 2019-07-20 07:03:27 | 2021-04-29 15:03:08 |
+| [gosql](https://twharmon.gitbook.io/gosql/) | 15 | 0 | 0 | SQL query builder for Go | 2020-01-08 17:13:09 | 2020-12-25 02:43:58 |
+| [mpath-go](https://github.com/spacetab-io/mpath-go) | 8 | 0 | 0 | Golang package for MPTT (Modified Preorder Tree Traversal) - materialized path realisation. | 2020-01-09 15:04:45 | 2021-06-17 02:48:46 |
+| [ormlite](https://github.com/pupizoid/ormlite) | 0 | 0 | 2 | Lightweight package containing some ORM-like features and helpers for sqlite databases. | 2018-06-28 13:42:09 | 2021-01-13 15:25:06 |
+</details>
+
 ### Database Drivers - Multiple Backends.
 
 
@@ -490,6 +521,31 @@ Tools for help with continuous integration.
 | [godscache](https://github.com/defcronyke/godscache) | 8 | 1 | 0 | An unofficial Google Cloud Platform Go Datastore wrapper that adds caching using memcached. For App Engine Flexible, Compute Engine, Kubernetes Engine, and more. | 2018-05-08 20:19:39 | 2021-02-06 20:45:22 |
 | [asc](https://github.com/viant/asc) | 6 | 1 | 0 | Datastore Connectivity for Aerospike for go | 2016-06-13 20:22:31 | 2020-08-28 21:15:29 |
 | [gocosmos](http://blog.couchbase.com/2015/september/go-sdk-1.0-ga) | 3 | 1 | 0 | Go driver for Azure CosmosDB SQL API | 2020-12-06 07:03:43 | 2021-05-18 10:58:47 |
+</details>
+
+### Database Drivers - Relational Databases
+
+
+<sup>*Last Update: 2021-06-28 15:13:35*</sup>
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [mysql](https://pkg.go.dev/github.com/go-sql-driver/mysql) | 10,998 | 1,941 | 77 | Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package | 2012-12-09 20:33:55 | 2021-06-28 01:55:27 |
+| [pq](https://pkg.go.dev/github.com/lib/pq) | 6,620 | 807 | 285 | Pure Go Postgres driver for database/sql | 2012-03-12 18:50:22 | 2021-06-28 08:09:45 |
+| [go-sqlite3](http://mattn.github.io/go-sqlite3) | 4,913 | 852 | 103 | sqlite3 driver for go using database/sql | 2011-11-11 12:36:50 | 2021-06-28 01:58:49 |
+| [pgx](https://github.com/jackc/pgx) | 4,209 | 417 | 153 | PostgreSQL driver and toolkit for Go | 2013-03-30 19:06:26 | 2021-06-28 02:24:28 |
+| [go-mssqldb](https://github.com/denisenkom/go-mssqldb) | 1,409 | 359 | 134 | Microsoft SQL server driver written in go language | 2013-12-16 00:10:47 | 2021-06-28 06:37:11 |
+| [go-oci8](https://mattn.kaoriya.net/) | 551 | 200 | 6 | Oracle driver for Go using database/sql | 2012-02-29 12:19:16 | 2021-06-26 10:16:40 |
+| [godror](https://github.com/godror/godror) | 260 | 44 | 5 | GO DRiver for ORacle DB | 2019-11-21 21:23:17 | 2021-06-23 05:35:29 |
+| [firebirdsql](https://github.com/nakagami/firebirdsql) | 151 | 44 | 8 | Firebird RDBMS sql driver for Go (golang) | 2013-08-27 13:09:14 | 2021-06-26 00:19:07 |
+| [go-adodb](http://mattn.kaoriya.net/) | 120 | 30 | 17 | Microsoft ActiveX Object DataBase driver for go that using exp/sql | 2011-11-14 04:32:50 | 2021-06-09 05:54:10 |
+| [gofreetds](https://github.com/minus5/gofreetds) | 104 | 43 | 18 | Go Sql Server database driver. | 2012-12-06 17:29:26 | 2021-06-17 11:58:24 |
+| [calcite-avatica-go](https://github.com/apache/calcite-avatica-go) | 74 | 19 | 1 | Mirror of Apache Calcite - Avatica Go SQL Driver | 2017-08-08 07:00:08 | 2021-06-24 17:57:25 |
+| [sqinn-go](https://github.com/cvilsmeier/sqinn-go) | 67 | 7 | 0 | SQLite with pure Go | 2020-06-06 20:37:12 | 2021-06-27 02:46:31 |
+| [bgc](https://github.com/viant/bgc) | 15 | 4 | 0 | Datastore Connectivity for BigQuery in go | 2016-06-13 20:24:26 | 2020-09-06 06:58:35 |
+| [pig](https://github.com/alexeyco/pig) | 5 | 0 | 0 | Simple pgx wrapper to execute and scan query results | 2021-04-15 15:33:23 | 2021-06-13 02:33:54 |
 </details>
 
 ### Database Drivers - Search and Analytic Databases
@@ -610,6 +666,35 @@ Tools for updating dynamic DNS records.
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
 | [godns](https://xiaozhou.net/godns-project-2014-05-18.html) | 830 | 158 | 7 | A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go. | 2014-05-11 11:49:17 | 2021-06-21 07:17:44 |
 | [ddns](https://github.com/skibish/ddns) | 192 | 19 | 0 | Personal DDNS client with Digital Ocean Networking DNS as backend. | 2017-03-13 21:02:27 | 2021-06-20 17:48:23 |
+</details>
+
+### Embeddable Scripting Languages
+Embedding other languages inside your go code.
+
+<sup>*Last Update: 2021-06-28 15:13:29*</sup>
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [gopher-lua](https://github.com/yuin/gopher-lua) | 4,148 | 466 | 87 | GopherLua: VM and compiler for Lua in Go | 2015-02-15 13:23:37 | 2021-06-28 06:56:25 |
+| [tengo](https://tengolang.com) | 2,324 | 132 | 43 | A fast script language for Go | 2019-01-09 07:17:17 | 2021-06-28 07:48:22 |
+| [goja](https://github.com/dop251/goja) | 2,251 | 187 | 19 | ECMAScript/JavaScript engine in pure Go | 2016-11-04 22:04:06 | 2021-06-27 15:26:25 |
+| [go-lua](https://github.com/Shopify/go-lua) | 2,109 | 154 | 38 | A Lua VM in Go | 2013-12-20 17:29:43 | 2021-06-24 13:07:05 |
+| [expr](https://github.com/antonmedv/expr) | 1,824 | 161 | 29 | Expression language for Go | 2018-07-14 15:57:34 | 2021-06-27 06:01:50 |
+| [go-python](https://github.com/sbinet/go-python) | 1,277 | 124 | 26 | naive go bindings to the CPython C-API | 2012-07-09 15:43:31 | 2021-06-28 00:26:27 |
+| [anko](http://play-anko.appspot.com/) | 1,140 | 108 | 19 | Scriptable interpreter written in golang | 2014-03-28 07:29:40 | 2021-06-27 19:05:10 |
+| [cel-go](https://opensource.google.com/projects/cel) | 820 | 91 | 30 | Fast, portable, non-Turing complete expression evaluation with gradual typing (Go) | 2018-03-09 22:57:58 | 2021-06-26 18:49:55 |
+| [go-php](https://github.com/deuill/go-php) | 800 | 91 | 20 | PHP bindings for the Go programming language (Golang) | 2015-09-17 21:23:52 | 2021-06-23 15:10:25 |
+| [go-duktape](https://github.com/olebedev/go-duktape) | 764 | 86 | 7 | Duktape JavaScript engine bindings for Go | 2015-01-08 05:09:05 | 2021-06-15 02:55:07 |
+| [golua](https://github.com/aarzilli/golua) | 545 | 154 | 11 | Go bindings for Lua C API - in progress | 2010-12-06 21:39:53 | 2021-06-24 11:22:48 |
+| [gisp](https://docs.gentee.org) | 461 | 32 | 1 | Simple LISP in Go | 2014-01-11 14:05:43 | 2021-05-19 07:31:40 |
+| [gval](https://github.com/PaesslerAG/gval) | 338 | 43 | 3 | Expression evaluation in golang | 2017-09-27 08:32:49 | 2021-06-25 16:07:23 |
+| [gentee](https://docs.gentee.org) | 75 | 8 | 0 | Gentee - script programming language for automation. It uses VM and compiler written in Go (Golang). | 2018-01-14 15:49:05 | 2021-05-26 09:06:58 |
+| [binder](https://github.com/alexeyco/binder) | 51 | 7 | 0 | High level go to Lua binder. Write less, do more. | 2017-04-02 17:14:52 | 2021-06-03 01:31:08 |
+| [purl](https://github.com/ian-kent/purl) | 31 | 2 | 2 | Perl, but fluffy like a cat! | 2014-11-29 19:06:01 | 2021-04-30 14:25:41 |
+| [ngaro](https://github.com/db47h/ngaro) | 20 | 1 | 1 | An embeddable implementation of the Ngaro Virtual Machine for Go programs | 2016-08-09 15:23:50 | 2020-04-06 11:44:00 |
+| [ecal](https://github.com/krotik/ecal) | 10 | 0 | 0 | A simple embeddable scripting language which supports concurrent event processing. | 2020-11-30 15:58:56 | 2021-05-23 09:52:38 |
 </details>
 
 ### Error Handling
@@ -961,13 +1046,13 @@ Libraries for Machine Learning.
 ### Microsoft Office
 
 
-<sup>*Last Update: 2021-06-25 14:25:20*</sup>
+<sup>*Last Update: 2021-06-28 15:13:42*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [unioffice](https://unidoc.io/unioffice/) | 2,883 | 322 | 25 | Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents | 2017-08-29 01:25:48 | 2021-06-24 17:48:49 |
+| [unioffice](https://unidoc.io/unioffice/) | 2,889 | 322 | 25 | Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents | 2017-08-29 01:25:48 | 2021-06-28 06:30:40 |
 </details>
 
 ### Microsoft Office - Microsoft Excel
@@ -1300,13 +1385,13 @@ Libraries for using OpenGL in Go.
 ### Package Management - Official
 Official experimental tooling for package management
 
-<sup>*Last Update: 2021-06-21 08:48:20*</sup>
+<sup>*Last Update: 2021-06-28 15:13:43*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [dep](https://golang.github.io/dep/) | 13,162 | 1,104 | 0 | Go dependency management tool experiment (deprecated) | 2016-10-07 00:04:51 | 2021-06-20 13:32:47 |
+| [dep](https://golang.github.io/dep/) | 13,162 | 1,104 | 0 | Go dependency management tool experiment (deprecated) | 2016-10-07 00:04:51 | 2021-06-27 23:49:32 |
 </details>
 
 ### Package Management - Unofficial
@@ -1594,13 +1679,13 @@ Libraries and tools for templating and lexing.
 ### Testing - Fail injection
 
 
-<sup>*Last Update: 2021-06-21 11:27:55*</sup>
+<sup>*Last Update: 2021-06-28 15:13:43*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [failpoint](https://github.com/pingcap/failpoint) | 588 | 51 | 10 | An implementation of failpoints for Golang. | 2019-04-02 07:48:18 | 2021-06-07 09:39:43 |
+| [failpoint](https://github.com/pingcap/failpoint) | 590 | 52 | 10 | An implementation of failpoints for Golang. | 2019-04-02 07:48:18 | 2021-06-28 03:31:07 |
 </details>
 
 ### Testing - Fuzzing and delta-debugging, reducing, shrinking
