@@ -668,6 +668,34 @@ Tools for updating dynamic DNS records.
 | [ddns](https://github.com/skibish/ddns) | 192 | 19 | 0 | Personal DDNS client with Digital Ocean Networking DNS as backend. | 2017-03-13 21:02:27 | 2021-06-20 17:48:23 |
 </details>
 
+### Email
+Libraries and tools that implement email creation and sending.
+
+<sup>*Last Update: 2021-06-28 16:25:20*</sup>
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [MailHog](https://github.com/mailhog/MailHog) | 8,668 | 651 | 186 | Web and API based SMTP testing | 2014-04-16 22:28:49 | 2021-06-28 09:12:46 |
+| [hermes](https://github.com/matcornic/hermes) | 2,291 | 182 | 25 | Golang package that generates clean, responsive HTML e-mails for sending transactional mail | 2017-03-25 18:25:36 | 2021-06-27 03:30:33 |
+| [email](https://github.com/jordan-wright/email) | 1,766 | 245 | 47 | Robust and flexible email library for Go | 2013-12-12 20:11:59 | 2021-06-28 01:05:13 |
+| [go-imap](https://github.com/emersion/go-imap) | 1,297 | 182 | 60 |  :inbox_tray: An IMAP library for clients and servers | 2016-04-26 17:59:18 | 2021-06-28 08:39:58 |
+| [sendgrid-go](https://sendgrid.com) | 736 | 230 | 12 | The Official Twilio SendGrid Led, Community Driven Golang API Library | 2013-09-12 03:31:13 | 2021-06-25 15:51:09 |
+| [mailgun-go](https://mailchain.xyz) | 531 | 118 | 7 | Go library for sending mail with the Mailgun API. | 2014-02-28 00:28:44 | 2021-06-24 09:51:30 |
+| [chasquid](https://blitiri.com.ar/p/chasquid/) | 445 | 27 | 1 | SMTP (email) server with a focus on simplicity, security, and ease of operation [mirror] | 2016-11-03 01:28:05 | 2021-06-25 11:20:34 |
+| [email-verifier](https://github.com/AfterShip/email-verifier) | 248 | 26 | 0 | :white_check_mark: A Go library for email verification without sending any emails. | 2020-12-18 08:47:28 | 2021-06-24 14:53:03 |
+| [go-message](https://github.com/emersion/go-message) | 209 | 63 | 19 | :envelope: A streaming Go library for the Internet Message Format and mail messages | 2016-12-31 09:31:52 | 2021-06-27 19:13:50 |
+| [hectane](https://github.com/hectane/hectane) | 207 | 25 | 16 | Lightweight SMTP client written in Go | 2015-08-28 01:36:47 | 2021-06-26 06:27:58 |
+| [douceur](https://github.com/aymerick/douceur) | 194 | 33 | 9 | A simple CSS parser and inliner in Go | 2015-04-09 10:21:26 | 2021-06-02 19:06:59 |
+| [go-simple-mail](https://github.com/xhit/go-simple-mail) | 165 | 34 | 7 | Golang package for send email. Support keep alive connection, TLS and SSL. Easy for bulk SMTP. | 2019-09-15 05:38:54 | 2021-06-24 11:59:36 |
+| [mailchain](https://mailchain.xyz) | 82 | 42 | 45 | Using Mailchain, blockchain users can now send and receive rich-media HTML messages with attachments via a blockchain address. | 2019-04-11 17:37:31 | 2021-06-20 12:45:11 |
+| [go-premailer](https://github.com/vanng822/go-premailer) | 71 | 12 | 3 | Inline styling for html mail in golang | 2015-02-16 22:19:18 | 2021-05-23 17:07:47 |
+| [go-dkim](https://github.com/toorop/go-dkim) | 69 | 29 | 4 | DKIM package for golang | 2015-04-29 15:38:27 | 2021-05-27 11:39:05 |
+| [smtp](https://sendgrid.com) | 63 | 22 | 6 | MailHog SMTP Protocol | 2014-12-24 16:13:49 | 2021-05-26 06:49:05 |
+| [go-email-validator](https://github.com/go-email-validator/go-email-validator) | 11 | 3 | 4 | 📧 Golang Email address validator | 2020-12-10 18:27:20 | 2021-06-13 02:30:45 |
+</details>
+
 ### Embeddable Scripting Languages
 Embedding other languages inside your go code.
 
@@ -834,6 +862,26 @@ Tools to enhance the language with features like generics via code generation.
 | [GENERIS](https://github.com/senselogic/GENERIS) | 27 | 0 | 0 | Versatile Go code generator. | 2019-03-10 19:33:31 | 2021-06-13 20:29:04 |
 | [go-xray](https://godoc.org/github.com/ahmetb/go-linq) | 17 | 1 | 0 | Helpers for making the use of reflection easier | 2019-10-01 08:40:51 | 2021-03-16 01:44:08 |
 | [typeregistry](https://github.com/xiaoxin01/typeregistry) | 11 | 0 | 0 | create type dynamically in Golang | 2020-01-14 15:50:38 | 2021-06-14 08:05:42 |
+</details>
+
+### Geographic
+Geographic tools and servers
+
+<sup>*Last Update: 2021-06-28 16:25:01*</sup>
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [tile38](https://tile38.com) | 7,483 | 449 | 122 | Real-time Geospatial and Geofencing | 2016-03-04 23:07:44 | 2021-06-27 22:12:47 |
+| [geo](https://github.com/golang/geo) | 1,230 | 138 | 9 | S2 geometry library in Go | 2014-12-03 23:02:15 | 2021-06-24 21:57:59 |
+| [mbtileserver](https://github.com/consbio/mbtileserver) | 246 | 42 | 9 | Basic Go server for mbtiles | 2014-11-01 04:12:14 | 2021-06-27 00:58:11 |
+| [osm](https://github.com/paulmach/osm) | 167 | 27 | 2 | General purpose library for reading, writing and working with OpenStreetMap data | 2016-02-02 00:59:03 | 2021-06-15 04:25:04 |
+| [wgs84](https://github.com/wroge/wgs84) | 62 | 3 | 0 | A pure Go package for coordinate transformations. | 2019-06-08 17:17:59 | 2021-06-24 10:30:51 |
+| [geoserver](https://github.com/hishamkaram/geoserver) | 55 | 11 | 3 | geoserver is a Go library for manipulating a GeoServer instance via the GeoServer REST API. | 2018-03-26 21:36:49 | 2021-06-25 07:14:25 |
+| [gismanager](https://github.com/hishamkaram/gismanager) | 38 | 6 | 0 | Publish Your GIS Data(Vector Data) to PostGIS and Geoserver | 2018-09-29 12:51:37 | 2021-03-02 15:54:38 |
+| [pbf](https://github.com/maguro/pbf) | 26 | 3 | 1 | OpenStreetMap PBF golang parser | 2017-09-18 23:13:18 | 2021-05-26 02:13:09 |
+| [s2-geojson](https://github.com/pantrif/s2-geojson) | 13 | 3 | 1 | Draw a polygon on the map or paste a geoJSON and explore how the s2.RegionCoverer covers it with S2 cells depending on the min and max levels | 2020-03-27 09:47:32 | 2021-06-13 06:12:30 |
 </details>
 
 ### Go Compilers
@@ -1046,7 +1094,7 @@ Libraries for Machine Learning.
 ### Microsoft Office
 
 
-<sup>*Last Update: 2021-06-28 15:13:42*</sup>
+<sup>*Last Update: 2021-06-28 16:25:28*</sup>
 <details>
   <summary>Show Table</summary>
 
@@ -1485,25 +1533,25 @@ Unofficial libraries for package and dependency management
 ### Science and Data Analysis
 Libraries for scientific computing and data analyzing.
 
-<sup>*Last Update: 2021-06-26 08:31:06*</sup>
+<sup>*Last Update: 2021-06-28 16:25:08*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [gonum](https://www.gonum.org/) | 4,958 | 400 | 213 | Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more | 2017-03-25 14:54:38 | 2021-06-25 16:27:07 |
-| [stats](https://github.com/montanaflynn/stats) | 2,005 | 131 | 14 | A well tested and comprehensive Golang statistics library package with no dependencies. | 2014-12-16 03:25:19 | 2021-06-25 01:28:47 |
-| [plot](https://github.com/gonum/plot) | 1,919 | 175 | 97 | A repository for plotting and visualizing data | 2013-07-23 07:01:13 | 2021-06-25 22:52:37 |
-| [gosl](https://github.com/cpmech/gosl) | 1,587 | 144 | 0 | Linear algebra, eigenvalues, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, differential equations. | 2015-02-09 23:00:38 | 2021-06-23 03:49:58 |
+| [gonum](https://www.gonum.org/) | 4,967 | 400 | 212 | Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more | 2017-03-25 14:54:38 | 2021-06-28 01:15:44 |
+| [stats](https://github.com/montanaflynn/stats) | 2,008 | 131 | 14 | A well tested and comprehensive Golang statistics library package with no dependencies. | 2014-12-16 03:25:19 | 2021-06-28 09:06:29 |
+| [plot](https://github.com/gonum/plot) | 1,919 | 174 | 98 | A repository for plotting and visualizing data | 2013-07-23 07:01:13 | 2021-06-25 22:52:37 |
+| [gosl](https://github.com/cpmech/gosl) | 1,587 | 144 | 0 | Linear algebra, eigenvalues, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, differential equations. | 2015-02-09 23:00:38 | 2021-06-28 08:07:32 |
 | [streamtools](http://nytlabs.github.io/streamtools/) | 1,310 | 108 | 47 | tools for working with streams of data | 2013-07-05 18:58:45 | 2021-06-21 14:55:00 |
-| [go-dsp](http://godoc.org/github.com/mjibson/go-dsp) | 736 | 75 | 6 | Digital Signal Processing for Go | 2011-11-02 06:28:41 | 2021-06-23 08:12:31 |
+| [go-dsp](http://godoc.org/github.com/mjibson/go-dsp) | 737 | 75 | 6 | Digital Signal Processing for Go | 2011-11-02 06:28:41 | 2021-06-26 19:38:12 |
 | [chart](https://github.com/vdobler/chart) | 679 | 101 | 6 | Provide basic charts in go | 2011-06-27 12:19:42 | 2021-06-21 14:34:02 |
 | [goraph](https://github.com/gyuho/goraph) | 641 | 74 | 6 | Package goraph implements graph data structure and algorithms. | 2014-02-27 03:15:55 | 2021-06-17 07:54:36 |
 | [dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 558 | 55 | 5 | DataFrames for Go: For statistics, machine-learning, and data manipulation/exploration | 2018-10-01 12:19:31 | 2021-06-24 17:04:32 |
-| [graph](https://yourbasic.org/golang/your-basic-func/) | 453 | 44 | 2 | Graph algorithms and data structures | 2017-04-27 18:43:54 | 2021-06-11 20:43:42 |
+| [graph](https://yourbasic.org/golang/your-basic-func/) | 455 | 45 | 2 | Graph algorithms and data structures | 2017-04-27 18:43:54 | 2021-06-28 02:58:45 |
 | [orb](https://github.com/paulmach/orb) | 401 | 51 | 11 | Types and utilities for working with 2d geometry in Golang | 2016-03-28 01:19:01 | 2021-06-20 23:54:07 |
-| [ewma](https://github.com/VividCortex/ewma) | 334 | 23 | 2 | Exponentially Weighted Moving Average algorithms for Go. | 2013-07-05 21:33:25 | 2021-06-05 09:32:24 |
-| [calendarheatmap](https://github.com/nikolaydubina/calendarheatmap) | 260 | 7 | 2 | Calendar heatmap inspired by GitHub contribution activity | 2020-07-01 18:30:48 | 2021-05-21 04:32:20 |
+| [ewma](https://github.com/VividCortex/ewma) | 335 | 23 | 2 | Exponentially Weighted Moving Average algorithms for Go. | 2013-07-05 21:33:25 | 2021-06-26 22:08:41 |
+| [calendarheatmap](https://github.com/nikolaydubina/calendarheatmap) | 262 | 7 | 2 | Calendar heatmap inspired by GitHub contribution activity | 2020-07-01 18:30:48 | 2021-06-28 09:20:00 |
 | [gohistogram](http://godoc.org/github.com/VividCortex/gohistogram) | 153 | 28 | 1 | Streaming approximate histograms in Go | 2013-07-02 12:53:22 | 2021-06-05 08:24:50 |
 | [TextRank](https://github.com/DavidBelicza/TextRank) | 142 | 17 | 4 | :wink: :cyclone: :strawberry: TextRank implementation in Golang with extendable features (summarization, phrase extraction) and multithreading (goroutine). | 2018-01-09 19:36:17 | 2021-06-25 13:04:42 |
 | [sparse](https://github.com/james-bowman/sparse) | 116 | 19 | 4 | Sparse matrix formats for linear algebra supporting scientific and machine learning applications | 2017-05-16 13:54:36 | 2021-06-23 22:27:46 |
@@ -1679,7 +1727,7 @@ Libraries and tools for templating and lexing.
 ### Testing - Fail injection
 
 
-<sup>*Last Update: 2021-06-28 15:13:43*</sup>
+<sup>*Last Update: 2021-06-28 16:25:27*</sup>
 <details>
   <summary>Show Table</summary>
 

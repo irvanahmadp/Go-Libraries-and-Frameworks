@@ -1,7 +1,7 @@
 {
 	"name": "Science and Data Analysis",
 	"index_last_check": 0,
-	"last_update": 1624671066,
+	"last_update": 1624872308,
 	"libraries": [
 		{
 			"id": 86164982,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/gonum/gonum",
 			"homepage": "https://www.gonum.org/",
 			"created_at": "2017-03-25T14:54:38Z",
-			"updated_at": "2021-06-25T16:27:07Z",
+			"updated_at": "2021-06-28T01:15:44Z",
 			"svn_url": "https://github.com/gonum/gonum",
-			"stargazers_count": 4958,
-			"watchers_count": 4958,
+			"stargazers_count": 4967,
+			"watchers_count": 4967,
 			"forks_count": 400,
-			"open_issues_count": 213
+			"open_issues_count": 212
 		},
 		{
 			"id": 28068530,
@@ -24,10 +24,10 @@
 			"html_url": "https://github.com/montanaflynn/stats",
 			"homepage": "",
 			"created_at": "2014-12-16T03:25:19Z",
-			"updated_at": "2021-06-25T01:28:47Z",
+			"updated_at": "2021-06-28T09:06:29Z",
 			"svn_url": "https://github.com/montanaflynn/stats",
-			"stargazers_count": 2005,
-			"watchers_count": 2005,
+			"stargazers_count": 2008,
+			"watchers_count": 2008,
 			"forks_count": 131,
 			"open_issues_count": 14
 		},
@@ -42,8 +42,8 @@
 			"svn_url": "https://github.com/gonum/plot",
 			"stargazers_count": 1919,
 			"watchers_count": 1919,
-			"forks_count": 175,
-			"open_issues_count": 97
+			"forks_count": 174,
+			"open_issues_count": 98
 		},
 		{
 			"id": 30563502,
@@ -52,7 +52,7 @@
 			"html_url": "https://github.com/cpmech/gosl",
 			"homepage": "",
 			"created_at": "2015-02-09T23:00:38Z",
-			"updated_at": "2021-06-23T03:49:58Z",
+			"updated_at": "2021-06-28T08:07:32Z",
 			"svn_url": "https://github.com/cpmech/gosl",
 			"stargazers_count": 1587,
 			"watchers_count": 1587,
@@ -80,10 +80,10 @@
 			"html_url": "https://github.com/mjibson/go-dsp",
 			"homepage": "http://godoc.org/github.com/mjibson/go-dsp",
 			"created_at": "2011-11-02T06:28:41Z",
-			"updated_at": "2021-06-23T08:12:31Z",
+			"updated_at": "2021-06-26T19:38:12Z",
 			"svn_url": "https://github.com/mjibson/go-dsp",
-			"stargazers_count": 736,
-			"watchers_count": 736,
+			"stargazers_count": 737,
+			"watchers_count": 737,
 			"forks_count": 75,
 			"open_issues_count": 6
 		},
@@ -136,11 +136,11 @@
 			"html_url": "https://github.com/yourbasic/graph",
 			"homepage": "https://yourbasic.org/golang/your-basic-func/",
 			"created_at": "2017-04-27T18:43:54Z",
-			"updated_at": "2021-06-11T20:43:42Z",
+			"updated_at": "2021-06-28T02:58:45Z",
 			"svn_url": "https://github.com/yourbasic/graph",
-			"stargazers_count": 453,
-			"watchers_count": 453,
-			"forks_count": 44,
+			"stargazers_count": 455,
+			"watchers_count": 455,
+			"forks_count": 45,
 			"open_issues_count": 2
 		},
 		{
@@ -164,10 +164,10 @@
 			"html_url": "https://github.com/VividCortex/ewma",
 			"homepage": "",
 			"created_at": "2013-07-05T21:33:25Z",
-			"updated_at": "2021-06-05T09:32:24Z",
+			"updated_at": "2021-06-26T22:08:41Z",
 			"svn_url": "https://github.com/VividCortex/ewma",
-			"stargazers_count": 334,
-			"watchers_count": 334,
+			"stargazers_count": 335,
+			"watchers_count": 335,
 			"forks_count": 23,
 			"open_issues_count": 2
 		},
@@ -178,10 +178,10 @@
 			"html_url": "https://github.com/nikolaydubina/calendarheatmap",
 			"homepage": "",
 			"created_at": "2020-07-01T18:30:48Z",
-			"updated_at": "2021-05-21T04:32:20Z",
+			"updated_at": "2021-06-28T09:20:00Z",
 			"svn_url": "https://github.com/nikolaydubina/calendarheatmap",
-			"stargazers_count": 260,
-			"watchers_count": 260,
+			"stargazers_count": 262,
+			"watchers_count": 262,
 			"forks_count": 7,
 			"open_issues_count": 2
 		},
