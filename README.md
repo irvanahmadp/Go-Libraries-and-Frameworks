@@ -313,6 +313,63 @@ Libraries for building standard or basic Command Line applications.
 | [ts](https://github.com/liujianping/ts) | 13 | 1 | 0 | timestamp convert & compare tool. 时间戳转换与对比工具 | 2019-06-25 10:21:13 | 2021-02-13 09:18:33 |
 </details>
 
+### Configuration
+Libraries for configuration parsing.
+
+<sup>*Last Update: 2021-06-29 16:25:01*</sup>
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [viper](https://github.com/spf13/viper) | 16,021 | 1,404 | 452 | Go configuration with fangs | 2014-04-02 14:33:33 | 2021-06-29 09:10:29 |
+| [godotenv](http://godoc.org/github.com/joho/godotenv) | 3,935 | 235 | 50 | A Go port of Ruby's dotenv library (Loads environment variables from `.env`.) | 2013-07-30 07:45:19 | 2021-06-29 08:38:36 |
+| [envconfig](https://josh.blog/2017/04/go-configure) | 3,652 | 299 | 46 | Golang library for managing configuration data from environment variables | 2013-11-06 17:01:55 | 2021-06-29 01:55:15 |
+| [ini](https://ini.unknwon.io) | 2,528 | 313 | 33 | Package ini provides INI file read and write functionality in Go. | 2014-12-18 07:36:37 | 2021-06-29 03:12:18 |
+| [env](http://carlosbecker.com/posts/env-structs-golang) | 1,922 | 147 | 3 | Simple lib to parse environment variables to structs | 2015-07-28 02:14:37 | 2021-06-28 19:47:22 |
+| [konfig](https://github.com/lalamove/konfig) | 609 | 40 | 4 | Composable, observable and performant config handling for Go for the distributed processing era | 2019-01-18 17:03:03 | 2021-06-27 08:36:03 |
+| [koanf](https://github.com/knadh/koanf) | 521 | 46 | 7 | Light weight, extensible, configuration management library for Go. Built in support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper. | 2019-06-18 06:34:05 | 2021-06-28 19:24:40 |
+| [confita](https://github.com/heetch/confita) | 397 | 38 | 19 | Load configuration in cascade from multiple backends into a struct | 2017-12-21 10:49:18 | 2021-06-28 19:55:55 |
+| [cleanenv](https://github.com/ilyakaznacheev/cleanenv) | 298 | 33 | 19 | ✨Clean and minimalistic environment configuration reader for Golang | 2019-07-12 15:28:52 | 2021-06-25 00:47:26 |
+| [config](https://github.com/JeremyLoy/config) | 257 | 10 | 1 | 12 factor configuration as a typesafe struct in as little as two function calls | 2019-04-02 13:41:22 | 2021-06-29 07:28:18 |
+| [store](https://github.com/tucnak/store) | 253 | 16 | 2 | A dead simple configuration manager for Go applications | 2015-10-03 19:17:28 | 2021-05-25 06:32:04 |
+| [config](https://pkg.go.dev/github.com/gookit/config/v2) | 251 | 32 | 1 | 📝 Go config manage(load,get,set). support JSON, YAML, TOML, INI, HCL, ENV and Flags. Multi file load, data override merge, parse ENV var. Go应用配置加载管理，支持多种格式，多文件加载，远程文件加载，支持数据合并，解析环境变量名 | 2018-07-07 08:11:39 | 2021-06-28 14:08:16 |
+| [config](https://github.com/olebedev/config) | 240 | 43 | 4 | JSON or YAML configuration wrapper with convenient access methods. | 2014-04-21 15:09:39 | 2021-06-11 14:40:05 |
+| [hjson-go](https://hjson.github.io/) | 239 | 26 | 3 | Hjson for Go | 2016-08-05 22:59:18 | 2021-06-24 14:59:02 |
+| [aconfig](https://github.com/cristalhq/aconfig) | 228 | 14 | 7 | Simple, useful and opinionated config loader. | 2020-06-26 19:43:20 | 2021-06-24 07:31:17 |
+| [config](https://josh.blog/2017/04/go-configure) | 205 | 11 | 1 | 🛠 A configuration library for Go that parses environment variables, JSON files, and reloads automatically on SIGHUP | 2017-04-02 18:37:05 | 2021-05-01 01:16:15 |
+| [envconfig](https://godoc.org/github.com/tomazk/envcfg) | 201 | 21 | 0 | Small library to read your configuration from environment variables | 2015-04-21 23:37:17 | 2021-05-19 07:28:37 |
+| [fig](https://github.com/kkyr/fig) | 155 | 9 | 2 | A minimalist Go configuration library | 2020-01-16 18:43:19 | 2021-06-18 12:26:22 |
+| [gcfg](https://gopkg.in/gcfg.v1) | 150 | 47 | 8 | read INI-style configuration files into Go structs; supports user-defined types and subsections | 2015-08-17 14:40:55 | 2021-05-18 08:34:01 |
+| [goconfig](https://pkg.go.dev/github.com/gosidekick/goconfig?tab=doc) | 148 | 20 | 7 | goconfig uses a struct as input and populates the fields of this struct with parameters from command line, environment variables and configuration file. | 2016-12-18 11:22:41 | 2021-06-03 22:49:50 |
+| [config](https://github.com/golobby/config) | 146 | 11 | 1 | A lightweight yet powerful config package for Go projects | 2019-10-15 22:51:19 | 2021-06-21 05:49:33 |
+| [xdg](https://pkg.go.dev/github.com/adrg/xdg) | 107 | 6 | 0 | Go implementation of the XDG Base Directory Specification and XDG user directories | 2014-08-22 08:23:40 | 2021-06-23 07:11:17 |
+| [envh](https://github.com/antham/envh) | 96 | 1 | 0 | Go helpers to manage environment variables | 2017-01-12 11:25:48 | 2021-05-21 04:31:29 |
+| [envcfg](https://godoc.org/github.com/tomazk/envcfg) | 93 | 6 | 0 | Un-marshaling environment variables to Go structs | 2014-11-29 11:43:53 | 2020-12-06 17:12:56 |
+| [onion](https://github.com/goraz/onion) | 91 | 8 | 8 | Layer based configuration for golang | 2015-07-22 14:28:21 | 2020-12-13 20:13:08 |
+| [harvester](https://github.com/beatlabs/harvester) | 84 | 18 | 3 | Harvest configuration, watch and notify subscriber | 2019-04-09 07:37:19 | 2021-06-17 11:28:48 |
+| [configuro](https://medium.com/better-programming/designing-cloud-native-configuration-framework-eefb0b3793cb) | 74 | 9 | 0 | An opinionated configuration loading framework for Containerized and Cloud-Native applications. | 2020-04-09 22:10:34 | 2021-06-10 12:57:35 |
+| [xdg](https://github.com/OpenPeeDeeP/xdg) | 63 | 5 | 1 | A cross platform package that follows the XDG Standard | 2017-07-20 15:58:29 | 2021-06-18 00:46:25 |
+| [gofigure](https://github.com/ian-kent/gofigure) | 59 | 9 | 1 | Go configuration made easy! | 2014-11-25 00:12:40 | 2020-08-31 14:19:02 |
+| [configure](https://github.com/paked/configure) | 54 | 9 | 2 | Configure is a Go package that gives you easy configuration of your project through redundancy | 2015-06-14 07:46:56 | 2021-05-27 13:28:12 |
+| [go-aws-ssm](https://github.com/PaddleHQ/go-aws-ssm) | 40 | 7 | 0 | Go package that interfaces with AWS System Manager | 2019-01-24 09:01:19 | 2021-06-17 21:44:36 |
+| [configuration](https://github.com/BoRuDar/configuration) | 39 | 6 | 0 | Library for setting values to structs' fields from env, flags, files or default tag | 2019-11-27 17:58:49 | 2021-06-03 17:33:29 |
+| [ingo](https://github.com/schachmat/ingo) | 35 | 7 | 0 | persistent storage for flags in go | 2016-02-07 22:57:40 | 2021-06-15 10:31:14 |
+| [gone](https://github.com/One-com/gone) | 35 | 5 | 0 | Golang packages for writing small daemons and servers. | 2016-09-05 09:39:11 | 2021-05-24 14:22:10 |
+| [go-up](https://github.com/ufoscout/go-up) | 32 | 5 | 1 | go-up! A simple configuration library with recursive placeholders resolution and no magic. | 2018-02-18 09:50:00 | 2021-06-11 20:28:29 |
+| [mini](https://github.com/sasbury/mini) | 28 | 6 | 1 | A golang package for parsing ini-style configuration files | 2015-04-29 23:52:36 | 2020-12-08 09:30:24 |
+| [hocon](https://hjson.github.io/) | 26 | 5 | 1 | go implementation of lightbend's HOCON configuration library https://github.com/lightbend/config | 2020-03-01 18:20:12 | 2021-06-19 19:17:48 |
+| [genv](https://github.com/sakirsensoy/genv) | 23 | 1 | 0 | Genv is a library for Go (golang) that makes it easy to read and use environment variables in your projects. It also allows environment variables to be loaded from the .env file. | 2019-07-15 10:25:57 | 2021-06-03 18:30:51 |
+| [conflate](https://github.com/the4thamigo-uk/conflate) | 19 | 2 | 0 | Library providing routines to merge and validate JSON, YAML and/or TOML files | 2018-02-01 19:06:15 | 2021-05-20 08:54:46 |
+| [go-ssm-config](http://godoc.org/github.com/ianlopshire/go-ssm-config) | 10 | 5 | 4 | Go utility for loading configuration parameters from AWS SSM (Parameter Store) | 2019-12-02 18:47:38 | 2021-05-20 10:56:58 |
+| [envconf](https://godoc.org/github.com/tomazk/envcfg) | 10 | 3 | 0 | Configure Go applications from the environment | 2014-10-26 12:12:26 | 2020-08-31 14:12:53 |
+| [go-ini](https://github.com/subpop/go-ini) | 5 | 1 | 1 | automatic mirror of https://git.sr.ht/~spc/go-ini | 2019-09-11 18:38:20 | 2021-06-09 06:01:09 |
+| [swap](https://github.com/oblq/swap) | 4 | 0 | 0 | Instantiate/configure structs recursively, based on build environment. (YAML, TOML, JSON and env). | 2020-04-12 23:28:19 | 2021-02-25 07:52:33 |
+| [typenv](https://github.com/diegomarangoni/typenv) | 4 | 0 | 0 | Go minimalist typed environment variables library | 2020-06-30 18:26:09 | 2021-02-08 22:09:22 |
+| [env](https://github.com/nasermirzaei89/env) | 4 | 0 | 0 | Golang Get Environment Variables Package | 2019-07-24 06:37:13 | 2021-05-06 07:08:59 |
+| [gonfig](https://github.com/miladabc/gonfig) | 2 | 0 | 0 | Tag based configuration loader from different providers | 2021-01-21 13:44:44 | 2021-03-07 21:29:39 |
+</details>
+
 ### Continuous Integration
 Tools for help with continuous integration.
 
@@ -550,15 +607,15 @@ libraries for building and using SQL
 ### Database Drivers - Multiple Backends.
 
 
-<sup>*Last Update: 2021-06-21 16:25:23*</sup>
+<sup>*Last Update: 2021-06-29 16:25:19*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [cayley](https://cayley.io) | 13,841 | 1,252 | 89 | An open-source graph database | 2014-06-05 18:49:41 | 2021-06-21 06:17:17 |
+| [cayley](https://cayley.io) | 13,843 | 1,252 | 89 | An open-source graph database | 2014-06-05 18:49:41 | 2021-06-29 03:49:31 |
 | [gokv](https://github.com/philippgille/gokv) | 343 | 34 | 30 | Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more) | 2018-10-08 18:55:22 | 2021-06-15 10:45:51 |
-| [cachego](https://github.com/faabiosr/cachego) | 156 | 9 | 1 | Golang Cache component - Multiple drivers | 2016-10-05 18:10:03 | 2021-06-03 07:59:30 |
+| [cachego](https://github.com/faabiosr/cachego) | 156 | 9 | 1 | Golang Cache component - Multiple drivers | 2016-10-05 18:10:03 | 2021-06-23 17:52:44 |
 | [dsc](https://github.com/viant/dsc) | 22 | 6 | 0 | Datastore Connectivity in go | 2016-06-13 20:18:10 | 2021-04-17 04:50:27 |
 </details>
 
@@ -2282,13 +2339,13 @@ Full stack web frameworks.
 ### WebAssembly
 
 
-<sup>*Last Update: 2021-06-29 14:34:49*</sup>
+<sup>*Last Update: 2021-06-29 16:25:17*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [tinygo](https://tinygo.org) | 8,188 | 427 | 264 | Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM. | 2018-06-07 16:39:19 | 2021-06-29 05:48:53 |
+| [tinygo](https://tinygo.org) | 8,189 | 427 | 264 | Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM. | 2018-06-07 16:39:19 | 2021-06-29 08:54:46 |
 | [dom](https://github.com/dennwc/dom) | 429 | 51 | 11 | DOM library for Go and WASM | 2018-06-30 18:37:35 | 2021-06-28 15:18:01 |
 | [go-canvas](https://github.com/markfarnan/go-canvas) | 137 | 9 | 5 | Library to use HTML5 Canvas  from Go-WASM, with all drawing within go code | 2019-05-05 14:05:55 | 2021-06-25 12:35:37 |
 | [webapi](https://github.com/gowebapi/webapi) | 82 | 8 | 2 | Go Lang Web Assembly bindings for DOM, HTML etc | 2019-02-08 05:58:35 | 2021-06-16 15:50:16 |
