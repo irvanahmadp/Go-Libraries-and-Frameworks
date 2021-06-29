@@ -1,8 +1,8 @@
 {
-	"last_update": 1624931733,
+	"last_update": 1624952091,
 	"rate_limit": 60,
 	"rate_limit_remaining": 0,
-	"rate_limit_reset": 1624935314,
+	"rate_limit_reset": 1624955671,
 	"categories": [
 		{
 			"name": "Audio and Music",
@@ -52,7 +52,7 @@
 		{
 			"name": "Data Structures",
 			"description": "Generic datastructures and algorithms in Go.",
-			"last_update": 0
+			"last_update": 1624952068
 		},
 		{
 			"name": "Database - Database schema migration",
@@ -167,7 +167,7 @@
 		{
 			"name": "Goroutines",
 			"description": "Tools for managing and working with Goroutines.",
-			"last_update": 0
+			"last_update": 1624952075
 		},
 		{
 			"name": "Images",
