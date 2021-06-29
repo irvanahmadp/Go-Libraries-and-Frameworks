@@ -331,6 +331,71 @@ Tools for help with continuous integration.
 | [roveralls](https://github.com/lawrencewoodman/roveralls) | 14 | 4 | 0 | A Go recursive coverage testing tool | 2016-06-26 07:45:32 | 2020-08-20 00:07:58 |
 </details>
 
+### Data Structures
+Generic datastructures and algorithms in Go.
+
+<sup>*Last Update: 2021-06-29 08:55:13*</sup>
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [gods](https://github.com/emirpasic/gods) | 10,127 | 1,194 | 50 | GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet, LinkedHashSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap, LinkedHashMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON | 2015-03-04 14:19:52 | 2021-06-28 21:18:20 |
+| [go-datastructures](https://github.com/Workiva/go-datastructures) | 6,078 | 710 | 25 | A collection of useful, performant, and threadsafe Go datastructures. | 2014-10-29 13:55:17 | 2021-06-28 06:45:39 |
+| [golang-set](https://github.com/deckarep/golang-set) | 1,981 | 170 | 12 | A simple set type for the Go language. Trusted by Docker, 1Password, Ethereum and Hashicorp. | 2013-07-03 21:52:01 | 2021-06-25 17:21:22 |
+| [gota](https://github.com/go-gota/gota) | 1,634 | 173 | 46 | Gota: DataFrames and data wrangling in Go (Golang) | 2016-02-06 17:23:25 | 2021-06-28 22:21:21 |
+| [BoomFilters](https://github.com/tylertreat/BoomFilters) | 1,357 | 95 | 9 | Probabilistic data structures for processing continuous, unbounded streams. | 2015-02-06 02:01:26 | 2021-06-25 09:37:00 |
+| [gocache](https://vincent.composieux.fr/article/i-wrote-gocache-a-complete-and-extensible-go-cache-library/) | 879 | 78 | 8 | ☔️ A complete Go cache library that brings you multiple ways of managing your caches | 2019-10-05 08:13:54 | 2021-06-29 01:25:36 |
+| [cuckoofilter](https://github.com/seiflotfy/cuckoofilter) | 800 | 64 | 10 | Cuckoo Filter: Practically Better Than Bloom | 2015-06-28 23:22:09 | 2021-06-28 09:51:45 |
+| [hyperloglog](https://github.com/axiomhq/hyperloglog) | 749 | 51 | 3 | HyperLogLog with lots of sugar (Sparse, LogLog-Beta bias correction and TailCut space reduction) | 2017-06-18 11:18:12 | 2021-06-23 20:31:34 |
+| [bitset](https://github.com/bits-and-blooms/bitset) | 697 | 120 | 3 | Go package implementing bitsets | 2011-05-11 03:33:44 | 2021-06-28 01:22:38 |
+| [algorithms](https://github.com/shady831213/algorithms) | 531 | 89 | 0 | CLRS study. Codes are written with golang. | 2018-01-31 09:27:56 | 2021-06-27 14:16:50 |
+| [go-geoindex](https://github.com/hailocab/go-geoindex) | 330 | 40 | 3 | Go native library for fast point tracking and K-Nearest queries | 2015-01-22 12:26:17 | 2021-06-21 14:56:53 |
+| [gostl](https://github.com/liyue201/gostl) | 284 | 59 | 1 | Data structure and algorithm library for go, designed to provide functions similar to C++ STL | 2019-10-12 01:10:24 | 2021-06-22 16:39:15 |
+| [go-edlib](https://github.com/hbollon/go-edlib) | 268 | 11 | 0 | Golang string comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc... | 2020-08-18 09:30:59 | 2021-06-27 15:29:53 |
+| [merkletree](https://github.com/cbergoon/merkletree) | 251 | 70 | 6 | A Merkle Tree implementation written in Go. | 2017-04-12 02:50:11 | 2021-06-22 14:40:31 |
+| [hilbert](https://github.com/google/hilbert) | 233 | 33 | 2 | Go package for mapping values to and from space-filling curves, such as Hilbert and Peano curves. | 2015-08-06 15:50:00 | 2021-05-28 14:00:08 |
+| [goskiplist](https://github.com/ryszard/goskiplist) | 226 | 55 | 6 | A skip list implementation in Go | 2012-05-09 05:44:59 | 2021-06-18 11:09:38 |
+| [deque](https://github.com/gammazero/deque) | 222 | 18 | 0 | Fast ring-buffer deque (double-ended queue) | 2018-04-24 02:57:55 | 2021-06-23 09:17:39 |
+| [go-adaptive-radix-tree](https://github.com/plar/go-adaptive-radix-tree) | 180 | 30 | 0 | Adaptive Radix Trees implemented in Go | 2016-04-01 01:40:40 | 2021-06-20 06:44:20 |
+| [binpacker](https://github.com/zhuangsirui/binpacker) | 164 | 27 | 2 | A binary stream packer and unpacker | 2016-02-02 10:06:11 | 2021-06-24 06:57:38 |
+| [cuckoo-filter](https://github.com/linvon/cuckoo-filter) | 156 | 11 | 0 | Cuckoo Filter go implement, better than Bloom Filter, configurable and space optimized  布谷鸟过滤器的Go实现，优于布隆过滤器，可以定制化过滤器参数，并进行了空间优化 | 2021-02-19 12:27:43 | 2021-06-28 03:01:36 |
+| [levenshtein](https://github.com/agnivade/levenshtein) | 144 | 11 | 1 | Go implementation to calculate Levenshtein Distance. | 2014-07-30 14:03:55 | 2021-06-26 03:54:57 |
+| [bloom](http://zhen.org/blog/benchmarking-bloom-filters-and-hash-functions-in-go/) | 144 | 15 | 1 | Bloom filters implemented in Go. | 2013-09-03 02:27:35 | 2021-06-04 02:57:34 |
+| [goconcurrentqueue](https://github.com/enriquebris/goconcurrentqueue) | 139 | 9 | 1 | Go concurrent-safe, goroutine-safe, thread-safe queue | 2019-01-10 21:21:23 | 2021-06-22 16:24:57 |
+| [iter](https://github.com/disksing/iter) | 136 | 7 | 1 | Go implementation of C++ STL iterators and algorithms. | 2019-10-20 09:29:49 | 2021-06-09 05:10:43 |
+| [ring](https://pkg.go.dev/github.com/tannerryan/ring) | 119 | 13 | 2 | Package ring provides a high performance and thread safe Go implementation of a bloom filter. | 2019-01-27 04:02:20 | 2021-04-17 13:36:17 |
+| [go-rquad](https://github.com/arl/go-rquad) | 115 | 3 | 0 | :pushpin: State of the art point location and neighbour finding algorithms for region quadtrees, in Go | 2016-09-12 21:46:37 | 2021-05-29 12:21:29 |
+| [encoding](http://zhen.org/blog/benchmarking-integer-compression-in-go/) | 106 | 13 | 1 | Integer Compression Libraries for Go | 2013-09-20 19:29:57 | 2021-06-21 05:03:21 |
+| [bit](https://yourbasic.org/algorithms/your-basic-int/#simple-sets) | 103 | 16 | 0 | Bitset data structure | 2017-05-03 19:05:35 | 2021-06-03 06:27:17 |
+| [remember-go](https://github.com/rocketlaunchr/remember-go) | 99 | 6 | 1 | Cache Slow Database Queries | 2019-04-04 20:24:25 | 2021-06-22 06:09:00 |
+| [conjungo](https://github.com/InVisionApp/conjungo) | 94 | 12 | 10 | A small flexible merge library in go | 2016-12-29 23:50:38 | 2021-06-02 07:01:48 |
+| [go-mcache](https://pkg.go.dev/github.com/OrlovEvgeny/go-mcache?tab=doc) | 67 | 9 | 0 | Fast in-memory key:value store/cache with TTL | 2018-04-14 23:31:21 | 2021-06-03 03:53:28 |
+| [bloom](https://yourbasic.org/algorithms/bloom-filter/) | 61 | 8 | 0 | Probabilistic set data structure | 2017-05-06 19:57:47 | 2021-06-04 02:57:57 |
+| [levenshtein](https://github.com/agext/levenshtein) | 57 | 5 | 0 | Levenshtein distance and similarity metrics with customizable edit costs and Winkler-like bonus for common prefix. | 2016-04-08 00:14:31 | 2021-02-24 01:05:36 |
+| [count-min-log](https://github.com/seiflotfy/count-min-log) | 53 | 3 | 0 | Go implementation of Count-Min-Log | 2015-08-16 22:31:36 | 2021-03-31 12:17:31 |
+| [crunch](https://github.com/superwhiskers/crunch) | 44 | 6 | 0 | take bytes out of things easily ✨🍪 | 2019-02-27 03:56:52 | 2021-06-21 05:46:50 |
+| [nan](https://github.com/kak-tus/nan) | 36 | 5 | 0 | Zero allocation Nullable structures in one library with handy conversion functions, marshallers and unmarshallers | 2020-05-05 20:20:54 | 2021-04-08 12:15:20 |
+| [hide](https://godoc.org/github.com/yaa110/goterator) | 34 | 3 | 0 | ID type with marshalling to/from hash to prevent sending IDs to clients. | 2019-01-16 13:54:17 | 2021-06-20 09:54:05 |
+| [concurrent-writer](https://github.com/free/concurrent-writer) | 34 | 5 | 0 | Highly concurrent drop-in replacement for bufio.Writer | 2017-09-18 15:29:59 | 2021-06-27 10:06:17 |
+| [goset](https://github.com/zoumo/goset) | 33 | 11 | 0 | Set is a useful collection but there is no built-in implementation in Go lang. | 2017-08-25 09:21:30 | 2021-06-02 19:49:07 |
+| [pipeline](https://godoc.org/github.com/hyfather/pipeline) | 30 | 3 | 0 | Pipelines using goroutines | 2018-04-25 00:11:36 | 2021-05-27 16:36:48 |
+| [deque](https://github.com/edwingeng/deque) | 28 | 1 | 0 | A highly optimized double-ended queue | 2019-02-01 03:32:28 | 2021-06-04 11:23:02 |
+| [null](https://github.com/emvi/null) | 19 | 1 | 0 | Nullable Go types that can be marshalled/unmarshalled to/from JSON. | 2018-07-04 21:18:45 | 2021-05-21 08:13:05 |
+| [dict](https://github.com/srfrog/dict) | 18 | 1 | 0 | Python-like dictionaries for Go | 2019-04-23 02:04:25 | 2020-12-08 21:19:15 |
+| [go-ef](https://github.com/amallia/go-ef) | 18 | 5 | 0 | A Go implementation of the Elias-Fano encoding | 2017-09-22 01:47:16 | 2021-05-05 17:59:40 |
+| [cmap](https://github.com/lrita/cmap) | 15 | 0 | 0 | a thread-safe concurrent map for go | 2019-11-26 03:54:59 | 2021-06-04 02:59:28 |
+| [mspm](https://github.com/BlackRabbitt/mspm) | 15 | 1 | 0 | Multi-String Pattern Matching Algorithm Using TrieHashNode | 2018-05-17 18:59:44 | 2021-02-13 15:48:41 |
+| [ptrie](https://godoc.org/github.com/hyfather/pipeline) | 14 | 3 | 0 | A prefix tree implementation in go  | 2019-05-20 14:13:05 | 2021-04-23 12:43:50 |
+| [parapipe](https://github.com/nazar256/parapipe) | 10 | 0 | 0 | Paralleling pipeline | 2021-04-09 06:49:56 | 2021-06-21 04:46:05 |
+| [gofal](https://github.com/xxjwxc/gofal) | 9 | 0 | 0 | fractional api base on golang . golang math tools fractional molecular denominator 分数计算 分子 分母 运算 | 2019-08-05 07:37:55 | 2020-10-08 14:54:15 |
+| [parsefields](https://github.com/MonaxGT/parsefields) | 6 | 0 | 0 | Tools for parse JSON-like logs for collecting unique fields and events | 2019-04-12 22:15:10 | 2021-05-15 04:37:38 |
+| [ordered-concurrently](https://github.com/tejzpr/ordered-concurrently) | 5 | 0 | 0 | Ordered-concurrently a library for parallel processing with ordered output in Go. Process work concurrently / in parallel and returns output in a channel in the order of input. It is useful in concurrently / parallelly processing items in a queue, and get output in the order provided by the queue. | 2021-02-28 17:56:05 | 2021-06-09 09:42:22 |
+| [dsu](https://github.com/ihebu/dsu) | 5 | 0 | 0 | Disjoint Set data structure implementation in Go | 2021-04-27 16:35:38 | 2021-06-21 04:48:16 |
+| [bloomfilter](https://github.com/OldPanda/bloomfilter) | 4 | 0 | 0 | Yet another Bloomfilter implementation in Go, compatible with Java's Guava library | 2021-01-01 01:28:04 | 2021-06-20 07:24:23 |
+| [goterator](https://godoc.org/github.com/yaa110/goterator) | 3 | 0 | 0 | Lazy iterator implementation for Golang | 2020-08-12 19:47:57 | 2020-12-02 04:17:41 |
+</details>
+
 ### Database - Database schema migration
 
 
