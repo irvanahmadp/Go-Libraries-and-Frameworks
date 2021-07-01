@@ -1,7 +1,7 @@
 {
 	"name": "Audio and Music",
 	"index_last_check": 0,
-	"last_update": 1624202704,
+	"last_update": 1625103437,
 	"libraries": [
 		{
 			"id": 90259571,
@@ -10,11 +10,11 @@
 			"html_url": "https://github.com/hajimehoshi/oto",
 			"homepage": "",
 			"created_at": "2017-05-04T12:16:30Z",
-			"updated_at": "2021-06-15T13:59:34Z",
+			"updated_at": "2021-06-30T07:10:18Z",
 			"svn_url": "https://github.com/hajimehoshi/oto",
-			"stargazers_count": 821,
-			"watchers_count": 821,
-			"forks_count": 67,
+			"stargazers_count": 826,
+			"watchers_count": 826,
+			"forks_count": 69,
 			"open_issues_count": 33
 		},
 		{
@@ -24,10 +24,10 @@
 			"html_url": "https://github.com/gordonklaus/portaudio",
 			"homepage": "",
 			"created_at": "2015-09-16T07:59:23Z",
-			"updated_at": "2021-06-15T16:01:18Z",
+			"updated_at": "2021-06-30T20:30:02Z",
 			"svn_url": "https://github.com/gordonklaus/portaudio",
-			"stargazers_count": 451,
-			"watchers_count": 451,
+			"stargazers_count": 453,
+			"watchers_count": 453,
 			"forks_count": 71,
 			"open_issues_count": 9
 		},
@@ -52,10 +52,10 @@
 			"html_url": "https://github.com/mdlayher/waveform",
 			"homepage": "",
 			"created_at": "2014-09-13T18:07:36Z",
-			"updated_at": "2021-06-04T02:49:48Z",
+			"updated_at": "2021-06-20T22:19:43Z",
 			"svn_url": "https://github.com/mdlayher/waveform",
-			"stargazers_count": 337,
-			"watchers_count": 337,
+			"stargazers_count": 338,
+			"watchers_count": 338,
 			"forks_count": 28,
 			"open_issues_count": 4
 		},
@@ -66,12 +66,12 @@
 			"html_url": "https://github.com/rakyll/portmidi",
 			"homepage": "",
 			"created_at": "2013-11-10T14:24:56Z",
-			"updated_at": "2021-06-10T02:27:25Z",
+			"updated_at": "2021-06-25T08:20:41Z",
 			"svn_url": "https://github.com/rakyll/portmidi",
-			"stargazers_count": 256,
-			"watchers_count": 256,
+			"stargazers_count": 258,
+			"watchers_count": 258,
 			"forks_count": 49,
-			"open_issues_count": 12
+			"open_issues_count": 13
 		},
 		{
 			"id": 58877778,
@@ -84,7 +84,7 @@
 			"svn_url": "https://github.com/bogem/id3v2",
 			"stargazers_count": 190,
 			"watchers_count": 190,
-			"forks_count": 31,
+			"forks_count": 30,
 			"open_issues_count": 14
 		},
 		{
@@ -94,10 +94,10 @@
 			"html_url": "https://github.com/mewkiz/flac",
 			"homepage": "",
 			"created_at": "2012-11-01T20:13:58Z",
-			"updated_at": "2021-06-16T02:49:09Z",
+			"updated_at": "2021-06-23T04:06:29Z",
 			"svn_url": "https://github.com/mewkiz/flac",
-			"stargazers_count": 157,
-			"watchers_count": 157,
+			"stargazers_count": 158,
+			"watchers_count": 158,
 			"forks_count": 30,
 			"open_issues_count": 10
 		},
@@ -108,10 +108,10 @@
 			"html_url": "https://github.com/gen2brain/malgo",
 			"homepage": "https://pkg.go.dev/github.com/bogem/id3v2",
 			"created_at": "2017-11-09T18:27:52Z",
-			"updated_at": "2021-06-01T04:53:41Z",
+			"updated_at": "2021-06-26T08:50:01Z",
 			"svn_url": "https://github.com/gen2brain/malgo",
-			"stargazers_count": 149,
-			"watchers_count": 149,
+			"stargazers_count": 150,
+			"watchers_count": 150,
 			"forks_count": 23,
 			"open_issues_count": 1
 		},
@@ -136,10 +136,10 @@
 			"html_url": "https://github.com/DylanMeeus/GoAudio",
 			"homepage": "",
 			"created_at": "2020-07-05T01:35:41Z",
-			"updated_at": "2021-06-19T10:58:02Z",
+			"updated_at": "2021-06-20T22:33:21Z",
 			"svn_url": "https://github.com/DylanMeeus/GoAudio",
-			"stargazers_count": 136,
-			"watchers_count": 136,
+			"stargazers_count": 137,
+			"watchers_count": 137,
 			"forks_count": 9,
 			"open_issues_count": 4
 		},
@@ -192,11 +192,11 @@
 			"html_url": "https://github.com/dh1tw/gosamplerate",
 			"homepage": "",
 			"created_at": "2016-11-20T21:19:31Z",
-			"updated_at": "2020-07-10T23:35:35Z",
+			"updated_at": "2021-06-22T03:49:24Z",
 			"svn_url": "https://github.com/dh1tw/gosamplerate",
-			"stargazers_count": 10,
-			"watchers_count": 10,
-			"forks_count": 5,
+			"stargazers_count": 11,
+			"watchers_count": 11,
+			"forks_count": 6,
 			"open_issues_count": 0
 		}
 	]
