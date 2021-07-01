@@ -193,20 +193,20 @@ Libraries for building and working with bots.
 ### Build Automation
 Libraries and tools helping with build automation.
 
-<sup>*Last Update: 2021-06-21 01:48:43*</sup>
+<sup>*Last Update: 2021-07-01 10:25:15*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [realize](https://github.com/oxequa/realize) | 4,035 | 211 | 68 | Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading. | 2016-07-12 08:07:25 | 2021-06-20 10:20:35 |
-| [task](https://taskfile.dev) | 3,560 | 228 | 88 | A task runner / simpler Make alternative written in Go | 2017-02-27 00:46:04 | 2021-06-20 10:40:47 |
-| [mmake](https://github.com/tj/mmake) | 1,576 | 43 | 11 | Modern Make  | 2017-02-15 22:01:21 | 2021-06-20 09:46:28 |
-| [goyek](https://github.com/goyek/goyek) | 231 | 15 | 3 | Create build pipelines in Go  | 2020-10-11 13:20:55 | 2021-06-20 06:36:35 |
-| [taskctl](https://github.com/taskctl/taskctl) | 112 | 8 | 7 | Concurrent task runner, developer's routine tasks automation toolkit. Simple modern alternative to GNU Make 🧰 | 2019-11-12 13:19:09 | 2021-06-04 05:26:40 |
-| [1build](https://1build.gitbook.io) | 96 | 25 | 31 | Frictionless way of managing project-specific commands | 2019-04-23 17:05:38 | 2021-05-26 16:00:32 |
-| [gilbert](https://go-gilbert.github.io/) | 89 | 4 | 0 | Build system and task runner for Go projects | 2019-01-30 09:02:31 | 2021-05-25 10:17:10 |
-| [gaper](https://github.com/maxcnunes/gaper) | 49 | 3 | 7 | Builds and restarts a Go project when it crashes or some watched file changes | 2018-06-16 02:46:38 | 2021-06-08 12:55:32 |
+| [realize](https://github.com/oxequa/realize) | 4,044 | 211 | 68 | Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading. | 2016-07-12 08:07:25 | 2021-06-30 15:00:12 |
+| [task](https://taskfile.dev) | 3,591 | 230 | 90 | A task runner / simpler Make alternative written in Go | 2017-02-27 00:46:04 | 2021-06-30 23:34:06 |
+| [mmake](https://github.com/tj/mmake) | 1,577 | 43 | 11 | Modern Make  | 2017-02-15 22:01:21 | 2021-06-29 16:34:19 |
+| [goyek](https://github.com/goyek/goyek) | 234 | 15 | 2 | Create build pipelines in Go  | 2020-10-11 13:20:55 | 2021-06-28 02:00:26 |
+| [taskctl](https://github.com/taskctl/taskctl) | 114 | 10 | 7 | Concurrent task runner, developer's routine tasks automation toolkit. Simple modern alternative to GNU Make 🧰 | 2019-11-12 13:19:09 | 2021-06-25 05:41:16 |
+| [1build](https://1build.gitbook.io) | 95 | 25 | 31 | Frictionless way of managing project-specific commands | 2019-04-23 17:05:38 | 2021-06-24 17:57:32 |
+| [gilbert](https://go-gilbert.github.io/) | 90 | 4 | 0 | Build system and task runner for Go projects | 2019-01-30 09:02:31 | 2021-06-28 12:18:35 |
+| [gaper](https://github.com/maxcnunes/gaper) | 50 | 3 | 7 | Builds and restarts a Go project when it crashes or some watched file changes | 2018-06-16 02:46:38 | 2021-06-28 12:18:04 |
 | [anko](https://github.com/GuilhermeCaruso/anko) | 16 | 0 | 0 | :crystal_ball: Simple application watcher | 2021-03-02 14:08:42 | 2021-06-18 10:08:52 |
 </details>
 
@@ -1116,6 +1116,57 @@ Tools for managing and working with Goroutines.
 | [concurrency-limiter](https://github.com/vivek-ng/concurrency-limiter) | 4 | 1 | 0 | Make functions return a channel for parallel processing via go routines. | 2020-11-22 02:35:52 | 2020-12-04 21:15:03 |
 </details>
 
+### Images
+Libraries for manipulating images.
+
+<sup>*Last Update: 2021-07-01 10:25:01*</sup>
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [gocv](https://gocv.io) | 4,122 | 608 | 167 | Go package for computer vision using OpenCV 4 and beyond. | 2017-09-18 21:54:17 | 2021-07-01 00:48:37 |
+| [imaging](https://github.com/disintegration/imaging) | 3,799 | 319 | 10 | Imaging is a simple image processing package for Go | 2012-12-06 20:21:21 | 2021-06-30 21:14:01 |
+| [imaginary](https://fly.io/launch/github/h2non/imaginary) | 3,708 | 351 | 93 | Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing | 2015-03-04 18:51:40 | 2021-06-30 20:53:12 |
+| [bild](https://github.com/anthonynsimon/bild) | 3,235 | 166 | 12 | Image processing algorithms in pure Go | 2016-08-01 15:54:29 | 2021-06-30 16:06:01 |
+| [ln](https://godoc.org/github.com/fogleman/ln/ln) | 2,914 | 108 | 12 | 3D line art engine. | 2016-01-10 04:28:10 | 2021-06-28 01:17:31 |
+| [gg](https://godoc.org/github.com/fogleman/gg) | 2,909 | 207 | 51 | Go Graphics - 2D rendering in Go with a simple API. | 2016-02-18 21:05:08 | 2021-06-30 08:34:21 |
+| [resize](https://github.com/nfnt/resize) | 2,655 | 260 | 9 | Pure golang image resizing  | 2012-08-02 19:48:26 | 2021-06-28 12:06:10 |
+| [pt](http://bit.ly/1E7rSoi) | 1,953 | 112 | 8 | A path tracer written in Go. | 2015-01-23 19:39:29 | 2021-06-28 01:21:21 |
+| [svgo](https://github.com/ajstarks/svgo) | 1,680 | 140 | 6 | Go Language Library for SVG generation | 2010-03-05 23:24:10 | 2021-06-28 01:24:31 |
+| [smartcrop](https://github.com/muesli/smartcrop) | 1,524 | 105 | 7 | smartcrop finds good image crops for arbitrary crop sizes | 2014-04-07 22:40:03 | 2021-06-28 01:23:37 |
+| [picfit](http://bit.ly/1E7rSoi) | 1,488 | 126 | 16 | An image resizing server written in Go | 2014-12-06 17:30:45 | 2021-06-29 21:44:20 |
+| [bimg](https://pkg.go.dev/github.com/h2non/bimg?tab=doc) | 1,484 | 251 | 119 | Go package for fast high-level image processing powered by libvips C library | 2015-03-17 14:14:02 | 2021-07-01 00:24:21 |
+| [gift](https://godoc.org/github.com/fogleman/gg) | 1,449 | 104 | 2 | Go Image Filtering Toolkit | 2014-07-12 18:47:40 | 2021-06-28 15:58:30 |
+| [imagick](https://godoc.org/github.com/gographics/imagick/imagick) | 1,321 | 156 | 11 | Go binding to ImageMagick's MagickWand C API | 2013-04-30 17:31:48 | 2021-06-28 18:21:30 |
+| [go-opencv](https://github.com/go-opencv/go-opencv) | 1,234 | 196 | 45 | Go bindings for OpenCV / 2.x API in gocv / 1.x API in opencv | 2013-12-09 09:43:26 | 2021-06-05 07:04:50 |
+| [geopattern](https://github.com/pravj/geopattern) | 1,126 | 58 | 3 | :triangular_ruler: Create beautiful generative image patterns from a string in golang. | 2014-10-22 17:26:30 | 2021-06-28 01:04:36 |
+| [stegify](https://github.com/DimitarPetrov/stegify) | 936 | 106 | 0 | 🔍 Go tool for LSB steganography, capable of hiding any file within an image. | 2018-11-29 16:45:58 | 2021-06-28 01:24:10 |
+| [canvas](https://github.com/tdewolff/canvas) | 731 | 38 | 8 | Cairo in Go: vector to raster, SVG, PDF, EPS, WASM, OpenGL, Gio, etc. | 2017-05-20 18:10:51 | 2021-06-29 18:42:25 |
+| [image2ascii](https://github.com/qeesung/image2ascii) | 551 | 47 | 3 | :foggy: Convert image to ASCII | 2018-10-20 05:06:25 | 2021-06-28 01:14:09 |
+| [draft](https://github.com/lucasepe/draft) | 494 | 19 | 0 | Generate High Level Cloud Architecture diagrams using YAML syntax. | 2020-06-05 16:11:40 | 2021-07-01 03:18:48 |
+| [govips](https://github.com/davidbyttow/govips) | 486 | 106 | 12 | A lightning fast image processing and resizing library for Go | 2016-12-25 04:32:56 | 2021-06-24 06:32:46 |
+| [govatar](https://github.com/o1egl/govatar) | 442 | 24 | 0 | Avatar generation library for GO language | 2016-01-18 12:12:28 | 2021-06-28 01:12:10 |
+| [mort](https://github.com/aldor007/mort) | 436 | 15 | 6 | Storage and image processing server written in Go | 2017-11-19 13:37:58 | 2021-06-28 01:19:25 |
+| [goimagehash](https://github.com/corona10/goimagehash) | 413 | 44 | 8 | Go Perceptual image hashing package | 2017-07-28 17:15:58 | 2021-06-30 09:52:23 |
+| [go-nude](https://github.com/koyachi/go-nude) | 333 | 38 | 2 | Nudity detection with Go. | 2014-05-02 08:32:29 | 2021-06-28 01:07:41 |
+| [rez](https://github.com/bamiaux/rez) | 200 | 16 | 1 | Image resizing in pure Go and SIMD | 2014-01-16 21:16:15 | 2021-06-28 01:22:33 |
+| [darkroom](https://www.gojek.io/darkroom/) | 164 | 32 | 7 | Cairo in Go: vector to raster, SVG, PDF, EPS, WASM, OpenGL, Gio, etc. | 2019-07-01 10:17:08 | 2021-06-16 02:11:52 |
+| [mergi](http://mergi.io/) | 139 | 18 | 2 | go library for image programming (merge, crop, resize, watermark, animate, ease, transit) | 2018-09-24 03:40:47 | 2021-06-28 01:18:06 |
+| [img](hawx.me/code/img) | 137 | 9 | 1 | A selection of image manipulation tools | 2012-07-28 19:57:47 | 2021-06-28 01:16:41 |
+| [gltf](https://www.khronos.org/gltf/) | 111 | 17 | 2 | :eyeglasses: Go library for [d]encoding glTF 2.0 files | 2019-01-15 17:43:54 | 2021-06-27 10:10:17 |
+| [go-cairo](https://github.com/ungerik/go-cairo) | 106 | 28 | 0 | Go binding for the cairo graphics library | 2012-08-22 18:27:01 | 2021-06-28 01:06:50 |
+| [steganography](https://github.com/auyer/steganography) | 101 | 17 | 0 | Pure Golang Library that allows simple LSB steganography on images | 2018-05-21 17:27:36 | 2021-06-14 10:48:50 |
+| [cameron](https://pkg.go.dev/github.com/aofei/cameron) | 69 | 7 | 1 | An avatar generator for Go. | 2018-05-05 22:13:11 | 2021-06-06 02:26:18 |
+| [go-gd](https://github.com/bolknote/go-gd) | 53 | 15 | 1 | Go bingings for GD (http://www.boutell.com/gd/) | 2011-05-12 06:33:54 | 2021-06-29 11:02:01 |
+| [gridder](https://github.com/shomali11/gridder) | 42 | 3 | 0 | A Grid based 2D Graphics library | 2020-04-10 00:13:10 | 2021-06-28 01:13:55 |
+| [goimghdr](https://github.com/corona10/goimghdr) | 36 | 2 | 0 | The imghdr module determines the type of image contained in a file for go | 2018-02-25 09:34:44 | 2021-06-28 01:11:03 |
+| [tga](https://github.com/ftrvxmtrx/tga) | 28 | 10 | 1 | Go package for decoding and encoding TARGA image format | 2012-10-08 01:09:20 | 2021-06-28 01:25:28 |
+| [go-webcolors](https://github.com/jyotiska/go-webcolors) | 25 | 4 | 0 | Port of webcolors library from Python to Go | 2014-04-24 14:41:22 | 2021-06-28 01:09:17 |
+| [webp-server](https://github.com/mehdipourfar/webp-server) | 16 | 2 | 0 | Simple and minimal image server capable of storing, resizing, converting and caching images. | 2020-11-22 12:03:12 | 2021-06-28 08:04:37 |
+| [mpo](https://donatstudios.com/MPO-to-JPEG-Stereo) | 7 | 2 | 1 | JPEG-MPO Decoder / Converter Library and CLI Tool | 2015-04-14 22:37:59 | 2021-06-28 01:20:05 |
+</details>
+
 ### IoT (Internet of Things)
 Libraries for programming devices of the IoT.
 
@@ -1956,14 +2007,14 @@ Libraries and tools for templating and lexing.
 ### Testing - Fuzzing and delta-debugging, reducing, shrinking
 
 
-<sup>*Last Update: 2021-06-22 09:01:52*</sup>
+<sup>*Last Update: 2021-07-01 10:25:21*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [go-fuzz](https://github.com/dvyukov/go-fuzz) | 4,067 | 233 | 50 | Randomized testing for Go | 2015-04-15 13:07:50 | 2021-06-18 18:15:59 |
-| [gofuzz](https://github.com/google/gofuzz) | 1,089 | 100 | 12 | Fuzz testing for go. | 2014-07-31 16:21:29 | 2021-06-21 12:58:48 |
+| [go-fuzz](https://github.com/dvyukov/go-fuzz) | 4,072 | 235 | 51 | Randomized testing for Go | 2015-04-15 13:07:50 | 2021-07-01 02:26:55 |
+| [gofuzz](https://github.com/google/gofuzz) | 1,093 | 101 | 12 | Fuzz testing for go. | 2014-07-31 16:21:29 | 2021-06-30 08:06:15 |
 | [tavor](https://github.com/zimmski/tavor) | 232 | 8 | 53 | A generic fuzzing and delta-debugging framework | 2014-05-18 14:59:14 | 2021-04-27 23:55:43 |
 </details>
 
@@ -2538,15 +2589,15 @@ Full stack web frameworks.
 ### XML
 Libraries and tools for manipulating XML.
 
-<sup>*Last Update: 2021-06-21 02:25:01*</sup>
+<sup>*Last Update: 2021-07-01 10:25:19*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [zek](https://github.com/miku/zek) | 466 | 40 | 8 | Generate a Go struct from XML. | 2017-11-23 19:03:11 | 2021-06-18 10:38:06 |
-| [xpath](https://github.com/antchfx/xpath) | 398 | 54 | 9 | XPath package for Golang, supports HTML, XML, JSON document query. | 2016-10-09 05:51:24 | 2021-06-20 08:32:17 |
-| [xquery](https://github.com/antchfx/xpath) | 153 | 25 | 0 | Extract data or evaluate value from HTML/XML documents using XPath | 2016-10-09 05:54:10 | 2021-05-22 09:57:43 |
+| [zek](https://github.com/miku/zek) | 468 | 40 | 8 | Generate a Go struct from XML. | 2017-11-23 19:03:11 | 2021-06-29 08:00:10 |
+| [xpath](https://github.com/antchfx/xpath) | 399 | 55 | 9 | XPath package for Golang, supports HTML, XML, JSON document query. | 2016-10-09 05:51:24 | 2021-06-23 04:40:20 |
+| [xquery](https://github.com/antchfx/xpath) | 154 | 25 | 0 | Extract data or evaluate value from HTML/XML documents using XPath | 2016-10-09 05:54:10 | 2021-06-23 23:30:22 |
 | [xml2map](https://github.com/sbabiv/xml2map) | 32 | 5 | 1 | XML to MAP converter written Golang | 2018-08-06 17:51:46 | 2021-06-09 18:08:01 |
 | [xmlwriter](https://github.com/shabbyrobe/xmlwriter) | 19 | 3 | 1 | xmlwriter is a pure-Go library providing procedural XML generation based on libxml2's xmlwriter module | 2017-04-11 04:43:26 | 2021-05-26 06:49:04 |
 | [XML-Comp](https://github.com/XML-Comp/XML-Comp) | 15 | 8 | 8 | Compare ANY markup documents. | 2016-10-25 22:09:12 | 2021-04-23 04:41:47 |
