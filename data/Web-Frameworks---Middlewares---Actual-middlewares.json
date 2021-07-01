@@ -1,7 +1,7 @@
 {
 	"name": "Web Frameworks - Middlewares - Actual middlewares",
 	"index_last_check": 0,
-	"last_update": 1624217121,
+	"last_update": 1625131521,
 	"libraries": [
 		{
 			"id": 35771021,
@@ -10,10 +10,10 @@
 			"html_url": "https://github.com/didip/tollbooth",
 			"homepage": "",
 			"created_at": "2015-05-17T15:20:03Z",
-			"updated_at": "2021-06-20T08:43:30Z",
+			"updated_at": "2021-06-30T01:04:12Z",
 			"svn_url": "https://github.com/didip/tollbooth",
-			"stargazers_count": 1957,
-			"watchers_count": 1957,
+			"stargazers_count": 1961,
+			"watchers_count": 1961,
 			"forks_count": 180,
 			"open_issues_count": 5
 		},
@@ -24,11 +24,11 @@
 			"html_url": "https://github.com/rs/cors",
 			"homepage": "",
 			"created_at": "2014-10-25T03:49:45Z",
-			"updated_at": "2021-06-20T02:39:38Z",
+			"updated_at": "2021-06-30T16:27:23Z",
 			"svn_url": "https://github.com/rs/cors",
-			"stargazers_count": 1843,
-			"watchers_count": 1843,
-			"forks_count": 157,
+			"stargazers_count": 1852,
+			"watchers_count": 1852,
+			"forks_count": 159,
 			"open_issues_count": 17
 		},
 		{
@@ -38,12 +38,12 @@
 			"html_url": "https://github.com/ulule/limiter",
 			"homepage": "",
 			"created_at": "2015-10-02T08:12:38Z",
-			"updated_at": "2021-06-20T08:43:28Z",
+			"updated_at": "2021-06-29T13:38:09Z",
 			"svn_url": "https://github.com/ulule/limiter",
-			"stargazers_count": 1284,
-			"watchers_count": 1284,
+			"stargazers_count": 1288,
+			"watchers_count": 1288,
 			"forks_count": 103,
-			"open_issues_count": 5
+			"open_issues_count": 7
 		},
 		{
 			"id": 121197542,
@@ -52,10 +52,10 @@
 			"html_url": "https://github.com/mitchellh/go-server-timing",
 			"homepage": "",
 			"created_at": "2018-02-12T03:56:02Z",
-			"updated_at": "2021-06-18T21:33:12Z",
+			"updated_at": "2021-07-01T05:12:43Z",
 			"svn_url": "https://github.com/mitchellh/go-server-timing",
-			"stargazers_count": 818,
-			"watchers_count": 818,
+			"stargazers_count": 819,
+			"watchers_count": 819,
 			"forks_count": 26,
 			"open_issues_count": 4
 		},
@@ -66,10 +66,10 @@
 			"html_url": "https://github.com/github/go-fault",
 			"homepage": "",
 			"created_at": "2020-05-14T16:13:17Z",
-			"updated_at": "2021-06-14T19:47:46Z",
+			"updated_at": "2021-07-01T09:22:05Z",
 			"svn_url": "https://github.com/github/go-fault",
-			"stargazers_count": 395,
-			"watchers_count": 395,
+			"stargazers_count": 398,
+			"watchers_count": 398,
 			"forks_count": 16,
 			"open_issues_count": 1
 		},
@@ -94,10 +94,10 @@
 			"html_url": "https://github.com/sebest/xff",
 			"homepage": "",
 			"created_at": "2014-12-22T10:29:05Z",
-			"updated_at": "2021-05-07T13:13:36Z",
+			"updated_at": "2021-06-30T17:00:43Z",
 			"svn_url": "https://github.com/sebest/xff",
-			"stargazers_count": 80,
-			"watchers_count": 80,
+			"stargazers_count": 81,
+			"watchers_count": 81,
 			"forks_count": 17,
 			"open_issues_count": 5
 		},
