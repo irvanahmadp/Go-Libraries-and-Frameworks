@@ -118,44 +118,44 @@ Libraries for manipulating audio.
 ### Authentication and OAuth
 Libraries for implementing authentications schemes.
 
-<sup>*Last Update: 2021-06-20 22:25:10*</sup>
+<sup>*Last Update: 2021-07-02 09:03:58*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [oauth2](https://golang.org/x/oauth2) | 3,685 | 764 | 143 | Go OAuth2 | 2014-04-14 15:07:35 | 2021-06-19 22:17:14 |
-| [goth](https://blog.gobuffalo.io/goth-needs-a-new-maintainer-626cd47ca37b) | 3,206 | 392 | 58 | Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications. | 2014-10-14 20:38:12 | 2021-06-20 04:43:59 |
-| [authboss](https://github.com/volatiletech/authboss) | 2,686 | 170 | 30 | The boss of http auth. | 2015-01-03 05:12:02 | 2021-06-20 04:44:55 |
-| [loginsrv](https://github.com/tarent/loginsrv) | 1,789 | 154 | 29 | JWT login microservice with plugable backends such as OAuth2, Google, Github, htpasswd, osiam, .. | 2016-11-11 12:11:21 | 2021-06-18 20:10:47 |
-| [go-jose](https://github.com/square/go-jose) | 1,775 | 315 | 49 | An implementation of JOSE standards (JWE, JWS, JWT) in Go | 2014-11-14 18:27:31 | 2021-06-18 21:51:01 |
-| [go-oauth2-server](https://github.com/RichardKnop/go-oauth2-server) | 1,766 | 271 | 28 | A standalone, specification-compliant,  OAuth2 server written in Golang. | 2015-11-01 13:30:09 | 2021-06-18 14:02:09 |
-| [osin](https://golang.org/x/oauth2) | 1,672 | 370 | 3 | Golang OAuth2 server library | 2013-09-10 19:52:00 | 2021-06-20 04:01:36 |
-| [gologin](https://github.com/dghubble/gologin) | 1,393 | 110 | 0 | Go login handlers for authentication providers (OAuth1, OAuth2) | 2015-06-23 04:40:52 | 2021-06-19 07:59:58 |
-| [gorbac](https://github.com/mikespook/gorbac) | 1,184 | 140 | 2 | goRBAC provides a lightweight role-based access control (RBAC) implementation in Golang. | 2013-12-26 10:00:41 | 2021-06-20 04:40:52 |
-| [scs](https://github.com/alexedwards/scs) | 886 | 83 | 17 | HTTP Session Management for Go | 2016-08-08 16:42:05 | 2021-06-18 09:44:43 |
-| [paseto](https://github.com/o1egl/paseto) | 517 | 22 | 3 | Platform-Agnostic Security Tokens implementation in GO (Golang) | 2018-01-23 05:27:39 | 2021-06-14 12:58:41 |
+| [oauth2](https://golang.org/x/oauth2) | 3,702 | 765 | 140 | Go OAuth2 | 2014-04-14 15:07:35 | 2021-07-02 01:39:05 |
+| [goth](https://blog.gobuffalo.io/goth-needs-a-new-maintainer-626cd47ca37b) | 3,217 | 393 | 59 | Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications. | 2014-10-14 20:38:12 | 2021-07-01 14:48:25 |
+| [authboss](https://github.com/volatiletech/authboss) | 2,694 | 170 | 30 | The boss of http auth. | 2015-01-03 05:12:02 | 2021-06-28 10:57:04 |
+| [loginsrv](https://github.com/tarent/loginsrv) | 1,791 | 155 | 29 | JWT login microservice with plugable backends such as OAuth2, Google, Github, htpasswd, osiam, .. | 2016-11-11 12:11:21 | 2021-07-01 22:31:03 |
+| [go-jose](https://github.com/square/go-jose) | 1,778 | 315 | 49 | An implementation of JOSE standards (JWE, JWS, JWT) in Go | 2014-11-14 18:27:31 | 2021-07-01 00:24:34 |
+| [go-oauth2-server](https://github.com/RichardKnop/go-oauth2-server) | 1,772 | 271 | 28 | A standalone, specification-compliant,  OAuth2 server written in Golang. | 2015-11-01 13:30:09 | 2021-06-29 11:51:26 |
+| [osin](https://golang.org/x/oauth2) | 1,673 | 370 | 3 | Golang OAuth2 server library | 2013-09-10 19:52:00 | 2021-06-27 08:53:34 |
+| [gologin](https://github.com/dghubble/gologin) | 1,404 | 111 | 0 | Go login handlers for authentication providers (OAuth1, OAuth2) | 2015-06-23 04:40:52 | 2021-07-01 13:25:42 |
+| [gorbac](https://github.com/mikespook/gorbac) | 1,187 | 140 | 2 | goRBAC provides a lightweight role-based access control (RBAC) implementation in Golang. | 2013-12-26 10:00:41 | 2021-06-28 18:21:30 |
+| [scs](https://github.com/alexedwards/scs) | 892 | 84 | 18 | HTTP Session Management for Go | 2016-08-08 16:42:05 | 2021-06-25 20:09:29 |
+| [paseto](https://github.com/o1egl/paseto) | 519 | 22 | 4 | Platform-Agnostic Security Tokens implementation in GO (Golang) | 2018-01-23 05:27:39 | 2021-07-01 19:22:26 |
 | [permissions2](https://github.com/xyproto/permissions2) | 430 | 33 | 0 |   :closed_lock_with_key: Middleware for keeping track of users, login states and permissions | 2014-11-19 12:23:37 | 2021-06-18 13:01:24 |
-| [jwt](https://github.com/cristalhq/jwt) | 270 | 24 | 4 | Safe, simple and fast JSON Web Tokens for Go | 2019-07-20 18:14:58 | 2021-06-20 07:03:36 |
-| [go-guardian](https://github.com/shaj13/go-guardian) | 266 | 22 | 5 | Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication. | 2020-05-14 12:15:56 | 2021-06-18 12:54:00 |
-| [jwt](https://github.com/pascaldekloe/jwt) | 256 | 15 | 0 | JSON Web Token library | 2018-03-21 11:59:53 | 2021-06-17 22:18:46 |
-| [jeff](https://github.com/abraithwaite/jeff) | 225 | 12 | 2 | 🍍Jeff provides the simplest way to manage web sessions in Go. | 2018-08-02 19:31:23 | 2021-04-10 19:18:30 |
+| [go-guardian](https://github.com/shaj13/go-guardian) | 273 | 22 | 6 | Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication. | 2020-05-14 12:15:56 | 2021-07-01 20:25:30 |
+| [jwt](https://github.com/cristalhq/jwt) | 272 | 23 | 3 | Safe, simple and fast JSON Web Tokens for Go | 2019-07-20 18:14:58 | 2021-07-01 06:40:45 |
+| [jwt](https://github.com/pascaldekloe/jwt) | 257 | 15 | 0 | JSON Web Token library | 2018-03-21 11:59:53 | 2021-07-01 06:40:45 |
+| [jeff](https://github.com/abraithwaite/jeff) | 227 | 11 | 1 | 🍍Jeff provides the simplest way to manage web sessions in Go. | 2018-08-02 19:31:23 | 2021-07-01 20:52:05 |
 | [httpauth](https://blog.gobuffalo.io/goth-needs-a-new-maintainer-626cd47ca37b) | 206 | 21 | 4 | HTTP Authentication middlewares | 2014-05-26 22:53:57 | 2021-06-09 22:15:48 |
 | [jwt-auth](https://github.com/adam-hanna/jwt-auth) | 204 | 35 | 3 | This package provides json web token (jwt) middleware for goLang http servers | 2016-07-05 23:31:43 | 2021-05-24 01:31:29 |
-| [branca](https://branca.io) | 152 | 15 | 1 | :key: Secure alternative to JWT. Authenticated Encrypted API Tokens for Go. | 2018-01-09 15:27:31 | 2021-05-22 13:49:09 |
+| [branca](https://branca.io) | 153 | 16 | 1 | :key: Secure alternative to JWT. Authenticated Encrypted API Tokens for Go. | 2018-01-09 15:27:31 | 2021-06-23 01:35:45 |
 | [sessionup](https://github.com/swithek/sessionup) | 112 | 5 | 3 | Straightforward HTTP session management | 2019-07-23 18:55:21 | 2021-06-08 14:33:23 |
-| [session](https://github.com/icza/session) | 107 | 12 | 4 | Go session management for web servers (including support for Google App Engine - GAE). | 2016-02-08 09:07:07 | 2021-05-02 03:01:38 |
+| [session](https://github.com/icza/session) | 105 | 12 | 4 | Go session management for web servers (including support for Google App Engine - GAE). | 2016-02-08 09:07:07 | 2021-06-24 17:57:35 |
 | [jwt](https://github.com/robbert229/jwt) | 90 | 21 | 9 | This is an implementation of JWT in golang! | 2016-06-05 22:01:37 | 2021-06-13 21:57:30 |
-| [sjwt](https://godoc.org/github.com/brianvoe/sjwt) | 88 | 5 | 0 | Simple JWT Golang | 2019-06-20 04:06:21 | 2021-06-07 18:24:25 |
+| [sjwt](https://godoc.org/github.com/brianvoe/sjwt) | 90 | 5 | 0 | Simple JWT Golang | 2019-06-20 04:06:21 | 2021-06-25 20:36:28 |
 | [rbac](https://github.com/zpatrick/rbac) | 79 | 11 | 0 | Minimalistic RBAC package for Go applications | 2018-08-02 00:11:04 | 2021-05-31 10:33:51 |
 | [sessions](https://github.com/adam-hanna/sessions) | 59 | 6 | 2 | A dead simple, highly performant, highly customizable sessions middleware for go http servers. | 2017-04-29 01:09:28 | 2021-04-23 00:07:10 |
-| [securecookie](https://github.com/chmike/securecookie) | 51 | 6 | 1 | Fast, secure and efficient secure cookie encoder/decoder  | 2017-09-03 14:40:29 | 2021-06-15 16:21:04 |
+| [securecookie](https://github.com/chmike/securecookie) | 51 | 7 | 1 | Fast, secure and efficient secure cookie encoder/decoder  | 2017-09-03 14:40:29 | 2021-07-01 12:20:10 |
+| [go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) | 21 | 1 | 0 | Golang library for providing a canonical representation of email address. | 2020-08-21 23:13:04 | 2021-06-27 08:36:10 |
 | [otpgo](https://github.com/jltorresm/otpgo) | 20 | 0 | 1 | Time-Based One-Time Password (TOTP) and HMAC-Based One-Time Password (HOTP) library for Go. | 2020-08-19 13:20:23 | 2021-06-20 07:17:30 |
-| [go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) | 19 | 1 | 0 | Golang library for providing a canonical representation of email address. | 2020-08-21 23:13:04 | 2021-06-18 21:02:34 |
 | [scope](https://github.com/SonicRoshan/scope) | 12 | 3 | 0 | Easily Manage OAuth2 Scopes In Go | 2019-09-23 10:48:14 | 2021-04-25 07:45:30 |
 | [sessiongate-go](https://github.com/f0rmiga/sessiongate-go) | 9 | 1 | 0 | A driver for the SessionGate Redis module - easy session management using the Go language. | 2017-10-20 03:39:11 | 2020-08-18 23:01:11 |
 | [cookiestxt](https://casbin.org/) | 6 | 2 | 0 | cookiestxt implement parser of cookies txt format | 2017-10-09 11:27:19 | 2021-03-08 11:45:58 |
-| [casbin](https://casbin.org/) | 1 | 0 | 0 | An authorization library that supports access control models like ACL, RBAC, ABAC in Golang | 2021-05-29 04:09:46 | 2021-05-30 16:41:50 |
+| [casbin](https://casbin.org/) | 1 | 0 | 0 | An authorization library that supports access control models like ACL, RBAC, ABAC in Golang | 2021-05-29 04:09:46 | 2021-06-23 04:53:51 |
 </details>
 
 ### Bot Building
@@ -2121,19 +2121,23 @@ Libraries and tools for templating and lexing.
 ### Testing - Testing Frameworks
 
 
-<sup>*Last Update: 2021-06-27 02:00:48*</sup>
+<sup>*Last Update: 2021-07-02 09:03:50*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [testify](https://github.com/stretchr/testify) | 13,665 | 1,098 | 286 | A toolkit with common assertions and mocks that plays nicely with the standard library | 2012-10-16 16:43:17 | 2021-07-02 01:49:06 |
 | [goconvey](http://goconvey.co) | 6,440 | 471 | 139 | Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go. | 2013-08-21 04:52:28 | 2021-06-26 11:32:01 |
 | [ginkgo](http://onsi.github.io/ginkgo/) | 4,871 | 442 | 58 | BDD Testing Framework for Go | 2013-08-23 20:53:05 | 2021-06-25 11:57:14 |
 | [go-cmp](https://github.com/google/go-cmp) | 2,349 | 141 | 11 | Package for comparing Go values in tests | 2017-07-07 19:28:22 | 2021-06-26 04:56:06 |
+| [httpexpect](https://github.com/gavv/httpexpect) | 1,713 | 133 | 9 | End-to-end HTTP and REST API testing for Go. | 2016-04-29 17:05:20 | 2021-06-28 15:56:31 |
+| [gomega](http://onsi.github.io/gomega/) | 1,410 | 215 | 18 | Ginkgo's Preferred Matcher Library | 2013-08-23 20:54:42 | 2021-07-01 15:18:51 |
 | [godog](https://github.com/cucumber/godog) | 1,367 | 148 | 57 | Cucumber for golang | 2015-06-10 13:16:31 | 2021-06-26 11:18:18 |
 | [goblin](https://github.com/franela/goblin) | 800 | 73 | 17 | Minimal and Beautiful Go testing framework | 2013-09-19 02:34:24 | 2021-06-25 10:21:43 |
 | [go-vcr](https://go-testdeep.zetta.rocks/) | 724 | 50 | 4 | Record and replay your HTTP interactions for fast, deterministic and accurate tests | 2015-12-14 12:52:17 | 2021-06-26 08:47:53 |
 | [baloo](https://godoc.org/github.com/h2non/baloo) | 712 | 27 | 8 | Expressive end-to-end HTTP API testing made easy in Go | 2016-05-29 21:40:58 | 2021-06-14 14:54:20 |
+| [testfixtures](https://pkg.go.dev/github.com/go-testfixtures/testfixtures/v3?tab=doc) | 677 | 51 | 13 | Ruby on Rails like test fixtures for Go. Write tests against a real database | 2016-04-05 11:33:28 | 2021-06-30 18:47:47 |
 | [gnomock](https://github.com/orlangure/gnomock) | 471 | 14 | 7 | Test your code without writing mocks with ephemeral Docker containers 📦 Setup popular services with just a couple lines of code ⏱️ No bash, no yaml, only code 💻 | 2020-01-31 14:50:52 | 2021-06-25 16:53:40 |
 | [go-mutesting](https://github.com/zimmski/go-mutesting) | 400 | 34 | 26 | Mutation testing for Go source code | 2014-12-26 22:23:44 | 2021-06-25 01:27:40 |
 | [goc](https://github.com/qiniu/goc) | 383 | 54 | 16 | A Comprehensive Coverage Testing System for The Go Programming Language | 2020-05-07 03:46:25 | 2021-06-25 06:14:51 |
@@ -2141,6 +2145,7 @@ Libraries and tools for templating and lexing.
 | [apitest](https://apitest.dev) | 358 | 35 | 1 | A simple and extensible behavioural testing library for Go. You can use api test to simplify REST API, HTTP handler and e2e tests. | 2018-12-26 22:27:19 | 2021-06-23 13:55:50 |
 | [frisby](https://pkg.go.dev/github.com/suzuki-shunsuke/flute/flute) | 264 | 26 | 13 | API testing framework inspired by frisby-js | 2015-09-15 14:35:58 | 2021-06-21 15:06:03 |
 | [embedded-postgres](https://github.com/fergusstrange/embedded-postgres) | 254 | 15 | 1 | Run a real Postgres database locally on Linux, OSX or Windows as part of another Go application or test | 2019-11-16 23:49:40 | 2021-06-25 20:55:53 |
+| [gotest.tools](https://gotest.tools) | 244 | 35 | 22 | A collection of packages to augment the go testing package and support common patterns. | 2017-08-08 21:28:54 | 2021-07-01 12:37:09 |
 | [go-carpet](https://github.com/msoap/go-carpet) | 214 | 7 | 1 | go-carpet - show test coverage in terminal for Go source files | 2016-02-28 12:02:51 | 2021-05-21 04:32:28 |
 | [charlatan](https://github.com/percolate/charlatan) | 194 | 8 | 2 | Go Interface Mocking Tool | 2017-10-06 21:55:14 | 2021-05-08 03:35:26 |
 | [endly](https://github.com/viant/endly) | 189 | 20 | 0 | End to end functional test and automation framework | 2017-08-28 20:24:43 | 2021-06-22 18:23:38 |
@@ -2148,15 +2153,30 @@ Libraries and tools for templating and lexing.
 | [go-testdeep](https://go-testdeep.zetta.rocks/) | 171 | 5 | 3 | Extremely flexible golang deep comparison, extends the go testing package, tests HTTP APIs and provides tests suite | 2018-05-26 15:03:28 | 2021-06-18 11:17:45 |
 | [cupaloy](https://github.com/bradleyjkemp/cupaloy) | 166 | 21 | 9 | Simple Go snapshot testing | 2017-08-07 18:30:05 | 2021-06-25 16:32:32 |
 | [dbcleaner](https://github.com/khaiql/dbcleaner) | 130 | 11 | 1 | Clean database for testing, inspired by database_cleaner for Ruby | 2017-01-17 18:18:40 | 2021-06-18 21:07:13 |
+| [gospec](https://github.com/luontola/gospec) | 114 | 16 | 3 | Testing framework for Go. Allows writing self-documenting tests/specifications, and executes them concurrently and safely isolated. [UNMAINTAINED] | 2009-11-24 13:59:26 | 2021-02-11 17:23:11 |
+| [wstest](https://github.com/posener/wstest) | 84 | 13 | 1 | go websocket client for unit testing of a websocket handler | 2017-03-31 21:06:18 | 2021-05-24 08:41:09 |
 | [gocrest](https://github.com/corbym/gocrest) | 80 | 4 | 2 | GoCrest - Hamcrest-like matchers for Go | 2017-12-23 23:27:00 | 2021-05-14 09:54:10 |
+| [testcase](https://github.com/adamluzsi/testcase) | 69 | 2 | 0 | testcase is an opinionated behavior-driven-testing library | 2019-04-22 21:20:51 | 2021-07-01 08:45:15 |
+| [jsonassert](https://github.com/kinbiko/jsonassert) | 68 | 11 | 4 | A Go test assertion library for verifying that two representations of JSON are semantically equal | 2018-10-26 20:31:01 | 2021-06-24 08:32:17 |
+| [restit](https://github.com/go-restit/restit) | 53 | 4 | 4 | A Go library help testing your RESTful API application | 2014-06-25 10:25:46 | 2021-04-30 17:01:37 |
+| [gospecify](https://github.com/stesla/gospecify) | 53 | 6 | 1 | A BDD library for Go | 2009-11-20 06:34:29 | 2021-02-11 17:23:22 |
+| [gomatch](https://github.com/jfilipczyk/gomatch) | 40 | 3 | 0 | Library created for testing JSON against patterns. | 2019-01-27 20:19:06 | 2021-05-15 22:30:58 |
 | [covergates](https://covergates.com) | 39 | 9 | 11 | The portal gates to coverage reports | 2020-05-29 04:02:01 | 2021-05-20 11:01:00 |
 | [dsunit](https://github.com/viant/dsunit) | 38 | 6 | 0 | Datastore Testibility | 2016-06-13 20:20:52 | 2021-02-14 11:12:04 |
 | [go-hit](https://github.com/Eun/go-hit) | 34 | 1 | 8 | http integration test framework | 2019-06-04 16:28:23 | 2021-06-07 07:32:59 |
 | [assert](https://github.com/go-playground/assert) | 33 | 9 | 2 | :exclamation:Basic Assertion Library used along side native go testing, with building blocks for custom assertions | 2015-07-20 17:53:45 | 2021-06-22 09:01:30 |
+| [hamcrest](https://github.com/rdrdr/hamcrest) | 26 | 4 | 2 | Hamcrest matchers for the Go programming language | 2010-12-22 04:49:44 | 2021-02-11 17:08:31 |
 | [flute](https://pkg.go.dev/github.com/suzuki-shunsuke/flute/flute) | 16 | 0 | 4 | Golang HTTP client testing framework | 2019-07-06 04:32:03 | 2021-05-21 04:32:27 |
+| [schema](https://github.com/jgroeneveld/schema) | 15 | 0 | 0 | Quick and easy expression matching for JSON schemas used in requests and responses | 2015-08-13 13:36:54 | 2021-03-01 05:46:30 |
+| [gogiven](https://github.com/corbym/gogiven) | 10 | 2 | 4 | gogiven - BDD testing framework for go that generates readable output directly from source code | 2017-12-31 22:33:37 | 2021-06-03 09:08:48 |
+| [testsql](https://github.com/zhulongcheng/testsql) | 10 | 1 | 3 | Generate test data from SQL files before testing and clear it after finished. | 2018-09-22 12:03:50 | 2020-08-30 23:10:29 |
 | [biff](https://github.com/fulldump/biff) | 10 | 1 | 0 | Bifurcation Framework for testing and use cases | 2018-03-28 18:35:53 | 2020-08-31 12:00:00 |
 | [badio](https://github.com/cavaliercoder/badio) | 10 | 1 | 0 | Extensions to Go's testing/iotest package | 2016-02-11 10:29:25 | 2020-08-31 08:36:30 |
-| [gogiven](https://github.com/corbym/gogiven) | 10 | 2 | 4 | gogiven - BDD testing framework for go that generates readable output directly from source code | 2017-12-31 22:33:37 | 2021-06-03 09:08:48 |
+| [gosuite](https://github.com/pavlo/gosuite) | 10 | 3 | 1 | Test suites support for standard Go1.7 "testing" by leveraging Subtests feature | 2016-10-15 19:28:14 | 2021-06-01 17:30:40 |
+| [test](https://github.com/tvastar/test) | 7 | 0 | 0 | test utilities for golang | 2019-03-23 21:47:36 | 2020-01-14 15:42:38 |
+| [stop-and-go](https://github.com/elgohr/stop-and-go) | 5 | 2 | 0 | Testing helper for concurrency | 2020-11-06 09:04:58 | 2021-01-31 11:58:58 |
+| [trial](https://github.com/jgroeneveld/trial) | 5 | 0 | 0 | A simple assertion library for go | 2015-06-18 09:01:30 | 2021-04-18 16:15:16 |
+| [tt](https://github.com/vcaesar/tt) | 5 | 0 | 0 | Simple and colorful test tools | 2018-04-03 11:47:21 | 2021-06-06 17:44:13 |
 </details>
 
 ### Text Processing - Specific Formats
@@ -2443,15 +2463,15 @@ Libraries for validation.
 ### Version Control
 Libraries for version control.
 
-<sup>*Last Update: 2021-06-21 08:48:11*</sup>
+<sup>*Last Update: 2021-07-02 09:04:09*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [go-git](https://pkg.go.dev/github.com/go-git/go-git/v5) | 2,403 | 252 | 190 | A highly extensible Git implementation in pure Go. | 2019-12-19 10:27:02 | 2021-06-20 09:37:26 |
-| [git2go](https://github.com/libgit2/git2go) | 1,632 | 284 | 42 | Git to Go; bindings for libgit2. Like McDonald's but tastier. | 2013-03-05 19:50:43 | 2021-06-18 03:20:23 |
-| [hercules](https://github.com/src-d/hercules) | 1,359 | 117 | 37 | Gaining advanced insights from Git repository history. | 2016-12-12 17:30:29 | 2021-06-20 03:01:59 |
+| [go-git](https://pkg.go.dev/github.com/go-git/go-git/v5) | 2,434 | 254 | 193 | A highly extensible Git implementation in pure Go. | 2019-12-19 10:27:02 | 2021-07-01 18:16:18 |
+| [git2go](https://github.com/libgit2/git2go) | 1,633 | 285 | 42 | Git to Go; bindings for libgit2. Like McDonald's but tastier. | 2013-03-05 19:50:43 | 2021-06-24 03:40:03 |
+| [hercules](https://github.com/src-d/hercules) | 1,371 | 118 | 37 | Gaining advanced insights from Git repository history. | 2016-12-12 17:30:29 | 2021-07-01 09:08:25 |
 | [gh](https://github.com/rjeczalik/gh) | 75 | 12 | 2 | Scriptable server and net/http middleware for GitHub Webhooks. | 2015-03-08 21:04:05 | 2020-05-08 16:42:07 |
 | [go-vcs](https://sourcegraph.com/sourcegraph/go-vcs) | 75 | 21 | 23 | manipulate and inspect VCS repositories in Go | 2013-06-02 02:36:18 | 2021-06-09 06:01:11 |
 | [hgo](https://github.com/beyang/hgo) | 13 | 3 | 0 | Hgo is a collection of Go packages providing read-access to local Mercurial repositories. | 2014-06-18 03:54:40 | 2020-05-05 03:52:16 |
