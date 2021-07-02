@@ -1,8 +1,8 @@
 {
-	"last_update": 1625196320,
+	"last_update": 1625253927,
 	"rate_limit": 60,
 	"rate_limit_remaining": 0,
-	"rate_limit_reset": 1625199902,
+	"rate_limit_reset": 1625232302,
 	"categories": [
 		{
 			"name": "Audio and Music",
@@ -352,7 +352,7 @@
 		{
 			"name": "Third-party APIs",
 			"description": "Libraries for accessing third party APIs.",
-			"last_update": 0
+			"last_update": 1625253901
 		},
 		{
 			"name": "UUID",
