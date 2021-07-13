@@ -1,8 +1,8 @@
 {
-	"last_update": 1626074561,
+	"last_update": 1626143122,
 	"rate_limit": 60,
 	"rate_limit_remaining": 0,
-	"rate_limit_reset": 1626078133,
+	"rate_limit_reset": 1626146702,
 	"categories": [
 		{
 			"name": "Audio and Music",
@@ -47,7 +47,7 @@
 		{
 			"name": "Continuous Integration",
 			"description": "Tools for help with continuous integration.",
-			"last_update": 1624240096
+			"last_update": 1626143101
 		},
 		{
 			"name": "Data Structures",
@@ -142,7 +142,7 @@
 		{
 			"name": "Functional",
 			"description": "Packages to support functional programming in Go.",
-			"last_update": 1624267525
+			"last_update": 1626143120
 		},
 		{
 			"name": "Game Development",
@@ -382,7 +382,7 @@
 		{
 			"name": "Web Frameworks",
 			"description": "Full stack web frameworks.",
-			"last_update": 1624249676
+			"last_update": 1626143104
 		},
 		{
 			"name": "Web Frameworks - Middlewares - Actual middlewares",

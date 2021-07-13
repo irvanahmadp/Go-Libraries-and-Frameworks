@@ -1,7 +1,7 @@
 {
 	"name": "Continuous Integration",
 	"index_last_check": 0,
-	"last_update": 1624240096,
+	"last_update": 1626143101,
 	"libraries": [
 		{
 			"id": 16607898,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/drone/drone",
 			"homepage": "https://drone.io",
 			"created_at": "2014-02-07T07:54:44Z",
-			"updated_at": "2021-06-20T14:23:32Z",
+			"updated_at": "2021-07-13T02:20:06Z",
 			"svn_url": "https://github.com/drone/drone",
-			"stargazers_count": 23336,
-			"watchers_count": 23336,
-			"forks_count": 2281,
-			"open_issues_count": 75
+			"stargazers_count": 23511,
+			"watchers_count": 23511,
+			"forks_count": 2295,
+			"open_issues_count": 52
 		},
 		{
 			"id": 70572539,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/ovh/cds",
 			"homepage": "https://ovh.github.io/cds/",
 			"created_at": "2016-10-11T08:28:23Z",
-			"updated_at": "2021-06-20T10:18:34Z",
+			"updated_at": "2021-07-11T22:29:24Z",
 			"svn_url": "https://github.com/ovh/cds",
-			"stargazers_count": 3444,
-			"watchers_count": 3444,
-			"forks_count": 325,
-			"open_issues_count": 166
+			"stargazers_count": 3471,
+			"watchers_count": 3471,
+			"forks_count": 327,
+			"open_issues_count": 165
 		},
 		{
 			"id": 9495505,
@@ -38,12 +38,12 @@
 			"html_url": "https://github.com/mattn/goveralls",
 			"homepage": "",
 			"created_at": "2013-04-17T10:58:40Z",
-			"updated_at": "2021-06-07T04:20:28Z",
+			"updated_at": "2021-07-05T20:47:57Z",
 			"svn_url": "https://github.com/mattn/goveralls",
-			"stargazers_count": 691,
-			"watchers_count": 691,
-			"forks_count": 128,
-			"open_issues_count": 10
+			"stargazers_count": 692,
+			"watchers_count": 692,
+			"forks_count": 129,
+			"open_issues_count": 11
 		},
 		{
 			"id": 39947173,
@@ -66,10 +66,10 @@
 			"html_url": "https://github.com/duck8823/duci",
 			"homepage": "",
 			"created_at": "2018-04-01T01:51:02Z",
-			"updated_at": "2021-06-07T11:55:05Z",
+			"updated_at": "2021-07-01T15:48:22Z",
 			"svn_url": "https://github.com/duck8823/duci",
-			"stargazers_count": 65,
-			"watchers_count": 65,
+			"stargazers_count": 66,
+			"watchers_count": 66,
 			"forks_count": 3,
 			"open_issues_count": 5
 		},
@@ -80,12 +80,12 @@
 			"html_url": "https://github.com/nikogura/gomason",
 			"homepage": "",
 			"created_at": "2017-11-18T00:59:11Z",
-			"updated_at": "2021-05-21T04:31:31Z",
+			"updated_at": "2021-07-08T22:23:01Z",
 			"svn_url": "https://github.com/nikogura/gomason",
-			"stargazers_count": 51,
-			"watchers_count": 51,
+			"stargazers_count": 50,
+			"watchers_count": 50,
 			"forks_count": 6,
-			"open_issues_count": 1
+			"open_issues_count": 2
 		},
 		{
 			"id": 61979066,
