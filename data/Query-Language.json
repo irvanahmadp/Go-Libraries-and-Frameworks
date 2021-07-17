@@ -1,7 +1,7 @@
 {
 	"name": "Query Language",
 	"index_last_check": 0,
-	"last_update": 1624327301,
+	"last_update": 1626524702,
 	"libraries": [
 		{
 			"id": 39332913,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/graphql-go/graphql",
 			"homepage": "",
 			"created_at": "2015-07-19T12:25:43Z",
-			"updated_at": "2021-06-21T22:11:45Z",
+			"updated_at": "2021-07-17T07:32:28Z",
 			"svn_url": "https://github.com/graphql-go/graphql",
-			"stargazers_count": 7744,
-			"watchers_count": 7744,
-			"forks_count": 676,
-			"open_issues_count": 169
+			"stargazers_count": 7817,
+			"watchers_count": 7817,
+			"forks_count": 681,
+			"open_issues_count": 170
 		},
 		{
 			"id": 121086193,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/99designs/gqlgen",
 			"homepage": "https://gqlgen.com",
 			"created_at": "2018-02-11T04:54:11Z",
-			"updated_at": "2021-06-21T23:26:52Z",
+			"updated_at": "2021-07-17T08:05:20Z",
 			"svn_url": "https://github.com/99designs/gqlgen",
-			"stargazers_count": 6155,
-			"watchers_count": 6155,
-			"forks_count": 654,
-			"open_issues_count": 229
+			"stargazers_count": 6264,
+			"watchers_count": 6264,
+			"forks_count": 674,
+			"open_issues_count": 239
 		},
 		{
 			"id": 71253874,
@@ -38,11 +38,11 @@
 			"html_url": "https://github.com/graph-gophers/graphql-go",
 			"homepage": "",
 			"created_at": "2016-10-18T13:57:24Z",
-			"updated_at": "2021-06-21T22:11:16Z",
+			"updated_at": "2021-07-17T07:06:09Z",
 			"svn_url": "https://github.com/graph-gophers/graphql-go",
-			"stargazers_count": 3770,
-			"watchers_count": 3770,
-			"forks_count": 405,
+			"stargazers_count": 3804,
+			"watchers_count": 3804,
+			"forks_count": 410,
 			"open_issues_count": 86
 		},
 		{
@@ -52,11 +52,11 @@
 			"html_url": "https://github.com/thedevsaddam/gojsonq",
 			"homepage": "https://github.com/thedevsaddam/gojsonq/wiki",
 			"created_at": "2018-05-19T16:15:18Z",
-			"updated_at": "2021-06-18T14:39:08Z",
+			"updated_at": "2021-07-14T15:33:50Z",
 			"svn_url": "https://github.com/thedevsaddam/gojsonq",
-			"stargazers_count": 1690,
-			"watchers_count": 1690,
-			"forks_count": 95,
+			"stargazers_count": 1702,
+			"watchers_count": 1702,
+			"forks_count": 99,
 			"open_issues_count": 11
 		},
 		{
@@ -66,10 +66,10 @@
 			"html_url": "https://github.com/TomWright/dasel",
 			"homepage": "https://daseldocs.tomwright.me",
 			"created_at": "2020-09-22T10:33:56Z",
-			"updated_at": "2021-06-21T22:48:39Z",
+			"updated_at": "2021-07-17T01:40:58Z",
 			"svn_url": "https://github.com/TomWright/dasel",
-			"stargazers_count": 925,
-			"watchers_count": 925,
+			"stargazers_count": 951,
+			"watchers_count": 951,
 			"forks_count": 18,
 			"open_issues_count": 6
 		},
@@ -80,10 +80,10 @@
 			"html_url": "https://github.com/elgs/jsonql",
 			"homepage": "",
 			"created_at": "2015-12-29T11:24:04Z",
-			"updated_at": "2021-04-21T12:34:24Z",
+			"updated_at": "2021-07-14T02:47:25Z",
 			"svn_url": "https://github.com/elgs/jsonql",
-			"stargazers_count": 246,
-			"watchers_count": 246,
+			"stargazers_count": 245,
+			"watchers_count": 245,
 			"forks_count": 36,
 			"open_issues_count": 5
 		},
@@ -94,11 +94,11 @@
 			"html_url": "https://github.com/a8m/rql",
 			"homepage": "",
 			"created_at": "2018-06-05T18:37:29Z",
-			"updated_at": "2021-06-21T07:45:55Z",
+			"updated_at": "2021-07-17T10:20:58Z",
 			"svn_url": "https://github.com/a8m/rql",
-			"stargazers_count": 212,
-			"watchers_count": 212,
-			"forks_count": 23,
+			"stargazers_count": 216,
+			"watchers_count": 216,
+			"forks_count": 24,
 			"open_issues_count": 11
 		},
 		{
@@ -136,10 +136,10 @@
 			"html_url": "https://github.com/ccbrown/api-fu",
 			"homepage": "",
 			"created_at": "2019-07-30T05:18:43Z",
-			"updated_at": "2021-06-03T01:49:05Z",
+			"updated_at": "2021-06-25T09:30:51Z",
 			"svn_url": "https://github.com/ccbrown/api-fu",
-			"stargazers_count": 31,
-			"watchers_count": 31,
+			"stargazers_count": 33,
+			"watchers_count": 33,
 			"forks_count": 0,
 			"open_issues_count": 2
 		},
@@ -150,10 +150,10 @@
 			"html_url": "https://github.com/SonicRoshan/straf",
 			"homepage": "",
 			"created_at": "2019-08-16T13:31:39Z",
-			"updated_at": "2021-03-21T18:27:21Z",
+			"updated_at": "2021-07-15T13:50:19Z",
 			"svn_url": "https://github.com/SonicRoshan/straf",
-			"stargazers_count": 26,
-			"watchers_count": 26,
+			"stargazers_count": 29,
+			"watchers_count": 29,
 			"forks_count": 3,
 			"open_issues_count": 0
 		},
@@ -164,12 +164,12 @@
 			"html_url": "https://github.com/timsolov/rest-query-parser",
 			"homepage": "",
 			"created_at": "2020-02-10T17:58:42Z",
-			"updated_at": "2021-06-14T12:37:18Z",
+			"updated_at": "2021-07-14T08:43:37Z",
 			"svn_url": "https://github.com/timsolov/rest-query-parser",
-			"stargazers_count": 20,
-			"watchers_count": 20,
-			"forks_count": 2,
-			"open_issues_count": 0
+			"stargazers_count": 24,
+			"watchers_count": 24,
+			"forks_count": 4,
+			"open_issues_count": 1
 		},
 		{
 			"id": 316884027,
