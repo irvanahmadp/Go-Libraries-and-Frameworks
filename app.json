@@ -1,8 +1,8 @@
 {
-	"last_update": 1627698324,
+	"last_update": 1628821524,
 	"rate_limit": 60,
 	"rate_limit_remaining": 0,
-	"rate_limit_reset": 1627701902,
+	"rate_limit_reset": 1628825102,
 	"categories": [
 		{
 			"name": "Audio and Music",
@@ -192,7 +192,7 @@
 		{
 			"name": "Logging",
 			"description": "Libraries for generating and working with log files.",
-			"last_update": 1624440302
+			"last_update": 1628821501
 		},
 		{
 			"name": "Machine Learning",

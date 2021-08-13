@@ -1254,51 +1254,51 @@ Libraries for scheduling jobs.
 ### Logging
 Libraries for generating and working with log files.
 
-<sup>*Last Update: 2021-06-23 16:25:02*</sup>
+<sup>*Last Update: 2021-08-13 09:25:01*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [logrus](https://github.com/sirupsen/logrus) | 18,080 | 1,961 | 119 | Structured, pluggable logging for Go. | 2013-10-16 19:08:55 | 2021-06-23 08:41:11 |
-| [zap](https://godoc.org/go.uber.org/zap) | 12,885 | 972 | 90 | Blazing fast, structured, leveled logging in Go. | 2016-02-18 19:52:56 | 2021-06-23 07:41:52 |
-| [zerolog](https://github.com/rs/zerolog) | 4,825 | 292 | 68 | Zero Allocation JSON Logger | 2017-05-12 05:24:39 | 2021-06-23 07:36:33 |
-| [go-spew](https://github.com/davecgh/go-spew) | 4,465 | 290 | 55 | Implements a deep pretty printer for Go data structures to aid in debugging | 2013-01-09 05:18:22 | 2021-06-22 17:51:21 |
-| [glog](https://github.com/golang/glog) | 2,734 | 774 | 8 | Leveled execution logs for Go | 2013-07-16 04:33:04 | 2021-06-21 14:24:36 |
-| [lumberjack](https://github.com/natefinch/lumberjack) | 2,596 | 348 | 51 | lumberjack is a log rolling package for Go | 2014-06-14 11:55:47 | 2021-06-23 07:51:36 |
-| [tail](https://github.com/hpcloud/tail) | 2,117 | 426 | 70 | Go package for reading from continously updated files (tail -f) | 2013-02-05 00:28:03 | 2021-06-22 13:10:10 |
-| [seelog](https://github.com/cihub/seelog) | 1,543 | 242 | 39 | Seelog is a native Go logging library that provides flexible asynchronous dispatching, filtering, and formatting. | 2011-11-17 09:43:15 | 2021-06-20 03:57:09 |
-| [log](https://github.com/apex/log) | 1,144 | 95 | 34 | Structured logging package for Go. | 2015-12-21 20:27:48 | 2021-06-21 08:08:33 |
-| [log15](https://godoc.org/github.com/inconshreveable/log15) | 1,012 | 137 | 43 | Structured, composable logging for Go | 2014-05-20 00:11:52 | 2021-06-21 08:08:28 |
-| [onelog](https://github.com/francoispqt/onelog) | 394 | 14 | 1 | Dead simple, super fast, zero allocation and modular logger for Golang | 2018-05-06 14:32:10 | 2021-06-12 08:42:40 |
-| [log](https://github.com/phuslu/log) | 375 | 23 | 3 | Structured Logging Made Easy | 2019-07-07 09:40:38 | 2021-06-22 18:09:50 |
-| [logxi](https://logur.dev/logur) | 347 | 39 | 24 | A 12-factor app logger built for performance and happy development | 2015-03-01 22:13:45 | 2021-05-08 17:22:18 |
-| [logutils](https://logur.dev/logur) | 292 | 31 | 1 | Utilities for slightly better logging in Go (Golang). | 2013-10-09 07:31:15 | 2021-03-24 13:59:46 |
+| [logrus](https://github.com/sirupsen/logrus) | 18,449 | 1,991 | 126 | Structured, pluggable logging for Go. | 2013-10-16 19:08:55 | 2021-08-13 02:23:21 |
+| [zap](https://godoc.org/go.uber.org/zap) | 13,344 | 998 | 83 | Blazing fast, structured, leveled logging in Go. | 2016-02-18 19:52:56 | 2021-08-13 01:23:17 |
+| [zerolog](https://github.com/rs/zerolog) | 5,070 | 306 | 75 | Zero Allocation JSON Logger | 2017-05-12 05:24:39 | 2021-08-13 00:39:37 |
+| [go-spew](https://github.com/davecgh/go-spew) | 4,524 | 293 | 55 | Implements a deep pretty printer for Go data structures to aid in debugging | 2013-01-09 05:18:22 | 2021-08-12 16:52:37 |
+| [glog](https://github.com/golang/glog) | 2,775 | 790 | 8 | Leveled execution logs for Go | 2013-07-16 04:33:04 | 2021-08-11 06:28:56 |
+| [lumberjack](https://github.com/natefinch/lumberjack) | 2,703 | 353 | 53 | lumberjack is a log rolling package for Go | 2014-06-14 11:55:47 | 2021-08-12 11:07:12 |
+| [tail](https://github.com/hpcloud/tail) | 2,145 | 435 | 71 | Go package for reading from continously updated files (tail -f) | 2013-02-05 00:28:03 | 2021-08-12 19:20:15 |
+| [seelog](https://github.com/cihub/seelog) | 1,557 | 242 | 39 | Seelog is a native Go logging library that provides flexible asynchronous dispatching, filtering, and formatting. | 2011-11-17 09:43:15 | 2021-08-11 12:33:06 |
+| [log](https://github.com/apex/log) | 1,158 | 99 | 34 | Structured logging package for Go. | 2015-12-21 20:27:48 | 2021-08-11 14:59:24 |
+| [log15](https://godoc.org/github.com/inconshreveable/log15) | 1,013 | 140 | 43 | Structured, composable logging for Go | 2014-05-20 00:11:52 | 2021-07-29 08:51:21 |
+| [onelog](https://github.com/francoispqt/onelog) | 397 | 14 | 1 | Dead simple, super fast, zero allocation and modular logger for Golang | 2018-05-06 14:32:10 | 2021-08-09 19:51:49 |
+| [log](https://github.com/phuslu/log) | 390 | 26 | 4 | Structured Logging Made Easy | 2019-07-07 09:40:38 | 2021-08-12 17:12:50 |
+| [logxi](https://logur.dev/logur) | 347 | 40 | 24 | A 12-factor app logger built for performance and happy development | 2015-03-01 22:13:45 | 2021-05-08 17:22:18 |
+| [logutils](https://logur.dev/logur) | 295 | 31 | 1 | Utilities for slightly better logging in Go (Golang). | 2013-10-09 07:31:15 | 2021-07-18 02:53:40 |
 | [log](https://github.com/go-playground/log) | 275 | 21 | 1 | :green_book: Simple, configurable and scalable Structured Logging for Go. | 2016-02-07 16:17:48 | 2021-05-06 17:20:44 |
-| [go-logger](https://github.com/apsdehal/go-logger) | 263 | 49 | 2 | Simple logger for Go programs. Allows custom formats for messages. | 2014-09-26 04:57:06 | 2021-06-18 03:21:21 |
-| [httpretty](https://asciinema.org/a/297429) | 228 | 6 | 1 | Package httpretty prints the HTTP requests you make with Go pretty on your terminal. | 2020-01-24 18:17:16 | 2021-06-10 04:17:21 |
-| [sqldb-logger](https://github.com/simukti/sqldb-logger) | 180 | 5 | 4 | A logger for Go SQL database driver without modify existing *sql.DB stdlib usage. | 2019-11-02 17:28:03 | 2021-06-13 10:47:37 |
-| [rollingwriter](https://github.com/arthurkiller/rollingwriter) | 176 | 26 | 8 | Rolling writer is an IO util for auto rolling write in go. | 2017-02-12 12:05:26 | 2021-06-20 14:26:49 |
+| [go-logger](https://github.com/apsdehal/go-logger) | 266 | 49 | 2 | Simple logger for Go programs. Allows custom formats for messages. | 2014-09-26 04:57:06 | 2021-07-15 17:58:40 |
+| [httpretty](https://asciinema.org/a/297429) | 234 | 6 | 1 | Package httpretty prints the HTTP requests you make with Go pretty on your terminal. | 2020-01-24 18:17:16 | 2021-08-05 03:16:33 |
+| [sqldb-logger](https://github.com/simukti/sqldb-logger) | 184 | 5 | 4 | A logger for Go SQL database driver without modify existing *sql.DB stdlib usage. | 2019-11-02 17:28:03 | 2021-08-12 11:02:12 |
+| [rollingwriter](https://github.com/arthurkiller/rollingwriter) | 177 | 26 | 8 | Rolling writer is an IO util for auto rolling write in go. | 2017-02-12 12:05:26 | 2021-07-25 03:10:36 |
 | [logger](http://godoc.org/github.com/azer/logger) | 148 | 15 | 0 | Minimalistic logging library for Go. | 2014-09-30 06:45:09 | 2021-03-29 21:01:13 |
 | [xlog](https://github.com/rs/xlog) | 135 | 12 | 3 | xlog is a logger for net/context aware HTTP applications | 2015-10-22 09:26:45 | 2021-02-20 02:54:42 |
-| [logur](https://logur.dev/logur) | 126 | 8 | 8 | Logur is an opinionated collection of logging best practices | 2018-12-09 16:43:11 | 2021-06-10 16:44:50 |
-| [glg](https://github.com/kpango/glg) | 114 | 11 | 1 | Simple and blazing fast lockfree logging library for golang | 2017-06-21 13:26:16 | 2021-06-19 04:03:48 |
+| [logur](https://logur.dev/logur) | 135 | 9 | 8 | Logur is an opinionated collection of logging best practices | 2018-12-09 16:43:11 | 2021-07-30 07:58:37 |
+| [glg](https://github.com/kpango/glg) | 118 | 11 | 0 | Simple and blazing fast lockfree logging library for golang | 2017-06-21 13:26:16 | 2021-08-11 07:13:21 |
 | [ozzo-log](https://github.com/go-ozzo/ozzo-log) | 114 | 31 | 9 | A Go (golang) package providing high-performance asynchronous logging, message filtering by severity and category, and multiple message targets. | 2015-10-22 22:29:02 | 2021-05-17 07:01:57 |
 | [logvoyage](https://github.com/firstrow/logvoyage) | 88 | 10 | 9 | LogVoyage - logging SaaS written in GoLang | 2015-03-29 11:05:09 | 2020-09-04 14:11:03 |
 | [log](https://github.com/alexcesaro/log) | 45 | 3 | 1 | Logging packages for Go | 2014-04-19 14:31:56 | 2020-08-12 17:36:34 |
-| [go-cronowriter](https://github.com/utahta/go-cronowriter) | 41 | 7 | 3 | Time based rotating file writer | 2017-02-04 09:02:55 | 2021-05-31 11:45:51 |
+| [go-cronowriter](https://github.com/utahta/go-cronowriter) | 42 | 7 | 3 | Time based rotating file writer | 2017-02-04 09:02:55 | 2021-08-10 04:23:37 |
 | [gologger](https://github.com/sadlil/gologger) | 39 | 10 | 2 | The Simplest and worst logging library ever written | 2015-09-02 08:52:26 | 2021-01-19 03:46:18 |
 | [logex](https://github.com/chzyer/logex) | 37 | 8 | 2 | An golang log lib, supports tracking and level, wrap by standard log lib | 2014-10-10 06:38:39 | 2021-03-29 21:33:46 |
 | [go-log](https://github.com/ian-kent/go-log) | 37 | 17 | 3 | A logger, for Go | 2014-05-02 00:34:09 | 2021-02-21 19:02:39 |
-| [gone](https://github.com/One-com/gone) | 35 | 5 | 0 | Golang packages for writing small daemons and servers. | 2016-09-05 09:39:11 | 2021-05-24 14:22:10 |
+| [gone](https://github.com/One-com/gone) | 36 | 5 | 0 | Golang packages for writing small daemons and servers. | 2016-09-05 09:39:11 | 2021-08-01 19:37:48 |
 | [go-log](https://github.com/siddontang/go-log) | 28 | 14 | 1 | a golang log lib supports level and multi handlers | 2014-05-18 03:41:55 | 2020-11-11 08:54:54 |
-| [journald](https://asciinema.org/a/297429) | 26 | 1 | 0 | Go implementation of systemd Journal's native API for logging | 2017-08-23 07:06:09 | 2021-03-05 18:33:49 |
-| [logrusly](https://github.com/sebest/logrusly) | 26 | 14 | 2 | Loggly Hooks for GO Logrus logger | 2014-09-11 23:27:11 | 2020-08-17 21:36:09 |
-| [distillog](https://github.com/amoghe/distillog) | 26 | 5 | 0 | Logging, distilled | 2015-10-12 16:32:21 | 2021-06-21 15:05:58 |
+| [journald](https://asciinema.org/a/297429) | 27 | 1 | 0 | Go implementation of systemd Journal's native API for logging | 2017-08-23 07:06:09 | 2021-08-02 21:07:20 |
+| [logrusly](https://github.com/sebest/logrusly) | 27 | 15 | 3 | Loggly Hooks for GO Logrus logger | 2014-09-11 23:27:11 | 2021-07-27 21:32:37 |
+| [distillog](https://github.com/amoghe/distillog) | 26 | 6 | 0 | Logging, distilled | 2015-10-12 16:32:21 | 2021-06-21 15:05:58 |
 | [log](https://github.com/teris-io/log) | 24 | 2 | 0 | Structured log interface | 2017-10-28 19:57:55 | 2021-01-03 07:59:28 |
-| [mlog](https://github.com/jbrodriguez/mlog) | 23 | 17 | 1 | A simple logging module for go, with a rotating file feature and console logging. | 2014-10-20 15:06:26 | 2021-03-21 07:13:54 |
+| [mlog](https://github.com/jbrodriguez/mlog) | 24 | 17 | 1 | A simple logging module for go, with a rotating file feature and console logging. | 2014-10-20 15:06:26 | 2021-06-28 02:21:55 |
 | [gomol](https://github.com/aphistic/gomol) | 17 | 0 | 3 | Gomol is a library for structured, multiple-output logging for Go with extensible logging outputs | 2015-08-30 15:51:46 | 2021-04-21 04:52:21 |
-| [zkits-logger](https://github.com/edoger/zkits-logger) | 15 | 0 | 0 | A powerful zero-dependency json logger. | 2020-03-31 14:23:40 | 2021-06-17 03:37:04 |
+| [zkits-logger](https://github.com/edoger/zkits-logger) | 15 | 0 | 0 | A powerful zero-dependency json logger. | 2020-03-31 14:23:40 | 2021-07-05 06:43:25 |
 | [glo](https://github.com/lajosbencz/glo) | 14 | 0 | 0 | Logging library for Golang | 2019-01-19 22:10:42 | 2021-06-04 05:15:29 |
 | [logrusiowriter](https://github.com/cabify/logrusiowriter) | 12 | 0 | 0 | io.Writer implementation using logrus logger | 2019-08-09 08:58:25 | 2021-04-28 10:20:48 |
 | [go-log](https://github.com/subchen/go-log) | 11 | 5 | 0 | Simple and configurable Logging in Go, with level, formatters and writers | 2017-05-07 08:09:24 | 2021-02-21 03:47:33 |
@@ -1308,8 +1308,8 @@ Libraries for generating and working with log files.
 | [log](https://github.com/aerogo/log) | 8 | 0 | 0 | :memo: Logging with multiple output targets. | 2017-06-10 09:54:08 | 2020-11-19 15:43:56 |
 | [go-log](https://github.com/pieterclaerhout/go-log) | 8 | 3 | 0 | A logging library with strack traces, object dumping and optional timestamps | 2019-10-01 08:55:38 | 2021-02-21 07:39:35 |
 | [xlog](https://github.com/xfxdev/xlog) | 6 | 3 | 0 | plugin architecture and flexible log system for golang | 2016-05-05 16:47:45 | 2019-09-26 11:33:58 |
-| [kemba](https://pkg.go.dev/github.com/clok/kemba?tab=overview) | 5 | 1 | 0 | A tiny debug logging tool. Ideal for CLI tools and command applications. Inspired by https://github.com/visionmedia/debug | 2020-07-13 03:10:54 | 2021-05-21 04:32:04 |
-| [yell](https://github.com/jfcg/yell) | 1 | 0 | 0 | Yet another minimalistic logging library | 2021-02-07 16:07:27 | 2021-05-21 13:00:39 |
+| [kemba](https://pkg.go.dev/github.com/clok/kemba?tab=overview) | 5 | 1 | 1 | A tiny debug logging tool. Ideal for CLI tools and command applications. Inspired by https://github.com/visionmedia/debug | 2020-07-13 03:10:54 | 2021-05-21 04:32:04 |
+| [yell](https://github.com/jfcg/yell) | 0 | 0 | 0 | Yet another minimalist logging library | 2021-02-07 16:07:27 | 2021-08-07 13:35:27 |
 </details>
 
 ### Machine Learning
@@ -1473,21 +1473,21 @@ Libraries for working with dependency injection.
 ### Miscellaneous - Project Layout
 Unofficial set of patterns for structuring projects.
 
-<sup>*Last Update: 2021-06-26 08:31:03*</sup>
+<sup>*Last Update: 2021-08-13 09:25:21*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [project-layout](https://github.com/golang-standards/project-layout) | 24,506 | 2,594 | 57 | Standard Go Project Layout | 2017-09-09 16:33:26 | 2021-06-25 23:01:29 |
-| [modern-go-application](https://github.com/sagikazarmark/modern-go-application) | 946 | 95 | 16 | Modern Go Application example | 2018-09-14 12:19:02 | 2021-06-23 12:28:50 |
-| [cookiecutter-golang](https://github.com/lacion/cookiecutter-golang) | 457 | 99 | 4 | A Go project template | 2016-12-18 18:22:26 | 2021-06-24 04:50:23 |
-| [seed](https://github.com/golang-templates/seed) | 178 | 13 | 0 | Go application GitHub repository template. | 2020-04-30 21:31:36 | 2021-06-23 22:37:59 |
-| [scaffold](https://github.com/catchplay/scaffold) | 96 | 21 | 1 | Generate scaffold project layout for Go. | 2018-12-11 10:36:03 | 2021-06-21 15:06:01 |
-| [go-sample](https://github.com/zitryss/go-sample) | 86 | 20 | 0 | Go Project Sample Layout | 2019-01-24 23:41:46 | 2021-06-13 02:29:07 |
-| [go-todo-backend](https://github.com/Fs02/go-todo-backend) | 78 | 10 | 0 | Go Todo Backend example using modular project layout for product microservice. | 2020-06-25 14:28:50 | 2021-06-24 19:52:02 |
-| [gobase](https://github.com/wajox/gobase) | 9 | 3 | 0 | This is a simple skeleton for golang application | 2020-12-15 16:54:20 | 2021-06-09 16:03:16 |
-| [inizio](https://github.com/insidieux/inizio) | 9 | 0 | 1 | Golang project standard layout generator | 2021-03-02 20:59:22 | 2021-05-21 04:32:12 |
+| [project-layout](https://github.com/golang-standards/project-layout) | 25,704 | 2,725 | 60 | Standard Go Project Layout | 2017-09-09 16:33:26 | 2021-08-13 01:43:23 |
+| [modern-go-application](https://github.com/sagikazarmark/modern-go-application) | 1,035 | 101 | 16 | Modern Go Application example | 2018-09-14 12:19:02 | 2021-08-13 01:32:55 |
+| [cookiecutter-golang](https://github.com/lacion/cookiecutter-golang) | 468 | 105 | 4 | A Go project template | 2016-12-18 18:22:26 | 2021-08-07 13:35:26 |
+| [seed](https://github.com/golang-templates/seed) | 190 | 13 | 0 | Go application GitHub repository template. | 2020-04-30 21:31:36 | 2021-08-11 17:25:08 |
+| [scaffold](https://github.com/catchplay/scaffold) | 99 | 20 | 2 | Generate scaffold project layout for Go. | 2018-12-11 10:36:03 | 2021-08-06 00:56:30 |
+| [go-sample](https://github.com/zitryss/go-sample) | 88 | 20 | 0 | Go Project Sample Layout | 2019-01-24 23:41:46 | 2021-08-06 20:45:53 |
+| [go-todo-backend](https://github.com/Fs02/go-todo-backend) | 85 | 10 | 0 | Go Todo Backend example using modular project layout for product microservice. | 2020-06-25 14:28:50 | 2021-08-11 22:30:18 |
+| [gobase](https://github.com/wajox/gobase) | 9 | 3 | 0 | This is a simple skeleton for golang application | 2020-12-15 16:54:20 | 2021-08-05 07:08:41 |
+| [inizio](https://github.com/insidieux/inizio) | 8 | 0 | 1 | Golang project standard layout generator | 2021-03-02 20:59:22 | 2021-07-19 21:23:36 |
 </details>
 
 ### Miscellaneous - Strings
