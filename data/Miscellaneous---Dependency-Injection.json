@@ -1,7 +1,7 @@
 {
 	"name": "Miscellaneous - Dependency Injection",
 	"index_last_check": 0,
-	"last_update": 1624585473,
+	"last_update": 1629685515,
 	"libraries": [
 		{
 			"id": 72056048,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/uber-go/fx",
 			"homepage": "https://go.uber.org/fx",
 			"created_at": "2016-10-27T00:25:00Z",
-			"updated_at": "2021-06-24T12:11:10Z",
+			"updated_at": "2021-08-22T12:21:22Z",
 			"svn_url": "https://github.com/uber-go/fx",
-			"stargazers_count": 2054,
-			"watchers_count": 2054,
-			"forks_count": 137,
-			"open_issues_count": 34
+			"stargazers_count": 2159,
+			"watchers_count": 2159,
+			"forks_count": 143,
+			"open_issues_count": 36
 		},
 		{
 			"id": 85765458,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/uber-go/dig",
 			"homepage": "https://go.uber.org/dig",
 			"created_at": "2017-03-21T23:55:50Z",
-			"updated_at": "2021-06-24T14:27:04Z",
+			"updated_at": "2021-08-22T19:58:41Z",
 			"svn_url": "https://github.com/uber-go/dig",
-			"stargazers_count": 1944,
-			"watchers_count": 1944,
-			"forks_count": 119,
-			"open_issues_count": 20
+			"stargazers_count": 2038,
+			"watchers_count": 2038,
+			"forks_count": 125,
+			"open_issues_count": 22
 		},
 		{
 			"id": 210399392,
@@ -38,12 +38,12 @@
 			"html_url": "https://github.com/golobby/container",
 			"homepage": "",
 			"created_at": "2019-09-23T16:12:50Z",
-			"updated_at": "2021-06-24T19:47:56Z",
+			"updated_at": "2021-08-21T21:22:18Z",
 			"svn_url": "https://github.com/golobby/container",
-			"stargazers_count": 203,
-			"watchers_count": 203,
+			"stargazers_count": 225,
+			"watchers_count": 225,
 			"forks_count": 14,
-			"open_issues_count": 3
+			"open_issues_count": 2
 		},
 		{
 			"id": 155180696,
@@ -52,10 +52,10 @@
 			"html_url": "https://github.com/i-love-flamingo/dingo",
 			"homepage": "https://go.uber.org/dig",
 			"created_at": "2018-10-29T08:55:18Z",
-			"updated_at": "2021-05-26T13:40:49Z",
+			"updated_at": "2021-08-20T09:17:49Z",
 			"svn_url": "https://github.com/i-love-flamingo/dingo",
-			"stargazers_count": 105,
-			"watchers_count": 105,
+			"stargazers_count": 107,
+			"watchers_count": 107,
 			"forks_count": 6,
 			"open_issues_count": 9
 		},
@@ -66,12 +66,12 @@
 			"html_url": "https://github.com/goava/di",
 			"homepage": "",
 			"created_at": "2020-02-03T19:06:39Z",
-			"updated_at": "2021-06-24T16:44:30Z",
+			"updated_at": "2021-08-19T10:42:31Z",
 			"svn_url": "https://github.com/goava/di",
-			"stargazers_count": 91,
-			"watchers_count": 91,
+			"stargazers_count": 102,
+			"watchers_count": 102,
 			"forks_count": 8,
-			"open_issues_count": 2
+			"open_issues_count": 1
 		},
 		{
 			"id": 271540448,
@@ -80,11 +80,11 @@
 			"html_url": "https://github.com/goioc/di",
 			"homepage": "https://pkg.go.dev/github.com/goioc/di/?tab=doc",
 			"created_at": "2020-06-11T12:28:06Z",
-			"updated_at": "2021-06-18T02:14:22Z",
+			"updated_at": "2021-08-18T14:34:36Z",
 			"svn_url": "https://github.com/goioc/di",
-			"stargazers_count": 82,
-			"watchers_count": 82,
-			"forks_count": 2,
+			"stargazers_count": 90,
+			"watchers_count": 90,
+			"forks_count": 3,
 			"open_issues_count": 0
 		},
 		{
@@ -102,6 +102,20 @@
 			"open_issues_count": 0
 		},
 		{
+			"id": 139835016,
+			"name": "wire",
+			"description": "Strict Runtime Dependency Injection for Golang",
+			"html_url": "https://github.com/Fs02/wire",
+			"homepage": "",
+			"created_at": "2018-07-05T10:42:24Z",
+			"updated_at": "2021-08-22T07:00:21Z",
+			"svn_url": "https://github.com/Fs02/wire",
+			"stargazers_count": 33,
+			"watchers_count": 33,
+			"forks_count": 7,
+			"open_issues_count": 1
+		},
+		{
 			"id": 160434102,
 			"name": "linker",
 			"description": "Dependency Injection and Inversion of Control package",
@@ -114,20 +128,6 @@
 			"watchers_count": 32,
 			"forks_count": 5,
 			"open_issues_count": 0
-		},
-		{
-			"id": 139835016,
-			"name": "wire",
-			"description": "Strict Runtime Dependency Injection for Golang",
-			"html_url": "https://github.com/Fs02/wire",
-			"homepage": "",
-			"created_at": "2018-07-05T10:42:24Z",
-			"updated_at": "2021-02-14T21:50:05Z",
-			"svn_url": "https://github.com/Fs02/wire",
-			"stargazers_count": 32,
-			"watchers_count": 32,
-			"forks_count": 7,
-			"open_issues_count": 1
 		},
 		{
 			"id": 190543009,
@@ -150,10 +150,10 @@
 			"html_url": "https://github.com/go-kata/kinit",
 			"homepage": "",
 			"created_at": "2021-01-24T13:41:41Z",
-			"updated_at": "2021-06-12T14:24:51Z",
+			"updated_at": "2021-08-01T02:23:02Z",
 			"svn_url": "https://github.com/go-kata/kinit",
-			"stargazers_count": 5,
-			"watchers_count": 5,
+			"stargazers_count": 6,
+			"watchers_count": 6,
 			"forks_count": 0,
 			"open_issues_count": 0
 		},
@@ -164,12 +164,12 @@
 			"html_url": "https://github.com/BlueOwlOpenSource/nject",
 			"homepage": "",
 			"created_at": "2018-10-31T18:15:43Z",
-			"updated_at": "2021-05-21T04:32:12Z",
+			"updated_at": "2021-07-04T12:55:45Z",
 			"svn_url": "https://github.com/BlueOwlOpenSource/nject",
-			"stargazers_count": 4,
-			"watchers_count": 4,
+			"stargazers_count": 3,
+			"watchers_count": 3,
 			"forks_count": 1,
-			"open_issues_count": 0
+			"open_issues_count": 2
 		}
 	]
 }

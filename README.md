@@ -792,14 +792,14 @@ Packages that help with building Distributed Systems.
 ### Dynamic DNS
 Tools for updating dynamic DNS records.
 
-<sup>*Last Update: 2021-07-19 09:25:21*</sup>
+<sup>*Last Update: 2021-08-23 09:25:22*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [godns](https://xiaozhou.net/godns-project-2014-05-18.html) | 844 | 159 | 8 | A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go. | 2014-05-11 11:49:17 | 2021-07-17 09:11:16 |
-| [ddns](https://github.com/skibish/ddns) | 193 | 19 | 0 | Personal DDNS client with Digital Ocean Networking DNS as backend. | 2017-03-13 21:02:27 | 2021-07-01 21:29:36 |
+| [godns](https://xiaozhou.net/godns-project-2014-05-18.html) | 856 | 157 | 10 | A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go. | 2014-05-11 11:49:17 | 2021-08-21 16:02:35 |
+| [ddns](https://github.com/skibish/ddns) | 191 | 19 | 0 | Personal DDNS client with Digital Ocean Networking DNS as backend. | 2017-03-13 21:02:27 | 2021-08-16 10:21:55 |
 </details>
 
 ### Email
@@ -1193,39 +1193,39 @@ Libraries for programming devices of the IoT.
 ### JSON
 Libraries for working with JSON.
 
-<sup>*Last Update: 2021-06-24 16:25:01*</sup>
+<sup>*Last Update: 2021-08-23 09:25:02*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [gjson](https://github.com/tidwall/gjson) | 8,505 | 577 | 25 | Get JSON values quickly - JSON parser for Go | 2016-08-11 03:08:47 | 2021-06-24 08:12:47 |
-| [json-to-go](https://mholt.github.io/json-to-go/) | 3,123 | 367 | 12 | Translates JSON into a Go type in your browser instantly (original) | 2014-01-21 18:11:13 | 2021-06-24 09:22:11 |
-| [gojson](https://github.com/ChimeraCoder/gojson) | 2,369 | 176 | 39 | Automatically generate Go (golang) struct definitions from example JSON | 2012-12-27 19:10:50 | 2021-06-21 14:32:35 |
-| [fastjson](https://github.com/valyala/fastjson) | 1,252 | 67 | 31 | Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection | 2018-05-28 21:41:47 | 2021-06-22 12:29:00 |
-| [kazaam](https://github.com/qntfy/kazaam) | 192 | 41 | 24 | Arbitrary transformations of JSON in Golang | 2016-07-19 14:19:03 | 2021-06-11 12:18:35 |
-| [gojq](https://godoc.org/github.com/nicklaw5/go-respond) | 170 | 19 | 1 | JSON query in Golang | 2015-12-30 09:02:13 | 2021-05-19 19:33:24 |
-| [jsondiff](https://pkg.go.dev/github.com/wI2L/jsondiff) | 118 | 10 | 0 | JSON diff library for Go based on RFC6902 (JSON Patch) | 2020-11-28 19:05:16 | 2021-06-07 08:36:16 |
-| [jettison](https://pkg.go.dev/github.com/wI2L/jettison) | 108 | 6 | 0 | Fast and flexible JSON encoder for Go | 2019-08-30 13:28:03 | 2021-06-20 21:26:53 |
+| [gjson](https://github.com/tidwall/gjson) | 8,808 | 600 | 30 | Get JSON values quickly - JSON parser for Go | 2016-08-11 03:08:47 | 2021-08-22 17:13:44 |
+| [json-to-go](https://mholt.github.io/json-to-go/) | 3,213 | 383 | 12 | Translates JSON into a Go type in your browser instantly (original) | 2014-01-21 18:11:13 | 2021-08-22 17:18:03 |
+| [gojson](https://github.com/ChimeraCoder/gojson) | 2,393 | 184 | 41 | Automatically generate Go (golang) struct definitions from example JSON | 2012-12-27 19:10:50 | 2021-08-22 08:15:37 |
+| [fastjson](https://github.com/valyala/fastjson) | 1,293 | 72 | 33 | Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection | 2018-05-28 21:41:47 | 2021-08-22 07:30:04 |
+| [kazaam](https://github.com/qntfy/kazaam) | 203 | 42 | 23 | Arbitrary transformations of JSON in Golang | 2016-07-19 14:19:03 | 2021-08-17 08:09:57 |
+| [gojq](https://godoc.org/github.com/nicklaw5/go-respond) | 173 | 20 | 1 | JSON query in Golang | 2015-12-30 09:02:13 | 2021-08-18 06:54:30 |
+| [jsondiff](https://pkg.go.dev/github.com/wI2L/jsondiff) | 125 | 10 | 0 | JSON diff library for Go based on RFC6902 (JSON Patch) | 2020-11-28 19:05:16 | 2021-08-19 10:16:22 |
+| [jettison](https://pkg.go.dev/github.com/wI2L/jettison) | 111 | 7 | 0 | Fast and flexible JSON encoder for Go | 2019-08-30 13:28:03 | 2021-08-12 05:15:25 |
 | [jsongo](https://pkg.go.dev/github.com/wI2L/jsondiff) | 96 | 13 | 1 | Fluent API to make it easier to create Json objects. | 2015-08-07 23:23:17 | 2021-05-01 10:53:24 |
-| [gjo](https://github.com/skanehira/gjo) | 94 | 11 | 1 | Small utility to create JSON objects | 2019-02-23 01:54:21 | 2021-05-21 04:32:02 |
-| [jaydiff](https://github.com/yazgazan/jaydiff) | 85 | 7 | 2 | A JSON diff utility | 2017-04-24 16:05:35 | 2021-05-13 13:34:51 |
-| [json2go](https://m-zajac.github.io/json2go) | 82 | 12 | 1 | Create go type representation from json | 2017-06-10 23:55:07 | 2021-06-16 14:20:55 |
-| [jsonf](https://pkg.go.dev/github.com/wI2L/jsondiff) | 61 | 9 | 0 | Console JSON formatter with query feature | 2015-05-25 04:53:32 | 2021-04-24 08:25:31 |
-| [ajson](https://github.com/spyzhov/ajson) | 61 | 7 | 5 | Abstract JSON for golang with JSONPath support  | 2019-03-07 20:47:38 | 2021-06-22 06:02:34 |
+| [gjo](https://github.com/skanehira/gjo) | 94 | 11 | 1 | Small utility to create JSON objects | 2019-02-23 01:54:21 | 2021-07-06 17:53:06 |
+| [jaydiff](https://github.com/yazgazan/jaydiff) | 84 | 7 | 2 | A JSON diff utility | 2017-04-24 16:05:35 | 2021-08-20 14:26:03 |
+| [json2go](https://m-zajac.github.io/json2go) | 84 | 12 | 1 | Create go type representation from json | 2017-06-10 23:55:07 | 2021-08-20 10:56:25 |
+| [ajson](https://github.com/spyzhov/ajson) | 66 | 8 | 5 | Abstract JSON for golang with JSONPath support  | 2019-03-07 20:47:38 | 2021-08-18 08:22:30 |
+| [jsonf](https://pkg.go.dev/github.com/wI2L/jsondiff) | 62 | 9 | 0 | Console JSON formatter with query feature | 2015-05-25 04:53:32 | 2021-08-04 01:58:06 |
+| [json-to-proto.github.io](https://json-to-proto.github.io/) | 51 | 7 | 1 | convert JSON to Protocol Buffers online in your browser instantly | 2020-04-18 20:42:45 | 2021-08-19 06:51:07 |
 | [mp](https://github.com/sanbornm/mp) | 44 | 4 | 1 | Simple Email Parser | 2014-06-15 21:14:39 | 2020-10-22 17:21:09 |
-| [go-respond](https://godoc.org/github.com/nicklaw5/go-respond) | 41 | 5 | 0 | A Go package for handling common HTTP JSON responses. | 2017-03-12 21:00:54 | 2021-03-09 14:00:56 |
-| [json-to-proto.github.io](https://json-to-proto.github.io/) | 40 | 5 | 0 | convert JSON to Protocol Buffers online in your browser instantly | 2020-04-18 20:42:45 | 2021-06-14 02:09:52 |
+| [go-respond](https://godoc.org/github.com/nicklaw5/go-respond) | 41 | 6 | 1 | A Go package for handling common HTTP JSON responses. | 2017-03-12 21:00:54 | 2021-07-29 18:23:08 |
 | [go-jsonerror](https://github.com/ddymko/go-jsonerror) | 10 | 1 | 0 | Small package which wraps error responses to follow jsonapi.org | 2018-10-18 15:03:45 | 2020-10-02 04:02:28 |
 | [jsonapi-errors](https://github.com/AmuzaTkts/jsonapi-errors) | 9 | 2 | 0 | Go bindings based on the JSON API errors reference | 2016-07-08 10:08:58 | 2020-08-30 14:39:42 |
 | [jsonhal](https://github.com/RichardKnop/jsonhal) | 9 | 4 | 1 | A simple Go package to make custom structs marshal into HAL compatible JSON responses. | 2016-01-15 11:38:40 | 2020-05-26 19:24:02 |
 | [ask](https://github.com/simonnilsson/ask) | 7 | 0 | 0 | A Go package that provides a simple way of accessing nested properties in maps and slices. | 2020-09-13 13:53:31 | 2021-05-29 00:44:25 |
 | [ej](https://github.com/lucassscaravelli/ej) | 7 | 0 | 0 | Write and read JSON from different sources in one line | 2020-01-04 17:39:35 | 2021-04-27 22:00:09 |
-| [dynjson](https://github.com/cocoonspace/dynjson) | 6 | 1 | 0 | Client-customizable JSON formats for dynamic APIs | 2020-05-06 07:10:02 | 2021-06-09 06:01:06 |
-| [epoch](https://github.com/vtopc/epoch) | 5 | 1 | 0 | Contains primitives for marshaling/unmarshaling Unix timestamp/epoch to/from built-in time.Time type in JSON | 2019-12-15 12:54:37 | 2021-06-09 06:01:11 |
+| [dynjson](https://github.com/cocoonspace/dynjson) | 7 | 2 | 0 | Client-customizable JSON formats for dynamic APIs | 2020-05-06 07:10:02 | 2021-08-14 10:47:09 |
+| [epoch](https://github.com/vtopc/epoch) | 6 | 1 | 0 | Contains primitives for marshaling/unmarshaling Unix timestamp/epoch to/from built-in time.Time type in JSON | 2019-12-15 12:54:37 | 2021-08-04 01:57:13 |
+| [mapslice-json](https://github.com/ake-persson/mapslice-json) | 6 | 1 | 0 | Go MapSlice for ordered marshal/ unmarshal of maps in JSON | 2020-02-19 11:01:48 | 2021-08-21 00:15:30 |
 | [jzon](https://github.com/zerosnake0/jzon) | 4 | 0 | 0 | A golang json library inspired by jsoniter | 2019-11-12 10:42:41 | 2021-05-24 05:31:48 |
-| [mapslice-json](https://github.com/mickep76/mapslice-json) | 4 | 1 | 0 | Go MapSlice for ordered marshal/ unmarshal of maps in JSON | 2020-02-19 11:01:48 | 2021-04-20 04:09:25 |
-| [jsonic](https://github.com/sinhashubham95/jsonic) | 2 | 0 | 0 | All you need with JSON | 2021-01-09 06:21:59 | 2021-03-05 04:01:32 |
+| [jsonic](https://github.com/sinhashubham95/jsonic) | 3 | 0 | 0 | All you need with JSON | 2021-01-09 06:21:59 | 2021-07-18 18:43:03 |
 </details>
 
 ### Job Scheduler
@@ -1450,24 +1450,24 @@ Libraries for working with Microsoft Excel.
 ### Miscellaneous - Dependency Injection
 Libraries for working with dependency injection.
 
-<sup>*Last Update: 2021-06-25 08:44:33*</sup>
+<sup>*Last Update: 2021-08-23 09:25:15*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [fx](https://go.uber.org/fx) | 2,054 | 137 | 34 | A dependency injection based application framework for Go. | 2016-10-27 00:25:00 | 2021-06-24 12:11:10 |
-| [dig](https://go.uber.org/dig) | 1,944 | 119 | 20 | A reflection based dependency injection toolkit for Go. | 2017-03-21 23:55:50 | 2021-06-24 14:27:04 |
-| [container](https://github.com/golobby/container) | 203 | 14 | 3 | A lightweight yet powerful IoC dependency injection container for Go projects | 2019-09-23 16:12:50 | 2021-06-24 19:47:56 |
-| [dingo](https://go.uber.org/dig) | 105 | 6 | 9 | Go Dependency Injection Framework | 2018-10-29 08:55:18 | 2021-05-26 13:40:49 |
-| [di](https://github.com/goava/di) | 91 | 8 | 2 | 🛠 A full-featured dependency injection container for go programming language. | 2020-02-03 19:06:39 | 2021-06-24 16:44:30 |
-| [di](https://pkg.go.dev/github.com/goioc/di/?tab=doc) | 82 | 2 | 0 | Simple and yet powerful Dependency Injection for Go | 2020-06-11 12:28:06 | 2021-06-18 02:14:22 |
+| [fx](https://go.uber.org/fx) | 2,159 | 143 | 36 | A dependency injection based application framework for Go. | 2016-10-27 00:25:00 | 2021-08-22 12:21:22 |
+| [dig](https://go.uber.org/dig) | 2,038 | 125 | 22 | A reflection based dependency injection toolkit for Go. | 2017-03-21 23:55:50 | 2021-08-22 19:58:41 |
+| [container](https://github.com/golobby/container) | 225 | 14 | 2 | A lightweight yet powerful IoC dependency injection container for Go projects | 2019-09-23 16:12:50 | 2021-08-21 21:22:18 |
+| [dingo](https://go.uber.org/dig) | 107 | 6 | 9 | Go Dependency Injection Framework | 2018-10-29 08:55:18 | 2021-08-20 09:17:49 |
+| [di](https://github.com/goava/di) | 102 | 8 | 1 | 🛠 A full-featured dependency injection container for go programming language. | 2020-02-03 19:06:39 | 2021-08-19 10:42:31 |
+| [di](https://pkg.go.dev/github.com/goioc/di/?tab=doc) | 90 | 3 | 0 | Simple and yet powerful Dependency Injection for Go | 2020-06-11 12:28:06 | 2021-08-18 14:34:36 |
 | [alice](https://godoc.org/github.com/magic003/alice) | 44 | 3 | 0 | An additive dependency injection container for Golang. | 2017-04-08 16:25:21 | 2021-02-01 22:07:46 |
+| [wire](https://github.com/Fs02/wire) | 33 | 7 | 1 | Strict Runtime Dependency Injection for Golang | 2018-07-05 10:42:24 | 2021-08-22 07:00:21 |
 | [linker](https://github.com/logrange/linker) | 32 | 5 | 0 | Dependency Injection and Inversion of Control package | 2018-12-04 23:56:34 | 2021-05-06 05:34:51 |
-| [wire](https://github.com/Fs02/wire) | 32 | 7 | 1 | Strict Runtime Dependency Injection for Golang | 2018-07-05 10:42:24 | 2021-02-14 21:50:05 |
 | [gocontainer](https://github.com/vardius/gocontainer) | 14 | 1 | 0 | Simple Dependency Injection Container | 2019-06-06 08:18:07 | 2020-12-10 08:58:38 |
-| [kinit](https://github.com/go-kata/kinit) | 5 | 0 | 0 | GO Dependency Injection | 2021-01-24 13:41:41 | 2021-06-12 14:24:51 |
-| [nject](https://github.com/BlueOwlOpenSource/nject) | 4 | 1 | 0 | Go dependency injection: nject & npoint | 2018-10-31 18:15:43 | 2021-05-21 04:32:12 |
+| [kinit](https://github.com/go-kata/kinit) | 6 | 0 | 0 | GO Dependency Injection | 2021-01-24 13:41:41 | 2021-08-01 02:23:02 |
+| [nject](https://github.com/BlueOwlOpenSource/nject) | 3 | 1 | 2 | Go dependency injection: nject & npoint | 2018-10-31 18:15:43 | 2021-07-04 12:55:45 |
 </details>
 
 ### Miscellaneous - Project Layout
@@ -1838,24 +1838,24 @@ Unofficial libraries for package and dependency management
 ### Resource Embedding
 
 
-<sup>*Last Update: 2021-06-24 16:25:16*</sup>
+<sup>*Last Update: 2021-08-23 09:25:12*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [packr](https://github.com/gobuffalo/packr) | 3,241 | 175 | 62 | The simple and easy way to embed static files into Go binaries. | 2017-03-15 22:24:53 | 2021-06-24 08:58:11 |
-| [statik](https://github.com/rakyll/statik) | 3,206 | 200 | 33 | Embed files into a Go executable | 2014-02-04 14:54:51 | 2021-06-22 10:52:08 |
-| [go.rice](https://github.com/GeertJohan/go.rice) | 2,218 | 135 | 35 | go.rice is a Go package that makes working with resources such as html,js,css,images,templates, etc very easy. | 2013-10-23 21:29:34 | 2021-06-21 00:42:10 |
-| [vfsgen](https://github.com/shurcooL/vfsgen) | 931 | 79 | 32 | Takes an input http.FileSystem (likely at go generate time) and generates Go code that statically implements it. | 2015-05-18 13:03:02 | 2021-06-18 15:30:57 |
-| [esc](http://godoc.org/github.com/mjibson/esc) | 597 | 66 | 11 | A simple file embedder for Go | 2014-01-26 05:08:04 | 2021-06-19 03:43:39 |
-| [fileb0x](https://github.com/UnnoTed/fileb0x) | 585 | 48 | 8 | a better customizable tool to embed files in go; also update embedded files remotely without restarting the server | 2016-01-23 20:19:33 | 2021-06-02 12:58:17 |
+| [packr](https://github.com/gobuffalo/packr) | 3,257 | 180 | 66 | The simple and easy way to embed static files into Go binaries. | 2017-03-15 22:24:53 | 2021-08-23 01:47:30 |
+| [statik](https://github.com/rakyll/statik) | 3,238 | 206 | 33 | Embed files into a Go executable | 2014-02-04 14:54:51 | 2021-08-19 08:53:42 |
+| [go.rice](https://github.com/GeertJohan/go.rice) | 2,235 | 141 | 36 | go.rice is a Go package that makes working with resources such as html,js,css,images,templates, etc very easy. | 2013-10-23 21:29:34 | 2021-08-21 05:04:22 |
+| [vfsgen](https://github.com/shurcooL/vfsgen) | 930 | 80 | 32 | Takes an input http.FileSystem (likely at go generate time) and generates Go code that statically implements it. | 2015-05-18 13:03:02 | 2021-08-20 22:31:11 |
+| [esc](http://godoc.org/github.com/mjibson/esc) | 602 | 66 | 11 | A simple file embedder for Go | 2014-01-26 05:08:04 | 2021-08-22 13:33:12 |
+| [fileb0x](https://github.com/UnnoTed/fileb0x) | 588 | 50 | 9 | a better customizable tool to embed files in go; also update embedded files remotely without restarting the server | 2016-01-23 20:19:33 | 2021-08-06 06:55:34 |
 | [go-resources](https://github.com/omeid/go-resources) | 172 | 18 | 3 | Unfancy resources embedding for Go with out of box http.FileSystem support. | 2015-02-21 15:40:17 | 2021-06-14 12:38:59 |
-| [statics](https://github.com/go-playground/statics) | 62 | 4 | 0 | :file_folder: Embeds static resources into go files for single binary compilation + works with http.FileSystem + symlinks | 2015-10-07 11:49:52 | 2020-11-10 12:17:01 |
-| [templify](https://github.com/wlbr/templify) | 26 | 4 | 1 | A tool to be used with 'go generate' to embed external template files into Go code. | 2016-05-22 16:42:47 | 2021-02-07 19:39:17 |
-| [rebed](https://github.com/soypat/rebed) | 15 | 1 | 0 | Recreates directory and files from embedded filesystem using Go 1.16 embed.FS type. | 2021-02-17 18:19:49 | 2021-06-09 06:01:08 |
-| [mule](https://github.com/wlbr/mule) | 9 | 1 | 1 | mule is a tool to be used with 'go generate' to embed external resources files into Go code. | 2020-01-17 10:56:00 | 2021-01-05 11:20:02 |
-| [debme](https://github.com/leaanthony/debme) | 7 | 1 | 0 | embed.FS wrapper providing additional functionality | 2021-04-16 00:25:13 | 2021-06-07 21:17:48 |
+| [statics](https://github.com/go-playground/statics) | 63 | 4 | 0 | :file_folder: Embeds static resources into go files for single binary compilation + works with http.FileSystem + symlinks | 2015-10-07 11:49:52 | 2021-07-19 11:37:53 |
+| [templify](https://github.com/wlbr/templify) | 26 | 4 | 1 | A tool to be used with 'go generate' to embed external template files into Go code. | 2016-05-22 16:42:47 | 2021-08-16 20:22:53 |
+| [rebed](https://github.com/soypat/rebed) | 18 | 2 | 0 | Recreates directory and files from embedded filesystem using Go 1.16 embed.FS type. | 2021-02-17 18:19:49 | 2021-08-16 21:07:29 |
+| [mule](https://github.com/wlbr/mule) | 9 | 1 | 1 | mule is a tool to be used with 'go generate' to embed external resources files into Go code. | 2020-01-17 10:56:00 | 2021-08-16 20:23:31 |
+| [debme](https://github.com/leaanthony/debme) | 8 | 1 | 0 | embed.FS wrapper providing additional functionality | 2021-04-16 00:25:13 | 2021-08-09 05:05:31 |
 </details>
 
 ### Science and Data Analysis
@@ -2736,18 +2736,18 @@ Full stack web frameworks.
 ### WebAssembly
 
 
-<sup>*Last Update: 2021-06-29 16:25:17*</sup>
+<sup>*Last Update: 2021-08-23 09:25:20*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [tinygo](https://tinygo.org) | 8,189 | 427 | 264 | Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM. | 2018-06-07 16:39:19 | 2021-06-29 08:54:46 |
-| [dom](https://github.com/dennwc/dom) | 429 | 51 | 11 | DOM library for Go and WASM | 2018-06-30 18:37:35 | 2021-06-28 15:18:01 |
-| [go-canvas](https://github.com/markfarnan/go-canvas) | 137 | 9 | 5 | Library to use HTML5 Canvas  from Go-WASM, with all drawing within go code | 2019-05-05 14:05:55 | 2021-06-25 12:35:37 |
-| [webapi](https://github.com/gowebapi/webapi) | 82 | 8 | 2 | Go Lang Web Assembly bindings for DOM, HTML etc | 2019-02-08 05:58:35 | 2021-06-16 15:50:16 |
-| [wasmbrowsertest](https://github.com/agnivade/wasmbrowsertest) | 81 | 9 | 0 | Run WASM tests inside your browser | 2018-07-14 18:42:24 | 2021-06-24 22:24:19 |
-| [vert](https://github.com/norunners/vert) | 48 | 6 | 2 | WebAssembly interop between Go and JS values. | 2018-03-25 17:26:47 | 2021-05-23 19:32:09 |
+| [tinygo](https://tinygo.org) | 8,438 | 447 | 294 | Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM. | 2018-06-07 16:39:19 | 2021-08-23 01:50:30 |
+| [dom](https://github.com/dennwc/dom) | 434 | 52 | 11 | DOM library for Go and WASM | 2018-06-30 18:37:35 | 2021-08-20 11:17:05 |
+| [go-canvas](https://github.com/markfarnan/go-canvas) | 140 | 9 | 5 | Library to use HTML5 Canvas  from Go-WASM, with all drawing within go code | 2019-05-05 14:05:55 | 2021-08-14 03:32:07 |
+| [webapi](https://github.com/gowebapi/webapi) | 86 | 8 | 2 | Go Lang Web Assembly bindings for DOM, HTML etc | 2019-02-08 05:58:35 | 2021-07-15 15:53:33 |
+| [wasmbrowsertest](https://github.com/agnivade/wasmbrowsertest) | 82 | 9 | 0 | Run WASM tests inside your browser | 2018-07-14 18:42:24 | 2021-07-21 10:18:04 |
+| [vert](https://github.com/norunners/vert) | 50 | 6 | 2 | WebAssembly interop between Go and JS values. | 2018-03-25 17:26:47 | 2021-08-09 15:48:06 |
 </details>
 
 ### Windows
