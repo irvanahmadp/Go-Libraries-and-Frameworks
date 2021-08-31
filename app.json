@@ -1,8 +1,8 @@
 {
-	"last_update": 1629858321,
+	"last_update": 1630376720,
 	"rate_limit": 60,
 	"rate_limit_remaining": 0,
-	"rate_limit_reset": 1629861901,
+	"rate_limit_reset": 1630380301,
 	"categories": [
 		{
 			"name": "Audio and Music",
@@ -177,7 +177,7 @@
 		{
 			"name": "IoT (Internet of Things)",
 			"description": "Libraries for programming devices of the IoT.",
-			"last_update": 1624599589
+			"last_update": 1630376714
 		},
 		{
 			"name": "JSON",
@@ -237,7 +237,7 @@
 		{
 			"name": "Natural Language Processing",
 			"description": "Libraries for working with human languages.",
-			"last_update": 1624591507
+			"last_update": 1630376701
 		},
 		{
 			"name": "Networking",
