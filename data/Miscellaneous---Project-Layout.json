@@ -1,7 +1,7 @@
 {
 	"name": "Miscellaneous - Project Layout",
 	"index_last_check": 0,
-	"last_update": 1628821521,
+	"last_update": 1631088159,
 	"libraries": [
 		{
 			"id": 102969245,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/golang-standards/project-layout",
 			"homepage": "",
 			"created_at": "2017-09-09T16:33:26Z",
-			"updated_at": "2021-08-13T01:43:23Z",
+			"updated_at": "2021-09-08T07:31:59Z",
 			"svn_url": "https://github.com/golang-standards/project-layout",
-			"stargazers_count": 25704,
-			"watchers_count": 25704,
-			"forks_count": 2725,
-			"open_issues_count": 60
+			"stargazers_count": 26211,
+			"watchers_count": 26211,
+			"forks_count": 2822,
+			"open_issues_count": 56
 		},
 		{
 			"id": 148784348,
@@ -24,11 +24,11 @@
 			"html_url": "https://github.com/sagikazarmark/modern-go-application",
 			"homepage": "",
 			"created_at": "2018-09-14T12:19:02Z",
-			"updated_at": "2021-08-13T01:32:55Z",
+			"updated_at": "2021-09-08T02:40:53Z",
 			"svn_url": "https://github.com/sagikazarmark/modern-go-application",
-			"stargazers_count": 1035,
-			"watchers_count": 1035,
-			"forks_count": 101,
+			"stargazers_count": 1042,
+			"watchers_count": 1042,
+			"forks_count": 103,
 			"open_issues_count": 16
 		},
 		{
@@ -38,11 +38,11 @@
 			"html_url": "https://github.com/lacion/cookiecutter-golang",
 			"homepage": "",
 			"created_at": "2016-12-18T18:22:26Z",
-			"updated_at": "2021-08-07T13:35:26Z",
+			"updated_at": "2021-09-07T10:28:50Z",
 			"svn_url": "https://github.com/lacion/cookiecutter-golang",
-			"stargazers_count": 468,
-			"watchers_count": 468,
-			"forks_count": 105,
+			"stargazers_count": 471,
+			"watchers_count": 471,
+			"forks_count": 107,
 			"open_issues_count": 4
 		},
 		{
@@ -52,11 +52,11 @@
 			"html_url": "https://github.com/golang-templates/seed",
 			"homepage": "",
 			"created_at": "2020-04-30T21:31:36Z",
-			"updated_at": "2021-08-11T17:25:08Z",
+			"updated_at": "2021-09-06T08:39:41Z",
 			"svn_url": "https://github.com/golang-templates/seed",
-			"stargazers_count": 190,
-			"watchers_count": 190,
-			"forks_count": 13,
+			"stargazers_count": 201,
+			"watchers_count": 201,
+			"forks_count": 16,
 			"open_issues_count": 0
 		},
 		{
@@ -74,31 +74,31 @@
 			"open_issues_count": 2
 		},
 		{
-			"id": 167454721,
-			"name": "go-sample",
-			"description": "Go Project Sample Layout",
-			"html_url": "https://github.com/zitryss/go-sample",
-			"homepage": "",
-			"created_at": "2019-01-24T23:41:46Z",
-			"updated_at": "2021-08-06T20:45:53Z",
-			"svn_url": "https://github.com/zitryss/go-sample",
-			"stargazers_count": 88,
-			"watchers_count": 88,
-			"forks_count": 20,
-			"open_issues_count": 0
-		},
-		{
 			"id": 274937709,
 			"name": "go-todo-backend",
 			"description": "Go Todo Backend example using modular project layout for product microservice.",
 			"html_url": "https://github.com/Fs02/go-todo-backend",
 			"homepage": "",
 			"created_at": "2020-06-25T14:28:50Z",
-			"updated_at": "2021-08-11T22:30:18Z",
+			"updated_at": "2021-09-08T04:37:05Z",
 			"svn_url": "https://github.com/Fs02/go-todo-backend",
-			"stargazers_count": 85,
-			"watchers_count": 85,
+			"stargazers_count": 94,
+			"watchers_count": 94,
 			"forks_count": 10,
+			"open_issues_count": 0
+		},
+		{
+			"id": 167454721,
+			"name": "go-sample",
+			"description": "Go Project Sample Layout",
+			"html_url": "https://github.com/zitryss/go-sample",
+			"homepage": "",
+			"created_at": "2019-01-24T23:41:46Z",
+			"updated_at": "2021-08-31T02:45:35Z",
+			"svn_url": "https://github.com/zitryss/go-sample",
+			"stargazers_count": 91,
+			"watchers_count": 91,
+			"forks_count": 20,
 			"open_issues_count": 0
 		},
 		{
@@ -108,10 +108,10 @@
 			"html_url": "https://github.com/wajox/gobase",
 			"homepage": "",
 			"created_at": "2020-12-15T16:54:20Z",
-			"updated_at": "2021-08-05T07:08:41Z",
+			"updated_at": "2021-08-20T04:15:42Z",
 			"svn_url": "https://github.com/wajox/gobase",
-			"stargazers_count": 9,
-			"watchers_count": 9,
+			"stargazers_count": 10,
+			"watchers_count": 10,
 			"forks_count": 3,
 			"open_issues_count": 0
 		},
