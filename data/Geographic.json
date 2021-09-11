@@ -1,7 +1,7 @@
 {
 	"name": "Geographic",
 	"index_last_check": 0,
-	"last_update": 1631154318,
+	"last_update": 1631327119,
 	"libraries": [
 		{
 			"id": 53171300,
@@ -10,11 +10,11 @@
 			"html_url": "https://github.com/tidwall/tile38",
 			"homepage": "https://tile38.com",
 			"created_at": "2016-03-04T23:07:44Z",
-			"updated_at": "2021-09-08T18:09:37Z",
+			"updated_at": "2021-09-11T01:06:57Z",
 			"svn_url": "https://github.com/tidwall/tile38",
-			"stargazers_count": 7655,
-			"watchers_count": 7655,
-			"forks_count": 468,
+			"stargazers_count": 7662,
+			"watchers_count": 7662,
+			"forks_count": 469,
 			"open_issues_count": 116
 		},
 		{
@@ -38,10 +38,10 @@
 			"html_url": "https://github.com/consbio/mbtileserver",
 			"homepage": "",
 			"created_at": "2014-11-01T04:12:14Z",
-			"updated_at": "2021-09-08T11:47:36Z",
+			"updated_at": "2021-09-10T08:12:13Z",
 			"svn_url": "https://github.com/consbio/mbtileserver",
-			"stargazers_count": 269,
-			"watchers_count": 269,
+			"stargazers_count": 271,
+			"watchers_count": 271,
 			"forks_count": 50,
 			"open_issues_count": 12
 		},
