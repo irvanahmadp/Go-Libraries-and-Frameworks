@@ -193,21 +193,21 @@ Libraries for building and working with bots.
 ### Build Automation
 Libraries and tools helping with build automation.
 
-<sup>*Last Update: 2021-07-01 10:25:15*</sup>
+<sup>*Last Update: 2021-09-15 09:25:22*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [realize](https://github.com/oxequa/realize) | 4,044 | 211 | 68 | Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading. | 2016-07-12 08:07:25 | 2021-06-30 15:00:12 |
-| [task](https://taskfile.dev) | 3,591 | 230 | 90 | A task runner / simpler Make alternative written in Go | 2017-02-27 00:46:04 | 2021-06-30 23:34:06 |
-| [mmake](https://github.com/tj/mmake) | 1,577 | 43 | 11 | Modern Make  | 2017-02-15 22:01:21 | 2021-06-29 16:34:19 |
-| [goyek](https://github.com/goyek/goyek) | 234 | 15 | 2 | Create build pipelines in Go  | 2020-10-11 13:20:55 | 2021-06-28 02:00:26 |
-| [taskctl](https://github.com/taskctl/taskctl) | 114 | 10 | 7 | Concurrent task runner, developer's routine tasks automation toolkit. Simple modern alternative to GNU Make 🧰 | 2019-11-12 13:19:09 | 2021-06-25 05:41:16 |
-| [1build](https://1build.gitbook.io) | 95 | 25 | 31 | Frictionless way of managing project-specific commands | 2019-04-23 17:05:38 | 2021-06-24 17:57:32 |
-| [gilbert](https://go-gilbert.github.io/) | 90 | 4 | 0 | Build system and task runner for Go projects | 2019-01-30 09:02:31 | 2021-06-28 12:18:35 |
-| [gaper](https://github.com/maxcnunes/gaper) | 50 | 3 | 7 | Builds and restarts a Go project when it crashes or some watched file changes | 2018-06-16 02:46:38 | 2021-06-28 12:18:04 |
-| [anko](https://github.com/GuilhermeCaruso/anko) | 16 | 0 | 0 | :crystal_ball: Simple application watcher | 2021-03-02 14:08:42 | 2021-06-18 10:08:52 |
+| [realize](https://github.com/oxequa/realize) | 4,101 | 213 | 68 | Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading. | 2016-07-12 08:07:25 | 2021-09-14 13:02:31 |
+| [task](https://taskfile.dev) | 3,848 | 250 | 100 | A task runner / simpler Make alternative written in Go | 2017-02-27 00:46:04 | 2021-09-14 19:33:18 |
+| [mmake](https://github.com/tj/mmake) | 1,580 | 43 | 11 | Modern Make  | 2017-02-15 22:01:21 | 2021-09-12 04:43:40 |
+| [goyek](https://github.com/goyek/goyek) | 251 | 17 | 4 | Create build pipelines in Go  | 2020-10-11 13:20:55 | 2021-09-13 15:59:59 |
+| [taskctl](https://github.com/taskctl/taskctl) | 129 | 13 | 7 | Concurrent task runner, developer's routine tasks automation toolkit. Simple modern alternative to GNU Make 🧰 | 2019-11-12 13:19:09 | 2021-09-14 20:55:51 |
+| [1build](https://1build.gitbook.io) | 95 | 25 | 31 | Frictionless way of managing project-specific commands | 2019-04-23 17:05:38 | 2021-09-08 05:40:40 |
+| [gilbert](https://go-gilbert.github.io/) | 93 | 5 | 0 | Build system and task runner for Go projects | 2019-01-30 09:02:31 | 2021-08-14 01:54:30 |
+| [gaper](https://github.com/maxcnunes/gaper) | 48 | 3 | 7 | Builds and restarts a Go project when it crashes or some watched file changes | 2018-06-16 02:46:38 | 2021-08-02 08:33:20 |
+| [anko](https://github.com/GuilhermeCaruso/anko) | 18 | 0 | 0 | :crystal_ball: Simple application watcher | 2021-03-02 14:08:42 | 2021-09-03 04:36:40 |
 </details>
 
 ### CSS Preprocessors
@@ -833,30 +833,30 @@ Libraries and tools that implement email creation and sending.
 ### Embeddable Scripting Languages
 Embedding other languages inside your go code.
 
-<sup>*Last Update: 2021-06-28 15:13:29*</sup>
+<sup>*Last Update: 2021-09-15 09:25:01*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [gopher-lua](https://github.com/yuin/gopher-lua) | 4,148 | 466 | 87 | GopherLua: VM and compiler for Lua in Go | 2015-02-15 13:23:37 | 2021-06-28 06:56:25 |
-| [tengo](https://tengolang.com) | 2,324 | 132 | 43 | A fast script language for Go | 2019-01-09 07:17:17 | 2021-06-28 07:48:22 |
-| [goja](https://github.com/dop251/goja) | 2,251 | 187 | 19 | ECMAScript/JavaScript engine in pure Go | 2016-11-04 22:04:06 | 2021-06-27 15:26:25 |
-| [go-lua](https://github.com/Shopify/go-lua) | 2,109 | 154 | 38 | A Lua VM in Go | 2013-12-20 17:29:43 | 2021-06-24 13:07:05 |
-| [expr](https://github.com/antonmedv/expr) | 1,824 | 161 | 29 | Expression language for Go | 2018-07-14 15:57:34 | 2021-06-27 06:01:50 |
-| [go-python](https://github.com/sbinet/go-python) | 1,277 | 124 | 26 | naive go bindings to the CPython C-API | 2012-07-09 15:43:31 | 2021-06-28 00:26:27 |
-| [anko](http://play-anko.appspot.com/) | 1,140 | 108 | 19 | Scriptable interpreter written in golang | 2014-03-28 07:29:40 | 2021-06-27 19:05:10 |
-| [cel-go](https://opensource.google.com/projects/cel) | 820 | 91 | 30 | Fast, portable, non-Turing complete expression evaluation with gradual typing (Go) | 2018-03-09 22:57:58 | 2021-06-26 18:49:55 |
-| [go-php](https://github.com/deuill/go-php) | 800 | 91 | 20 | PHP bindings for the Go programming language (Golang) | 2015-09-17 21:23:52 | 2021-06-23 15:10:25 |
-| [go-duktape](https://github.com/olebedev/go-duktape) | 764 | 86 | 7 | Duktape JavaScript engine bindings for Go | 2015-01-08 05:09:05 | 2021-06-15 02:55:07 |
-| [golua](https://github.com/aarzilli/golua) | 545 | 154 | 11 | Go bindings for Lua C API - in progress | 2010-12-06 21:39:53 | 2021-06-24 11:22:48 |
-| [gisp](https://docs.gentee.org) | 461 | 32 | 1 | Simple LISP in Go | 2014-01-11 14:05:43 | 2021-05-19 07:31:40 |
-| [gval](https://github.com/PaesslerAG/gval) | 338 | 43 | 3 | Expression evaluation in golang | 2017-09-27 08:32:49 | 2021-06-25 16:07:23 |
-| [gentee](https://docs.gentee.org) | 75 | 8 | 0 | Gentee - script programming language for automation. It uses VM and compiler written in Go (Golang). | 2018-01-14 15:49:05 | 2021-05-26 09:06:58 |
-| [binder](https://github.com/alexeyco/binder) | 51 | 7 | 0 | High level go to Lua binder. Write less, do more. | 2017-04-02 17:14:52 | 2021-06-03 01:31:08 |
-| [purl](https://github.com/ian-kent/purl) | 31 | 2 | 2 | Perl, but fluffy like a cat! | 2014-11-29 19:06:01 | 2021-04-30 14:25:41 |
+| [gopher-lua](https://github.com/yuin/gopher-lua) | 4,289 | 477 | 88 | GopherLua: VM and compiler for Lua in Go | 2015-02-15 13:23:37 | 2021-09-14 19:22:54 |
+| [tengo](https://tengolang.com) | 2,422 | 141 | 52 | A fast script language for Go | 2019-01-09 07:17:17 | 2021-09-14 19:04:40 |
+| [goja](https://github.com/dop251/goja) | 2,386 | 201 | 17 | ECMAScript/JavaScript engine in pure Go | 2016-11-04 22:04:06 | 2021-09-14 18:41:08 |
+| [go-lua](https://github.com/Shopify/go-lua) | 2,152 | 156 | 39 | A Lua VM in Go | 2013-12-20 17:29:43 | 2021-09-14 00:52:06 |
+| [expr](https://github.com/antonmedv/expr) | 1,955 | 167 | 34 | Expression language for Go | 2018-07-14 15:57:34 | 2021-09-13 09:27:46 |
+| [go-python](https://github.com/sbinet/go-python) | 1,303 | 128 | 25 | naive go bindings to the CPython2 C-API | 2012-07-09 15:43:31 | 2021-09-14 19:07:19 |
+| [anko](http://play-anko.appspot.com/) | 1,167 | 111 | 19 | Scriptable interpreter written in golang | 2014-03-28 07:29:40 | 2021-09-14 19:19:05 |
+| [cel-go](https://opensource.google.com/projects/cel) | 890 | 101 | 33 | Fast, portable, non-Turing complete expression evaluation with gradual typing (Go) | 2018-03-09 22:57:58 | 2021-09-14 13:23:25 |
+| [go-php](https://github.com/deuill/go-php) | 810 | 92 | 20 | PHP bindings for the Go programming language (Golang) | 2015-09-17 21:23:52 | 2021-09-09 09:07:41 |
+| [go-duktape](https://github.com/olebedev/go-duktape) | 778 | 90 | 7 | Duktape JavaScript engine bindings for Go | 2015-01-08 05:09:05 | 2021-09-12 04:51:57 |
+| [golua](https://github.com/aarzilli/golua) | 555 | 157 | 6 | Go bindings for Lua C API - in progress | 2010-12-06 21:39:53 | 2021-09-07 08:52:58 |
+| [gisp](https://docs.gentee.org) | 466 | 34 | 1 | Simple LISP in Go | 2014-01-11 14:05:43 | 2021-09-07 20:51:10 |
+| [gval](https://github.com/PaesslerAG/gval) | 366 | 46 | 5 | Expression evaluation in golang | 2017-09-27 08:32:49 | 2021-09-14 12:13:55 |
+| [gentee](https://docs.gentee.org) | 81 | 8 | 0 | Gentee - script programming language for automation. It uses VM and compiler written in Go (Golang). | 2018-01-14 15:49:05 | 2021-09-01 12:47:37 |
+| [binder](https://github.com/alexeyco/binder) | 52 | 7 | 0 | High level go to Lua binder. Write less, do more. | 2017-04-02 17:14:52 | 2021-07-26 07:36:34 |
+| [purl](https://github.com/ian-kent/purl) | 33 | 2 | 2 | Perl, but fluffy like a cat! | 2014-11-29 19:06:01 | 2021-07-31 20:20:45 |
 | [ngaro](https://github.com/db47h/ngaro) | 20 | 1 | 1 | An embeddable implementation of the Ngaro Virtual Machine for Go programs | 2016-08-09 15:23:50 | 2020-04-06 11:44:00 |
-| [ecal](https://github.com/krotik/ecal) | 10 | 0 | 0 | A simple embeddable scripting language which supports concurrent event processing. | 2020-11-30 15:58:56 | 2021-05-23 09:52:38 |
+| [ecal](https://github.com/krotik/ecal) | 11 | 0 | 0 | A simple embeddable scripting language which supports concurrent event processing. | 2020-11-30 15:58:56 | 2021-07-26 16:59:56 |
 </details>
 
 ### Error Handling
@@ -1861,41 +1861,41 @@ Unofficial libraries for package and dependency management
 ### Science and Data Analysis
 Libraries for scientific computing and data analyzing.
 
-<sup>*Last Update: 2021-06-28 16:25:08*</sup>
+<sup>*Last Update: 2021-09-15 09:25:10*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [gonum](https://www.gonum.org/) | 4,967 | 400 | 212 | Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more | 2017-03-25 14:54:38 | 2021-06-28 01:15:44 |
-| [stats](https://github.com/montanaflynn/stats) | 2,008 | 131 | 14 | A well tested and comprehensive Golang statistics library package with no dependencies. | 2014-12-16 03:25:19 | 2021-06-28 09:06:29 |
-| [plot](https://github.com/gonum/plot) | 1,919 | 174 | 98 | A repository for plotting and visualizing data | 2013-07-23 07:01:13 | 2021-06-25 22:52:37 |
-| [gosl](https://github.com/cpmech/gosl) | 1,587 | 144 | 0 | Linear algebra, eigenvalues, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, differential equations. | 2015-02-09 23:00:38 | 2021-06-28 08:07:32 |
-| [streamtools](http://nytlabs.github.io/streamtools/) | 1,310 | 108 | 47 | tools for working with streams of data | 2013-07-05 18:58:45 | 2021-06-21 14:55:00 |
-| [go-dsp](http://godoc.org/github.com/mjibson/go-dsp) | 737 | 75 | 6 | Digital Signal Processing for Go | 2011-11-02 06:28:41 | 2021-06-26 19:38:12 |
-| [chart](https://github.com/vdobler/chart) | 679 | 101 | 6 | Provide basic charts in go | 2011-06-27 12:19:42 | 2021-06-21 14:34:02 |
-| [goraph](https://github.com/gyuho/goraph) | 641 | 74 | 6 | Package goraph implements graph data structure and algorithms. | 2014-02-27 03:15:55 | 2021-06-17 07:54:36 |
-| [dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 558 | 55 | 5 | DataFrames for Go: For statistics, machine-learning, and data manipulation/exploration | 2018-10-01 12:19:31 | 2021-06-24 17:04:32 |
-| [graph](https://yourbasic.org/golang/your-basic-func/) | 455 | 45 | 2 | Graph algorithms and data structures | 2017-04-27 18:43:54 | 2021-06-28 02:58:45 |
-| [orb](https://github.com/paulmach/orb) | 401 | 51 | 11 | Types and utilities for working with 2d geometry in Golang | 2016-03-28 01:19:01 | 2021-06-20 23:54:07 |
-| [ewma](https://github.com/VividCortex/ewma) | 335 | 23 | 2 | Exponentially Weighted Moving Average algorithms for Go. | 2013-07-05 21:33:25 | 2021-06-26 22:08:41 |
-| [calendarheatmap](https://github.com/nikolaydubina/calendarheatmap) | 262 | 7 | 2 | Calendar heatmap inspired by GitHub contribution activity | 2020-07-01 18:30:48 | 2021-06-28 09:20:00 |
-| [gohistogram](http://godoc.org/github.com/VividCortex/gohistogram) | 153 | 28 | 1 | Streaming approximate histograms in Go | 2013-07-02 12:53:22 | 2021-06-05 08:24:50 |
-| [TextRank](https://github.com/DavidBelicza/TextRank) | 142 | 17 | 4 | :wink: :cyclone: :strawberry: TextRank implementation in Golang with extendable features (summarization, phrase extraction) and multithreading (goroutine). | 2018-01-09 19:36:17 | 2021-06-25 13:04:42 |
-| [sparse](https://github.com/james-bowman/sparse) | 116 | 19 | 4 | Sparse matrix formats for linear algebra supporting scientific and machine learning applications | 2017-05-16 13:54:36 | 2021-06-23 22:27:46 |
-| [go-estimate](https://github.com/milosgajdos/go-estimate) | 76 | 6 | 1 | State estimation and filtering algorithms in Go | 2018-11-04 22:32:52 | 2021-06-11 06:53:45 |
-| [pagerank](https://github.com/alixaxel/pagerank) | 70 | 16 | 3 | Weighted PageRank implementation in Go | 2015-08-06 01:33:34 | 2021-06-23 10:19:33 |
-| [geom](https://github.com/skelterjohn/geom) | 47 | 16 | 1 | 2d geometry for golang | 2011-06-07 17:49:11 | 2021-04-07 08:17:36 |
-| [evaler](https://github.com/soniah/evaler) | 44 | 12 | 5 | Implements a simple floating point arithmetic expression evaluator in Go (golang). | 2012-09-04 23:37:58 | 2021-04-01 11:17:53 |
+| [gonum](https://www.gonum.org/) | 5,169 | 410 | 218 | Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more | 2017-03-25 14:54:38 | 2021-09-14 19:08:38 |
+| [stats](https://github.com/montanaflynn/stats) | 2,040 | 131 | 15 | A well tested and comprehensive Golang statistics library package with no dependencies. | 2014-12-16 03:25:19 | 2021-09-14 11:46:54 |
+| [plot](https://github.com/gonum/plot) | 1,985 | 181 | 90 | A repository for plotting and visualizing data | 2013-07-23 07:01:13 | 2021-09-13 17:05:55 |
+| [gosl](https://github.com/cpmech/gosl) | 1,604 | 145 | 0 | Linear algebra, eigenvalues, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, differential equations. | 2015-02-09 23:00:38 | 2021-09-12 06:48:13 |
+| [streamtools](http://nytlabs.github.io/streamtools/) | 1,313 | 109 | 47 | tools for working with streams of data | 2013-07-05 18:58:45 | 2021-08-28 20:06:23 |
+| [go-dsp](http://godoc.org/github.com/mjibson/go-dsp) | 748 | 76 | 6 | Digital Signal Processing for Go | 2011-11-02 06:28:41 | 2021-09-14 04:16:36 |
+| [chart](https://github.com/vdobler/chart) | 689 | 103 | 6 | Provide basic charts in go | 2011-06-27 12:19:42 | 2021-09-14 02:20:00 |
+| [goraph](https://github.com/gyuho/goraph) | 648 | 74 | 6 | Package goraph implements graph data structure and algorithms. | 2014-02-27 03:15:55 | 2021-09-11 07:18:01 |
+| [dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 609 | 60 | 7 | DataFrames for Go: For statistics, machine-learning, and data manipulation/exploration | 2018-10-01 12:19:31 | 2021-09-12 23:31:28 |
+| [graph](https://yourbasic.org/golang/your-basic-func/) | 477 | 48 | 2 | Graph algorithms and data structures | 2017-04-27 18:43:54 | 2021-09-13 18:54:44 |
+| [orb](https://github.com/paulmach/orb) | 414 | 54 | 13 | Types and utilities for working with 2d geometry in Golang | 2016-03-28 01:19:01 | 2021-09-12 16:11:12 |
+| [ewma](https://github.com/VividCortex/ewma) | 338 | 25 | 4 | Exponentially Weighted Moving Average algorithms for Go. | 2013-07-05 21:33:25 | 2021-09-12 02:26:36 |
+| [calendarheatmap](https://calendarheatmap.io) | 326 | 11 | 8 | Calendar heatmap inspired by GitHub contribution activity | 2020-07-01 18:30:48 | 2021-09-13 19:44:22 |
+| [gohistogram](http://godoc.org/github.com/VividCortex/gohistogram) | 157 | 28 | 1 | Streaming approximate histograms in Go | 2013-07-02 12:53:22 | 2021-08-20 17:37:14 |
+| [TextRank](https://github.com/DavidBelicza/TextRank) | 143 | 17 | 5 | :wink: :cyclone: :strawberry: TextRank implementation in Golang with extendable features (summarization, phrase extraction) and multithreading (goroutine). | 2018-01-09 19:36:17 | 2021-08-27 11:56:31 |
+| [sparse](https://github.com/james-bowman/sparse) | 121 | 19 | 4 | Sparse matrix formats for linear algebra supporting scientific and machine learning applications | 2017-05-16 13:54:36 | 2021-08-22 17:08:48 |
+| [go-estimate](https://github.com/milosgajdos/go-estimate) | 76 | 6 | 2 | State estimation and filtering algorithms in Go | 2018-11-04 22:32:52 | 2021-08-22 18:33:16 |
+| [pagerank](https://github.com/alixaxel/pagerank) | 72 | 17 | 3 | Weighted PageRank implementation in Go | 2015-08-06 01:33:34 | 2021-09-13 05:14:55 |
+| [geom](https://github.com/skelterjohn/geom) | 48 | 16 | 1 | 2d geometry for golang | 2011-06-07 17:49:11 | 2021-07-24 18:47:42 |
+| [evaler](https://github.com/soniah/evaler) | 45 | 12 | 5 | Implements a simple floating point arithmetic expression evaluator in Go (golang). | 2012-09-04 23:37:58 | 2021-08-19 22:58:15 |
 | [goent](https://github.com/kzahedi/goent) | 25 | 1 | 0 | GO Implementation of Entropy Measures | 2017-08-08 05:37:12 | 2021-05-10 16:11:38 |
-| [triangolatte](https://github.com/tchayen/triangolatte) | 23 | 1 | 4 | 2D triangulation library. Allows translating lines and polygons (both based on points) to the language of GPUs. | 2018-07-18 21:17:09 | 2021-06-16 04:40:28 |
-| [decimal](https://github.com/db47h/decimal) | 22 | 0 | 0 | An arbitrary-precision decimal floating-point arithmetic package for Go | 2020-05-27 15:23:59 | 2021-06-05 08:18:20 |
-| [piecewiselinear](https://pkg.go.dev/github.com/sgreben/piecewiselinear) | 18 | 1 | 0 | tiny linear interpolation library for go (factored out from https://github.com/sgreben/yeetgif) | 2018-10-21 13:19:44 | 2021-06-19 03:56:31 |
-| [godesim](https://github.com/soypat/godesim) | 16 | 0 | 1 | ODE system solver made simple. For IVPs (initial value problems). | 2020-12-16 01:02:26 | 2021-06-16 03:50:02 |
-| [GoStats](https://github.com/OGFris/GoStats) | 15 | 0 | 0 | GoStats is a go library for math statistics mostly used in ML domains, it covers most of the statistical measures functions. | 2018-07-22 20:55:16 | 2021-04-26 15:21:10 |
+| [triangolatte](https://github.com/tchayen/triangolatte) | 24 | 1 | 4 | 2D triangulation library. Allows translating lines and polygons (both based on points) to the language of GPUs. | 2018-07-18 21:17:09 | 2021-08-04 11:32:59 |
+| [decimal](https://github.com/db47h/decimal) | 23 | 0 | 0 | An arbitrary-precision decimal floating-point arithmetic package for Go | 2020-05-27 15:23:59 | 2021-08-13 00:54:49 |
+| [piecewiselinear](https://pkg.go.dev/github.com/sgreben/piecewiselinear) | 20 | 1 | 0 | tiny linear interpolation library for go (factored out from https://github.com/sgreben/yeetgif) | 2018-10-21 13:19:44 | 2021-09-03 23:11:02 |
+| [GoStats](https://github.com/OGFris/GoStats) | 16 | 0 | 0 | GoStats is a go library for math statistics mostly used in ML domains, it covers most of the statistical measures functions. | 2018-07-22 20:55:16 | 2021-08-06 07:28:59 |
+| [godesim](https://github.com/soypat/godesim) | 15 | 0 | 1 | ODE system solver made simple. For IVPs (initial value problems). | 2020-12-16 01:02:26 | 2021-09-07 15:32:37 |
 | [PiHex](https://pkg.go.dev/github.com/sgreben/piecewiselinear) | 14 | 2 | 0 | PiHex Library, written in Go, generates a hexadecimal number sequence in the number Pi in the range from 0 to 10,000,000. | 2016-07-22 11:21:37 | 2021-03-18 18:52:26 |
 | [ode](https://yourbasic.org/golang/your-basic-func/) | 13 | 0 | 1 | An ordinary differential equation solving library in golang. | 2016-11-11 22:40:21 | 2021-01-26 11:20:02 |
-| [assocentity](https://pkg.go.dev/github.com/ndabAP/assocentity/v8?tab=doc) | 6 | 1 | 6 | Package assocentity returns the average distance from words to a given entity | 2018-12-21 07:17:09 | 2020-10-27 12:49:42 |
+| [assocentity](https://pkg.go.dev/github.com/ndabAP/assocentity/v8?tab=doc) | 5 | 1 | 6 | Package assocentity returns the average distance from words to a given entity | 2018-12-21 07:17:09 | 2021-08-06 17:15:44 |
 | [rootfinding](https://github.com/khezen/rootfinding) | 5 | 0 | 0 | root-finding library | 2018-10-30 22:31:48 | 2021-05-31 18:37:41 |
 | [go-gt](https://github.com/ThePaw/go-gt) | 5 | 0 | 2 | Automatically exported from code.google.com/p/go-gt | 2015-09-14 12:05:37 | 2019-09-05 08:47:43 |
 | [bradleyterry](https://pkg.go.dev/github.com/ndabAP/assocentity/v8?tab=doc) | 4 | 0 | 0 | Package to do Bradley-Terry Model pairwise compairsons | 2019-04-30 00:28:13 | 2020-09-08 12:32:53 |
