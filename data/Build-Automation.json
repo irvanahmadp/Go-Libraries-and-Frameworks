@@ -1,7 +1,7 @@
 {
 	"name": "Build Automation",
 	"index_last_check": 0,
-	"last_update": 1631672722,
+	"last_update": 1632709516,
 	"libraries": [
 		{
 			"id": 63139140,
@@ -10,10 +10,10 @@
 			"html_url": "https://github.com/oxequa/realize",
 			"homepage": "",
 			"created_at": "2016-07-12T08:07:25Z",
-			"updated_at": "2021-09-14T13:02:31Z",
+			"updated_at": "2021-09-26T11:58:21Z",
 			"svn_url": "https://github.com/oxequa/realize",
-			"stargazers_count": 4101,
-			"watchers_count": 4101,
+			"stargazers_count": 4114,
+			"watchers_count": 4114,
 			"forks_count": 213,
 			"open_issues_count": 68
 		},
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/go-task/task",
 			"homepage": "https://taskfile.dev",
 			"created_at": "2017-02-27T00:46:04Z",
-			"updated_at": "2021-09-14T19:33:18Z",
+			"updated_at": "2021-09-27T01:30:49Z",
 			"svn_url": "https://github.com/go-task/task",
-			"stargazers_count": 3848,
-			"watchers_count": 3848,
-			"forks_count": 250,
-			"open_issues_count": 100
+			"stargazers_count": 3888,
+			"watchers_count": 3888,
+			"forks_count": 252,
+			"open_issues_count": 96
 		},
 		{
 			"id": 82111260,
@@ -38,7 +38,7 @@
 			"html_url": "https://github.com/tj/mmake",
 			"homepage": "",
 			"created_at": "2017-02-15T22:01:21Z",
-			"updated_at": "2021-09-12T04:43:40Z",
+			"updated_at": "2021-09-24T10:43:22Z",
 			"svn_url": "https://github.com/tj/mmake",
 			"stargazers_count": 1580,
 			"watchers_count": 1580,
@@ -52,12 +52,12 @@
 			"html_url": "https://github.com/goyek/goyek",
 			"homepage": "",
 			"created_at": "2020-10-11T13:20:55Z",
-			"updated_at": "2021-09-13T15:59:59Z",
+			"updated_at": "2021-09-25T04:25:00Z",
 			"svn_url": "https://github.com/goyek/goyek",
-			"stargazers_count": 251,
-			"watchers_count": 251,
-			"forks_count": 17,
-			"open_issues_count": 4
+			"stargazers_count": 257,
+			"watchers_count": 257,
+			"forks_count": 18,
+			"open_issues_count": 3
 		},
 		{
 			"id": 221222446,
@@ -66,10 +66,10 @@
 			"html_url": "https://github.com/taskctl/taskctl",
 			"homepage": "",
 			"created_at": "2019-11-12T13:19:09Z",
-			"updated_at": "2021-09-14T20:55:51Z",
+			"updated_at": "2021-09-26T15:36:21Z",
 			"svn_url": "https://github.com/taskctl/taskctl",
-			"stargazers_count": 129,
-			"watchers_count": 129,
+			"stargazers_count": 131,
+			"watchers_count": 131,
 			"forks_count": 13,
 			"open_issues_count": 7
 		},
@@ -80,11 +80,11 @@
 			"html_url": "https://github.com/gopinath-langote/1build",
 			"homepage": "https://1build.gitbook.io",
 			"created_at": "2019-04-23T17:05:38Z",
-			"updated_at": "2021-09-08T05:40:40Z",
+			"updated_at": "2021-09-26T16:17:35Z",
 			"svn_url": "https://github.com/gopinath-langote/1build",
-			"stargazers_count": 95,
-			"watchers_count": 95,
-			"forks_count": 25,
+			"stargazers_count": 98,
+			"watchers_count": 98,
+			"forks_count": 27,
 			"open_issues_count": 31
 		},
 		{

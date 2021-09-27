@@ -193,18 +193,18 @@ Libraries for building and working with bots.
 ### Build Automation
 Libraries and tools helping with build automation.
 
-<sup>*Last Update: 2021-09-15 09:25:22*</sup>
+<sup>*Last Update: 2021-09-27 09:25:16*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [realize](https://github.com/oxequa/realize) | 4,101 | 213 | 68 | Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading. | 2016-07-12 08:07:25 | 2021-09-14 13:02:31 |
-| [task](https://taskfile.dev) | 3,848 | 250 | 100 | A task runner / simpler Make alternative written in Go | 2017-02-27 00:46:04 | 2021-09-14 19:33:18 |
-| [mmake](https://github.com/tj/mmake) | 1,580 | 43 | 11 | Modern Make  | 2017-02-15 22:01:21 | 2021-09-12 04:43:40 |
-| [goyek](https://github.com/goyek/goyek) | 251 | 17 | 4 | Create build pipelines in Go  | 2020-10-11 13:20:55 | 2021-09-13 15:59:59 |
-| [taskctl](https://github.com/taskctl/taskctl) | 129 | 13 | 7 | Concurrent task runner, developer's routine tasks automation toolkit. Simple modern alternative to GNU Make 🧰 | 2019-11-12 13:19:09 | 2021-09-14 20:55:51 |
-| [1build](https://1build.gitbook.io) | 95 | 25 | 31 | Frictionless way of managing project-specific commands | 2019-04-23 17:05:38 | 2021-09-08 05:40:40 |
+| [realize](https://github.com/oxequa/realize) | 4,114 | 213 | 68 | Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading. | 2016-07-12 08:07:25 | 2021-09-26 11:58:21 |
+| [task](https://taskfile.dev) | 3,888 | 252 | 96 | A task runner / simpler Make alternative written in Go | 2017-02-27 00:46:04 | 2021-09-27 01:30:49 |
+| [mmake](https://github.com/tj/mmake) | 1,580 | 43 | 11 | Modern Make  | 2017-02-15 22:01:21 | 2021-09-24 10:43:22 |
+| [goyek](https://github.com/goyek/goyek) | 257 | 18 | 3 | Create build pipelines in Go  | 2020-10-11 13:20:55 | 2021-09-25 04:25:00 |
+| [taskctl](https://github.com/taskctl/taskctl) | 131 | 13 | 7 | Concurrent task runner, developer's routine tasks automation toolkit. Simple modern alternative to GNU Make 🧰 | 2019-11-12 13:19:09 | 2021-09-26 15:36:21 |
+| [1build](https://1build.gitbook.io) | 98 | 27 | 31 | Frictionless way of managing project-specific commands | 2019-04-23 17:05:38 | 2021-09-26 16:17:35 |
 | [gilbert](https://go-gilbert.github.io/) | 93 | 5 | 0 | Build system and task runner for Go projects | 2019-01-30 09:02:31 | 2021-08-14 01:54:30 |
 | [gaper](https://github.com/maxcnunes/gaper) | 48 | 3 | 7 | Builds and restarts a Go project when it crashes or some watched file changes | 2018-06-16 02:46:38 | 2021-08-02 08:33:20 |
 | [anko](https://github.com/GuilhermeCaruso/anko) | 18 | 0 | 0 | :crystal_ball: Simple application watcher | 2021-03-02 14:08:42 | 2021-09-03 04:36:40 |
@@ -316,31 +316,31 @@ Libraries for building standard or basic Command Line applications.
 ### Configuration
 Libraries for configuration parsing.
 
-<sup>*Last Update: 2021-09-25 09:25:06*</sup>
+<sup>*Last Update: 2021-09-27 09:25:01*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [viper](https://github.com/spf13/viper) | 16,826 | 1,459 | 446 | Go configuration with fangs | 2014-04-02 14:33:33 | 2021-09-24 22:39:34 |
-| [godotenv](http://godoc.org/github.com/joho/godotenv) | 4,153 | 246 | 51 | A Go port of Ruby's dotenv library (Loads environment variables from `.env`.) | 2013-07-30 07:45:19 | 2021-09-24 23:08:47 |
-| [envconfig](https://josh.blog/2017/04/go-configure) | 3,789 | 310 | 47 | Golang library for managing configuration data from environment variables | 2013-11-06 17:01:55 | 2021-09-24 22:39:09 |
-| [ini](https://ini.unknwon.io) | 2,677 | 320 | 29 | Package ini provides INI file read and write functionality in Go | 2014-12-18 07:36:37 | 2021-09-21 15:02:32 |
+| [viper](https://github.com/spf13/viper) | 16,843 | 1,459 | 446 | Go configuration with fangs | 2014-04-02 14:33:33 | 2021-09-27 02:14:39 |
+| [godotenv](http://godoc.org/github.com/joho/godotenv) | 4,161 | 246 | 52 | A Go port of Ruby's dotenv library (Loads environment variables from `.env`.) | 2013-07-30 07:45:19 | 2021-09-26 14:27:57 |
+| [envconfig](https://josh.blog/2017/04/go-configure) | 3,790 | 311 | 47 | Golang library for managing configuration data from environment variables | 2013-11-06 17:01:55 | 2021-09-26 20:24:59 |
+| [ini](https://ini.unknwon.io) | 2,681 | 321 | 29 | Package ini provides INI file read and write functionality in Go | 2014-12-18 07:36:37 | 2021-09-26 19:38:14 |
 | [env](http://carlosbecker.com/posts/env-structs-golang) | 2,051 | 147 | 1 | Simple lib to parse environment variables to structs | 2015-07-28 02:14:37 | 2021-09-24 13:27:48 |
 | [konfig](https://github.com/lalamove/konfig) | 614 | 43 | 4 | Composable, observable and performant config handling for Go for the distributed processing era | 2019-01-18 17:03:03 | 2021-09-20 21:28:58 |
-| [koanf](https://github.com/knadh/koanf) | 599 | 55 | 9 | Light weight, extensible, configuration management library for Go. Built in support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper. | 2019-06-18 06:34:05 | 2021-09-23 17:49:16 |
-| [confita](https://github.com/heetch/confita) | 413 | 45 | 22 | Load configuration in cascade from multiple backends into a struct | 2017-12-21 10:49:18 | 2021-09-19 14:28:02 |
-| [cleanenv](https://github.com/ilyakaznacheev/cleanenv) | 366 | 38 | 16 | ✨Clean and minimalistic environment configuration reader for Golang | 2019-07-12 15:28:52 | 2021-09-24 12:11:58 |
-| [config](https://pkg.go.dev/github.com/gookit/config/v2) | 278 | 32 | 1 | 📝 Go config manage(load,get,set). support JSON, YAML, TOML, INI, HCL, ENV and Flags. Multi file load, data override merge, parse ENV var. Go应用配置加载管理，支持多种格式，多文件加载，远程文件加载，支持数据合并，解析环境变量名 | 2018-07-07 08:11:39 | 2021-09-23 10:21:41 |
-| [aconfig](https://github.com/cristalhq/aconfig) | 274 | 19 | 9 | Simple, useful and opinionated config loader. | 2020-06-26 19:43:20 | 2021-09-23 05:24:04 |
+| [koanf](https://github.com/knadh/koanf) | 602 | 55 | 9 | Light weight, extensible, configuration management library for Go. Built in support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper. | 2019-06-18 06:34:05 | 2021-09-27 00:22:19 |
+| [confita](https://github.com/heetch/confita) | 415 | 45 | 22 | Load configuration in cascade from multiple backends into a struct | 2017-12-21 10:49:18 | 2021-09-26 15:25:43 |
+| [cleanenv](https://github.com/ilyakaznacheev/cleanenv) | 367 | 37 | 16 | ✨Clean and minimalistic environment configuration reader for Golang | 2019-07-12 15:28:52 | 2021-09-25 16:02:32 |
+| [config](https://pkg.go.dev/github.com/gookit/config/v2) | 281 | 32 | 1 | 📝 Go config manage(load,get,set). support JSON, YAML, TOML, INI, HCL, ENV and Flags. Multi file load, data override merge, parse ENV var. Go应用配置加载管理，支持多种格式，多文件加载，远程文件加载，支持数据合并，解析环境变量名 | 2018-07-07 08:11:39 | 2021-09-26 22:44:43 |
+| [aconfig](https://github.com/cristalhq/aconfig) | 279 | 20 | 10 | Simple, useful and opinionated config loader. | 2020-06-26 19:43:20 | 2021-09-26 11:08:33 |
 | [config](https://github.com/JeremyLoy/config) | 268 | 12 | 2 | 12 factor configuration as a typesafe struct in as little as two function calls | 2019-04-02 13:41:22 | 2021-09-23 04:20:16 |
 | [store](https://github.com/tucnak/store) | 257 | 17 | 2 | A dead simple configuration manager for Go applications | 2015-10-03 19:17:28 | 2021-09-14 05:58:50 |
 | [config](https://github.com/olebedev/config) | 240 | 43 | 4 | JSON or YAML configuration wrapper with convenient access methods. | 2014-04-21 15:09:39 | 2021-08-12 22:55:05 |
 | [hjson-go](https://hjson.github.io/) | 240 | 29 | 3 | Hjson for Go | 2016-08-05 22:59:18 | 2021-09-02 16:44:50 |
 | [envconfig](https://godoc.org/github.com/tomazk/envcfg) | 209 | 22 | 0 | Small library to read your configuration from environment variables | 2015-04-21 23:37:17 | 2021-09-04 23:20:06 |
 | [config](https://josh.blog/2017/04/go-configure) | 206 | 12 | 1 | 🛠 A configuration library for Go that parses environment variables, JSON files, and reloads automatically on SIGHUP | 2017-04-02 18:37:05 | 2021-09-22 19:43:00 |
-| [config](https://github.com/golobby/config) | 178 | 13 | 0 | A lightweight yet powerful configuration management for Go projects | 2019-10-15 22:51:19 | 2021-09-21 20:01:55 |
-| [fig](https://github.com/kkyr/fig) | 165 | 11 | 2 | A minimalist Go configuration library | 2020-01-16 18:43:19 | 2021-09-23 19:03:24 |
+| [config](https://github.com/golobby/config) | 181 | 13 | 0 | A lightweight yet powerful configuration management for Go projects | 2019-10-15 22:51:19 | 2021-09-26 15:56:07 |
+| [fig](https://github.com/kkyr/fig) | 166 | 11 | 2 | A minimalist Go configuration library | 2020-01-16 18:43:19 | 2021-09-26 20:40:26 |
 | [gcfg](https://gopkg.in/gcfg.v1) | 155 | 49 | 9 | read INI-style configuration files into Go structs; supports user-defined types and subsections | 2015-08-17 14:40:55 | 2021-09-23 03:35:05 |
 | [goconfig](https://pkg.go.dev/github.com/gosidekick/goconfig?tab=doc) | 149 | 21 | 6 | goconfig uses a struct as input and populates the fields of this struct with parameters from command line, environment variables and configuration file. | 2016-12-18 11:22:41 | 2021-09-02 15:09:48 |
 | [xdg](https://pkg.go.dev/github.com/adrg/xdg) | 133 | 8 | 0 | Go implementation of the XDG Base Directory Specification and XDG user directories | 2014-08-22 08:23:40 | 2021-09-22 21:09:21 |
@@ -350,7 +350,7 @@ Libraries for configuration parsing.
 | [harvester](https://github.com/beatlabs/harvester) | 86 | 19 | 3 | Harvest configuration, watch and notify subscriber | 2019-04-09 07:37:19 | 2021-09-06 07:43:23 |
 | [configuro](https://medium.com/better-programming/designing-cloud-native-configuration-framework-eefb0b3793cb) | 76 | 8 | 0 | An opinionated configuration loading framework for Containerized and Cloud-Native applications. | 2020-04-09 22:10:34 | 2021-09-20 02:01:43 |
 | [xdg](https://github.com/OpenPeeDeeP/xdg) | 63 | 5 | 1 | A cross platform package that follows the XDG Standard | 2017-07-20 15:58:29 | 2021-06-18 00:46:25 |
-| [gofigure](https://github.com/ian-kent/gofigure) | 59 | 9 | 1 | Go configuration made easy! | 2014-11-25 00:12:40 | 2020-08-31 14:19:02 |
+| [gofigure](https://github.com/ian-kent/gofigure) | 60 | 9 | 1 | Go configuration made easy! | 2014-11-25 00:12:40 | 2021-09-26 20:52:03 |
 | [configure](https://github.com/paked/configure) | 54 | 9 | 2 | Configure is a Go package that gives you easy configuration of your project through redundancy | 2015-06-14 07:46:56 | 2021-05-27 13:28:12 |
 | [go-aws-ssm](https://github.com/PaddleHQ/go-aws-ssm) | 41 | 7 | 0 | Go package that interfaces with AWS System Manager | 2019-01-24 09:01:19 | 2021-08-13 20:45:03 |
 | [configuration](https://github.com/BoRuDar/configuration) | 40 | 6 | 0 | Library for setting values to structs' fields from env, flags, files or default tag | 2019-11-27 17:58:49 | 2021-09-23 11:07:27 |
@@ -792,13 +792,13 @@ Packages that help with building Distributed Systems.
 ### Dynamic DNS
 Tools for updating dynamic DNS records.
 
-<sup>*Last Update: 2021-09-11 09:25:22*</sup>
+<sup>*Last Update: 2021-09-27 09:25:20*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [godns](https://xiaozhou.net/godns-project-2014-05-18.html) | 871 | 160 | 11 | A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go. | 2014-05-11 11:49:17 | 2021-09-08 20:28:37 |
+| [godns](https://xiaozhou.net/godns-project-2014-05-18.html) | 875 | 160 | 12 | A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go. | 2014-05-11 11:49:17 | 2021-09-26 13:34:57 |
 | [ddns](https://github.com/skibish/ddns) | 193 | 19 | 0 | Personal DDNS client with Digital Ocean Networking DNS as backend. | 2017-03-13 21:02:27 | 2021-09-04 23:57:17 |
 </details>
 
