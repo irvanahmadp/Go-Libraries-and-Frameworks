@@ -1,7 +1,7 @@
 {
 	"name": "Testing - Fuzzing and delta-debugging, reducing, shrinking",
 	"index_last_check": 0,
-	"last_update": 1629339927,
+	"last_update": 1633573520,
 	"libraries": [
 		{
 			"id": 33994380,
@@ -10,11 +10,11 @@
 			"html_url": "https://github.com/dvyukov/go-fuzz",
 			"homepage": "",
 			"created_at": "2015-04-15T13:07:50Z",
-			"updated_at": "2021-08-18T02:28:33Z",
+			"updated_at": "2021-10-05T21:14:43Z",
 			"svn_url": "https://github.com/dvyukov/go-fuzz",
-			"stargazers_count": 4104,
-			"watchers_count": 4104,
-			"forks_count": 239,
+			"stargazers_count": 4143,
+			"watchers_count": 4143,
+			"forks_count": 241,
 			"open_issues_count": 52
 		},
 		{
@@ -24,11 +24,11 @@
 			"html_url": "https://github.com/google/gofuzz",
 			"homepage": "",
 			"created_at": "2014-07-31T16:21:29Z",
-			"updated_at": "2021-08-18T22:36:19Z",
+			"updated_at": "2021-10-05T17:19:51Z",
 			"svn_url": "https://github.com/google/gofuzz",
-			"stargazers_count": 1113,
-			"watchers_count": 1113,
-			"forks_count": 103,
+			"stargazers_count": 1157,
+			"watchers_count": 1157,
+			"forks_count": 106,
 			"open_issues_count": 12
 		},
 		{
@@ -38,10 +38,10 @@
 			"html_url": "https://github.com/zimmski/tavor",
 			"homepage": "",
 			"created_at": "2014-05-18T14:59:14Z",
-			"updated_at": "2021-04-27T23:55:43Z",
+			"updated_at": "2021-10-01T18:11:25Z",
 			"svn_url": "https://github.com/zimmski/tavor",
-			"stargazers_count": 232,
-			"watchers_count": 232,
+			"stargazers_count": 233,
+			"watchers_count": 233,
 			"forks_count": 9,
 			"open_issues_count": 53
 		}
