@@ -1,7 +1,7 @@
 {
 	"name": "Version Control",
 	"index_last_check": 0,
-	"last_update": 1631499921,
+	"last_update": 1634091919,
 	"libraries": [
 		{
 			"id": 229030654,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/go-git/go-git",
 			"homepage": "https://pkg.go.dev/github.com/go-git/go-git/v5",
 			"created_at": "2019-12-19T10:27:02Z",
-			"updated_at": "2021-09-12T06:26:00Z",
+			"updated_at": "2021-10-12T19:52:23Z",
 			"svn_url": "https://github.com/go-git/go-git",
-			"stargazers_count": 2619,
-			"watchers_count": 2619,
-			"forks_count": 280,
-			"open_issues_count": 216
+			"stargazers_count": 2693,
+			"watchers_count": 2693,
+			"forks_count": 294,
+			"open_issues_count": 233
 		},
 		{
 			"id": 8587669,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/libgit2/git2go",
 			"homepage": "",
 			"created_at": "2013-03-05T19:50:43Z",
-			"updated_at": "2021-09-07T19:29:08Z",
+			"updated_at": "2021-10-08T07:42:22Z",
 			"svn_url": "https://github.com/libgit2/git2go",
-			"stargazers_count": 1649,
-			"watchers_count": 1649,
-			"forks_count": 286,
-			"open_issues_count": 39
+			"stargazers_count": 1658,
+			"watchers_count": 1658,
+			"forks_count": 287,
+			"open_issues_count": 40
 		},
 		{
 			"id": 76279648,
@@ -38,11 +38,11 @@
 			"html_url": "https://github.com/src-d/hercules",
 			"homepage": "",
 			"created_at": "2016-12-12T17:30:29Z",
-			"updated_at": "2021-09-11T14:45:21Z",
+			"updated_at": "2021-10-12T13:32:23Z",
 			"svn_url": "https://github.com/src-d/hercules",
-			"stargazers_count": 1419,
-			"watchers_count": 1419,
-			"forks_count": 120,
+			"stargazers_count": 1449,
+			"watchers_count": 1449,
+			"forks_count": 122,
 			"open_issues_count": 38
 		},
 		{
@@ -52,10 +52,10 @@
 			"html_url": "https://github.com/rjeczalik/gh",
 			"homepage": "",
 			"created_at": "2015-03-08T21:04:05Z",
-			"updated_at": "2020-05-08T16:42:07Z",
+			"updated_at": "2021-09-17T13:41:09Z",
 			"svn_url": "https://github.com/rjeczalik/gh",
-			"stargazers_count": 75,
-			"watchers_count": 75,
+			"stargazers_count": 76,
+			"watchers_count": 76,
 			"forks_count": 12,
 			"open_issues_count": 2
 		},
