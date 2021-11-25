@@ -36,6 +36,8 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 * [Financial](#financial)
 * [Forms](#forms)
 * [Functional](#functional)
+* [GUI - Interaction](#gui---interaction)
+* [GUI - Toolkits](#gui---toolkits)
 * [Game Development](#game-development)
 * [Generation and Generics](#generation-and-generics)
 * [Geographic](#geographic)
@@ -118,43 +120,44 @@ Libraries for manipulating audio.
 ### Authentication and OAuth
 Libraries for implementing authentications schemes.
 
-<sup>*Last Update: 2021-07-02 09:03:58*</sup>
+<sup>*Last Update: 2021-11-25 13:59:08*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [oauth2](https://golang.org/x/oauth2) | 3,702 | 765 | 140 | Go OAuth2 | 2014-04-14 15:07:35 | 2021-07-02 01:39:05 |
-| [goth](https://blog.gobuffalo.io/goth-needs-a-new-maintainer-626cd47ca37b) | 3,217 | 393 | 59 | Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications. | 2014-10-14 20:38:12 | 2021-07-01 14:48:25 |
-| [authboss](https://github.com/volatiletech/authboss) | 2,694 | 170 | 30 | The boss of http auth. | 2015-01-03 05:12:02 | 2021-06-28 10:57:04 |
-| [loginsrv](https://github.com/tarent/loginsrv) | 1,791 | 155 | 29 | JWT login microservice with plugable backends such as OAuth2, Google, Github, htpasswd, osiam, .. | 2016-11-11 12:11:21 | 2021-07-01 22:31:03 |
-| [go-jose](https://github.com/square/go-jose) | 1,778 | 315 | 49 | An implementation of JOSE standards (JWE, JWS, JWT) in Go | 2014-11-14 18:27:31 | 2021-07-01 00:24:34 |
-| [go-oauth2-server](https://github.com/RichardKnop/go-oauth2-server) | 1,772 | 271 | 28 | A standalone, specification-compliant,  OAuth2 server written in Golang. | 2015-11-01 13:30:09 | 2021-06-29 11:51:26 |
-| [osin](https://golang.org/x/oauth2) | 1,673 | 370 | 3 | Golang OAuth2 server library | 2013-09-10 19:52:00 | 2021-06-27 08:53:34 |
-| [gologin](https://github.com/dghubble/gologin) | 1,404 | 111 | 0 | Go login handlers for authentication providers (OAuth1, OAuth2) | 2015-06-23 04:40:52 | 2021-07-01 13:25:42 |
-| [gorbac](https://github.com/mikespook/gorbac) | 1,187 | 140 | 2 | goRBAC provides a lightweight role-based access control (RBAC) implementation in Golang. | 2013-12-26 10:00:41 | 2021-06-28 18:21:30 |
-| [scs](https://github.com/alexedwards/scs) | 892 | 84 | 18 | HTTP Session Management for Go | 2016-08-08 16:42:05 | 2021-06-25 20:09:29 |
-| [paseto](https://github.com/o1egl/paseto) | 519 | 22 | 4 | Platform-Agnostic Security Tokens implementation in GO (Golang) | 2018-01-23 05:27:39 | 2021-07-01 19:22:26 |
-| [permissions2](https://github.com/xyproto/permissions2) | 430 | 33 | 0 |   :closed_lock_with_key: Middleware for keeping track of users, login states and permissions | 2014-11-19 12:23:37 | 2021-06-18 13:01:24 |
-| [go-guardian](https://github.com/shaj13/go-guardian) | 273 | 22 | 6 | Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication. | 2020-05-14 12:15:56 | 2021-07-01 20:25:30 |
-| [jwt](https://github.com/cristalhq/jwt) | 272 | 23 | 3 | Safe, simple and fast JSON Web Tokens for Go | 2019-07-20 18:14:58 | 2021-07-01 06:40:45 |
-| [jwt](https://github.com/pascaldekloe/jwt) | 257 | 15 | 0 | JSON Web Token library | 2018-03-21 11:59:53 | 2021-07-01 06:40:45 |
-| [jeff](https://github.com/abraithwaite/jeff) | 227 | 11 | 1 | 🍍Jeff provides the simplest way to manage web sessions in Go. | 2018-08-02 19:31:23 | 2021-07-01 20:52:05 |
-| [httpauth](https://blog.gobuffalo.io/goth-needs-a-new-maintainer-626cd47ca37b) | 206 | 21 | 4 | HTTP Authentication middlewares | 2014-05-26 22:53:57 | 2021-06-09 22:15:48 |
-| [jwt-auth](https://github.com/adam-hanna/jwt-auth) | 204 | 35 | 3 | This package provides json web token (jwt) middleware for goLang http servers | 2016-07-05 23:31:43 | 2021-05-24 01:31:29 |
-| [branca](https://branca.io) | 153 | 16 | 1 | :key: Secure alternative to JWT. Authenticated Encrypted API Tokens for Go. | 2018-01-09 15:27:31 | 2021-06-23 01:35:45 |
-| [sessionup](https://github.com/swithek/sessionup) | 112 | 5 | 3 | Straightforward HTTP session management | 2019-07-23 18:55:21 | 2021-06-08 14:33:23 |
-| [session](https://github.com/icza/session) | 105 | 12 | 4 | Go session management for web servers (including support for Google App Engine - GAE). | 2016-02-08 09:07:07 | 2021-06-24 17:57:35 |
-| [jwt](https://github.com/robbert229/jwt) | 90 | 21 | 9 | This is an implementation of JWT in golang! | 2016-06-05 22:01:37 | 2021-06-13 21:57:30 |
-| [sjwt](https://godoc.org/github.com/brianvoe/sjwt) | 90 | 5 | 0 | Simple JWT Golang | 2019-06-20 04:06:21 | 2021-06-25 20:36:28 |
-| [rbac](https://github.com/zpatrick/rbac) | 79 | 11 | 0 | Minimalistic RBAC package for Go applications | 2018-08-02 00:11:04 | 2021-05-31 10:33:51 |
-| [sessions](https://github.com/adam-hanna/sessions) | 59 | 6 | 2 | A dead simple, highly performant, highly customizable sessions middleware for go http servers. | 2017-04-29 01:09:28 | 2021-04-23 00:07:10 |
-| [securecookie](https://github.com/chmike/securecookie) | 51 | 7 | 1 | Fast, secure and efficient secure cookie encoder/decoder  | 2017-09-03 14:40:29 | 2021-07-01 12:20:10 |
-| [go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) | 21 | 1 | 0 | Golang library for providing a canonical representation of email address. | 2020-08-21 23:13:04 | 2021-06-27 08:36:10 |
-| [otpgo](https://github.com/jltorresm/otpgo) | 20 | 0 | 1 | Time-Based One-Time Password (TOTP) and HMAC-Based One-Time Password (HOTP) library for Go. | 2020-08-19 13:20:23 | 2021-06-20 07:17:30 |
-| [scope](https://github.com/SonicRoshan/scope) | 12 | 3 | 0 | Easily Manage OAuth2 Scopes In Go | 2019-09-23 10:48:14 | 2021-04-25 07:45:30 |
+| [casbin](https://casbin.org/) | 10,720 | 1,188 | 31 | An authorization library that supports access control models like ACL, RBAC, ABAC in Golang | 2017-04-08 07:51:23 | 2021-11-25 06:37:09 |
+| [oauth2](https://golang.org/x/oauth2) | 3,908 | 797 | 150 | Go OAuth2 | 2014-04-14 15:07:35 | 2021-11-24 03:01:22 |
+| [goth](https://blog.gobuffalo.io/goth-needs-a-new-maintainer-626cd47ca37b) | 3,436 | 415 | 71 | Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications. | 2014-10-14 20:38:12 | 2021-11-25 06:38:11 |
+| [authboss](https://github.com/volatiletech/authboss) | 2,911 | 178 | 30 | The boss of http auth. | 2015-01-03 05:12:02 | 2021-11-24 21:11:47 |
+| [go-jose](https://github.com/square/go-jose) | 1,838 | 327 | 56 | An implementation of JOSE standards (JWE, JWS, JWT) in Go | 2014-11-14 18:27:31 | 2021-11-24 21:20:15 |
+| [go-oauth2-server](https://github.com/RichardKnop/go-oauth2-server) | 1,833 | 282 | 28 | A standalone, specification-compliant,  OAuth2 server written in Golang. | 2015-11-01 13:30:09 | 2021-11-23 09:31:40 |
+| [loginsrv](https://github.com/tarent/loginsrv) | 1,827 | 157 | 29 | JWT login microservice with plugable backends such as OAuth2, Google, Github, htpasswd, osiam, .. | 2016-11-11 12:11:21 | 2021-11-20 19:16:04 |
+| [osin](https://golang.org/x/oauth2) | 1,701 | 381 | 3 | Golang OAuth2 server library | 2013-09-10 19:52:00 | 2021-11-23 02:48:54 |
+| [gologin](https://github.com/dghubble/gologin) | 1,455 | 114 | 0 | Go login handlers for authentication providers (OAuth1, OAuth2) | 2015-06-23 04:40:52 | 2021-11-23 14:42:57 |
+| [gorbac](https://github.com/mikespook/gorbac) | 1,224 | 148 | 2 | goRBAC provides a lightweight role-based access control (RBAC) implementation in Golang. | 2013-12-26 10:00:41 | 2021-11-17 13:06:54 |
+| [scs](https://github.com/alexedwards/scs) | 971 | 94 | 7 | HTTP Session Management for Go | 2016-08-08 16:42:05 | 2021-11-24 18:56:24 |
+| [paseto](https://github.com/o1egl/paseto) | 555 | 26 | 4 | Platform-Agnostic Security Tokens implementation in GO (Golang) | 2018-01-23 05:27:39 | 2021-11-17 19:02:19 |
+| [permissions2](https://github.com/xyproto/permissions2) | 438 | 35 | 0 |   :closed_lock_with_key: Middleware for keeping track of users, login states and permissions | 2014-11-19 12:23:37 | 2021-10-29 16:42:42 |
+| [go-guardian](https://github.com/shaj13/go-guardian) | 319 | 27 | 7 | Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication. | 2020-05-14 12:15:56 | 2021-11-24 22:01:01 |
+| [jwt](https://github.com/cristalhq/jwt) | 304 | 25 | 0 | Safe, simple and fast JSON Web Tokens for Go | 2019-07-20 18:14:58 | 2021-11-24 16:07:53 |
+| [jwt](https://github.com/pascaldekloe/jwt) | 272 | 20 | 0 | JSON Web Token library | 2018-03-21 11:59:53 | 2021-11-17 12:11:17 |
+| [jeff](https://github.com/abraithwaite/jeff) | 234 | 13 | 1 | 🍍Jeff provides the simplest way to manage web sessions in Go. | 2018-08-02 19:31:23 | 2021-11-22 01:44:42 |
+| [httpauth](https://blog.gobuffalo.io/goth-needs-a-new-maintainer-626cd47ca37b) | 210 | 26 | 5 | HTTP Authentication middlewares | 2014-05-26 22:53:57 | 2021-10-12 21:06:21 |
+| [jwt-auth](https://github.com/adam-hanna/jwt-auth) | 209 | 38 | 3 | This package provides json web token (jwt) middleware for goLang http servers | 2016-07-05 23:31:43 | 2021-11-24 14:10:45 |
+| [branca](https://branca.io) | 161 | 17 | 1 | :key: Secure alternative to JWT. Authenticated Encrypted API Tokens for Go. | 2018-01-09 15:27:31 | 2021-11-16 13:49:51 |
+| [sessionup](https://github.com/swithek/sessionup) | 112 | 5 | 3 | Straightforward HTTP session management | 2019-07-23 18:55:21 | 2021-10-14 13:05:30 |
+| [session](https://github.com/icza/session) | 105 | 15 | 4 | Go session management for web servers (including support for Google App Engine - GAE). | 2016-02-08 09:07:07 | 2021-10-14 13:05:21 |
+| [jwt](https://github.com/robbert229/jwt) | 94 | 24 | 9 | This is an implementation of JWT in golang! | 2016-06-05 22:01:37 | 2021-11-17 13:12:30 |
+| [sjwt](https://godoc.org/github.com/brianvoe/sjwt) | 94 | 7 | 0 | Simple JWT Golang | 2019-06-20 04:06:21 | 2021-09-22 11:16:33 |
+| [rbac](https://github.com/zpatrick/rbac) | 87 | 15 | 0 | Minimalistic RBAC package for Go applications | 2018-08-02 00:11:04 | 2021-11-22 13:28:00 |
+| [sessions](https://github.com/adam-hanna/sessions) | 60 | 7 | 2 | A dead simple, highly performant, highly customizable sessions middleware for go http servers. | 2017-04-29 01:09:28 | 2021-07-03 11:27:07 |
+| [securecookie](https://github.com/chmike/securecookie) | 55 | 8 | 0 | Fast, secure and efficient secure cookie encoder/decoder  | 2017-09-03 14:40:29 | 2021-11-15 04:09:21 |
+| [go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) | 33 | 1 | 0 | Golang library for providing a canonical representation of email address. | 2020-08-21 23:13:04 | 2021-11-15 04:07:52 |
+| [otpgo](https://github.com/jltorresm/otpgo) | 26 | 2 | 1 | Time-Based One-Time Password (TOTP) and HMAC-Based One-Time Password (HOTP) library for Go. | 2020-08-19 13:20:23 | 2021-11-12 11:56:20 |
+| [scope](https://github.com/SonicRoshan/scope) | 17 | 4 | 0 | Easily Manage OAuth2 Scopes In Go | 2019-09-23 10:48:14 | 2021-11-06 23:03:46 |
 | [sessiongate-go](https://github.com/f0rmiga/sessiongate-go) | 9 | 1 | 0 | A driver for the SessionGate Redis module - easy session management using the Go language. | 2017-10-20 03:39:11 | 2020-08-18 23:01:11 |
-| [cookiestxt](https://casbin.org/) | 6 | 2 | 0 | cookiestxt implement parser of cookies txt format | 2017-10-09 11:27:19 | 2021-03-08 11:45:58 |
+| [cookiestxt](https://casbin.org/) | 8 | 2 | 1 | cookiestxt implement parser of cookies txt format | 2017-10-09 11:27:19 | 2021-08-25 11:03:38 |
 | [casbin](https://casbin.org/) | 1 | 0 | 0 | An authorization library that supports access control models like ACL, RBAC, ABAC in Golang | 2021-05-29 04:09:46 | 2021-06-23 04:53:51 |
 </details>
 
@@ -975,6 +978,47 @@ Packages to support functional programming in Go.
 | [fpGo](https://github.com/TeaEntityLab/fpGo) | 197 | 13 | 0 | Monad, Functional Programming features for Golang | 2018-05-24 09:08:45 | 2021-10-06 08:06:37 |
 | [fuego](https://github.com/seborama/fuego) | 98 | 8 | 0 | Functional Experiment in Golang | 2018-11-05 22:24:09 | 2021-09-23 15:22:13 |
 | [gofp](https://github.com/rbrahul/gofp) | 88 | 3 | 0 | A super simple Lodash like utility library with essential functions that empowers the development in Go | 2021-02-19 00:01:39 | 2021-09-13 09:30:59 |
+</details>
+
+### GUI - Interaction
+Libraries for building GUI Applications.
+
+<sup>*Last Update: 2021-11-25 13:59:06*</sup>
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [robotgo](https://github.com/go-vgo/robotgo) | 7,046 | 651 | 82 | RobotGo, Go Native cross-platform GUI automation  @vcaesar | 2016-09-26 16:26:56 | 2021-11-25 06:16:01 |
+| [systray](https://github.com/getlantern/systray) | 2,037 | 246 | 84 | a cross platfrom Go library to place an icon and menu in the notification area | 2014-11-12 03:41:57 | 2021-11-24 13:04:29 |
+| [gosx-notifier](https://github.com/deckarep/gosx-notifier) | 552 | 44 | 10 | gosx-notifier is a Go framework for sending desktop notifications to OSX 10.8 or higher | 2013-11-25 06:35:16 | 2021-11-15 05:26:55 |
+| [trayhost](https://github.com/shurcooL/trayhost) | 220 | 18 | 9 | Cross-platform Go library to place an icon in the host operating system's taskbar. | 2014-04-25 04:02:30 | 2021-11-07 04:56:31 |
+| [go-appindicator](https://github.com/dawidd6/go-appindicator) | 17 | 3 | 1 | :traffic_light: Go bindings for libappindicator3 C library | 2019-05-04 13:38:53 | 2021-06-15 18:21:55 |
+| [activity-tracker](https://github.com/prashantgupta24/activity-tracker) | 12 | 1 | 2 | A library to notify about any (pluggable) activity on your machine, and let you take action as needed | 2019-03-12 21:16:44 | 2021-05-08 17:14:34 |
+| [mac-sleep-notifier](https://github.com/prashantgupta24/mac-sleep-notifier) | 10 | 2 | 0 | macOS Sleep/ Wake notifications in golang | 2019-03-30 00:43:23 | 2021-08-12 18:18:14 |
+</details>
+
+### GUI - Toolkits
+Libraries for building GUI Applications.
+
+<sup>*Last Update: 2021-11-25 13:59:01*</sup>
+<details>
+  <summary>Show Table</summary>
+
+| Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
+| ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
+| [fyne](https://fyne.io/) | 14,660 | 788 | 307 | Cross platform GUI in Go inspired by Material Design | 2018-02-04 22:07:16 | 2021-11-25 06:30:54 |
+| [webview](https://github.com/webview/webview) | 9,120 | 714 | 275 | Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows) | 2017-08-19 08:26:00 | 2021-11-25 02:21:14 |
+| [qt](https://github.com/therecipe/qt) | 8,919 | 704 | 341 | Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly | 2014-11-19 00:03:08 | 2021-11-25 06:21:49 |
+| [ui](https://github.com/andlabs/ui) | 8,022 | 727 | 120 | Platform-native GUI library for Go. | 2014-02-17 23:44:00 | 2021-11-23 03:55:05 |
+| [walk](https://github.com/lxn/walk) | 5,763 | 791 | 319 | A Windows GUI toolkit for the Go Programming Language | 2010-09-16 08:11:49 | 2021-11-24 01:09:15 |
+| [go-app](https://go-app.dev) | 5,537 | 259 | 38 | A package to build progressive web apps with Go programming language and WebAssembly. | 2016-10-12 00:31:33 | 2021-11-24 05:15:33 |
+| [wails](https://wails.app) | 4,778 | 235 | 32 | Create desktop apps using Go and Web Technologies. | 2018-12-15 23:14:06 | 2021-11-25 03:10:53 |
+| [go-astilectron](https://github.com/asticode/go-astilectron) | 4,118 | 293 | 46 | Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron) | 2017-04-22 07:59:15 | 2021-11-25 03:22:33 |
+| [go-sciter](https://sciter.com) | 2,268 | 243 | 81 | Golang bindings of Sciter: the Embeddable HTML/CSS/script engine for modern UI development | 2015-10-15 12:41:06 | 2021-11-25 05:59:17 |
+| [go-gtk](http://mattn.github.com/go-gtk) | 1,823 | 245 | 68 | Go binding for GTK | 2009-11-26 16:58:53 | 2021-11-19 00:17:40 |
+| [gotk3](https://github.com/gotk3/gotk3) | 1,643 | 204 | 82 | Go bindings for GTK3 | 2015-08-13 13:09:46 | 2021-11-24 15:31:52 |
+| [gowd](https://github.com/dtylman/gowd) | 334 | 40 | 3 | Build cross platform GUI apps with GO and HTML/JS/CSS (powered by nwjs) | 2017-03-29 14:50:53 | 2021-11-12 17:48:43 |
 </details>
 
 ### Game Development
@@ -2106,18 +2150,18 @@ Libraries and tools for templating and lexing.
 ### Testing - Selenium and browser control tools
 
 
-<sup>*Last Update: 2021-07-15 09:25:18*</sup>
+<sup>*Last Update: 2021-11-25 13:59:19*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [chromedp](https://github.com/chromedp/chromedp) | 6,463 | 539 | 31 | A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol. | 2017-01-24 14:54:30 | 2021-07-12 05:29:52 |
+| [chromedp](https://github.com/chromedp/chromedp) | 6,978 | 577 | 44 | A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol. | 2017-01-24 14:54:30 | 2021-11-25 03:28:48 |
 | [selenoid](https://aerokube.com/selenoid/latest/) | 1,941 | 253 | 164 | Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary. | 2016-08-22 09:11:16 | 2021-07-14 08:29:55 |
-| [rod](https://go-rod.github.io) | 1,643 | 110 | 48 | A Devtools driver for web automation and scraping | 2020-01-21 20:09:45 | 2021-07-11 04:05:40 |
-| [cdp](https://github.com/mafredri/cdp) | 561 | 39 | 12 | Package cdp provides type-safe bindings for the Chrome DevTools Protocol (CDP), written in the Go programming language. | 2017-03-12 10:25:41 | 2021-07-08 23:12:35 |
-| [playwright-go](https://mxschmitt.github.io/playwright-go/) | 421 | 43 | 19 | Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API. | 2020-08-16 12:46:14 | 2021-07-11 07:40:16 |
-| [ggr](https://aerokube.com/ggr/latest/) | 273 | 57 | 15 | A lightweight load balancer used to create big Selenium clusters | 2016-06-16 15:33:24 | 2021-07-09 15:17:08 |
+| [rod](https://go-rod.github.io) | 1,937 | 130 | 75 | A Devtools driver for web automation and scraping | 2020-01-21 20:09:45 | 2021-11-24 08:14:08 |
+| [cdp](https://github.com/mafredri/cdp) | 581 | 40 | 12 | Package cdp provides type-safe bindings for the Chrome DevTools Protocol (CDP), written in the Go programming language. | 2017-03-12 10:25:41 | 2021-11-22 19:11:49 |
+| [playwright-go](https://mxschmitt.github.io/playwright-go/) | 563 | 56 | 13 | Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API. | 2020-08-16 12:46:14 | 2021-11-24 22:06:03 |
+| [ggr](https://aerokube.com/ggr/latest/) | 275 | 58 | 15 | A lightweight load balancer used to create big Selenium clusters | 2016-06-16 15:33:24 | 2021-11-22 19:39:19 |
 </details>
 
 ### Testing - Testing Frameworks
