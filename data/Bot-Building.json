@@ -1,8 +1,22 @@
 {
 	"name": "Bot Building",
-	"index_last_check": 18,
-	"last_update": 1695968033,
+	"index_last_check": 0,
+	"last_update": 1696032978,
 	"libraries": [
+		{
+			"id": 38029983,
+			"name": "telegram-bot-api",
+			"description": "Golang bindings for the Telegram Bot API",
+			"html_url": "https://github.com/go-telegram-bot-api/telegram-bot-api",
+			"homepage": "https://go-telegram-bot-api.dev",
+			"created_at": "2015-06-25T05:33:57Z",
+			"updated_at": "2023-09-29T19:50:28Z",
+			"svn_url": "https://github.com/go-telegram-bot-api/telegram-bot-api",
+			"stargazers_count": 4967,
+			"watchers_count": 4967,
+			"forks_count": 757,
+			"open_issues_count": 112
+		},
 		{
 			"id": 136217503,
 			"name": "olivia",
@@ -30,20 +44,6 @@
 			"watchers_count": 3261,
 			"forks_count": 393,
 			"open_issues_count": 45
-		},
-		{
-			"id": 38029983,
-			"name": "telegram-bot-api",
-			"description": "Golang bindings for the Telegram Bot API",
-			"html_url": "https://github.com/go-telegram-bot-api/telegram-bot-api",
-			"homepage": "https://go-telegram-bot-api.dev",
-			"created_at": "2015-06-25T05:33:57Z",
-			"updated_at": "2021-07-04T10:54:00Z",
-			"svn_url": "https://github.com/go-telegram-bot-api/telegram-bot-api",
-			"stargazers_count": 2935,
-			"watchers_count": 2935,
-			"forks_count": 489,
-			"open_issues_count": 48
 		},
 		{
 			"id": 144078031,
@@ -178,11 +178,11 @@
 			"html_url": "https://github.com/kyleterry/tenyks",
 			"homepage": "http://tenyks.io",
 			"created_at": "2012-08-26T02:02:24Z",
-			"updated_at": "2021-04-16T01:57:30Z",
+			"updated_at": "2023-09-28T17:37:33Z",
 			"svn_url": "https://github.com/kyleterry/tenyks",
-			"stargazers_count": 169,
-			"watchers_count": 169,
-			"forks_count": 18,
+			"stargazers_count": 176,
+			"watchers_count": 176,
+			"forks_count": 19,
 			"open_issues_count": 12
 		},
 		{
