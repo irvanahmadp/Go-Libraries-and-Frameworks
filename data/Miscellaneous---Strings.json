@@ -1,7 +1,7 @@
 {
 	"name": "Miscellaneous - Strings",
 	"index_last_check": 0,
-	"last_update": 1626661519,
+	"last_update": 1696039787,
 	"libraries": [
 		{
 			"id": 28851913,
@@ -10,11 +10,11 @@
 			"html_url": "https://github.com/huandu/xstrings",
 			"homepage": "",
 			"created_at": "2015-01-06T07:25:26Z",
-			"updated_at": "2021-07-18T01:54:24Z",
+			"updated_at": "2023-09-29T06:38:26Z",
 			"svn_url": "https://github.com/huandu/xstrings",
-			"stargazers_count": 908,
-			"watchers_count": 908,
-			"forks_count": 62,
+			"stargazers_count": 1251,
+			"watchers_count": 1251,
+			"forks_count": 95,
 			"open_issues_count": 0
 		},
 		{
@@ -24,11 +24,11 @@
 			"html_url": "https://github.com/ozgio/strutil",
 			"homepage": "https://pkg.go.dev/github.com/gobeam/Stringy?tab=doc",
 			"created_at": "2018-08-16T06:56:15Z",
-			"updated_at": "2021-07-18T01:53:56Z",
+			"updated_at": "2023-09-27T08:53:39Z",
 			"svn_url": "https://github.com/ozgio/strutil",
-			"stargazers_count": 122,
-			"watchers_count": 122,
-			"forks_count": 13,
+			"stargazers_count": 197,
+			"watchers_count": 197,
+			"forks_count": 24,
 			"open_issues_count": 1
 		},
 		{
@@ -38,12 +38,12 @@
 			"html_url": "https://github.com/gobeam/stringy",
 			"homepage": "https://pkg.go.dev/github.com/gobeam/Stringy?tab=doc",
 			"created_at": "2020-04-03T03:34:10Z",
-			"updated_at": "2021-07-15T17:03:30Z",
+			"updated_at": "2023-09-16T06:40:56Z",
 			"svn_url": "https://github.com/gobeam/stringy",
-			"stargazers_count": 66,
-			"watchers_count": 66,
-			"forks_count": 5,
-			"open_issues_count": 0
+			"stargazers_count": 191,
+			"watchers_count": 191,
+			"forks_count": 17,
+			"open_issues_count": 1
 		}
 	]
 }
