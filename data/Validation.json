@@ -1,7 +1,7 @@
 {
 	"name": "Validation",
 	"index_last_check": 0,
-	"last_update": 1626074552,
+	"last_update": 1696067761,
 	"libraries": [
 		{
 			"id": 30711774,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/go-playground/validator",
 			"homepage": "",
 			"created_at": "2015-02-12T16:32:22Z",
-			"updated_at": "2021-07-12T03:32:33Z",
+			"updated_at": "2023-09-30T09:32:28Z",
 			"svn_url": "https://github.com/go-playground/validator",
-			"stargazers_count": 8166,
-			"watchers_count": 8166,
-			"forks_count": 729,
-			"open_issues_count": 133
+			"stargazers_count": 14076,
+			"watchers_count": 14076,
+			"forks_count": 1212,
+			"open_issues_count": 246
 		},
 		{
 			"id": 21034555,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/asaskevich/govalidator",
 			"homepage": "",
 			"created_at": "2014-06-20T10:45:23Z",
-			"updated_at": "2021-07-11T15:58:52Z",
+			"updated_at": "2023-09-29T12:58:04Z",
 			"svn_url": "https://github.com/asaskevich/govalidator",
-			"stargazers_count": 4831,
-			"watchers_count": 4831,
-			"forks_count": 488,
-			"open_issues_count": 132
+			"stargazers_count": 5793,
+			"watchers_count": 5793,
+			"forks_count": 571,
+			"open_issues_count": 168
 		},
 		{
 			"id": 61687013,
@@ -38,12 +38,12 @@
 			"html_url": "https://github.com/go-ozzo/ozzo-validation",
 			"homepage": "",
 			"created_at": "2016-06-22T03:47:43Z",
-			"updated_at": "2021-07-11T13:49:23Z",
+			"updated_at": "2023-09-28T13:00:37Z",
 			"svn_url": "https://github.com/go-ozzo/ozzo-validation",
-			"stargazers_count": 2213,
-			"watchers_count": 2213,
-			"forks_count": 141,
-			"open_issues_count": 21
+			"stargazers_count": 3350,
+			"watchers_count": 3350,
+			"forks_count": 213,
+			"open_issues_count": 47
 		},
 		{
 			"id": 103425053,
@@ -52,26 +52,26 @@
 			"html_url": "https://github.com/thedevsaddam/govalidator",
 			"homepage": "",
 			"created_at": "2017-09-13T16:42:20Z",
-			"updated_at": "2021-07-12T03:14:37Z",
+			"updated_at": "2023-09-27T10:34:40Z",
 			"svn_url": "https://github.com/thedevsaddam/govalidator",
-			"stargazers_count": 999,
-			"watchers_count": 999,
-			"forks_count": 88,
-			"open_issues_count": 29
+			"stargazers_count": 1243,
+			"watchers_count": 1243,
+			"forks_count": 119,
+			"open_issues_count": 42
 		},
 		{
 			"id": 141109175,
 			"name": "validate",
 			"description": "⚔ Go package for data validation and filtering. support Map, Struct, Form data. Go通用的数据验证与过滤库，使用简单，内置大部分常用验证、过滤器，支持自定义验证器、自定义消息、字段翻译。",
 			"html_url": "https://github.com/gookit/validate",
-			"homepage": "https://pkg.go.dev/github.com/gookit/validate",
+			"homepage": "https://gookit.github.io/validate/",
 			"created_at": "2018-07-16T08:23:49Z",
-			"updated_at": "2021-07-12T05:09:31Z",
+			"updated_at": "2023-09-28T03:11:46Z",
 			"svn_url": "https://github.com/gookit/validate",
-			"stargazers_count": 443,
-			"watchers_count": 443,
-			"forks_count": 65,
-			"open_issues_count": 8
+			"stargazers_count": 948,
+			"watchers_count": 948,
+			"forks_count": 111,
+			"open_issues_count": 20
 		},
 		{
 			"id": 179656868,
@@ -80,26 +80,26 @@
 			"html_url": "https://github.com/osamingo/checkdigit",
 			"homepage": "",
 			"created_at": "2019-04-05T09:46:36Z",
-			"updated_at": "2021-06-23T13:49:51Z",
+			"updated_at": "2023-09-27T03:51:33Z",
 			"svn_url": "https://github.com/osamingo/checkdigit",
-			"stargazers_count": 78,
-			"watchers_count": 78,
-			"forks_count": 2,
-			"open_issues_count": 0
+			"stargazers_count": 103,
+			"watchers_count": 103,
+			"forks_count": 6,
+			"open_issues_count": 1
 		},
 		{
 			"id": 121042058,
 			"name": "validate",
 			"description": "This package provides a framework for writing validations for Go applications.",
 			"html_url": "https://github.com/gobuffalo/validate",
-			"homepage": "https://pkg.go.dev/github.com/gookit/validate",
+			"homepage": "https://gookit.github.io/validate/",
 			"created_at": "2018-02-10T18:25:55Z",
-			"updated_at": "2021-04-01T19:07:51Z",
+			"updated_at": "2023-09-30T08:21:52Z",
 			"svn_url": "https://github.com/gobuffalo/validate",
-			"stargazers_count": 59,
-			"watchers_count": 59,
-			"forks_count": 18,
-			"open_issues_count": 5
+			"stargazers_count": 91,
+			"watchers_count": 91,
+			"forks_count": 21,
+			"open_issues_count": 0
 		},
 		{
 			"id": 155061556,
@@ -108,12 +108,12 @@
 			"html_url": "https://github.com/faceair/jio",
 			"homepage": "",
 			"created_at": "2018-10-28T11:02:45Z",
-			"updated_at": "2021-05-26T03:38:40Z",
+			"updated_at": "2023-09-27T03:52:24Z",
 			"svn_url": "https://github.com/faceair/jio",
-			"stargazers_count": 58,
-			"watchers_count": 58,
-			"forks_count": 9,
-			"open_issues_count": 0
+			"stargazers_count": 90,
+			"watchers_count": 90,
+			"forks_count": 11,
+			"open_issues_count": 1
 		},
 		{
 			"id": 189213434,
@@ -122,12 +122,12 @@
 			"html_url": "https://github.com/thazelart/terraform-validator",
 			"homepage": "",
 			"created_at": "2019-05-29T11:37:15Z",
-			"updated_at": "2021-07-04T00:28:42Z",
+			"updated_at": "2023-09-29T13:16:57Z",
 			"svn_url": "https://github.com/thazelart/terraform-validator",
-			"stargazers_count": 58,
-			"watchers_count": 58,
-			"forks_count": 4,
-			"open_issues_count": 6
+			"stargazers_count": 80,
+			"watchers_count": 80,
+			"forks_count": 9,
+			"open_issues_count": 1
 		},
 		{
 			"id": 155776017,
@@ -136,11 +136,11 @@
 			"html_url": "https://github.com/guiferpa/gody",
 			"homepage": "https://pkg.go.dev/github.com/guiferpa/gody",
 			"created_at": "2018-11-01T21:08:16Z",
-			"updated_at": "2021-02-19T02:07:17Z",
+			"updated_at": "2023-09-27T03:51:42Z",
 			"svn_url": "https://github.com/guiferpa/gody",
-			"stargazers_count": 49,
-			"watchers_count": 49,
-			"forks_count": 3,
+			"stargazers_count": 64,
+			"watchers_count": 64,
+			"forks_count": 5,
 			"open_issues_count": 1
 		},
 		{
@@ -150,12 +150,12 @@
 			"html_url": "https://github.com/twharmon/govalid",
 			"homepage": "",
 			"created_at": "2019-02-17T23:25:43Z",
-			"updated_at": "2021-06-22T18:28:35Z",
+			"updated_at": "2023-09-27T03:51:47Z",
 			"svn_url": "https://github.com/twharmon/govalid",
-			"stargazers_count": 22,
-			"watchers_count": 22,
-			"forks_count": 3,
-			"open_issues_count": 0
+			"stargazers_count": 35,
+			"watchers_count": 35,
+			"forks_count": 6,
+			"open_issues_count": 1
 		}
 	]
 }

@@ -1,21 +1,21 @@
 {
 	"name": "Continuous Integration",
 	"index_last_check": 0,
-	"last_update": 1626143101,
+	"last_update": 1696067770,
 	"libraries": [
 		{
 			"id": 16607898,
-			"name": "drone",
-			"description": "Drone is a Container-Native, Continuous Delivery Platform",
-			"html_url": "https://github.com/drone/drone",
-			"homepage": "https://drone.io",
+			"name": "gitness",
+			"description": "Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.",
+			"html_url": "https://github.com/harness/gitness",
+			"homepage": "https://gitness.com",
 			"created_at": "2014-02-07T07:54:44Z",
-			"updated_at": "2021-07-13T02:20:06Z",
-			"svn_url": "https://github.com/drone/drone",
-			"stargazers_count": 23511,
-			"watchers_count": 23511,
-			"forks_count": 2295,
-			"open_issues_count": 52
+			"updated_at": "2023-09-30T09:27:04Z",
+			"svn_url": "https://github.com/harness/gitness",
+			"stargazers_count": 29192,
+			"watchers_count": 29192,
+			"forks_count": 2707,
+			"open_issues_count": 119
 		},
 		{
 			"id": 70572539,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/ovh/cds",
 			"homepage": "https://ovh.github.io/cds/",
 			"created_at": "2016-10-11T08:28:23Z",
-			"updated_at": "2021-07-11T22:29:24Z",
+			"updated_at": "2023-09-29T10:34:53Z",
 			"svn_url": "https://github.com/ovh/cds",
-			"stargazers_count": 3471,
-			"watchers_count": 3471,
-			"forks_count": 327,
-			"open_issues_count": 165
+			"stargazers_count": 4304,
+			"watchers_count": 4304,
+			"forks_count": 405,
+			"open_issues_count": 140
 		},
 		{
 			"id": 9495505,
@@ -38,12 +38,12 @@
 			"html_url": "https://github.com/mattn/goveralls",
 			"homepage": "",
 			"created_at": "2013-04-17T10:58:40Z",
-			"updated_at": "2021-07-05T20:47:57Z",
+			"updated_at": "2023-09-10T09:19:12Z",
 			"svn_url": "https://github.com/mattn/goveralls",
-			"stargazers_count": 692,
-			"watchers_count": 692,
-			"forks_count": 129,
-			"open_issues_count": 11
+			"stargazers_count": 766,
+			"watchers_count": 766,
+			"forks_count": 140,
+			"open_issues_count": 17
 		},
 		{
 			"id": 39947173,
@@ -52,12 +52,12 @@
 			"html_url": "https://github.com/go-playground/overalls",
 			"homepage": "",
 			"created_at": "2015-07-30T11:30:11Z",
-			"updated_at": "2021-03-06T16:05:33Z",
+			"updated_at": "2023-09-26T23:10:39Z",
 			"svn_url": "https://github.com/go-playground/overalls",
-			"stargazers_count": 106,
-			"watchers_count": 106,
-			"forks_count": 26,
-			"open_issues_count": 3
+			"stargazers_count": 113,
+			"watchers_count": 113,
+			"forks_count": 25,
+			"open_issues_count": 2
 		},
 		{
 			"id": 127587125,
@@ -66,12 +66,12 @@
 			"html_url": "https://github.com/duck8823/duci",
 			"homepage": "",
 			"created_at": "2018-04-01T01:51:02Z",
-			"updated_at": "2021-07-01T15:48:22Z",
+			"updated_at": "2023-04-13T01:57:00Z",
 			"svn_url": "https://github.com/duck8823/duci",
-			"stargazers_count": 66,
-			"watchers_count": 66,
-			"forks_count": 3,
-			"open_issues_count": 5
+			"stargazers_count": 74,
+			"watchers_count": 74,
+			"forks_count": 5,
+			"open_issues_count": 10
 		},
 		{
 			"id": 111165010,
@@ -80,12 +80,12 @@
 			"html_url": "https://github.com/nikogura/gomason",
 			"homepage": "",
 			"created_at": "2017-11-18T00:59:11Z",
-			"updated_at": "2021-07-08T22:23:01Z",
+			"updated_at": "2023-08-20T07:22:59Z",
 			"svn_url": "https://github.com/nikogura/gomason",
-			"stargazers_count": 50,
-			"watchers_count": 50,
-			"forks_count": 6,
-			"open_issues_count": 2
+			"stargazers_count": 58,
+			"watchers_count": 58,
+			"forks_count": 8,
+			"open_issues_count": 4
 		},
 		{
 			"id": 61979066,
@@ -94,11 +94,11 @@
 			"html_url": "https://github.com/lawrencewoodman/roveralls",
 			"homepage": "",
 			"created_at": "2016-06-26T07:45:32Z",
-			"updated_at": "2020-08-20T00:07:58Z",
+			"updated_at": "2022-09-26T09:24:45Z",
 			"svn_url": "https://github.com/lawrencewoodman/roveralls",
-			"stargazers_count": 14,
-			"watchers_count": 14,
-			"forks_count": 4,
+			"stargazers_count": 19,
+			"watchers_count": 19,
+			"forks_count": 5,
 			"open_issues_count": 0
 		}
 	]
