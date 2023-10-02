@@ -1,8 +1,8 @@
 {
-	"last_update": 1696167317,
+	"last_update": 1696254646,
 	"rate_limit": 60,
 	"rate_limit_remaining": 0,
-	"rate_limit_reset": 1696170440,
+	"rate_limit_reset": 1696258046,
 	"categories": [
 		{
 			"name": "Audio and Music",
@@ -107,7 +107,7 @@
 		{
 			"name": "Dynamic DNS",
 			"description": "Tools for updating dynamic DNS records.",
-			"last_update": 1626661521
+			"last_update": 1696254643
 		},
 		{
 			"name": "Email",
@@ -312,7 +312,7 @@
 		{
 			"name": "Server Applications",
 			"description": "",
-			"last_update": 1626315905
+			"last_update": 1696254622
 		},
 		{
 			"name": "Stream Processing",
@@ -357,7 +357,7 @@
 		{
 			"name": "Text Processing - Utility",
 			"description": "",
-			"last_update": 1626315914
+			"last_update": 1696254637
 		},
 		{
 			"name": "Third-party APIs",
@@ -367,7 +367,7 @@
 		{
 			"name": "UUID",
 			"description": "Libraries for working with UUIDs.",
-			"last_update": 1626315901
+			"last_update": 1696254616
 		},
 		{
 			"name": "Utilities",

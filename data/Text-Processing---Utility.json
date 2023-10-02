@@ -1,7 +1,7 @@
 {
 	"name": "Text Processing - Utility",
 	"index_last_check": 0,
-	"last_update": 1626315914,
+	"last_update": 1696254637,
 	"libraries": [
 		{
 			"id": 29113216,
@@ -10,11 +10,11 @@
 			"html_url": "https://github.com/mvdan/xurls",
 			"homepage": "https://tysug.net",
 			"created_at": "2015-01-12T01:28:46Z",
-			"updated_at": "2021-07-13T14:47:26Z",
+			"updated_at": "2023-10-01T20:58:37Z",
 			"svn_url": "https://github.com/mvdan/xurls",
-			"stargazers_count": 799,
-			"watchers_count": 799,
-			"forks_count": 93,
+			"stargazers_count": 1076,
+			"watchers_count": 1076,
+			"forks_count": 113,
 			"open_issues_count": 1
 		},
 		{
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/bndr/gotabulate",
 			"homepage": "",
 			"created_at": "2014-08-21T07:44:28Z",
-			"updated_at": "2021-07-05T14:37:13Z",
+			"updated_at": "2023-08-25T02:59:22Z",
 			"svn_url": "https://github.com/bndr/gotabulate",
-			"stargazers_count": 267,
-			"watchers_count": 267,
-			"forks_count": 27,
-			"open_issues_count": 6
+			"stargazers_count": 302,
+			"watchers_count": 302,
+			"forks_count": 29,
+			"open_issues_count": 5
 		},
 		{
 			"id": 93867851,
@@ -38,11 +38,11 @@
 			"html_url": "https://github.com/yourbasic/radix",
 			"homepage": "",
 			"created_at": "2017-06-09T14:38:58Z",
-			"updated_at": "2021-06-28T03:33:25Z",
+			"updated_at": "2023-08-23T11:19:55Z",
 			"svn_url": "https://github.com/yourbasic/radix",
-			"stargazers_count": 173,
-			"watchers_count": 173,
-			"forks_count": 9,
+			"stargazers_count": 186,
+			"watchers_count": 186,
+			"forks_count": 11,
 			"open_issues_count": 0
 		},
 		{
@@ -52,26 +52,12 @@
 			"html_url": "https://github.com/oriser/regroup",
 			"homepage": "",
 			"created_at": "2020-09-08T19:04:42Z",
-			"updated_at": "2021-07-09T10:45:56Z",
+			"updated_at": "2023-10-02T07:15:05Z",
 			"svn_url": "https://github.com/oriser/regroup",
-			"stargazers_count": 87,
-			"watchers_count": 87,
-			"forks_count": 6,
-			"open_issues_count": 1
-		},
-		{
-			"id": 33510067,
-			"name": "parth",
-			"description": "Path parsing for segment unmarshaling and slicing.",
-			"html_url": "https://github.com/codemodus/parth",
-			"homepage": "",
-			"created_at": "2015-04-06T22:53:59Z",
-			"updated_at": "2021-03-27T05:04:42Z",
-			"svn_url": "https://github.com/codemodus/parth",
-			"stargazers_count": 40,
-			"watchers_count": 40,
-			"forks_count": 4,
-			"open_issues_count": 0
+			"stargazers_count": 135,
+			"watchers_count": 135,
+			"forks_count": 12,
+			"open_issues_count": 2
 		},
 		{
 			"id": 147979190,
@@ -80,25 +66,39 @@
 			"html_url": "https://github.com/JoshuaDoes/gofuckyourself",
 			"homepage": "",
 			"created_at": "2018-09-09T00:07:26Z",
-			"updated_at": "2021-07-03T21:08:29Z",
+			"updated_at": "2023-09-08T03:32:12Z",
 			"svn_url": "https://github.com/JoshuaDoes/gofuckyourself",
-			"stargazers_count": 37,
-			"watchers_count": 37,
-			"forks_count": 3,
-			"open_issues_count": 1
+			"stargazers_count": 58,
+			"watchers_count": 58,
+			"forks_count": 8,
+			"open_issues_count": 4
+		},
+		{
+			"id": 33510067,
+			"name": "parth",
+			"description": "Path parsing for segment unmarshaling and slicing.",
+			"html_url": "https://github.com/codemodus/parth",
+			"homepage": "",
+			"created_at": "2015-04-06T22:53:59Z",
+			"updated_at": "2023-01-08T16:11:52Z",
+			"svn_url": "https://github.com/codemodus/parth",
+			"stargazers_count": 43,
+			"watchers_count": 43,
+			"forks_count": 6,
+			"open_issues_count": 0
 		},
 		{
 			"id": 104077592,
 			"name": "xj2go",
 			"description": "Convert xml and json to go struct",
-			"html_url": "https://github.com/wk30/xj2go",
+			"html_url": "https://github.com/cgxxv/xj2go",
 			"homepage": "https://tysug.net",
 			"created_at": "2017-09-19T13:20:57Z",
-			"updated_at": "2021-07-07T13:14:07Z",
-			"svn_url": "https://github.com/wk30/xj2go",
-			"stargazers_count": 20,
-			"watchers_count": 20,
-			"forks_count": 5,
+			"updated_at": "2023-09-15T15:57:48Z",
+			"svn_url": "https://github.com/cgxxv/xj2go",
+			"stargazers_count": 33,
+			"watchers_count": 33,
+			"forks_count": 8,
 			"open_issues_count": 0
 		},
 		{
@@ -108,12 +108,12 @@
 			"html_url": "https://github.com/zoomio/tagify",
 			"homepage": "https://www.zoomio.org/tagify",
 			"created_at": "2018-03-20T10:30:11Z",
-			"updated_at": "2021-07-04T11:15:17Z",
+			"updated_at": "2023-10-02T06:58:10Z",
 			"svn_url": "https://github.com/zoomio/tagify",
-			"stargazers_count": 17,
-			"watchers_count": 17,
-			"forks_count": 0,
-			"open_issues_count": 0
+			"stargazers_count": 33,
+			"watchers_count": 33,
+			"forks_count": 2,
+			"open_issues_count": 3
 		},
 		{
 			"id": 36894128,
@@ -122,11 +122,11 @@
 			"html_url": "https://github.com/codemodus/kace",
 			"homepage": "",
 			"created_at": "2015-06-04T20:36:49Z",
-			"updated_at": "2020-09-27T22:30:36Z",
+			"updated_at": "2023-08-01T23:38:06Z",
 			"svn_url": "https://github.com/codemodus/kace",
-			"stargazers_count": 16,
-			"watchers_count": 16,
-			"forks_count": 1,
+			"stargazers_count": 20,
+			"watchers_count": 20,
+			"forks_count": 3,
 			"open_issues_count": 1
 		},
 		{
@@ -136,12 +136,12 @@
 			"html_url": "https://github.com/Dynom/TySug",
 			"homepage": "https://tysug.net",
 			"created_at": "2018-06-05T19:46:29Z",
-			"updated_at": "2021-06-29T10:37:35Z",
+			"updated_at": "2023-08-03T19:29:18Z",
 			"svn_url": "https://github.com/Dynom/TySug",
-			"stargazers_count": 10,
-			"watchers_count": 10,
-			"forks_count": 1,
-			"open_issues_count": 0
+			"stargazers_count": 17,
+			"watchers_count": 17,
+			"forks_count": 3,
+			"open_issues_count": 2
 		},
 		{
 			"id": 52403028,
@@ -150,11 +150,11 @@
 			"html_url": "https://github.com/txgruppi/parseargs-go",
 			"homepage": "",
 			"created_at": "2016-02-24T00:53:38Z",
-			"updated_at": "2020-05-16T17:37:29Z",
+			"updated_at": "2023-06-15T15:58:40Z",
 			"svn_url": "https://github.com/txgruppi/parseargs-go",
-			"stargazers_count": 8,
-			"watchers_count": 8,
-			"forks_count": 3,
+			"stargazers_count": 9,
+			"watchers_count": 9,
+			"forks_count": 5,
 			"open_issues_count": 1
 		},
 		{
@@ -164,11 +164,11 @@
 			"html_url": "https://github.com/isbm/textwrap",
 			"homepage": "https://www.zoomio.org/tagify",
 			"created_at": "2019-07-26T17:57:55Z",
-			"updated_at": "2020-12-22T12:39:59Z",
+			"updated_at": "2023-08-21T08:56:49Z",
 			"svn_url": "https://github.com/isbm/textwrap",
-			"stargazers_count": 2,
-			"watchers_count": 2,
-			"forks_count": 0,
+			"stargazers_count": 5,
+			"watchers_count": 5,
+			"forks_count": 4,
 			"open_issues_count": 1
 		}
 	]

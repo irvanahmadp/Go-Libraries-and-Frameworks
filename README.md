@@ -795,13 +795,13 @@ Packages that help with building Distributed Systems.
 ### Dynamic DNS
 Tools for updating dynamic DNS records.
 
-<sup>*Last Update: 2023-09-30 09:09:48*</sup>
+<sup>*Last Update: 2023-10-02 20:50:43*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [godns](https://xiaozhou.net/godns-project-2014-05-18.html) | 1,351 | 232 | 17 | A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go. | 2014-05-11 11:49:17 | 2023-09-28 10:24:52 |
+| [godns](https://xiaozhou.net/godns-project-2014-05-18.html) | 1,349 | 233 | 14 | A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go. | 2014-05-11 11:49:17 | 2023-10-02 04:29:24 |
 | [ddns](https://github.com/skibish/ddns) | 239 | 22 | 1 | Personal DDNS client with Digital Ocean Networking DNS as backend. | 2017-03-13 21:02:27 | 2023-09-24 14:01:53 |
 </details>
 
@@ -2017,37 +2017,37 @@ Libraries and tools for binary serialization.
 ### Server Applications
 
 
-<sup>*Last Update: 2021-07-15 09:25:05*</sup>
+<sup>*Last Update: 2023-10-02 20:50:22*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [etcd](https://etcd.io) | 36,552 | 7,814 | 214 | Distributed reliable key-value store for the most critical data of a distributed system | 2013-07-06 21:57:21 | 2021-07-15 01:35:16 |
-| [caddy](https://caddyserver.com) | 33,952 | 2,740 | 73 | Fast, multi-platform web server with automatic HTTPS | 2015-01-13 19:45:03 | 2021-07-14 23:16:45 |
-| [minio](https://min.io/download) | 28,451 | 3,122 | 35 | High Performance, Kubernetes Native Object Storage | 2015-01-14 19:23:58 | 2021-07-15 01:27:33 |
-| [consul](https://www.consul.io) | 22,505 | 3,779 | 907 | Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. | 2013-11-04 22:15:27 | 2021-07-15 02:20:33 |
-| [nsq](https://nsq.io) | 19,937 | 2,585 | 62 | A realtime distributed messaging platform | 2012-05-12 14:37:08 | 2021-07-14 23:04:45 |
-| [roadrunner](https://roadrunner.dev/) | 5,727 | 308 | 41 | High-performance PHP application server, load-balancer and process manager written in Golang | 2017-12-26 16:13:10 | 2021-07-14 18:24:38 |
-| [devd](https://github.com/cortesi/devd) | 3,142 | 138 | 21 |  A local webserver for developers | 2015-09-27 22:43:00 | 2021-07-14 21:14:52 |
-| [sftpgo](https://github.com/drakkan/sftpgo) | 2,757 | 209 | 7 | Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob | 2019-07-20 10:18:31 | 2021-07-14 20:25:35 |
-| [algernon](https://algernon.roboticoverlords.org) | 1,824 | 98 | 11 | :tophat: Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support | 2015-03-10 11:25:30 | 2021-07-13 23:18:40 |
-| [flagr](https://checkr.github.io/flagr) | 1,618 | 142 | 63 | Flagr is a feature flagging, A/B testing and dynamic configuration microservice | 2017-10-03 19:07:32 | 2021-07-13 07:14:48 |
-| [fider](https://getfider.com) | 1,604 | 445 | 31 | Open platform to collect and prioritize product feedback | 2017-01-17 22:55:19 | 2021-07-14 04:19:57 |
-| [flipt](https://flipt.io) | 1,521 | 72 | 12 | An open-source, on-prem feature flag solution | 2016-11-05 00:09:07 | 2021-07-15 01:15:09 |
-| [trickster](https://trickstercache.org) | 1,452 | 139 | 19 | Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator | 2018-03-29 20:31:44 | 2021-07-14 15:32:45 |
-| [discovery](https://github.com/bilibili/discovery) | 1,437 | 336 | 18 | A registry for resilient mid-tier load balancing and failover. | 2018-04-20 12:57:50 | 2021-07-14 14:36:28 |
-| [jackal](https://github.com/ortuman/jackal) | 1,103 | 88 | 10 | 💬 Instant messaging server for the Extensible Messaging and Presence Protocol (XMPP). | 2017-11-13 18:17:48 | 2021-07-13 04:03:55 |
-| [go-feature-flag](https://thomaspoignant.github.io/go-feature-flag) | 341 | 10 | 9 | A simple and complete feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️ | 2020-12-11 13:19:17 | 2021-07-14 17:56:55 |
-| [dudeldu](https://github.com/krotik/dudeldu) | 129 | 12 | 0 | A simple SHOUTcast server. | 2016-09-07 19:11:04 | 2021-07-12 07:03:25 |
-| [lets-proxy2](https://github.com/rekby/lets-proxy2) | 56 | 6 | 31 | Reverse proxy with automatically obtains TLS certificates from Let's Encrypt | 2019-04-12 05:39:43 | 2021-07-03 06:26:03 |
-| [psql-streamer](https://github.com/blind-oracle/psql-streamer) | 28 | 4 | 1 | Stream database events from PostgreSQL to Kafka | 2019-04-28 21:55:31 | 2021-05-01 06:49:46 |
-| [nginx-prometheus](https://github.com/blind-oracle/nginx-prometheus) | 22 | 3 | 0 | Turn Nginx logs into Prometheus metrics | 2018-10-23 09:10:27 | 2021-05-21 16:30:18 |
-| [simple-jwt-provider](https://github.com/leberKleber/simple-jwt-provider) | 18 | 2 | 5 | Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob | 2019-12-18 12:48:14 | 2021-06-05 11:57:06 |
-| [protoxy](https://github.com/camgraff/protoxy) | 16 | 1 | 0 | A proxy server than converts JSON request bodies to protocol buffers | 2020-09-03 23:24:34 | 2021-05-21 16:35:18 |
-| [cortex-tenant](https://github.com/blind-oracle/cortex-tenant) | 15 | 9 | 0 | Prometheus remote write proxy that adds Cortex tenant ID based on metric labels | 2020-10-06 16:52:25 | 2021-06-22 20:37:09 |
-| [go-proxy-cache](https://github.com/fabiocicerchia/go-proxy-cache) | 10 | 2 | 37 | Simple Reverse Proxy with Caching, written in Go, using Redis. | 2020-11-12 15:10:40 | 2021-07-14 20:08:07 |
-| [riemann-relay](https://github.com/blind-oracle/riemann-relay) | 0 | 0 | 0 | Service for relaying Riemann events to Riemann/Carbon destinations | 2019-04-23 14:17:12 | 2019-10-29 15:00:17 |
+| [caddy](https://caddyserver.com) | 49,948 | 3,818 | 141 | Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS | 2015-01-13 19:45:03 | 2023-10-02 13:22:44 |
+| [etcd](https://etcd.io) | 44,595 | 9,493 | 236 | Distributed reliable key-value store for the most critical data of a distributed system | 2013-07-06 21:57:21 | 2023-10-02 13:37:40 |
+| [minio](https://min.io/download) | 40,981 | 4,932 | 41 | High Performance Object Storage for AI | 2015-01-14 19:23:58 | 2023-10-02 13:11:17 |
+| [consul](https://www.consul.io) | 26,945 | 4,388 | 1,246 | Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. | 2013-11-04 22:15:27 | 2023-10-02 10:39:09 |
+| [nsq](https://nsq.io) | 23,802 | 2,890 | 65 | A realtime distributed messaging platform | 2012-05-12 14:37:08 | 2023-10-02 12:28:11 |
+| [roadrunner](https://roadrunner.dev) | 7,388 | 400 | 52 | 🤯 High-performance PHP application server, process manager written in Go and powered with plugins | 2017-12-26 16:13:10 | 2023-10-02 09:52:08 |
+| [sftpgo](https://github.com/drakkan/sftpgo) | 6,815 | 586 | 18 | Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob | 2019-07-20 10:18:31 | 2023-10-02 08:42:20 |
+| [devd](https://github.com/cortesi/devd) | 3,350 | 150 | 25 |  A local webserver for developers | 2015-09-27 22:43:00 | 2023-09-25 12:24:40 |
+| [flipt](https://flipt.io) | 2,838 | 143 | 18 | An open source, self-hosted feature flag solution | 2016-11-05 00:09:07 | 2023-10-01 16:09:03 |
+| [fider](https://fider.io) | 2,426 | 584 | 47 | Open platform to collect and prioritize feedback | 2017-01-17 22:55:19 | 2023-10-02 11:24:48 |
+| [algernon](https://algernon.roboticoverlords.org) | 2,297 | 121 | 22 | Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support | 2015-03-10 11:25:30 | 2023-09-30 15:51:46 |
+| [flagr](https://openflagr.github.io/flagr) | 2,234 | 184 | 2 | Flagr is a feature flagging, A/B testing and dynamic configuration microservice | 2017-10-03 19:07:32 | 2023-10-01 08:36:46 |
+| [trickster](https://trickstercache.org) | 1,909 | 171 | 57 | Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator | 2018-03-29 20:31:44 | 2023-09-29 03:35:29 |
+| [discovery](https://github.com/bilibili/discovery) | 1,760 | 399 | 26 | A registry for resilient mid-tier load balancing and failover. | 2018-04-20 12:57:50 | 2023-09-27 09:28:48 |
+| [jackal](https://github.com/ortuman/jackal) | 1,429 | 132 | 22 | 💬 Instant messaging server for the Extensible Messaging and Presence Protocol (XMPP). | 2017-11-13 18:17:48 | 2023-10-02 00:29:32 |
+| [go-feature-flag](https://gofeatureflag.org) | 832 | 70 | 9 | GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ | 2020-12-11 13:19:17 | 2023-10-02 00:56:11 |
+| [dudeldu](https://github.com/krotik/dudeldu) | 141 | 17 | 0 | A simple SHOUTcast server. | 2016-09-07 19:11:04 | 2023-09-12 19:18:45 |
+| [go-proxy-cache](https://github.com/fabiocicerchia/go-proxy-cache) | 100 | 13 | 25 | Simple Reverse Proxy with Caching, written in Go, using Redis. | 2020-11-12 15:10:40 | 2023-09-18 15:18:38 |
+| [lets-proxy2](https://github.com/rekby/lets-proxy2) | 82 | 16 | 40 | Reverse proxy with automatically obtains TLS certificates from Let's Encrypt | 2019-04-12 05:39:43 | 2023-09-18 15:18:41 |
+| [cortex-tenant](https://github.com/blind-oracle/cortex-tenant) | 75 | 49 | 5 | Prometheus remote write proxy that adds Cortex/Mimir tenant ID based on metric labels | 2020-10-06 16:52:25 | 2023-09-28 06:44:51 |
+| [psql-streamer](https://github.com/blind-oracle/psql-streamer) | 53 | 13 | 2 | Stream database events from PostgreSQL to Kafka | 2019-04-28 21:55:31 | 2023-09-18 15:18:50 |
+| [nginx-prometheus](https://github.com/blind-oracle/nginx-prometheus) | 38 | 5 | 0 | Turn Nginx logs into Prometheus metrics | 2018-10-23 09:10:27 | 2023-09-18 15:18:48 |
+| [simple-jwt-provider](https://github.com/leberKleber/simple-jwt-provider) | 35 | 5 | 5 | Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob | 2019-12-18 12:48:14 | 2023-09-18 15:19:35 |
+| [protoxy](https://github.com/camgraff/protoxy) | 32 | 5 | 0 | A proxy server than converts JSON request bodies to protocol buffers | 2020-09-03 23:24:34 | 2023-09-28 09:34:44 |
+| [riemann-relay](https://github.com/blind-oracle/riemann-relay) | 2 | 2 | 0 | Service for relaying Riemann events to Riemann/Carbon destinations | 2019-04-23 14:17:12 | 2022-09-27 09:23:35 |
 </details>
 
 ### Stream Processing
@@ -2290,24 +2290,24 @@ Libraries and tools for templating and lexing.
 ### Text Processing - Utility
 
 
-<sup>*Last Update: 2021-07-15 09:25:14*</sup>
+<sup>*Last Update: 2023-10-02 20:50:37*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [xurls](https://tysug.net) | 799 | 93 | 1 | Extract urls from text | 2015-01-12 01:28:46 | 2021-07-13 14:47:26 |
-| [gotabulate](https://github.com/bndr/gotabulate) | 267 | 27 | 6 | Gotabulate - Easily pretty-print your tabular data with Go | 2014-08-21 07:44:28 | 2021-07-05 14:37:13 |
-| [radix](https://github.com/yourbasic/radix) | 173 | 9 | 0 | A fast string sorting algorithm (MSD radix sort) | 2017-06-09 14:38:58 | 2021-06-28 03:33:25 |
-| [regroup](https://github.com/oriser/regroup) | 87 | 6 | 1 | Match regex group into go struct using struct tags and automatic parsing | 2020-09-08 19:04:42 | 2021-07-09 10:45:56 |
-| [parth](https://github.com/codemodus/parth) | 40 | 4 | 0 | Path parsing for segment unmarshaling and slicing. | 2015-04-06 22:53:59 | 2021-03-27 05:04:42 |
-| [gofuckyourself](https://github.com/JoshuaDoes/gofuckyourself) | 37 | 3 | 1 | A sanitization-based swear filter for Go. | 2018-09-09 00:07:26 | 2021-07-03 21:08:29 |
-| [xj2go](https://tysug.net) | 20 | 5 | 0 | Convert xml and json to go struct | 2017-09-19 13:20:57 | 2021-07-07 13:14:07 |
-| [tagify](https://www.zoomio.org/tagify) | 17 | 0 | 0 | Tagify produces a set of tags from a given source. Source can be either an HTML page, a Markdown document or a plain text. Supports English, Russian, Chinese, Hindi, Spanish, Arabic, Japanese, German, Hebrew, French and Korean languages. | 2018-03-20 10:30:11 | 2021-07-04 11:15:17 |
-| [kace](https://github.com/codemodus/kace) | 16 | 1 | 1 | Common case conversions covering common initialisms. | 2015-06-04 20:36:49 | 2020-09-27 22:30:36 |
-| [TySug](https://tysug.net) | 10 | 1 | 0 | A project around helping to prevent typing typos. TySug (Typo Suggestions) suggests alternative words with respect to keyboard layouts | 2018-06-05 19:46:29 | 2021-06-29 10:37:35 |
-| [parseargs-go](https://github.com/txgruppi/parseargs-go) | 8 | 3 | 1 | A string argument parser that understands quotes and backslashes | 2016-02-24 00:53:38 | 2020-05-16 17:37:29 |
-| [textwrap](https://www.zoomio.org/tagify) | 2 | 0 | 1 | Port of Python's "textwrap" module to Go | 2019-07-26 17:57:55 | 2020-12-22 12:39:59 |
+| [xurls](https://tysug.net) | 1,076 | 113 | 1 | Extract urls from text | 2015-01-12 01:28:46 | 2023-10-01 20:58:37 |
+| [gotabulate](https://github.com/bndr/gotabulate) | 302 | 29 | 5 | Gotabulate - Easily pretty-print your tabular data with Go | 2014-08-21 07:44:28 | 2023-08-25 02:59:22 |
+| [radix](https://github.com/yourbasic/radix) | 186 | 11 | 0 | A fast string sorting algorithm (MSD radix sort) | 2017-06-09 14:38:58 | 2023-08-23 11:19:55 |
+| [regroup](https://github.com/oriser/regroup) | 135 | 12 | 2 | Match regex group into go struct using struct tags and automatic parsing | 2020-09-08 19:04:42 | 2023-10-02 07:15:05 |
+| [gofuckyourself](https://github.com/JoshuaDoes/gofuckyourself) | 58 | 8 | 4 | A sanitization-based swear filter for Go. | 2018-09-09 00:07:26 | 2023-09-08 03:32:12 |
+| [parth](https://github.com/codemodus/parth) | 43 | 6 | 0 | Path parsing for segment unmarshaling and slicing. | 2015-04-06 22:53:59 | 2023-01-08 16:11:52 |
+| [xj2go](https://tysug.net) | 33 | 8 | 0 | Convert xml and json to go struct | 2017-09-19 13:20:57 | 2023-09-15 15:57:48 |
+| [tagify](https://www.zoomio.org/tagify) | 33 | 2 | 3 | Tagify produces a set of tags from a given source. Source can be either an HTML page, a Markdown document or a plain text. Supports English, Russian, Chinese, Hindi, Spanish, Arabic, Japanese, German, Hebrew, French and Korean languages. | 2018-03-20 10:30:11 | 2023-10-02 06:58:10 |
+| [kace](https://github.com/codemodus/kace) | 20 | 3 | 1 | Common case conversions covering common initialisms. | 2015-06-04 20:36:49 | 2023-08-01 23:38:06 |
+| [TySug](https://tysug.net) | 17 | 3 | 2 | A project around helping to prevent typing typos. TySug (Typo Suggestions) suggests alternative words with respect to keyboard layouts | 2018-06-05 19:46:29 | 2023-08-03 19:29:18 |
+| [parseargs-go](https://github.com/txgruppi/parseargs-go) | 9 | 5 | 1 | A string argument parser that understands quotes and backslashes | 2016-02-24 00:53:38 | 2023-06-15 15:58:40 |
+| [textwrap](https://www.zoomio.org/tagify) | 5 | 4 | 1 | Port of Python's "textwrap" module to Go | 2019-07-26 17:57:55 | 2023-08-21 08:56:49 |
 </details>
 
 ### Third-party APIs
@@ -2411,15 +2411,15 @@ Libraries for accessing third party APIs.
 ### UUID
 Libraries for working with UUIDs.
 
-<sup>*Last Update: 2023-10-01 20:35:12*</sup>
+<sup>*Last Update: 2023-10-02 20:50:16*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [uuid](https://github.com/google/uuid) | 4,620 | 381 | 28 | Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services. | 2016-02-12 22:17:59 | 2023-09-30 14:51:39 |
-| [ulid](https://github.com/oklog/ulid) | 3,729 | 145 | 3 | Universally Unique Lexicographically Sortable Identifier (ULID) in Go | 2016-12-06 15:26:52 | 2023-09-30 08:21:36 |
-| [uuid](https://gof.rs/projects/uuid/) | 1,421 | 103 | 7 | A UUID package originally forked from github.com/satori/go.uuid | 2018-07-13 02:13:28 | 2023-09-26 16:44:02 |
+| [uuid](https://github.com/google/uuid) | 4,622 | 381 | 28 | Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services. | 2016-02-12 22:17:59 | 2023-10-02 07:45:59 |
+| [ulid](https://github.com/oklog/ulid) | 3,731 | 145 | 3 | Universally Unique Lexicographically Sortable Identifier (ULID) in Go | 2016-12-06 15:26:52 | 2023-10-02 12:44:36 |
+| [uuid](https://gof.rs/projects/uuid/) | 1,422 | 103 | 7 | A UUID package originally forked from github.com/satori/go.uuid | 2018-07-13 02:13:28 | 2023-10-02 05:38:00 |
 | [wuid](https://github.com/edwingeng/wuid) | 501 | 48 | 1 | An extremely fast globally unique number generator. | 2018-01-27 01:16:28 | 2023-08-27 12:15:00 |
 | [sno](https://pkg.go.dev/github.com/muyo/sno?tab=doc) | 87 | 5 | 1 | Compact, sortable and fast unique IDs with embedded metadata. | 2019-05-26 22:05:26 | 2023-09-08 05:25:42 |
 | [nanoid](https://github.com/aidarkhanov/nanoid) | 58 | 7 | 0 | A tiny and fast Go unique string generator | 2019-07-02 12:15:56 | 2023-07-10 12:46:11 |
@@ -2798,15 +2798,15 @@ Full stack web frameworks.
 ### Windows
 
 
-<sup>*Last Update: 2021-07-31 09:25:21*</sup>
+<sup>*Last Update: 2023-10-02 20:50:44*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [go-ole](https://github.com/go-ole/go-ole) | 776 | 143 | 58 | win32 ole implementation for golang | 2011-01-21 12:45:20 | 2021-07-30 08:45:56 |
-| [d3d9](https://github.com/gonutz/d3d9) | 124 | 9 | 0 | Direct3D9 wrapper for Go. | 2015-12-12 21:24:38 | 2021-07-02 06:04:58 |
-| [gosddl](https://github.com/MonaxGT/gosddl) | 5 | 1 | 0 | GoSDDL converter | 2018-12-04 08:36:11 | 2021-02-14 13:03:11 |
+| [go-ole](https://github.com/go-ole/go-ole) | 1,025 | 213 | 72 | win32 ole implementation for golang | 2011-01-21 12:45:20 | 2023-09-26 11:08:50 |
+| [d3d9](https://github.com/gonutz/d3d9) | 147 | 13 | 1 | Direct3D9 wrapper for Go. | 2015-12-12 21:24:38 | 2023-09-02 13:30:59 |
+| [gosddl](https://github.com/MonaxGT/gosddl) | 10 | 2 | 0 | GoSDDL converter | 2018-12-04 08:36:11 | 2023-04-23 09:37:32 |
 </details>
 
 ### XML
