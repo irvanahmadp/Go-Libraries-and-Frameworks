@@ -1,7 +1,7 @@
 {
 	"name": "OpenGL",
 	"index_last_check": 0,
-	"last_update": 1626524724,
+	"last_update": 1696317143,
 	"libraries": [
 		{
 			"id": 10151943,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/go-gl/glfw",
 			"homepage": "",
 			"created_at": "2013-05-19T06:38:45Z",
-			"updated_at": "2021-07-17T05:15:01Z",
+			"updated_at": "2023-09-30T06:52:42Z",
 			"svn_url": "https://github.com/go-gl/glfw",
-			"stargazers_count": 1118,
-			"watchers_count": 1118,
-			"forks_count": 136,
-			"open_issues_count": 13
+			"stargazers_count": 1437,
+			"watchers_count": 1437,
+			"forks_count": 194,
+			"open_issues_count": 24
 		},
 		{
 			"id": 31151120,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/go-gl/gl",
 			"homepage": "",
 			"created_at": "2015-02-22T03:29:45Z",
-			"updated_at": "2021-07-16T07:20:09Z",
+			"updated_at": "2023-10-02T13:27:41Z",
 			"svn_url": "https://github.com/go-gl/gl",
-			"stargazers_count": 818,
-			"watchers_count": 818,
-			"forks_count": 56,
-			"open_issues_count": 11
+			"stargazers_count": 986,
+			"watchers_count": 986,
+			"forks_count": 65,
+			"open_issues_count": 16
 		},
 		{
 			"id": 8180452,
@@ -38,11 +38,11 @@
 			"html_url": "https://github.com/go-gl/mathgl",
 			"homepage": "",
 			"created_at": "2013-02-13T14:18:55Z",
-			"updated_at": "2021-07-14T11:28:20Z",
+			"updated_at": "2023-09-17T14:11:56Z",
 			"svn_url": "https://github.com/go-gl/mathgl",
-			"stargazers_count": 383,
-			"watchers_count": 383,
-			"forks_count": 50,
+			"stargazers_count": 504,
+			"watchers_count": 504,
+			"forks_count": 62,
 			"open_issues_count": 9
 		},
 		{
@@ -52,12 +52,12 @@
 			"html_url": "https://github.com/goxjs/gl",
 			"homepage": "",
 			"created_at": "2015-05-18T08:10:15Z",
-			"updated_at": "2021-06-04T02:46:58Z",
+			"updated_at": "2023-09-17T18:54:57Z",
 			"svn_url": "https://github.com/goxjs/gl",
-			"stargazers_count": 150,
-			"watchers_count": 150,
-			"forks_count": 16,
-			"open_issues_count": 9
+			"stargazers_count": 167,
+			"watchers_count": 167,
+			"forks_count": 28,
+			"open_issues_count": 8
 		},
 		{
 			"id": 28548034,
@@ -66,12 +66,12 @@
 			"html_url": "https://github.com/goxjs/glfw",
 			"homepage": "",
 			"created_at": "2014-12-27T22:40:24Z",
-			"updated_at": "2021-04-22T20:14:17Z",
+			"updated_at": "2023-09-17T18:54:49Z",
 			"svn_url": "https://github.com/goxjs/glfw",
-			"stargazers_count": 70,
-			"watchers_count": 70,
-			"forks_count": 15,
-			"open_issues_count": 10
+			"stargazers_count": 79,
+			"watchers_count": 79,
+			"forks_count": 24,
+			"open_issues_count": 6
 		},
 		{
 			"id": 276656482,
@@ -80,11 +80,11 @@
 			"html_url": "https://github.com/technohippy/go-glmatrix",
 			"homepage": "https://github.com/technohippy/go-glmatrix",
 			"created_at": "2020-07-02T13:40:40Z",
-			"updated_at": "2021-03-17T16:22:40Z",
+			"updated_at": "2023-03-04T15:15:00Z",
 			"svn_url": "https://github.com/technohippy/go-glmatrix",
-			"stargazers_count": 2,
-			"watchers_count": 2,
-			"forks_count": 2,
+			"stargazers_count": 7,
+			"watchers_count": 7,
+			"forks_count": 3,
 			"open_issues_count": 0
 		}
 	]

@@ -1,7 +1,7 @@
 {
 	"name": "Testing - Mock",
 	"index_last_check": 0,
-	"last_update": 1626524709,
+	"last_update": 1696317122,
 	"libraries": [
 		{
 			"id": 37334619,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/golang/mock",
 			"homepage": "https://pkg.go.dev/github.com/h2non/gock",
 			"created_at": "2015-06-12T17:15:11Z",
-			"updated_at": "2021-07-17T03:50:39Z",
+			"updated_at": "2023-10-02T13:50:34Z",
 			"svn_url": "https://github.com/golang/mock",
-			"stargazers_count": 5858,
-			"watchers_count": 5858,
-			"forks_count": 443,
-			"open_issues_count": 32
+			"stargazers_count": 9094,
+			"watchers_count": 9094,
+			"forks_count": 693,
+			"open_issues_count": 85
 		},
 		{
 			"id": 16607984,
@@ -24,26 +24,26 @@
 			"html_url": "https://github.com/DATA-DOG/go-sqlmock",
 			"homepage": "",
 			"created_at": "2014-02-07T07:59:29Z",
-			"updated_at": "2021-07-16T16:33:07Z",
+			"updated_at": "2023-10-03T04:14:49Z",
 			"svn_url": "https://github.com/DATA-DOG/go-sqlmock",
-			"stargazers_count": 3651,
-			"watchers_count": 3651,
-			"forks_count": 290,
-			"open_issues_count": 51
+			"stargazers_count": 5495,
+			"watchers_count": 5495,
+			"forks_count": 415,
+			"open_issues_count": 75
 		},
 		{
 			"id": 47131865,
 			"name": "hoverfly",
-			"description": "Lightweight service virtualization/API simulation tool for developers and testers",
+			"description": "Lightweight service virtualization/ API simulation / API mocking tool for developers and testers",
 			"html_url": "https://github.com/SpectoLabs/hoverfly",
 			"homepage": "https://hoverfly.io",
 			"created_at": "2015-11-30T16:36:31Z",
-			"updated_at": "2021-07-12T04:02:00Z",
+			"updated_at": "2023-10-01T02:20:47Z",
 			"svn_url": "https://github.com/SpectoLabs/hoverfly",
-			"stargazers_count": 1759,
-			"watchers_count": 1759,
-			"forks_count": 173,
-			"open_issues_count": 33
+			"stargazers_count": 2255,
+			"watchers_count": 2255,
+			"forks_count": 203,
+			"open_issues_count": 34
 		},
 		{
 			"id": 52977552,
@@ -52,12 +52,12 @@
 			"html_url": "https://github.com/h2non/gock",
 			"homepage": "https://pkg.go.dev/github.com/h2non/gock",
 			"created_at": "2016-03-02T16:20:26Z",
-			"updated_at": "2021-07-16T06:35:52Z",
+			"updated_at": "2023-10-01T19:21:58Z",
 			"svn_url": "https://github.com/h2non/gock",
-			"stargazers_count": 1435,
-			"watchers_count": 1435,
-			"forks_count": 77,
-			"open_issues_count": 28
+			"stargazers_count": 1936,
+			"watchers_count": 1936,
+			"forks_count": 106,
+			"open_issues_count": 40
 		},
 		{
 			"id": 17143026,
@@ -66,12 +66,12 @@
 			"html_url": "https://github.com/jarcoal/httpmock",
 			"homepage": "http://godoc.org/github.com/jarcoal/httpmock",
 			"created_at": "2014-02-24T16:47:59Z",
-			"updated_at": "2021-07-13T10:17:14Z",
+			"updated_at": "2023-09-30T17:47:20Z",
 			"svn_url": "https://github.com/jarcoal/httpmock",
-			"stargazers_count": 1104,
-			"watchers_count": 1104,
-			"forks_count": 82,
-			"open_issues_count": 1
+			"stargazers_count": 1750,
+			"watchers_count": 1750,
+			"forks_count": 101,
+			"open_issues_count": 3
 		},
 		{
 			"id": 20002077,
@@ -80,26 +80,12 @@
 			"html_url": "https://github.com/maxbrunsfeld/counterfeiter",
 			"homepage": "",
 			"created_at": "2014-05-21T00:12:54Z",
-			"updated_at": "2021-07-16T15:33:06Z",
+			"updated_at": "2023-09-30T18:53:12Z",
 			"svn_url": "https://github.com/maxbrunsfeld/counterfeiter",
-			"stargazers_count": 545,
-			"watchers_count": 545,
-			"forks_count": 68,
-			"open_issues_count": 14
-		},
-		{
-			"id": 64859646,
-			"name": "minimock",
-			"description": "Powerful mock generation tool for Go programming language",
-			"html_url": "https://github.com/gojuno/minimock",
-			"homepage": "",
-			"created_at": "2016-08-03T16:01:35Z",
-			"updated_at": "2021-07-17T03:29:37Z",
-			"svn_url": "https://github.com/gojuno/minimock",
-			"stargazers_count": 371,
-			"watchers_count": 371,
-			"forks_count": 24,
-			"open_issues_count": 9
+			"stargazers_count": 873,
+			"watchers_count": 873,
+			"forks_count": 86,
+			"open_issues_count": 28
 		},
 		{
 			"id": 38739169,
@@ -108,12 +94,26 @@
 			"html_url": "https://github.com/DATA-DOG/go-txdb",
 			"homepage": "",
 			"created_at": "2015-07-08T07:34:53Z",
-			"updated_at": "2021-07-14T19:03:31Z",
+			"updated_at": "2023-09-27T06:34:40Z",
 			"svn_url": "https://github.com/DATA-DOG/go-txdb",
-			"stargazers_count": 369,
-			"watchers_count": 369,
-			"forks_count": 33,
-			"open_issues_count": 4
+			"stargazers_count": 574,
+			"watchers_count": 574,
+			"forks_count": 40,
+			"open_issues_count": 5
+		},
+		{
+			"id": 64859646,
+			"name": "minimock",
+			"description": "Powerful mock generation tool for Go programming language",
+			"html_url": "https://github.com/gojuno/minimock",
+			"homepage": "",
+			"created_at": "2016-08-03T16:01:35Z",
+			"updated_at": "2023-09-21T13:56:33Z",
+			"svn_url": "https://github.com/gojuno/minimock",
+			"stargazers_count": 510,
+			"watchers_count": 510,
+			"forks_count": 34,
+			"open_issues_count": 17
 		},
 		{
 			"id": 63011213,
@@ -122,40 +122,12 @@
 			"html_url": "https://github.com/seborama/govcr",
 			"homepage": "",
 			"created_at": "2016-07-10T17:47:41Z",
-			"updated_at": "2021-05-17T01:46:44Z",
+			"updated_at": "2023-10-03T02:25:24Z",
 			"svn_url": "https://github.com/seborama/govcr",
-			"stargazers_count": 98,
-			"watchers_count": 98,
-			"forks_count": 13,
-			"open_issues_count": 4
-		},
-		{
-			"id": 231434301,
-			"name": "timex",
-			"description": "A test-friendly replacement for golang's time package",
-			"html_url": "https://github.com/cabify/timex",
-			"homepage": "",
-			"created_at": "2020-01-02T18:06:48Z",
-			"updated_at": "2021-06-29T15:31:48Z",
-			"svn_url": "https://github.com/cabify/timex",
-			"stargazers_count": 55,
-			"watchers_count": 55,
-			"forks_count": 2,
-			"open_issues_count": 0
-		},
-		{
-			"id": 1880841,
-			"name": "mockhttp",
-			"description": "Mock object for Go http.ResponseWriter",
-			"html_url": "https://github.com/tv42/mockhttp",
-			"homepage": "",
-			"created_at": "2011-06-11T16:03:01Z",
-			"updated_at": "2020-08-05T04:12:58Z",
-			"svn_url": "https://github.com/tv42/mockhttp",
-			"stargazers_count": 22,
-			"watchers_count": 22,
-			"forks_count": 5,
-			"open_issues_count": 0
+			"stargazers_count": 161,
+			"watchers_count": 161,
+			"forks_count": 14,
+			"open_issues_count": 1
 		},
 		{
 			"id": 248162798,
@@ -164,12 +136,40 @@
 			"html_url": "https://github.com/elgohr/go-localstack",
 			"homepage": "",
 			"created_at": "2020-03-18T07:13:02Z",
-			"updated_at": "2021-07-16T19:35:17Z",
+			"updated_at": "2023-08-16T09:47:25Z",
 			"svn_url": "https://github.com/elgohr/go-localstack",
-			"stargazers_count": 12,
-			"watchers_count": 12,
-			"forks_count": 3,
+			"stargazers_count": 72,
+			"watchers_count": 72,
+			"forks_count": 16,
+			"open_issues_count": 2
+		},
+		{
+			"id": 231434301,
+			"name": "timex",
+			"description": "A test-friendly replacement for golang's time package",
+			"html_url": "https://github.com/cabify/timex",
+			"homepage": "",
+			"created_at": "2020-01-02T18:06:48Z",
+			"updated_at": "2023-09-13T09:00:01Z",
+			"svn_url": "https://github.com/cabify/timex",
+			"stargazers_count": 70,
+			"watchers_count": 70,
+			"forks_count": 5,
 			"open_issues_count": 1
+		},
+		{
+			"id": 1880841,
+			"name": "mockhttp",
+			"description": "Mock object for Go http.ResponseWriter",
+			"html_url": "https://github.com/tv42/mockhttp",
+			"homepage": "",
+			"created_at": "2011-06-11T16:03:01Z",
+			"updated_at": "2022-09-27T09:30:55Z",
+			"svn_url": "https://github.com/tv42/mockhttp",
+			"stargazers_count": 22,
+			"watchers_count": 22,
+			"forks_count": 6,
+			"open_issues_count": 0
 		},
 		{
 			"id": 231193575,
@@ -178,12 +178,12 @@
 			"html_url": "https://github.com/pasdam/mockit",
 			"homepage": "",
 			"created_at": "2020-01-01T08:46:09Z",
-			"updated_at": "2021-06-22T02:44:40Z",
+			"updated_at": "2023-05-30T03:26:52Z",
 			"svn_url": "https://github.com/pasdam/mockit",
-			"stargazers_count": 8,
-			"watchers_count": 8,
-			"forks_count": 1,
-			"open_issues_count": 1
+			"stargazers_count": 16,
+			"watchers_count": 16,
+			"forks_count": 3,
+			"open_issues_count": 4
 		}
 	]
 }
