@@ -1,7 +1,7 @@
 {
 	"name": "Networking - HTTP Clients",
 	"index_last_check": 0,
-	"last_update": 1626661501,
+	"last_update": 1696340072,
 	"libraries": [
 		{
 			"id": 41561105,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/go-resty/resty",
 			"homepage": "",
 			"created_at": "2015-08-28T17:48:47Z",
-			"updated_at": "2021-07-17T21:55:35Z",
+			"updated_at": "2023-10-03T09:44:00Z",
 			"svn_url": "https://github.com/go-resty/resty",
-			"stargazers_count": 4542,
-			"watchers_count": 4542,
-			"forks_count": 378,
-			"open_issues_count": 40
+			"stargazers_count": 8459,
+			"watchers_count": 8459,
+			"forks_count": 670,
+			"open_issues_count": 55
 		},
 		{
 			"id": 118105591,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/gojek/heimdall",
 			"homepage": "http://gojek.tech",
 			"created_at": "2018-01-19T09:32:26Z",
-			"updated_at": "2021-07-18T16:37:19Z",
+			"updated_at": "2023-10-03T13:22:24Z",
 			"svn_url": "https://github.com/gojek/heimdall",
-			"stargazers_count": 1984,
-			"watchers_count": 1984,
-			"forks_count": 162,
-			"open_issues_count": 31
+			"stargazers_count": 2497,
+			"watchers_count": 2497,
+			"forks_count": 237,
+			"open_issues_count": 47
 		},
 		{
 			"id": 37273343,
@@ -38,11 +38,11 @@
 			"html_url": "https://github.com/levigross/grequests",
 			"homepage": "",
 			"created_at": "2015-06-11T16:41:48Z",
-			"updated_at": "2021-07-14T14:45:16Z",
+			"updated_at": "2023-09-27T03:57:22Z",
 			"svn_url": "https://github.com/levigross/grequests",
-			"stargazers_count": 1803,
-			"watchers_count": 1803,
-			"forks_count": 106,
+			"stargazers_count": 1986,
+			"watchers_count": 1986,
+			"forks_count": 134,
 			"open_issues_count": 28
 		},
 		{
@@ -52,11 +52,11 @@
 			"html_url": "https://github.com/dghubble/sling",
 			"homepage": "",
 			"created_at": "2015-04-02T08:42:52Z",
-			"updated_at": "2021-07-14T09:36:55Z",
+			"updated_at": "2023-09-30T18:02:48Z",
 			"svn_url": "https://github.com/dghubble/sling",
-			"stargazers_count": 1335,
-			"watchers_count": 1335,
-			"forks_count": 105,
+			"stargazers_count": 1597,
+			"watchers_count": 1597,
+			"forks_count": 115,
 			"open_issues_count": 0
 		},
 		{
@@ -66,12 +66,12 @@
 			"html_url": "https://github.com/h2non/gentleman",
 			"homepage": "https://pkg.go.dev/github.com/h2non/gentleman?tab=doc",
 			"created_at": "2016-02-21T23:00:24Z",
-			"updated_at": "2021-07-15T01:09:33Z",
+			"updated_at": "2023-09-30T16:20:51Z",
 			"svn_url": "https://github.com/h2non/gentleman",
-			"stargazers_count": 905,
-			"watchers_count": 905,
-			"forks_count": 49,
-			"open_issues_count": 18
+			"stargazers_count": 1017,
+			"watchers_count": 1017,
+			"forks_count": 56,
+			"open_issues_count": 22
 		},
 		{
 			"id": 35950865,
@@ -80,11 +80,11 @@
 			"html_url": "https://github.com/sethgrid/pester",
 			"homepage": "",
 			"created_at": "2015-05-20T13:50:49Z",
-			"updated_at": "2021-07-17T16:19:30Z",
+			"updated_at": "2023-09-19T03:46:39Z",
 			"svn_url": "https://github.com/sethgrid/pester",
-			"stargazers_count": 556,
-			"watchers_count": 556,
-			"forks_count": 61,
+			"stargazers_count": 622,
+			"watchers_count": 622,
+			"forks_count": 69,
 			"open_issues_count": 4
 		},
 		{
@@ -94,25 +94,11 @@
 			"html_url": "https://github.com/monaco-io/request",
 			"homepage": "https://pkg.go.dev/github.com/monaco-io/request?tab=doc",
 			"created_at": "2020-03-25T06:24:18Z",
-			"updated_at": "2021-07-17T17:28:22Z",
+			"updated_at": "2023-09-27T02:33:43Z",
 			"svn_url": "https://github.com/monaco-io/request",
-			"stargazers_count": 129,
-			"watchers_count": 129,
-			"forks_count": 17,
-			"open_issues_count": 0
-		},
-		{
-			"id": 115413677,
-			"name": "rq",
-			"description": "A nicer interface for golang stdlib HTTP client",
-			"html_url": "https://github.com/ddo/rq",
-			"homepage": "",
-			"created_at": "2017-12-26T10:48:27Z",
-			"updated_at": "2021-06-15T12:31:58Z",
-			"svn_url": "https://github.com/ddo/rq",
-			"stargazers_count": 39,
-			"watchers_count": 39,
-			"forks_count": 2,
+			"stargazers_count": 256,
+			"watchers_count": 256,
+			"forks_count": 28,
 			"open_issues_count": 1
 		},
 		{
@@ -122,12 +108,26 @@
 			"html_url": "https://github.com/bozd4g/go-http-client",
 			"homepage": "",
 			"created_at": "2019-12-14T11:22:19Z",
-			"updated_at": "2021-07-14T14:39:17Z",
+			"updated_at": "2023-09-28T10:52:53Z",
 			"svn_url": "https://github.com/bozd4g/go-http-client",
-			"stargazers_count": 24,
-			"watchers_count": 24,
-			"forks_count": 5,
+			"stargazers_count": 62,
+			"watchers_count": 62,
+			"forks_count": 14,
 			"open_issues_count": 0
+		},
+		{
+			"id": 115413677,
+			"name": "rq",
+			"description": "A nicer interface for golang stdlib HTTP client",
+			"html_url": "https://github.com/ddo/rq",
+			"homepage": "",
+			"created_at": "2017-12-26T10:48:27Z",
+			"updated_at": "2023-09-13T09:20:49Z",
+			"svn_url": "https://github.com/ddo/rq",
+			"stargazers_count": 50,
+			"watchers_count": 50,
+			"forks_count": 6,
+			"open_issues_count": 1
 		},
 		{
 			"id": 238421783,
@@ -136,11 +136,11 @@
 			"html_url": "https://github.com/ybbus/httpretry",
 			"homepage": "",
 			"created_at": "2020-02-05T10:17:42Z",
-			"updated_at": "2021-05-20T19:41:31Z",
+			"updated_at": "2023-08-18T11:19:50Z",
 			"svn_url": "https://github.com/ybbus/httpretry",
-			"stargazers_count": 14,
-			"watchers_count": 14,
-			"forks_count": 1,
+			"stargazers_count": 39,
+			"watchers_count": 39,
+			"forks_count": 5,
 			"open_issues_count": 0
 		}
 	]
