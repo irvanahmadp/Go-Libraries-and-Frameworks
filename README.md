@@ -611,15 +611,15 @@ libraries for building and using SQL
 ### Database Drivers - Multiple Backends.
 
 
-<sup>*Last Update: 2021-08-25 09:25:19*</sup>
+<sup>*Last Update: 2023-10-05 21:13:44*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [cayley](https://cayley.io) | 13,910 | 1,256 | 91 | An open-source graph database | 2014-06-05 18:49:41 | 2021-08-24 15:23:57 |
+| [cayley](https://cayley.io) | 14,645 | 1,288 | 92 | An open-source graph database | 2014-06-05 18:49:41 | 2023-10-04 05:52:56 |
 | [gokv](https://github.com/philippgille/gokv) | 353 | 35 | 31 | Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more) | 2018-10-08 18:55:22 | 2021-08-15 10:51:37 |
-| [cachego](https://github.com/faabiosr/cachego) | 157 | 9 | 1 | Golang Cache component - Multiple drivers | 2016-10-05 18:10:03 | 2021-08-16 05:50:40 |
+| [cachego](https://github.com/faabiosr/cachego) | 300 | 20 | 0 | Golang Cache component - Multiple drivers | 2016-10-05 18:10:03 | 2023-10-03 06:59:23 |
 | [dsc](https://github.com/viant/dsc) | 22 | 6 | 0 | Datastore Connectivity in go | 2016-06-13 20:18:10 | 2021-04-17 04:50:27 |
 </details>
 
@@ -1552,61 +1552,61 @@ Libraries for working with strings.
 ### Miscellaneous - Uncategorized
 These libraries were placed here because none of the other categories seemed to fit.
 
-<sup>*Last Update: 2021-07-29 09:25:03*</sup>
+<sup>*Last Update: 2023-10-05 21:13:19*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [gopsutil](https://github.com/shirou/gopsutil) | 6,561 | 1,101 | 126 | psutil for golang | 2014-04-18 07:35:28 | 2021-07-29 02:17:34 |
-| [archiver](https://godoc.org/github.com/mholt/archiver) | 3,272 | 307 | 73 | Easily create & extract archives, and compress & decompress files of various formats | 2016-04-08 22:46:55 | 2021-07-28 05:33:53 |
-| [gofakeit](https://github.com/brianvoe/gofakeit) | 1,960 | 109 | 0 | Random fake data generator written in go | 2015-04-24 04:45:59 | 2021-07-28 14:14:49 |
-| [gatus](https://status.twinnation.org/) | 1,610 | 92 | 30 | ⛑ Gatus - Automated service health dashboard | 2019-09-04 02:35:40 | 2021-07-29 01:52:17 |
-| [gosms](https://github.com/haxpax/gosms) | 1,339 | 131 | 4 | :mailbox_closed: Your own local SMS gateway in Go | 2015-01-23 19:25:55 | 2021-07-22 17:10:15 |
-| [go-resiliency](https://godoc.org/github.com/eapache/go-resiliency) | 1,230 | 104 | 3 | Resiliency patterns for golang | 2014-11-29 04:11:32 | 2021-07-28 07:58:03 |
-| [base64Captcha](https://captcha.mojotv.cn) | 1,149 | 194 | 9 | captcha of base64 image string | 2017-12-12 12:17:07 | 2021-07-28 03:34:48 |
-| [go-commons-pool](https://github.com/jolestar/go-commons-pool) | 968 | 135 | 3 | a generic object pool for golang | 2015-12-28 14:26:23 | 2021-07-27 02:22:51 |
-| [llvm](https://llir.github.io/document/) | 735 | 50 | 20 | Library for interacting with LLVM IR in pure Go. | 2014-09-19 11:18:44 | 2021-07-29 00:12:49 |
-| [shortid](https://github.com/teris-io/shortid) | 687 | 56 | 0 | Super short, fully unique, non-sequential and URL friendly Ids | 2016-01-04 01:17:10 | 2021-07-26 23:12:03 |
-| [ghorg](https://github.com/gabrie30/ghorg) | 465 | 63 | 19 | Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more | 2018-03-29 02:53:05 | 2021-07-28 17:32:44 |
-| [health](https://github.com/dimiro1/health) | 423 | 42 | 4 | An easy to use, extensible health check library for Go applications. | 2016-03-08 23:04:43 | 2021-07-17 17:28:14 |
-| [go-conv](https://github.com/cstockton/go-conv) | 370 | 15 | 0 | Fast conversions across various Go types with a simple API. | 2016-10-11 07:41:41 | 2021-06-18 13:19:32 |
-| [banner](https://github.com/dimiro1/banner) | 348 | 19 | 2 | An easy way to add useful startup banners into your Go applications | 2016-03-25 21:28:44 | 2021-07-09 20:38:21 |
-| [gountries](https://github.com/pariz/gountries) | 311 | 51 | 19 | Gountries provides: Countries (ISO-3166-1), Country Subdivisions(ISO-3166-2), Currencies (ISO 4217), Geo Coordinates(ISO-6709) as well as translations, country borders and other stuff exposed as struct data. | 2016-01-13 08:04:18 | 2021-07-26 01:14:09 |
-| [stateless](https://github.com/qmuntal/stateless) | 283 | 15 | 8 | Go library for creating state machines | 2019-09-11 08:19:18 | 2021-07-27 21:17:34 |
-| [ffmt](https://github.com/go-ffmt/ffmt) | 233 | 16 | 2 | Golang beautify data display for Humans | 2015-02-14 15:19:45 | 2021-07-28 13:51:24 |
-| [shoutrrr](https://containrrr.dev/shoutrrr/) | 220 | 32 | 11 | Notification library for gophers and their furry friends. | 2019-04-11 06:49:34 | 2021-07-29 00:18:19 |
-| [lk](https://github.com/hyperboloide/lk) | 210 | 34 | 1 | Simple licensing library for golang. | 2016-07-14 16:06:07 | 2021-07-05 07:19:32 |
-| [antch](https://github.com/antchfx/antch) | 209 | 40 | 4 | Antch, a fast, powerful and extensible web crawling & scraping framework for Go | 2017-09-28 05:44:17 | 2021-07-28 16:56:36 |
-| [battery](https://github.com/distatus/battery) | 190 | 25 | 8 | cross-platform, normalized battery information library | 2016-03-12 23:03:40 | 2021-07-28 03:16:09 |
-| [healthcheck](https://github.com/etherlabsio/healthcheck) | 190 | 26 | 1 | An simple, easily extensible and concurrent health-check library for Go services | 2017-08-18 12:48:40 | 2021-07-26 19:37:25 |
-| [bitio](https://github.com/icza/bitio) | 162 | 21 | 1 | Optimized bit-level Reader and Writer for Go. | 2016-05-31 10:02:30 | 2021-07-28 22:26:54 |
-| [stats](https://github.com/go-playground/stats) | 154 | 18 | 1 | :chart_with_upwards_trend: Monitors Go MemStats + System stats such as Memory, Swap and CPU and sends via UDP anywhere you want for logging etc... | 2015-09-14 20:20:20 | 2021-07-26 10:04:49 |
-| [go-unarr](https://github.com/gen2brain/go-unarr) | 145 | 23 | 7 | Go bindings for unarr (decompression library for RAR, TAR, ZIP and 7z archives) | 2015-11-01 09:38:37 | 2021-07-27 19:03:10 |
-| [turtle](https://github.com/hackebrot/turtle) | 123 | 10 | 1 | Emojis for Go 😄🐢🚀 | 2017-09-08 22:25:32 | 2021-07-24 15:40:31 |
-| [gommit](https://github.com/antham/gommit) | 94 | 2 | 1 | Enforce git message commit consistency | 2016-08-30 11:10:11 | 2021-07-23 06:19:53 |
-| [gotoprom](https://github.com/cabify/gotoprom) | 90 | 1 | 0 | Type-safe Prometheus metrics builder library for golang | 2018-10-10 16:07:33 | 2021-06-09 15:01:42 |
-| [indigo](https://github.com/osamingo/indigo) | 86 | 11 | 1 | A distributed unique ID generator of using Sonyflake and encoded by Base58 | 2016-08-31 14:17:45 | 2021-07-03 07:28:16 |
-| [captcha](https://pkg.go.dev/github.com/steambap/captcha) | 79 | 14 | 0 | :sunglasses:Package captcha provides an easy to use, unopinionated API for captcha generation | 2017-09-12 06:52:15 | 2021-07-28 13:27:03 |
-| [morse](https://github.com/alwindoss/morse) | 68 | 11 | 3 | Morse Code Library in Go | 2018-08-15 05:31:31 | 2021-06-13 18:40:07 |
-| [persian](https://github.com/mavihq/persian) | 56 | 8 | 1 | Some utilities for Persian language in Go (Golang) | 2017-10-16 16:16:56 | 2021-07-04 10:30:04 |
-| [pdfgen](https://github.com/hyperboloide/pdfgen) | 52 | 9 | 0 | HTTP service to generate PDF from Json requests | 2015-11-30 19:27:26 | 2021-05-26 01:21:01 |
-| [xkg](https://godoc.org/github.com/go-xkg/xkg) | 51 | 5 | 1 | User level X Keyboard Grabber | 2015-01-05 01:04:43 | 2021-07-13 17:03:22 |
-| [faker](https://github.com/pioz/faker) | 41 | 2 | 0 | Random fake data and struct generator for Go. | 2020-07-22 20:09:46 | 2021-07-25 04:53:09 |
-| [browscap_go](http://browscap.org/) | 37 | 22 | 6 | GoLang Library for Browser Capabilities Project | 2014-09-18 04:47:42 | 2021-02-19 11:55:57 |
-| [datacounter](https://github.com/miolini/datacounter) | 36 | 5 | 2 | Golang counters for readers/writers | 2015-10-14 19:15:50 | 2020-12-23 16:28:56 |
-| [autoflags](http://pkg.go.dev/github.com/artyom/autoflags) | 34 | 2 | 0 | Populate go command line app flags from config struct | 2014-05-15 19:00:29 | 2021-07-04 12:55:48 |
-| [sandid](https://pkg.go.dev/github.com/aofei/sandid) | 30 | 5 | 0 | Every grain of sand on Earth has its own ID. | 2018-06-12 01:24:14 | 2021-04-23 00:12:32 |
-| [url-shortener](https://github.com/pantrif/url-shortener) | 30 | 6 | 0 | A golang URL Shortener | 2018-06-04 05:57:45 | 2021-07-26 10:04:54 |
-| [gosh](https://github.com/osamingo/gosh) | 26 | 1 | 0 | Provide Go Statistics Handler, Struct, Measure Method | 2018-05-25 08:55:55 | 2021-07-11 02:11:29 |
-| [xdg](https://github.com/rkoesters/xdg) | 26 | 7 | 1 | FreeDesktop.org (xdg) Specs implemented in Go | 2013-12-15 09:51:51 | 2021-07-18 10:03:57 |
-| [metrics](https://github.com/pascaldekloe/metrics) | 20 | 4 | 1 | atomic measures + Prometheus exposition library | 2019-01-29 09:39:18 | 2021-06-09 15:02:13 |
-| [shellwords](https://pkg.go.dev/github.com/aofei/sandid) | 15 | 2 | 0 | A Golang library to manipulate strings according to the word parsing rules of the UNIX Bourne shell. | 2017-09-28 09:08:28 | 2021-06-21 00:37:38 |
-| [anagent](https://github.com/mudler/anagent) | 13 | 3 | 0 | Minimalistic, pluggable Golang evloop/timer handler with dependency-injection | 2017-12-29 17:16:25 | 2021-06-22 11:45:30 |
-| [avgRating](https://github.com/kirillDanshin/avgRating) | 10 | 1 | 0 | Calculate average score and rating based on Wilson Score Equation | 2017-08-05 19:04:30 | 2020-01-09 09:02:53 |
-| [hostutils](https://github.com/Wing924/hostutils) | 9 | 3 | 0 | A golang library for packing and unpacking hosts list | 2017-09-26 03:47:32 | 2020-04-23 10:54:09 |
-| [numa](https://github.com/lrita/numa) | 6 | 2 | 0 | NUMA is a utility library, which is written in go. It help us to write some NUMA-AWARED code. | 2018-12-10 09:59:13 | 2021-04-14 12:02:34 |
-| [generators](https://github.com/azr/generators) | 4 | 1 | 0 | #golang generator | 2016-02-29 14:29:02 | 2019-06-30 00:44:30 |
+| [gopsutil](https://github.com/shirou/gopsutil) | 9,471 | 1,532 | 176 | psutil for golang | 2014-04-18 07:35:28 | 2023-10-04 16:59:51 |
+| [archiver](https://pkg.go.dev/github.com/mholt/archiver/v4) | 4,094 | 374 | 12 | Easily create & extract archives, and compress & decompress files of various formats | 2016-04-08 22:46:55 | 2023-10-05 01:07:57 |
+| [gatus](https://gatus.io) | 4,079 | 311 | 93 | ⛑ Automated developer-oriented status page | 2019-09-04 02:35:40 | 2023-10-05 10:23:34 |
+| [gofakeit](https://github.com/brianvoe/gofakeit) | 3,330 | 226 | 12 | Random fake data generator written in go | 2015-04-24 04:45:59 | 2023-10-05 10:51:38 |
+| [go-resiliency](https://godoc.org/github.com/eapache/go-resiliency) | 1,875 | 133 | 2 | Resiliency patterns for golang | 2014-11-29 04:11:32 | 2023-10-04 17:14:33 |
+| [base64Captcha](https://captcha.mojotv.cn/.netlify/functions/captcha) | 1,865 | 264 | 21 | captcha of base64 image string | 2017-12-12 12:17:07 | 2023-10-05 02:55:37 |
+| [gosms](https://github.com/haxpax/gosms) | 1,432 | 191 | 7 | :mailbox_closed: Your own local SMS gateway in Go | 2015-01-23 19:25:55 | 2023-09-28 10:27:18 |
+| [ghorg](https://github.com/gabrie30/ghorg) | 1,338 | 145 | 9 | Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚 | 2018-03-29 02:53:05 | 2023-09-29 13:58:01 |
+| [go-commons-pool](https://github.com/jolestar/go-commons-pool) | 1,185 | 151 | 4 | a generic object pool for golang | 2015-12-28 14:26:23 | 2023-10-01 03:51:53 |
+| [llvm](https://llir.github.io/document/) | 1,091 | 76 | 16 | Library for interacting with LLVM IR in pure Go. | 2014-09-19 11:18:44 | 2023-09-23 21:23:00 |
+| [shortid](https://github.com/teris-io/shortid) | 889 | 69 | 3 | Super short, fully unique, non-sequential and URL friendly Ids | 2016-01-04 01:17:10 | 2023-10-01 02:33:13 |
+| [shoutrrr](https://containrrr.dev/shoutrrr/) | 715 | 57 | 43 | Notification library for gophers and their furry friends. | 2019-04-11 06:49:34 | 2023-10-05 08:16:26 |
+| [stateless](https://github.com/qmuntal/stateless) | 689 | 38 | 6 | Go library for creating finite state machines | 2019-09-11 08:19:18 | 2023-10-03 21:23:47 |
+| [health](https://github.com/dimiro1/health) | 445 | 44 | 3 | An easy to use, extensible health check library for Go applications. | 2016-03-08 23:04:43 | 2023-09-10 12:37:12 |
+| [banner](https://github.com/dimiro1/banner) | 438 | 25 | 0 | An easy way to add useful startup banners into your Go applications | 2016-03-25 21:28:44 | 2023-09-22 01:06:42 |
+| [gountries](https://github.com/pariz/gountries) | 397 | 66 | 14 | Gountries provides: Countries (ISO-3166-1), Country Subdivisions(ISO-3166-2), Currencies (ISO 4217), Geo Coordinates(ISO-6709) as well as translations, country borders and other stuff exposed as struct data. | 2016-01-13 08:04:18 | 2023-09-26 03:26:48 |
+| [go-conv](https://github.com/cstockton/go-conv) | 384 | 20 | 1 | Fast conversions across various Go types with a simple API. | 2016-10-11 07:41:41 | 2023-09-21 05:46:37 |
+| [lk](https://github.com/hyperboloide/lk) | 320 | 54 | 0 | Simple licensing library for golang. | 2016-07-14 16:06:07 | 2023-09-28 08:40:25 |
+| [ffmt](https://github.com/go-ffmt/ffmt) | 296 | 23 | 2 | Golang beautify data display for Humans | 2015-02-14 15:19:45 | 2023-09-14 09:50:59 |
+| [healthcheck](https://github.com/etherlabsio/healthcheck) | 257 | 30 | 4 | An simple, easily extensible and concurrent health-check library for Go services | 2017-08-18 12:48:40 | 2023-09-25 08:30:46 |
+| [go-unarr](https://github.com/gen2brain/go-unarr) | 253 | 42 | 3 | Go bindings for unarr (decompression library for RAR, TAR, ZIP and 7z archives) | 2015-11-01 09:38:37 | 2023-09-29 16:31:15 |
+| [antch](https://github.com/antchfx/antch) | 251 | 42 | 4 | Antch, a fast, powerful and extensible web crawling & scraping framework for Go | 2017-09-28 05:44:17 | 2023-09-19 14:26:51 |
+| [battery](https://github.com/distatus/battery) | 226 | 35 | 5 | cross-platform, normalized battery information library | 2016-03-12 23:03:40 | 2023-08-29 20:55:45 |
+| [bitio](https://github.com/icza/bitio) | 222 | 26 | 1 | Optimized bit-level Reader and Writer for Go. | 2016-05-31 10:02:30 | 2023-10-03 05:16:05 |
+| [stats](https://github.com/go-playground/stats) | 168 | 19 | 1 | :chart_with_upwards_trend: Monitors Go MemStats + System stats such as Memory, Swap and CPU and sends via UDP anywhere you want for logging etc... | 2015-09-14 20:20:20 | 2023-10-03 00:26:19 |
+| [turtle](https://github.com/hackebrot/turtle) | 152 | 11 | 2 | Emojis for Go 😄🐢🚀 | 2017-09-08 22:25:32 | 2023-08-20 12:04:46 |
+| [captcha](https://pkg.go.dev/github.com/steambap/captcha) | 138 | 25 | 0 | :sunglasses:Package captcha provides an easy to use, unopinionated API for captcha generation | 2017-09-12 06:52:15 | 2023-09-15 07:34:39 |
+| [gotoprom](https://github.com/cabify/gotoprom) | 106 | 2 | 1 | Type-safe Prometheus metrics builder library for golang | 2018-10-10 16:07:33 | 2023-09-19 14:36:19 |
+| [indigo](https://github.com/osamingo/indigo) | 104 | 12 | 0 | A distributed unique ID generator of using Sonyflake and encoded by Base58 | 2016-08-31 14:17:45 | 2023-07-31 01:45:55 |
+| [gommit](https://github.com/antham/gommit) | 104 | 5 | 1 | Enforce git message commit consistency | 2016-08-30 11:10:11 | 2023-09-06 05:04:08 |
+| [morse](https://dalw.in/morse) | 79 | 12 | 5 | Morse Code Library in Go | 2018-08-15 05:31:31 | 2023-10-05 04:59:08 |
+| [faker](https://github.com/pioz/faker) | 79 | 11 | 0 | Random fake data and struct generator for Go. | 2020-07-22 20:09:46 | 2023-10-03 01:35:41 |
+| [persian](https://github.com/mavihq/persian) | 76 | 9 | 1 | Some utilities for Persian language in Go (Golang) | 2017-10-16 16:16:56 | 2023-08-09 15:20:22 |
+| [pdfgen](https://github.com/hyperboloide/pdfgen) | 65 | 7 | 0 | HTTP service to generate PDF from Json requests | 2015-11-30 19:27:26 | 2023-09-14 17:56:15 |
+| [xkg](https://godoc.org/github.com/go-xkg/xkg) | 56 | 6 | 1 | User level X Keyboard Grabber | 2015-01-05 01:04:43 | 2023-07-01 04:09:45 |
+| [browscap_go](http://browscap.org/) | 44 | 29 | 9 | GoLang Library for Browser Capabilities Project | 2014-09-18 04:47:42 | 2023-01-23 10:01:37 |
+| [datacounter](https://github.com/miolini/datacounter) | 44 | 9 | 2 | Golang counters for readers/writers | 2015-10-14 19:15:50 | 2023-08-30 17:44:42 |
+| [url-shortener](https://github.com/pantrif/url-shortener) | 43 | 7 | 1 | A golang URL Shortener | 2018-06-04 05:57:45 | 2023-08-28 08:57:39 |
+| [sandid](https://pkg.go.dev/github.com/aofei/sandid) | 40 | 6 | 0 | Every grain of sand on Earth has its own ID. | 2018-06-12 01:24:14 | 2023-09-08 17:41:37 |
+| [autoflags](http://pkg.go.dev/github.com/artyom/autoflags) | 39 | 4 | 0 | Populate go command line app flags from config struct | 2014-05-15 19:00:29 | 2023-06-27 11:32:25 |
+| [gosh](https://github.com/osamingo/gosh) | 35 | 2 | 0 | Provide Go Statistics Handler, Struct, Measure Method | 2018-05-25 08:55:55 | 2023-08-14 09:52:20 |
+| [xdg](https://github.com/rkoesters/xdg) | 35 | 8 | 1 | FreeDesktop.org (xdg) Specs implemented in Go | 2013-12-15 09:51:51 | 2023-08-24 04:40:23 |
+| [metrics](https://github.com/pascaldekloe/metrics) | 27 | 4 | 3 | atomic measures + Prometheus exposition library | 2019-01-29 09:39:18 | 2023-08-24 19:53:09 |
+| [shellwords](https://pkg.go.dev/github.com/aofei/sandid) | 21 | 3 | 0 | A Golang library to manipulate strings according to the word parsing rules of the UNIX Bourne shell. | 2017-09-28 09:08:28 | 2023-07-14 09:23:37 |
+| [numa](https://dalw.in/morse) | 18 | 5 | 0 | NUMA is a utility library, which is written in go. It help us to write some NUMA-AWARED code. | 2018-12-10 09:59:13 | 2023-09-28 07:07:48 |
+| [anagent](https://github.com/mudler/anagent) | 15 | 4 | 0 | Minimalistic, pluggable Golang evloop/timer handler with dependency-injection | 2017-12-29 17:16:25 | 2023-08-31 12:34:40 |
+| [avgRating](https://github.com/kirillDanshin/avgRating) | 15 | 3 | 0 | Calculate average score and rating based on Wilson Score Equation | 2017-08-05 19:04:30 | 2023-09-28 14:01:07 |
+| [hostutils](https://github.com/Wing924/hostutils) | 12 | 5 | 0 | A golang library for packing and unpacking hosts list | 2017-09-26 03:47:32 | 2022-09-27 08:47:45 |
+| [generators](https://github.com/azr/generators) | 5 | 2 | 0 | #golang generator | 2016-02-29 14:29:02 | 2022-09-27 08:49:19 |
 </details>
 
 ### Natural Language Processing
@@ -2781,18 +2781,18 @@ Full stack web frameworks.
 ### WebAssembly
 
 
-<sup>*Last Update: 2021-08-23 09:25:20*</sup>
+<sup>*Last Update: 2023-10-05 21:13:42*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [tinygo](https://tinygo.org) | 8,438 | 447 | 294 | Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM. | 2018-06-07 16:39:19 | 2021-08-23 01:50:30 |
-| [dom](https://github.com/dennwc/dom) | 434 | 52 | 11 | DOM library for Go and WASM | 2018-06-30 18:37:35 | 2021-08-20 11:17:05 |
-| [go-canvas](https://github.com/markfarnan/go-canvas) | 140 | 9 | 5 | Library to use HTML5 Canvas  from Go-WASM, with all drawing within go code | 2019-05-05 14:05:55 | 2021-08-14 03:32:07 |
-| [webapi](https://github.com/gowebapi/webapi) | 86 | 8 | 2 | Go Lang Web Assembly bindings for DOM, HTML etc | 2019-02-08 05:58:35 | 2021-07-15 15:53:33 |
-| [wasmbrowsertest](https://github.com/agnivade/wasmbrowsertest) | 82 | 9 | 0 | Run WASM tests inside your browser | 2018-07-14 18:42:24 | 2021-07-21 10:18:04 |
-| [vert](https://github.com/norunners/vert) | 50 | 6 | 2 | WebAssembly interop between Go and JS values. | 2018-03-25 17:26:47 | 2021-08-09 15:48:06 |
+| [tinygo](https://tinygo.org) | 13,523 | 790 | 475 | Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM. | 2018-06-07 16:39:19 | 2023-10-05 09:40:21 |
+| [dom](https://github.com/dennwc/dom) | 480 | 59 | 11 | DOM library for Go and WASM | 2018-06-30 18:37:35 | 2023-09-27 21:38:06 |
+| [go-canvas](https://github.com/markfarnan/go-canvas) | 214 | 16 | 5 | Library to use HTML5 Canvas  from Go-WASM, with all drawing within go code | 2019-05-05 14:05:55 | 2023-09-10 15:45:17 |
+| [wasmbrowsertest](https://github.com/agnivade/wasmbrowsertest) | 152 | 24 | 4 | Run WASM tests inside your browser | 2018-07-14 18:42:24 | 2023-09-20 03:18:39 |
+| [webapi](https://github.com/gowebapi/webapi) | 144 | 12 | 3 | Go Lang Web Assembly bindings for DOM, HTML etc | 2019-02-08 05:58:35 | 2023-09-15 05:26:50 |
+| [vert](https://github.com/norunners/vert) | 90 | 13 | 2 | WebAssembly interop between Go and JS values. | 2018-03-25 17:26:47 | 2023-09-23 13:49:39 |
 </details>
 
 ### Windows

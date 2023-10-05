@@ -1,21 +1,21 @@
 {
 	"name": "WebAssembly",
 	"index_last_check": 0,
-	"last_update": 1629685520,
+	"last_update": 1696515222,
 	"libraries": [
 		{
 			"id": 136505169,
 			"name": "tinygo",
-			"description": "Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.",
+			"description": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",
 			"html_url": "https://github.com/tinygo-org/tinygo",
 			"homepage": "https://tinygo.org",
 			"created_at": "2018-06-07T16:39:19Z",
-			"updated_at": "2021-08-23T01:50:30Z",
+			"updated_at": "2023-10-05T09:40:21Z",
 			"svn_url": "https://github.com/tinygo-org/tinygo",
-			"stargazers_count": 8438,
-			"watchers_count": 8438,
-			"forks_count": 447,
-			"open_issues_count": 294
+			"stargazers_count": 13523,
+			"watchers_count": 13523,
+			"forks_count": 790,
+			"open_issues_count": 475
 		},
 		{
 			"id": 139271597,
@@ -24,11 +24,11 @@
 			"html_url": "https://github.com/dennwc/dom",
 			"homepage": "",
 			"created_at": "2018-06-30T18:37:35Z",
-			"updated_at": "2021-08-20T11:17:05Z",
+			"updated_at": "2023-09-27T21:38:06Z",
 			"svn_url": "https://github.com/dennwc/dom",
-			"stargazers_count": 434,
-			"watchers_count": 434,
-			"forks_count": 52,
+			"stargazers_count": 480,
+			"watchers_count": 480,
+			"forks_count": 59,
 			"open_issues_count": 11
 		},
 		{
@@ -38,26 +38,12 @@
 			"html_url": "https://github.com/markfarnan/go-canvas",
 			"homepage": "",
 			"created_at": "2019-05-05T14:05:55Z",
-			"updated_at": "2021-08-14T03:32:07Z",
+			"updated_at": "2023-09-10T15:45:17Z",
 			"svn_url": "https://github.com/markfarnan/go-canvas",
-			"stargazers_count": 140,
-			"watchers_count": 140,
-			"forks_count": 9,
+			"stargazers_count": 214,
+			"watchers_count": 214,
+			"forks_count": 16,
 			"open_issues_count": 5
-		},
-		{
-			"id": 169691861,
-			"name": "webapi",
-			"description": "Go Lang Web Assembly bindings for DOM, HTML etc",
-			"html_url": "https://github.com/gowebapi/webapi",
-			"homepage": "",
-			"created_at": "2019-02-08T05:58:35Z",
-			"updated_at": "2021-07-15T15:53:33Z",
-			"svn_url": "https://github.com/gowebapi/webapi",
-			"stargazers_count": 86,
-			"watchers_count": 86,
-			"forks_count": 8,
-			"open_issues_count": 2
 		},
 		{
 			"id": 140969738,
@@ -66,12 +52,26 @@
 			"html_url": "https://github.com/agnivade/wasmbrowsertest",
 			"homepage": "",
 			"created_at": "2018-07-14T18:42:24Z",
-			"updated_at": "2021-07-21T10:18:04Z",
+			"updated_at": "2023-09-20T03:18:39Z",
 			"svn_url": "https://github.com/agnivade/wasmbrowsertest",
-			"stargazers_count": 82,
-			"watchers_count": 82,
-			"forks_count": 9,
-			"open_issues_count": 0
+			"stargazers_count": 152,
+			"watchers_count": 152,
+			"forks_count": 24,
+			"open_issues_count": 4
+		},
+		{
+			"id": 169691861,
+			"name": "webapi",
+			"description": "Go Lang Web Assembly bindings for DOM, HTML etc",
+			"html_url": "https://github.com/gowebapi/webapi",
+			"homepage": "",
+			"created_at": "2019-02-08T05:58:35Z",
+			"updated_at": "2023-09-15T05:26:50Z",
+			"svn_url": "https://github.com/gowebapi/webapi",
+			"stargazers_count": 144,
+			"watchers_count": 144,
+			"forks_count": 12,
+			"open_issues_count": 3
 		},
 		{
 			"id": 126721876,
@@ -80,11 +80,11 @@
 			"html_url": "https://github.com/norunners/vert",
 			"homepage": "",
 			"created_at": "2018-03-25T17:26:47Z",
-			"updated_at": "2021-08-09T15:48:06Z",
+			"updated_at": "2023-09-23T13:49:39Z",
 			"svn_url": "https://github.com/norunners/vert",
-			"stargazers_count": 50,
-			"watchers_count": 50,
-			"forks_count": 6,
+			"stargazers_count": 90,
+			"watchers_count": 90,
+			"forks_count": 13,
 			"open_issues_count": 2
 		}
 	]
