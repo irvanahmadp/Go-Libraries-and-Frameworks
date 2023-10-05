@@ -1,7 +1,7 @@
 {
 	"name": "Microsoft Office - Microsoft Excel",
 	"index_last_check": 0,
-	"last_update": 1696340096,
+	"last_update": 1696471937,
 	"libraries": [
 		{
 			"id": 66841911,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/qax-os/excelize",
 			"homepage": "https://xuri.me/excelize",
 			"created_at": "2016-08-29T12:32:12Z",
-			"updated_at": "2023-10-03T11:34:54Z",
+			"updated_at": "2023-10-05T00:50:15Z",
 			"svn_url": "https://github.com/qax-os/excelize",
-			"stargazers_count": 16015,
-			"watchers_count": 16015,
+			"stargazers_count": 16016,
+			"watchers_count": 16016,
 			"forks_count": 1563,
-			"open_issues_count": 88
+			"open_issues_count": 89
 		},
 		{
 			"id": 1966991,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/tealeg/xlsx",
 			"homepage": "",
 			"created_at": "2011-06-28T15:20:28Z",
-			"updated_at": "2023-10-01T22:14:13Z",
+			"updated_at": "2023-10-04T17:47:56Z",
 			"svn_url": "https://github.com/tealeg/xlsx",
-			"stargazers_count": 5537,
-			"watchers_count": 5537,
+			"stargazers_count": 5539,
+			"watchers_count": 5539,
 			"forks_count": 812,
-			"open_issues_count": 1
+			"open_issues_count": 2
 		},
 		{
 			"id": 102260918,
