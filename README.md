@@ -523,58 +523,58 @@ Generic datastructures and algorithms in Go.
 ### Database - Databases implemented in Go
 
 
-<sup>*Last Update: 2021-07-31 09:25:01*</sup>
+<sup>*Last Update: 2023-10-06 19:45:11*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [prometheus](https://prometheus.io/) | 37,888 | 6,217 | 477 | The Prometheus monitoring system and time series database. | 2012-11-24 11:14:12 | 2021-07-31 01:18:18 |
-| [tidb](https://pingcap.com) | 28,574 | 4,526 | 2,153 | TiDB is an open source distributed HTAP database compatible with the MySQL protocol  | 2015-09-06 04:01:52 | 2021-07-30 17:38:54 |
-| [influxdb](https://influxdata.com) | 21,843 | 2,986 | 1,369 | Scalable datastore for metrics, events, and real-time analytics | 2013-09-26 14:31:10 | 2021-07-30 22:32:53 |
-| [cockroach](https://www.cockroachlabs.com) | 21,306 | 2,790 | 4,036 | CockroachDB - the open source, cloud-native distributed SQL database. | 2014-02-06 00:18:47 | 2021-07-31 01:18:31 |
-| [dgraph](https://dgraph.io) | 16,411 | 1,193 | 88 | Native GraphQL Database with graph backend | 2015-08-25 07:15:56 | 2021-07-31 02:25:02 |
-| [groupcache](https://github.com/golang/groupcache) | 10,486 | 1,175 | 35 | groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases. | 2013-07-22 21:55:07 | 2021-07-30 15:51:54 |
-| [badger](https://blog.dgraph.io/post/badger/) | 9,515 | 794 | 3 | Fast key-value DB in Go. | 2017-01-26 05:09:49 | 2021-07-31 02:15:22 |
-| [rqlite](http://www.rqlite.com) | 8,633 | 450 | 54 | The lightweight, distributed relational database built on SQLite | 2014-08-23 04:31:18 | 2021-07-30 23:14:40 |
-| [go-cache](https://patrickmn.com/projects/go-cache/) | 5,207 | 655 | 53 | An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications. | 2012-01-02 13:07:13 | 2021-07-30 15:54:50 |
-| [bigcache](http://allegro.tech/2016/03/writing-fast-cache-service-in-go.html) | 5,002 | 421 | 53 | Efficient cache for gigabytes of data written in Go. | 2016-03-23 07:18:52 | 2021-07-30 16:39:39 |
-| [bbolt](https://go.etcd.io/bbolt) | 4,654 | 352 | 107 | An embedded key/value database for Go. | 2017-06-17 01:42:09 | 2021-07-30 09:31:20 |
-| [VictoriaMetrics](https://victoriametrics.com/) | 4,631 | 406 | 327 | VictoriaMetrics: fast, cost-effective monitoring solution and time series database | 2018-09-30 09:58:01 | 2021-07-31 01:02:19 |
-| [goleveldb](https://patrickmn.com/projects/go-cache/) | 4,464 | 672 | 72 | LevelDB key/value database in Go. | 2013-01-23 04:08:58 | 2021-07-30 01:26:39 |
-| [ledisdb](https://ledisdb.io) | 3,675 | 417 | 1 | A high performance NoSQL Database Server powered by Go | 2014-04-30 00:43:09 | 2021-07-30 08:13:41 |
-| [buntdb](https://github.com/tidwall/buntdb) | 3,370 | 236 | 4 | BuntDB is an embeddable, in-memory key/value database for Go with custom indexing and geospatial support | 2016-07-19 22:11:40 | 2021-07-30 22:56:01 |
-| [immudb](https://codenotary.com/technologies/immudb) | 3,025 | 123 | 62 | immudb - world’s fastest immutable database | 2019-11-07 08:22:16 | 2021-07-30 19:48:10 |
-| [tiedot](https://github.com/HouzuoGuo/tiedot) | 2,606 | 260 | 26 | A rudimentary implementation of a basic document (NoSQL) database in Go | 2013-05-26 10:03:49 | 2021-07-29 20:51:44 |
-| [nutsdb](https://xujiajun.cn/nutsdb/) | 1,696 | 145 | 29 | A simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as  list, set, sorted set. | 2018-12-07 07:03:38 | 2021-07-30 09:06:17 |
-| [gcache](https://github.com/bluele/gcache) | 1,621 | 197 | 18 | An in-memory cache library for golang. It supports multiple eviction policies: LRU, LFU, ARC | 2015-01-24 18:17:07 | 2021-07-30 07:21:39 |
-| [cache2go](https://github.com/muesli/cache2go) | 1,574 | 443 | 23 | Concurrency-safe Go caching library with expiration capabilities and access counters | 2013-11-11 03:45:02 | 2021-07-30 03:12:48 |
-| [rosedb](https://space.bilibili.com/26194591) | 1,541 | 225 | 6 | 🚀A fast, stable and embedded k-v database in pure Golang, supports string, list, hash, set, sorted set. 一个 Go 语言实现的快速、稳定、内嵌的 k-v 数据库。 | 2020-12-06 07:02:48 | 2021-07-31 02:23:36 |
-| [fastcache](https://github.com/VictoriaMetrics/fastcache) | 1,202 | 92 | 29 | Fast thread-safe inmemory cache for big number of entries in Go. Minimizes GC overhead | 2018-11-22 22:50:13 | 2021-07-30 07:15:02 |
-| [CovenantSQL](https://developers.covenantsql.io) | 1,200 | 132 | 25 | A decentralized, trusted, high performance, SQL database with blockchain features | 2018-04-11 09:52:58 | 2021-07-30 09:34:13 |
-| [diskv](http://godoc.org/github.com/peterbourgon/diskv) | 1,076 | 89 | 7 | A disk-backed key-value store. | 2012-03-21 16:44:32 | 2021-07-28 00:39:20 |
-| [databunker](https://databunker.org/) | 872 | 34 | 1 | Secure vault for customer records built to comply with GDPR | 2019-12-08 21:55:55 | 2021-07-30 12:32:05 |
-| [eliasdb](https://github.com/krotik/eliasdb) | 820 | 41 | 10 | EliasDB a graph-based database. | 2016-08-13 13:53:28 | 2021-07-29 18:33:11 |
-| [moss](https://github.com/couchbase/moss) | 819 | 48 | 46 | moss - a simple, fast, ordered, persistable, key-val storage library for golang | 2016-02-06 20:27:22 | 2021-07-27 16:21:15 |
-| [pogreb](https://github.com/akrylysov/pogreb) | 801 | 57 | 9 | Embedded key-value store for read-heavy workloads written in Go | 2018-01-06 23:16:36 | 2021-07-27 15:02:44 |
+| [prometheus](https://prometheus.io/) | 50,125 | 8,542 | 901 | The Prometheus monitoring system and time series database. | 2012-11-24 11:14:12 | 2023-10-06 12:44:08 |
+| [tidb](https://pingcap.com) | 34,945 | 5,629 | 4,375 | TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial | 2015-09-06 04:01:52 | 2023-10-06 11:53:08 |
+| [cockroach](https://www.cockroachlabs.com) | 27,895 | 3,544 | 5,621 | CockroachDB - the open source, cloud-native distributed SQL database. | 2014-02-06 00:18:47 | 2023-10-06 12:29:54 |
+| [influxdb](https://influxdata.com) | 26,406 | 3,437 | 1,826 | Scalable datastore for metrics, events, and real-time analytics | 2013-09-26 14:31:10 | 2023-10-05 23:28:39 |
+| [dgraph](https://dgraph.io) | 19,649 | 1,489 | 275 | The high-performance database for modern applications | 2015-08-25 07:15:56 | 2023-10-06 08:45:58 |
+| [rqlite](https://rqlite.io) | 14,071 | 667 | 60 | The lightweight, distributed relational database built on SQLite | 2014-08-23 04:31:18 | 2023-10-05 21:50:10 |
+| [badger](https://dgraph.io/badger) | 12,812 | 1,142 | 41 | Fast key-value DB in Go. | 2017-01-26 05:09:49 | 2023-10-06 00:31:59 |
+| [groupcache](https://github.com/golang/groupcache) | 12,318 | 1,381 | 40 | groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases. | 2013-07-22 21:55:07 | 2023-10-05 18:15:10 |
+| [VictoriaMetrics](https://victoriametrics.com/) | 9,483 | 973 | 786 | VictoriaMetrics: fast, cost-effective monitoring solution and time series database | 2018-09-30 09:58:01 | 2023-10-06 07:42:26 |
+| [immudb](https://immudb.io) | 8,362 | 330 | 106 | immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history | 2019-11-07 08:22:16 | 2023-10-05 19:24:55 |
+| [go-cache](https://patrickmn.com/projects/go-cache/) | 7,463 | 866 | 72 | An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications. | 2012-01-02 13:07:13 | 2023-10-05 07:18:53 |
+| [bbolt](https://go.etcd.io/bbolt) | 6,937 | 576 | 67 | An embedded key/value database for Go. | 2017-06-17 01:42:09 | 2023-10-05 19:57:01 |
+| [bigcache](http://allegro.tech/2016/03/writing-fast-cache-service-in-go.html) | 6,815 | 585 | 84 | Efficient cache for gigabytes of data written in Go. | 2016-03-23 07:18:52 | 2023-10-06 08:11:37 |
+| [goleveldb](https://patrickmn.com/projects/go-cache/) | 5,852 | 927 | 107 | LevelDB key/value database in Go. | 2013-01-23 04:08:58 | 2023-10-06 09:29:53 |
+| [buntdb](https://github.com/tidwall/buntdb) | 4,218 | 283 | 24 | BuntDB is an embeddable, in-memory key/value database for Go with custom indexing and geospatial support | 2016-07-19 22:11:40 | 2023-10-05 16:13:04 |
+| [rosedb](https://rosedblabs.github.io) | 4,020 | 602 | 7 | Lightweight, fast and reliable key/value storage engine based on Bitcask. | 2020-12-06 07:02:48 | 2023-10-06 10:59:27 |
+| [ledisdb](https://ledisdb.io) | 4,008 | 476 | 0 | A high performance NoSQL Database Server powered by Go | 2014-04-30 00:43:09 | 2023-09-28 03:43:08 |
+| [nutsdb](https://nutsdb.github.io/nutsdb/) | 3,014 | 305 | 50 | A simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as  list, set, sorted set. | 2018-12-07 07:03:38 | 2023-10-03 09:21:42 |
+| [tiedot](https://github.com/HouzuoGuo/tiedot) | 2,713 | 272 | 27 | A rudimentary implementation of a basic document (NoSQL) database in Go | 2013-05-26 10:03:49 | 2023-09-24 20:01:38 |
+| [gcache](https://github.com/bluele/gcache) | 2,442 | 262 | 27 | An in-memory cache library for golang. It supports multiple eviction policies: LRU, LFU, ARC | 2015-01-24 18:17:07 | 2023-10-05 17:51:20 |
+| [cache2go](https://github.com/muesli/cache2go) | 2,011 | 544 | 32 | Concurrency-safe Go caching library with expiration capabilities and access counters | 2013-11-11 03:45:02 | 2023-10-06 08:13:37 |
+| [fastcache](https://github.com/VictoriaMetrics/fastcache) | 1,858 | 163 | 44 | Fast thread-safe inmemory cache for big number of entries in Go. Minimizes GC overhead | 2018-11-22 22:50:13 | 2023-10-03 08:23:08 |
+| [CovenantSQL](https://developers.covenantsql.io) | 1,457 | 177 | 36 | A decentralized, trusted, high performance, SQL database with blockchain features | 2018-04-11 09:52:58 | 2023-10-05 08:25:23 |
+| [diskv](http://godoc.org/github.com/peterbourgon/diskv) | 1,296 | 107 | 8 | A disk-backed key-value store. | 2012-03-21 16:44:32 | 2023-10-03 10:31:36 |
+| [databunker](https://databunker.org/) | 1,128 | 63 | 6 | Secure SDK/vault for personal records/PII built to comply with GDPR | 2019-12-08 21:55:55 | 2023-10-04 17:15:13 |
+| [pogreb](https://github.com/akrylysov/pogreb) | 1,126 | 89 | 16 | Embedded key-value store for read-heavy workloads written in Go | 2018-01-06 23:16:36 | 2023-10-02 08:02:33 |
+| [eliasdb](https://github.com/krotik/eliasdb) | 981 | 49 | 14 | EliasDB a graph-based database. | 2016-08-13 13:53:28 | 2023-09-27 19:10:22 |
+| [moss](https://github.com/couchbase/moss) | 933 | 59 | 46 | moss - a simple, fast, ordered, persistable, key-val storage library for golang | 2016-02-06 20:27:22 | 2023-09-30 07:19:51 |
 | [bitcask](https://prologic.github.io/bitcask) | 759 | 70 | 10 | 🔑A high performance Key/Value store written in Go with a predictable read/write performance and high throughput. Uses a Bitcask on-disk layout (LSM+WAL) similar to Riak. | 2019-03-12 13:57:35 | 2021-06-22 16:39:37 |
-| [levigo](https://github.com/jmhodges/levigo) | 399 | 82 | 3 | levigo is a Go wrapper for LevelDB | 2012-01-17 08:17:54 | 2021-07-21 07:42:55 |
-| [pudge](https://github.com/recoilme/pudge) | 293 | 21 | 0 | Fast and simple key/value store written using Go's standard library | 2018-11-20 10:11:53 | 2021-07-28 15:04:22 |
-| [vasto](https://github.com/chrislusf/vasto) | 214 | 24 | 4 | A distributed key-value store. On Disk. Able to grow or shrink without service interruption. | 2018-01-16 05:16:57 | 2021-07-10 23:20:45 |
-| [kivik](https://github.com/go-kivik/kivik) | 213 | 29 | 10 | Kivik provides a common interface to CouchDB or CouchDB-like databases for Go and GopherJS. | 2017-02-09 14:14:54 | 2021-07-22 12:10:08 |
-| [piladb](https://www.piladb.org) | 188 | 19 | 9 | Lightweight RESTful database engine based on stack data structures | 2015-09-08 23:12:22 | 2021-07-29 20:52:07 |
-| [golang-scribble](https://github.com/nanobox-io/golang-scribble) | 128 | 13 | 1 | A tiny Golang JSON database | 2018-06-21 22:13:33 | 2021-07-04 23:37:57 |
-| [slowpoke](https://github.com/recoilme/slowpoke) | 97 | 8 | 0 | Low-level key/value store in pure Go.  | 2018-02-19 09:22:37 | 2021-07-13 16:52:14 |
-| [cache](https://github.com/akyoto/cache) | 89 | 9 | 0 | :handbag: Cache arbitrary data with an expiration time. | 2019-05-11 12:42:45 | 2021-07-05 09:48:23 |
-| [unitdb](https://github.com/unit-io/unitdb) | 68 | 7 | 0 | Fast specialized time-series database for IoT, real-time internet connected devices and AI analytics. | 2019-08-29 18:21:27 | 2021-07-30 08:54:52 |
-| [bcache](https://github.com/iwanbk/bcache) | 67 | 10 | 3 | Eventually consistent distributed in-memory  cache Go library | 2018-12-26 15:45:16 | 2021-07-22 09:24:38 |
-| [couchcache](https://github.com/codingsince1985/couchcache) | 53 | 4 | 0 | A RESTful caching micro-service in Go backed by Couchbase | 2015-04-05 07:13:05 | 2021-03-03 04:44:10 |
-| [hare](https://github.com/jameycribbs/hare) | 41 | 3 | 1 | Hare is a nimble little database management system for Go. | 2016-10-05 20:05:45 | 2021-06-21 15:45:05 |
-| [clusteredBigCache](https://github.com/oaStuff/clusteredBigCache) | 37 | 4 | 2 | golang bigcache with clustering as a library. | 2017-12-18 07:48:07 | 2021-03-12 09:43:04 |
-| [coffer](https://github.com/claygod/coffer) | 25 | 1 | 0 | Simply ACID* key-value database. At the medium or even low latency it tries to provide greater throughput without losing the ACID properties of the database. The database provides the ability to create record headers at own discretion and use them as transactions. The maximum size of stored data is limited by the size of the computer's RAM. | 2019-05-13 18:30:23 | 2021-05-11 17:35:16 |
-| [tempdb](https://github.com/rafaeljesus/tempdb) | 15 | 1 | 0 | Key-value store for temporary items :memo: | 2017-03-17 18:03:42 | 2021-04-26 04:59:34 |
-| [ttlcache](https://github.com/cheshir/ttlcache) | 3 | 1 | 0 | Simple in-memory key-value storage with TTL for each record. | 2021-01-06 19:24:26 | 2021-05-24 05:31:48 |
-| [bitcask](http://allegro.tech/2016/03/writing-fast-cache-service-in-go.html) | 0 | 0 | 0 | 🔑 A high performance Key/Value store written in Go with a predictable read/write performance and high throughput. Uses a Bitcask on-disk layout (LSM+WAL) similar to Riak. | 2021-07-12 14:52:18 | 2021-07-12 14:53:24 |
+| [levigo](https://github.com/jmhodges/levigo) | 416 | 88 | 6 | levigo is a Go wrapper for LevelDB | 2012-01-17 08:17:54 | 2023-09-08 16:31:50 |
+| [pudge](https://github.com/recoilme/pudge) | 347 | 31 | 0 | Fast and simple key/value store written using Go's standard library | 2018-11-20 10:11:53 | 2023-10-02 07:30:45 |
+| [kivik](https://github.com/go-kivik/kivik) | 280 | 40 | 29 | Kivik provides a common interface to CouchDB or CouchDB-like databases for Go and GopherJS. | 2017-02-09 14:14:54 | 2023-09-30 19:20:59 |
+| [vasto](https://github.com/chrislusf/vasto) | 249 | 30 | 4 | A distributed key-value store. On Disk. Able to grow or shrink without service interruption. | 2018-01-16 05:16:57 | 2023-09-20 04:53:41 |
+| [piladb](https://www.piladb.org) | 201 | 21 | 9 | Lightweight RESTful database engine based on stack data structures | 2015-09-08 23:12:22 | 2023-08-02 09:11:42 |
+| [golang-scribble](https://github.com/nanobox-io/golang-scribble) | 166 | 28 | 1 | A tiny Golang JSON database | 2018-06-21 22:13:33 | 2023-10-03 09:25:33 |
+| [cache](https://github.com/akyoto/cache) | 153 | 17 | 0 | :handbag: Cache arbitrary data with an expiration time. | 2019-05-11 12:42:45 | 2023-10-05 19:08:29 |
+| [bcache](https://github.com/iwanbk/bcache) | 130 | 15 | 4 | Eventually consistent distributed in-memory  cache Go library | 2018-12-26 15:45:16 | 2023-09-24 10:17:53 |
+| [unitdb](https://github.com/unit-io/unitdb) | 112 | 10 | 2 | Fast specialized time-series database for IoT, real-time internet connected devices and AI analytics. | 2019-08-29 18:21:27 | 2023-10-03 07:33:38 |
+| [slowpoke](https://github.com/recoilme/slowpoke) | 98 | 9 | 0 | Low-level key/value store in pure Go.  | 2018-02-19 09:22:37 | 2023-08-28 08:43:34 |
+| [hare](https://github.com/jameycribbs/hare) | 80 | 11 | 1 | Hare is a nimble little database management system for Go. | 2016-10-05 20:05:45 | 2023-09-24 13:01:26 |
+| [couchcache](https://github.com/codingsince1985/couchcache) | 60 | 6 | 0 | A RESTful caching micro-service in Go backed by Couchbase | 2015-04-05 07:13:05 | 2023-06-09 07:54:33 |
+| [clusteredBigCache](https://github.com/oaStuff/clusteredBigCache) | 43 | 5 | 2 | golang bigcache with clustering as a library. | 2017-12-18 07:48:07 | 2023-02-25 02:05:15 |
+| [coffer](https://github.com/claygod/coffer) | 34 | 4 | 1 | Simply ACID* key-value database. At the medium or even low latency it tries to provide greater throughput without losing the ACID properties of the database. The database provides the ability to create record headers at own discretion and use them as transactions. The maximum size of stored data is limited by the size of the computer's RAM. | 2019-05-13 18:30:23 | 2023-07-19 22:30:32 |
+| [tempdb](https://github.com/rafaeljesus/tempdb) | 17 | 3 | 0 | Key-value store for temporary items :memo: | 2017-03-17 18:03:42 | 2022-09-26 09:37:38 |
+| [bitcask](http://allegro.tech/2016/03/writing-fast-cache-service-in-go.html) | 15 | 2 | 0 | 🔑 A high performance Key/Value store written in Go with a predictable read/write performance and high throughput. Uses a Bitcask on-disk layout (LSM+WAL) similar to Riak. | 2021-07-12 14:52:18 | 2023-09-27 15:01:06 |
+| [ttlcache](https://github.com/cheshir/ttlcache) | 9 | 7 | 0 | Simple in-memory key-value storage with TTL for each record. | 2021-01-06 19:24:26 | 2023-03-26 17:03:11 |
 </details>
 
 ### Database - SQL query builder
@@ -611,16 +611,16 @@ libraries for building and using SQL
 ### Database Drivers - Multiple Backends.
 
 
-<sup>*Last Update: 2023-10-05 21:13:44*</sup>
+<sup>*Last Update: 2023-10-06 19:45:42*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
 | [cayley](https://cayley.io) | 14,645 | 1,288 | 92 | An open-source graph database | 2014-06-05 18:49:41 | 2023-10-04 05:52:56 |
-| [gokv](https://github.com/philippgille/gokv) | 353 | 35 | 31 | Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more) | 2018-10-08 18:55:22 | 2021-08-15 10:51:37 |
+| [gokv](https://github.com/philippgille/gokv) | 580 | 65 | 39 | Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more) | 2018-10-08 18:55:22 | 2023-10-05 20:57:57 |
 | [cachego](https://github.com/faabiosr/cachego) | 300 | 20 | 0 | Golang Cache component - Multiple drivers | 2016-10-05 18:10:03 | 2023-10-03 06:59:23 |
-| [dsc](https://github.com/viant/dsc) | 22 | 6 | 0 | Datastore Connectivity in go | 2016-06-13 20:18:10 | 2021-04-17 04:50:27 |
+| [dsc](https://github.com/viant/dsc) | 27 | 10 | 2 | Datastore Connectivity in go | 2016-06-13 20:18:10 | 2023-07-27 16:52:56 |
 </details>
 
 ### Database Drivers - NoSQL Databases
@@ -1467,13 +1467,13 @@ Libraries that implement messaging systems.
 ### Microsoft Office
 
 
-<sup>*Last Update: 2023-10-05 09:12:31*</sup>
+<sup>*Last Update: 2023-10-06 19:45:45*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [unioffice](https://unidoc.io/unioffice/) | 3,951 | 440 | 34 | Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents | 2017-08-29 01:25:48 | 2023-10-04 06:08:25 |
+| [unioffice](https://unidoc.io/unioffice/) | 3,952 | 440 | 34 | Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents | 2017-08-29 01:25:48 | 2023-10-05 05:51:45 |
 </details>
 
 ### Microsoft Office - Microsoft Excel
@@ -2812,17 +2812,17 @@ Full stack web frameworks.
 ### XML
 Libraries and tools for manipulating XML.
 
-<sup>*Last Update: 2021-09-07 09:25:19*</sup>
+<sup>*Last Update: 2023-10-06 19:45:42*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [zek](https://github.com/miku/zek) | 494 | 42 | 8 | Generate a Go struct from XML. | 2017-11-23 19:03:11 | 2021-09-06 19:43:01 |
-| [xpath](https://github.com/antchfx/xpath) | 413 | 61 | 10 | XPath package for Golang, supports HTML, XML, JSON document query. | 2016-10-09 05:51:24 | 2021-09-03 06:21:56 |
-| [xquery](https://github.com/antchfx/xpath) | 154 | 26 | 0 | Extract data or evaluate value from HTML/XML documents using XPath | 2016-10-09 05:54:10 | 2021-08-16 09:40:30 |
-| [xml2map](https://github.com/sbabiv/xml2map) | 34 | 6 | 1 | XML to MAP converter written Golang | 2018-08-06 17:51:46 | 2021-08-22 15:50:01 |
-| [xmlwriter](https://github.com/shabbyrobe/xmlwriter) | 20 | 3 | 1 | xmlwriter is a pure-Go library providing procedural XML generation based on libxml2's xmlwriter module | 2017-04-11 04:43:26 | 2021-07-29 01:17:10 |
-| [XML-Comp](https://github.com/XML-Comp/XML-Comp) | 15 | 8 | 8 | Compare ANY markup documents. | 2016-10-25 22:09:12 | 2021-04-23 04:41:47 |
+| [zek](https://github.com/miku/zek) | 687 | 61 | 10 | Generate a Go struct from XML. | 2017-11-23 19:03:11 | 2023-09-27 15:03:13 |
+| [xpath](https://github.com/antchfx/xpath) | 600 | 79 | 16 | XPath package for Golang, supports HTML, XML, JSON document query. | 2016-10-09 05:51:24 | 2023-10-05 20:27:32 |
+| [xquery](https://github.com/antchfx/xpath) | 156 | 28 | 0 | Extract data or evaluate value from HTML/XML documents using XPath | 2016-10-09 05:54:10 | 2023-03-20 02:53:40 |
+| [xml2map](https://github.com/sbabiv/xml2map) | 54 | 12 | 2 | XML to MAP converter written Golang | 2018-08-06 17:51:46 | 2023-10-02 19:59:42 |
+| [xmlwriter](https://github.com/shabbyrobe/xmlwriter) | 23 | 6 | 1 | xmlwriter is a pure-Go library providing procedural XML generation based on libxml2's xmlwriter module | 2017-04-11 04:43:26 | 2023-09-04 05:54:43 |
+| [XML-Comp](https://github.com/XML-Comp/XML-Comp) | 20 | 11 | 8 | Compare ANY markup documents. | 2016-10-25 22:09:12 | 2023-02-09 09:34:22 |
 </details>
 
