@@ -795,13 +795,13 @@ Packages that help with building Distributed Systems.
 ### Dynamic DNS
 Tools for updating dynamic DNS records.
 
-<sup>*Last Update: 2023-10-02 20:50:43*</sup>
+<sup>*Last Update: 2023-10-08 19:41:22*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [godns](https://xiaozhou.net/godns-project-2014-05-18.html) | 1,349 | 233 | 14 | A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go. | 2014-05-11 11:49:17 | 2023-10-02 04:29:24 |
+| [godns](https://xiaozhou.net/godns-project-2014-05-18.html) | 1,352 | 235 | 14 | A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go. | 2014-05-11 11:49:17 | 2023-10-05 13:59:40 |
 | [ddns](https://github.com/skibish/ddns) | 239 | 22 | 1 | Personal DDNS client with Digital Ocean Networking DNS as backend. | 2017-03-13 21:02:27 | 2023-09-24 14:01:53 |
 </details>
 
@@ -1238,39 +1238,39 @@ Libraries for programming devices of the IoT.
 ### JSON
 Libraries for working with JSON.
 
-<sup>*Last Update: 2021-08-23 09:25:02*</sup>
+<sup>*Last Update: 2023-10-08 19:41:07*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [gjson](https://github.com/tidwall/gjson) | 8,808 | 600 | 30 | Get JSON values quickly - JSON parser for Go | 2016-08-11 03:08:47 | 2021-08-22 17:13:44 |
-| [json-to-go](https://mholt.github.io/json-to-go/) | 3,213 | 383 | 12 | Translates JSON into a Go type in your browser instantly (original) | 2014-01-21 18:11:13 | 2021-08-22 17:18:03 |
-| [gojson](https://github.com/ChimeraCoder/gojson) | 2,393 | 184 | 41 | Automatically generate Go (golang) struct definitions from example JSON | 2012-12-27 19:10:50 | 2021-08-22 08:15:37 |
-| [fastjson](https://github.com/valyala/fastjson) | 1,293 | 72 | 33 | Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection | 2018-05-28 21:41:47 | 2021-08-22 07:30:04 |
-| [kazaam](https://github.com/qntfy/kazaam) | 203 | 42 | 23 | Arbitrary transformations of JSON in Golang | 2016-07-19 14:19:03 | 2021-08-17 08:09:57 |
-| [gojq](https://godoc.org/github.com/nicklaw5/go-respond) | 173 | 20 | 1 | JSON query in Golang | 2015-12-30 09:02:13 | 2021-08-18 06:54:30 |
-| [jsondiff](https://pkg.go.dev/github.com/wI2L/jsondiff) | 125 | 10 | 0 | JSON diff library for Go based on RFC6902 (JSON Patch) | 2020-11-28 19:05:16 | 2021-08-19 10:16:22 |
-| [jettison](https://pkg.go.dev/github.com/wI2L/jettison) | 111 | 7 | 0 | Fast and flexible JSON encoder for Go | 2019-08-30 13:28:03 | 2021-08-12 05:15:25 |
-| [jsongo](https://pkg.go.dev/github.com/wI2L/jsondiff) | 96 | 13 | 1 | Fluent API to make it easier to create Json objects. | 2015-08-07 23:23:17 | 2021-05-01 10:53:24 |
-| [gjo](https://github.com/skanehira/gjo) | 94 | 11 | 1 | Small utility to create JSON objects | 2019-02-23 01:54:21 | 2021-07-06 17:53:06 |
-| [jaydiff](https://github.com/yazgazan/jaydiff) | 84 | 7 | 2 | A JSON diff utility | 2017-04-24 16:05:35 | 2021-08-20 14:26:03 |
-| [json2go](https://m-zajac.github.io/json2go) | 84 | 12 | 1 | Create go type representation from json | 2017-06-10 23:55:07 | 2021-08-20 10:56:25 |
-| [ajson](https://github.com/spyzhov/ajson) | 66 | 8 | 5 | Abstract JSON for golang with JSONPath support  | 2019-03-07 20:47:38 | 2021-08-18 08:22:30 |
-| [jsonf](https://pkg.go.dev/github.com/wI2L/jsondiff) | 62 | 9 | 0 | Console JSON formatter with query feature | 2015-05-25 04:53:32 | 2021-08-04 01:58:06 |
-| [json-to-proto.github.io](https://json-to-proto.github.io/) | 51 | 7 | 1 | convert JSON to Protocol Buffers online in your browser instantly | 2020-04-18 20:42:45 | 2021-08-19 06:51:07 |
-| [mp](https://github.com/sanbornm/mp) | 44 | 4 | 1 | Simple Email Parser | 2014-06-15 21:14:39 | 2020-10-22 17:21:09 |
-| [go-respond](https://godoc.org/github.com/nicklaw5/go-respond) | 41 | 6 | 1 | A Go package for handling common HTTP JSON responses. | 2017-03-12 21:00:54 | 2021-07-29 18:23:08 |
-| [go-jsonerror](https://github.com/ddymko/go-jsonerror) | 10 | 1 | 0 | Small package which wraps error responses to follow jsonapi.org | 2018-10-18 15:03:45 | 2020-10-02 04:02:28 |
-| [jsonapi-errors](https://github.com/AmuzaTkts/jsonapi-errors) | 9 | 2 | 0 | Go bindings based on the JSON API errors reference | 2016-07-08 10:08:58 | 2020-08-30 14:39:42 |
-| [jsonhal](https://github.com/RichardKnop/jsonhal) | 9 | 4 | 1 | A simple Go package to make custom structs marshal into HAL compatible JSON responses. | 2016-01-15 11:38:40 | 2020-05-26 19:24:02 |
-| [ask](https://github.com/simonnilsson/ask) | 7 | 0 | 0 | A Go package that provides a simple way of accessing nested properties in maps and slices. | 2020-09-13 13:53:31 | 2021-05-29 00:44:25 |
-| [ej](https://github.com/lucassscaravelli/ej) | 7 | 0 | 0 | Write and read JSON from different sources in one line | 2020-01-04 17:39:35 | 2021-04-27 22:00:09 |
-| [dynjson](https://github.com/cocoonspace/dynjson) | 7 | 2 | 0 | Client-customizable JSON formats for dynamic APIs | 2020-05-06 07:10:02 | 2021-08-14 10:47:09 |
-| [epoch](https://github.com/vtopc/epoch) | 6 | 1 | 0 | Contains primitives for marshaling/unmarshaling Unix timestamp/epoch to/from built-in time.Time type in JSON | 2019-12-15 12:54:37 | 2021-08-04 01:57:13 |
-| [mapslice-json](https://github.com/ake-persson/mapslice-json) | 6 | 1 | 0 | Go MapSlice for ordered marshal/ unmarshal of maps in JSON | 2020-02-19 11:01:48 | 2021-08-21 00:15:30 |
-| [jzon](https://github.com/zerosnake0/jzon) | 4 | 0 | 0 | A golang json library inspired by jsoniter | 2019-11-12 10:42:41 | 2021-05-24 05:31:48 |
-| [jsonic](https://github.com/sinhashubham95/jsonic) | 3 | 0 | 0 | All you need with JSON | 2021-01-09 06:21:59 | 2021-07-18 18:43:03 |
+| [gjson](https://github.com/tidwall/gjson) | 12,888 | 846 | 67 | Get JSON values quickly - JSON parser for Go | 2016-08-11 03:08:47 | 2023-10-08 02:11:50 |
+| [json-to-go](https://mholt.github.io/json-to-go/) | 4,243 | 500 | 17 | Translates JSON into a Go type in your browser instantly (original) | 2014-01-21 18:11:13 | 2023-10-06 22:14:14 |
+| [gojson](https://github.com/ChimeraCoder/gojson) | 2,619 | 231 | 41 | Automatically generate Go (golang) struct definitions from example JSON | 2012-12-27 19:10:50 | 2023-10-05 13:04:53 |
+| [fastjson](https://github.com/valyala/fastjson) | 2,001 | 120 | 53 | Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection | 2018-05-28 21:41:47 | 2023-10-07 11:35:43 |
+| [jsondiff](https://pkg.go.dev/github.com/wI2L/jsondiff) | 298 | 31 | 0 | Compute the diff between two JSON documents as a series of RFC6902 (JSON Patch) operations | 2020-11-28 19:05:16 | 2023-10-06 19:25:23 |
+| [kazaam](https://github.com/qntfy/kazaam) | 267 | 54 | 22 | Arbitrary transformations of JSON in Golang | 2016-07-19 14:19:03 | 2023-10-08 08:01:51 |
+| [json-to-proto.github.io](https://json-to-proto.github.io) | 205 | 44 | 3 | convert JSON to Protocol Buffers online in your browser instantly | 2020-04-18 20:42:45 | 2023-09-29 10:20:23 |
+| [gojq](https://godoc.org/github.com/nicklaw5/go-respond) | 190 | 23 | 1 | JSON query in Golang | 2015-12-30 09:02:13 | 2023-09-26 22:59:23 |
+| [ajson](https://github.com/spyzhov/ajson) | 188 | 20 | 12 | Abstract JSON for Golang with JSONPath support  | 2019-03-07 20:47:38 | 2023-10-07 08:10:36 |
+| [jettison](https://pkg.go.dev/github.com/wI2L/jettison) | 163 | 11 | 2 | Highly configurable, fast JSON encoder for Go | 2019-08-30 13:28:03 | 2023-10-05 20:06:59 |
+| [json2go](https://m-zajac.github.io/json2go) | 122 | 17 | 1 | Create go type representation from json | 2017-06-10 23:55:07 | 2023-09-02 00:39:04 |
+| [gjo](https://github.com/skanehira/gjo) | 122 | 15 | 1 | Small utility to create JSON objects | 2019-02-23 01:54:21 | 2023-09-26 22:58:24 |
+| [jsongo](https://pkg.go.dev/github.com/wI2L/jsondiff) | 109 | 15 | 1 | Fluent API to make it easier to create Json objects. | 2015-08-07 23:23:17 | 2023-02-02 12:48:01 |
+| [jaydiff](https://github.com/yazgazan/jaydiff) | 102 | 8 | 1 | A JSON diff utility | 2017-04-24 16:05:35 | 2023-09-26 22:59:43 |
+| [jsonf](https://pkg.go.dev/github.com/wI2L/jsondiff) | 65 | 11 | 0 | Console JSON formatter with query feature | 2015-05-25 04:53:32 | 2023-09-26 23:00:18 |
+| [go-respond](https://godoc.org/github.com/nicklaw5/go-respond) | 52 | 10 | 1 | A Go package for handling common HTTP JSON responses. | 2017-03-12 21:00:54 | 2023-09-26 22:59:02 |
+| [mp](https://github.com/sanbornm/mp) | 46 | 8 | 1 | Simple Email Parser | 2014-06-15 21:14:39 | 2022-09-26 23:21:10 |
+| [ask](https://github.com/simonnilsson/ask) | 28 | 3 | 0 | A Go package that provides a simple way of accessing nested properties in maps and slices. | 2020-09-13 13:53:31 | 2023-09-26 22:57:33 |
+| [mapslice-json](https://github.com/ake-persson/mapslice-json) | 16 | 7 | 4 | Go MapSlice for ordered marshal/ unmarshal of maps in JSON | 2020-02-19 11:01:48 | 2023-09-26 23:01:11 |
+| [dynjson](https://github.com/cocoonspace/dynjson) | 16 | 6 | 1 | Client-customizable JSON formats for dynamic APIs | 2020-05-06 07:10:02 | 2023-09-26 22:57:53 |
+| [go-jsonerror](https://github.com/ddymko/go-jsonerror) | 14 | 2 | 1 | Small package which wraps error responses to follow jsonapi.org | 2018-10-18 15:03:45 | 2023-09-26 22:58:50 |
+| [jsonhal](https://github.com/RichardKnop/jsonhal) | 14 | 7 | 1 | A simple Go package to make custom structs marshal into HAL compatible JSON responses. | 2016-01-15 11:38:40 | 2023-09-26 23:00:26 |
+| [jsonapi-errors](https://github.com/AmuzaTkts/jsonapi-errors) | 14 | 3 | 0 | Go bindings based on the JSON API errors reference | 2016-07-08 10:08:58 | 2023-09-26 23:00:03 |
+| [epoch](https://github.com/vtopc/epoch) | 13 | 3 | 1 | Contains primitives for marshaling/unmarshaling Unix timestamp/epoch to/from built-in time.Time type in JSON | 2019-12-15 12:54:37 | 2023-09-26 22:58:05 |
+| [jzon](https://github.com/zerosnake0/jzon) | 12 | 2 | 0 | A golang json library inspired by jsoniter | 2019-11-12 10:42:41 | 2023-09-26 23:00:53 |
+| [ej](https://github.com/lucassscaravelli/ej) | 10 | 2 | 0 | Write and read JSON from different sources in one line | 2020-01-04 17:39:35 | 2023-09-26 22:57:59 |
+| [jsonic](https://github.com/sinhashubham95/jsonic) | 10 | 2 | 0 | All you need with JSON | 2021-01-09 06:21:59 | 2023-09-26 23:00:47 |
 </details>
 
 ### Job Scheduler
@@ -1949,37 +1949,37 @@ Libraries for scientific computing and data analyzing.
 ### Security
 Libraries that are used to help make your application more secure.
 
-<sup>*Last Update: 2021-08-19 09:25:07*</sup>
+<sup>*Last Update: 2023-10-08 19:40:54*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [lego](https://go-acme.github.io/lego/) | 4,747 | 631 | 119 | Let's Encrypt client and ACME library written in Go | 2015-06-08 00:36:41 | 2021-08-17 20:06:51 |
-| [cameradar](https://github.com/Ullaakut/cameradar) | 2,652 | 368 | 14 | Cameradar hacks its way into RTSP videosurveillance cameras | 2016-05-20 11:35:41 | 2021-08-18 18:45:33 |
-| [crypto](https://golang.org/x/crypto) | 2,224 | 1,230 | 44 | [mirror] Go supplementary cryptography libraries | 2014-12-04 04:02:55 | 2021-08-18 14:26:45 |
-| [memguard](https://github.com/awnumar/memguard) | 1,972 | 90 | 4 | Secure software enclave for storage of sensitive information in memory. | 2017-04-22 07:40:40 | 2021-08-15 17:28:09 |
-| [acmetool](https://hlandau.github.io/acmetool/) | 1,867 | 118 | 67 | :lock: acmetool, an automatic certificate acquisition tool for ACME (Let's Encrypt) | 2015-11-15 01:56:02 | 2021-08-13 23:20:22 |
-| [secure](https://github.com/unrolled/secure) | 1,804 | 114 | 3 | HTTP middleware for Go that facilitates some quick security wins. | 2014-05-20 19:46:28 | 2021-08-17 02:45:48 |
-| [themis](https://www.cossacklabs.com/themis) | 1,327 | 112 | 9 | Easy to use cryptographic framework for data protection: secure messaging with forward secrecy and secure data storage. Has unified APIs across 14 platforms. | 2015-05-06 13:25:25 | 2021-08-16 20:38:30 |
-| [acra](https://www.cossacklabs.com/acra/) | 785 | 91 | 7 | Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("transparent") encryption. SQL, NoSQL. | 2016-11-14 16:23:25 | 2021-08-14 12:00:46 |
-| [nacl](https://godoc.org/github.com/kevinburke/nacl) | 508 | 29 | 3 | Pure Go implementation of the NaCL set of API's | 2017-07-20 19:07:19 | 2021-08-17 10:50:27 |
-| [firewalld-rest](https://pkg.go.dev/github.com/prashantgupta24/firewalld-rest) | 306 | 12 | 1 | A rest application to update firewalld rules on a linux server  | 2020-06-12 20:16:33 | 2021-08-18 05:20:56 |
-| [ssh-vault](https://ssh-vault.com) | 303 | 22 | 4 | 🌰  encrypt/decrypt using ssh keys | 2016-09-29 14:46:30 | 2021-08-13 09:31:46 |
-| [badactor](https://badactor.org) | 300 | 15 | 1 | BadActor.org An in-memory application driven jailer written in Go | 2014-12-12 20:05:20 | 2021-08-15 01:47:12 |
-| [go-password-validator](https://qvault.io/2020/10/15/how-to-correctly-validate-passwords-most-websites-do-it-wrong/) | 287 | 20 | 0 | Validate the Strength of a Password in Go | 2020-10-14 15:52:14 | 2021-08-18 20:52:41 |
-| [optimus-go](https://github.com/pjebs/optimus-go) | 283 | 19 | 0 | ID hashing and Obfuscation using Knuth's Algorithm | 2015-05-05 10:12:38 | 2021-08-17 10:14:20 |
-| [passlib](https://github.com/hlandau/passlib) | 248 | 26 | 1 | :key: Idiotproof golang password validation library inspired by Python's passlib | 2014-12-21 17:45:52 | 2021-08-11 08:18:43 |
-| [go-yara](https://github.com/hillu/go-yara) | 219 | 80 | 5 | Go bindings for YARA | 2015-01-25 01:01:11 | 2021-08-08 04:23:42 |
-| [simple-scrypt](https://github.com/elithrar/simple-scrypt) | 172 | 20 | 4 | A convenience library for generating, comparing and inspecting password hashes using the scrypt KDF in Go 🔑 | 2015-04-14 06:52:21 | 2021-07-13 00:27:25 |
-| [argon2pw](https://github.com/raja/argon2pw) | 85 | 7 | 0 | Argon2 password hashing package for go with constant time hash comparison | 2018-03-13 13:56:36 | 2021-07-14 22:00:34 |
-| [goSecretBoxPassword](https://github.com/dwin/goSecretBoxPassword) | 42 | 6 | 0 | A probably paranoid Golang utility library for securely hashing and encrypting passwords based on the Dropbox method. This implementation uses Blake2b, Scrypt and XSalsa20-Poly1305 (via NaCl SecretBox) to create secure password hashes that are also encrypted using a master passphrase. | 2017-10-19 19:34:45 | 2021-08-08 03:48:29 |
-| [go-generate-password](https://github.com/m1/go-generate-password) | 26 | 2 | 0 | Password generator written in Go | 2019-11-14 17:57:19 | 2021-08-15 09:25:37 |
-| [certificates](https://github.com/mvmaasakkers/certificates) | 21 | 3 | 0 | An opinionated helper for generating tls certificates | 2019-03-04 07:20:36 | 2021-07-09 07:31:10 |
-| [secureio](https://github.com/xaionaro-go/secureio) | 18 | 1 | 1 | An easy-to-use XChaCha20-encryption wrapper for io.ReadWriteCloser (even lossy UDP) using ECDH key exchange algorithm, ED25519 signatures and Blake3+Poly1305 checksums/message-authentication for Go (golang). Also a multiplexer. | 2018-12-25 14:20:59 | 2021-07-19 08:47:58 |
-| [goArgonPass](https://github.com/dwin/goArgonPass) | 14 | 5 | 1 | goArgonPass is a Argon2 Password utility package for Go using the crypto library package Argon2 designed to be compatible with Passlib for Python and Argon2 PHP. Argon2 was the winner of the most recent Password Hashing Competition. This is designed for use anywhere password hashing and verification might be needed and is intended to replace implementations using bcrypt or Scrypt. | 2018-05-30 01:32:10 | 2021-02-01 13:35:19 |
-| [argon2-hashing](https://www.cossacklabs.com/acra/) | 13 | 1 | 0 | A light package for generating and comparing password hashing with argon2 in Go | 2019-01-02 20:41:02 | 2021-08-02 13:27:00 |
-| [sslmgr](https://github.com/adrianosela/sslmgr) | 11 | 2 | 0 | A layer of abstraction the around acme/autocert certificate manager (Golang) | 2019-04-02 17:35:38 | 2021-06-10 17:50:47 |
+| [lego](https://go-acme.github.io/lego/) | 6,460 | 908 | 155 | Let's Encrypt/ACME client and library written in Go | 2015-06-08 00:36:41 | 2023-10-08 09:50:56 |
+| [cameradar](https://github.com/Ullaakut/cameradar) | 3,503 | 486 | 30 | Cameradar hacks its way into RTSP videosurveillance cameras | 2016-05-20 11:35:41 | 2023-10-05 15:06:54 |
+| [crypto](https://golang.org/x/crypto) | 2,807 | 2,519 | 74 | [mirror] Go supplementary cryptography libraries | 2014-12-04 04:02:55 | 2023-10-06 14:06:47 |
+| [memguard](https://github.com/awnumar/memguard) | 2,400 | 123 | 8 | Secure software enclave for storage of sensitive information in memory. | 2017-04-22 07:40:40 | 2023-10-06 16:17:53 |
+| [secure](https://github.com/unrolled/secure) | 2,150 | 132 | 0 | HTTP middleware for Go that facilitates some quick security wins. | 2014-05-20 19:46:28 | 2023-10-06 17:14:58 |
+| [acmetool](https://hlandau.github.io/acmetool/) | 1,999 | 133 | 71 | :lock: acmetool, an automatic certificate acquisition tool for ACME (Let's Encrypt) | 2015-11-15 01:56:02 | 2023-10-05 17:18:16 |
+| [themis](https://www.cossacklabs.com/themis) | 1,754 | 141 | 26 | Easy to use cryptographic framework for data protection: secure messaging with forward secrecy and secure data storage. Has unified APIs across 14 platforms. | 2015-05-06 13:25:25 | 2023-10-04 11:00:54 |
+| [acra](https://www.cossacklabs.com/acra/) | 1,217 | 123 | 4 | Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("transparent") encryption. SQL, NoSQL. | 2016-11-14 16:23:25 | 2023-10-06 05:11:48 |
+| [nacl](https://godoc.org/github.com/kevinburke/nacl) | 536 | 31 | 4 | Pure Go implementation of the NaCL set of API's | 2017-07-20 19:07:19 | 2023-09-20 13:42:29 |
+| [go-password-validator](https://blog.boot.dev/open-source/how-to-validate-passwords/) | 434 | 35 | 3 | Validate the Strength of a Password in Go | 2020-10-14 15:52:14 | 2023-10-06 23:43:59 |
+| [ssh-vault](https://ssh-vault.com) | 395 | 27 | 12 | 🌰  encrypt/decrypt using ssh keys | 2016-09-29 14:46:30 | 2023-09-24 10:05:14 |
+| [optimus-go](https://github.com/pjebs/optimus-go) | 349 | 21 | 1 | ID hashing and Obfuscation using Knuth's Algorithm | 2015-05-05 10:12:38 | 2023-09-27 07:18:00 |
+| [firewalld-rest](https://pkg.go.dev/github.com/prashantgupta24/firewalld-rest) | 333 | 19 | 2 | A rest application to update firewalld rules on a linux server  | 2020-06-12 20:16:33 | 2023-10-05 20:18:12 |
+| [badactor](https://badactor.org) | 317 | 17 | 1 | BadActor.org An in-memory application driven jailer written in Go | 2014-12-12 20:05:20 | 2023-10-07 13:42:54 |
+| [go-yara](https://github.com/hillu/go-yara) | 316 | 110 | 6 | Go bindings for YARA | 2015-01-25 01:01:11 | 2023-09-28 10:27:19 |
+| [passlib](https://github.com/hlandau/passlib) | 285 | 31 | 1 | :key: Idiotproof golang password validation library inspired by Python's passlib | 2014-12-21 17:45:52 | 2023-09-18 22:20:41 |
+| [simple-scrypt](https://github.com/elithrar/simple-scrypt) | 190 | 26 | 3 | A convenience library for generating, comparing and inspecting password hashes using the scrypt KDF in Go 🔑 | 2015-04-14 06:52:21 | 2023-09-18 16:14:04 |
+| [argon2pw](https://github.com/raja/argon2pw) | 90 | 9 | 1 | Argon2 password hashing package for go with constant time hash comparison | 2018-03-13 13:56:36 | 2023-08-23 17:44:52 |
+| [goSecretBoxPassword](https://github.com/dwin/goSecretBoxPassword) | 56 | 9 | 0 | A probably paranoid Golang utility library for securely hashing and encrypting passwords based on the Dropbox method. This implementation uses Blake2b, Scrypt and XSalsa20-Poly1305 (via NaCl SecretBox) to create secure password hashes that are also encrypted using a master passphrase. | 2017-10-19 19:34:45 | 2023-09-18 14:17:15 |
+| [go-generate-password](https://github.com/m1/go-generate-password) | 50 | 7 | 0 | Password generator written in Golang, usable as a CLI or Go library. Provides options for human readable and accessibility friendly passwords.  | 2019-11-14 17:57:19 | 2023-09-04 11:45:38 |
+| [certificates](https://github.com/mvmaasakkers/certificates) | 36 | 8 | 0 | An opinionated helper for generating tls certificates | 2019-03-04 07:20:36 | 2023-08-28 13:56:52 |
+| [secureio](https://github.com/xaionaro-go/secureio) | 30 | 5 | 1 | An easy-to-use XChaCha20-encryption wrapper for io.ReadWriteCloser (even lossy UDP) using ECDH key exchange algorithm, ED25519 signatures and Blake3+Poly1305 checksums/message-authentication for Go (golang). Also a multiplexer. | 2018-12-25 14:20:59 | 2023-05-18 13:31:11 |
+| [sslmgr](https://github.com/adrianosela/sslmgr) | 21 | 4 | 0 | A layer of abstraction the around acme/autocert certificate manager (Golang) | 2019-04-02 17:35:38 | 2023-09-18 16:09:34 |
+| [argon2-hashing](https://www.cossacklabs.com/acra/) | 19 | 4 | 0 | A light package for generating and comparing password hashing with argon2 in Go | 2019-01-02 20:41:02 | 2023-04-25 09:45:35 |
+| [goArgonPass](https://github.com/dwin/goArgonPass) | 16 | 7 | 1 | goArgonPass is a Argon2 Password utility package for Go using the crypto library package Argon2 designed to be compatible with Passlib for Python and Argon2 PHP. Argon2 was the winner of the most recent Password Hashing Competition. This is designed for use anywhere password hashing and verification might be needed and is intended to replace implementations using bcrypt or Scrypt. | 2018-05-30 01:32:10 | 2022-09-27 09:19:46 |
 </details>
 
 ### Serialization
@@ -2053,15 +2053,15 @@ Libraries and tools for binary serialization.
 ### Stream Processing
 Libraries and tools for stream processing and reactive programming.
 
-<sup>*Last Update: 2021-10-21 09:25:21*</sup>
+<sup>*Last Update: 2023-10-08 19:41:20*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [go-streams](https://pkg.go.dev/github.com/reugn/go-streams) | 732 | 55 | 2 | A lightweight stream processing library for Go | 2019-04-30 17:28:15 | 2021-10-20 11:54:11 |
-| [machine](https://pkg.go.dev/github.com/whitaker-io/machine) | 99 | 6 | 6 | Machine is a workflow/pipeline library for processing data | 2020-10-13 04:24:19 | 2021-10-14 20:09:31 |
-| [stream](https://github.com/youthlin/stream) | 45 | 2 | 0 | Go Stream, like Java 8 Stream. | 2020-11-12 03:52:50 | 2021-10-20 16:57:44 |
+| [go-streams](https://pkg.go.dev/github.com/reugn/go-streams) | 1,559 | 135 | 16 | A lightweight stream processing library for Go | 2019-04-30 17:28:15 | 2023-10-08 01:22:41 |
+| [machine](https://pkg.go.dev/github.com/whitaker-io/machine) | 135 | 13 | 4 | Machine is a workflow/pipeline library for processing data | 2020-10-13 04:24:19 | 2023-09-19 11:12:30 |
+| [stream](https://github.com/youthlin/stream) | 83 | 11 | 1 | Go Stream, like Java 8 Stream. | 2020-11-12 03:52:50 | 2023-09-08 09:02:34 |
 </details>
 
 ### Template Engines
