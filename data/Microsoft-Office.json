@@ -1,7 +1,7 @@
 {
 	"name": "Microsoft Office",
 	"index_last_check": 0,
-	"last_update": 1696684374,
+	"last_update": 1696859299,
 	"libraries": [
 		{
 			"id": 101704343,
@@ -10,10 +10,10 @@
 			"html_url": "https://github.com/unidoc/unioffice",
 			"homepage": "https://unidoc.io/unioffice/",
 			"created_at": "2017-08-29T01:25:48Z",
-			"updated_at": "2023-10-07T08:13:43Z",
+			"updated_at": "2023-10-08T06:18:01Z",
 			"svn_url": "https://github.com/unidoc/unioffice",
-			"stargazers_count": 3952,
-			"watchers_count": 3952,
+			"stargazers_count": 3953,
+			"watchers_count": 3953,
 			"forks_count": 440,
 			"open_issues_count": 30
 		}

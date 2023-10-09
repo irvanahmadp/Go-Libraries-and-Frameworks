@@ -1053,25 +1053,25 @@ Awesome game development libraries.
 ### Generation and Generics
 Tools to enhance the language with features like generics via code generation.
 
-<sup>*Last Update: 2021-08-25 09:25:14*</sup>
+<sup>*Last Update: 2023-10-09 20:47:59*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [go-linq](https://godoc.org/github.com/ahmetb/go-linq) | 2,643 | 186 | 5 | .NET LINQ capabilities in Go | 2013-12-19 03:05:00 | 2021-08-25 01:43:39 |
-| [jennifer](https://github.com/dave/jennifer) | 2,117 | 103 | 16 | Jennifer is a code generator for Go | 2016-12-04 20:57:38 | 2021-08-24 18:18:37 |
-| [gen](http://clipperhouse.com/gen/overview/) | 1,310 | 83 | 32 | Type-driven code generation for Go | 2013-10-13 20:26:36 | 2021-08-14 03:46:15 |
-| [goderive](https://github.com/awalterschulze/goderive) | 911 | 36 | 14 | Code Generation for Functional Programming, Concurrency and Generics in Golang | 2017-02-10 21:46:49 | 2021-08-18 09:54:18 |
-| [gowrap](https://github.com/hexdigest/gowrap) | 530 | 46 | 2 | GoWrap is a command line tool for generating decorators for Go interfaces | 2018-09-15 09:20:42 | 2021-08-13 02:02:07 |
-| [interfaces](https://github.com/rjeczalik/interfaces) | 306 | 19 | 5 | Code generation tools for Go. | 2015-12-06 00:04:50 | 2021-08-19 05:45:17 |
-| [go-enum](https://github.com/abice/go-enum) | 225 | 27 | 2 | An enum generator for go | 2017-08-10 22:07:31 | 2021-08-18 17:28:02 |
-| [pkgreflect](https://github.com/ungerik/pkgreflect) | 98 | 15 | 0 | A Go preprocessor for package scoped reflection | 2012-09-03 07:53:00 | 2021-08-18 09:29:09 |
-| [efaceconv](https://github.com/t0pep0/efaceconv) | 49 | 9 | 1 |  | 2016-11-18 11:38:54 | 2021-07-01 22:11:48 |
-| [gotype](https://github.com/wzshiming/gotype) | 36 | 6 | 0 | Golang source code parsing, usage like reflect package | 2017-12-05 04:09:47 | 2021-08-24 21:57:55 |
-| [GENERIS](https://github.com/senselogic/GENERIS) | 29 | 0 | 0 | Versatile Go code generator. | 2019-03-10 19:33:31 | 2021-08-07 07:09:43 |
-| [go-xray](https://godoc.org/github.com/ahmetb/go-linq) | 18 | 1 | 0 | Helpers for making the use of reflection easier | 2019-10-01 08:40:51 | 2021-06-27 05:07:20 |
-| [typeregistry](https://github.com/xiaoxin01/typeregistry) | 11 | 0 | 0 | create type dynamically in Golang | 2020-01-14 15:50:38 | 2021-06-14 08:05:42 |
+| [go-linq](https://godoc.org/github.com/ahmetb/go-linq) | 3,363 | 268 | 11 | .NET LINQ capabilities in Go | 2013-12-19 03:05:00 | 2023-10-09 06:39:58 |
+| [jennifer](https://github.com/dave/jennifer) | 3,030 | 157 | 16 | Jennifer is a code generator for Go | 2016-12-04 20:57:38 | 2023-10-06 20:56:53 |
+| [gen](http://clipperhouse.com/gen/overview/) | 1,429 | 88 | 32 | Type-driven code generation for Go | 2013-10-13 20:26:36 | 2023-09-26 09:36:39 |
+| [goderive](https://github.com/awalterschulze/goderive) | 1,130 | 44 | 19 | Derives and generates mundane golang functions that you do not want to maintain yourself | 2017-02-10 21:46:49 | 2023-10-07 13:09:28 |
+| [gowrap](https://github.com/hexdigest/gowrap) | 804 | 76 | 12 | GoWrap is a command line tool for generating decorators for Go interfaces | 2018-09-15 09:20:42 | 2023-10-06 15:35:57 |
+| [go-enum](https://github.com/abice/go-enum) | 562 | 53 | 8 | An enum generator for go | 2017-08-10 22:07:31 | 2023-10-09 10:52:32 |
+| [interfaces](https://github.com/rjeczalik/interfaces) | 403 | 32 | 13 | Code generation tools for Go. | 2015-12-06 00:04:50 | 2023-10-07 13:07:02 |
+| [pkgreflect](https://github.com/ungerik/pkgreflect) | 104 | 16 | 0 | A Go preprocessor for package scoped reflection | 2012-09-03 07:53:00 | 2023-07-23 14:47:37 |
+| [gotype](https://github.com/wzshiming/gotype) | 56 | 9 | 1 | Golang source code parsing, usage like reflect package | 2017-12-05 04:09:47 | 2023-09-01 06:06:52 |
+| [efaceconv](https://github.com/vlegio/efaceconv) | 48 | 10 | 1 |  | 2016-11-18 11:38:54 | 2023-04-01 15:43:35 |
+| [GENERIS](https://github.com/senselogic/GENERIS) | 42 | 1 | 0 | Versatile Go code generator. | 2019-03-10 19:33:31 | 2023-09-09 17:22:35 |
+| [go-xray](https://godoc.org/github.com/ahmetb/go-linq) | 26 | 3 | 0 | Helpers for making the use of reflection easier | 2019-10-01 08:40:51 | 2023-07-13 02:04:15 |
+| [typeregistry](https://github.com/xiaoxin01/typeregistry) | 23 | 1 | 0 | create type dynamically in Golang | 2020-01-14 15:50:38 | 2023-09-30 04:55:03 |
 </details>
 
 ### Geographic
@@ -1216,23 +1216,23 @@ Libraries for manipulating images.
 ### IoT (Internet of Things)
 Libraries for programming devices of the IoT.
 
-<sup>*Last Update: 2021-08-31 09:25:14*</sup>
+<sup>*Last Update: 2023-10-09 20:48:08*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [gobot](https://gobot.io) | 7,295 | 912 | 167 | Golang framework for robotics, drones, and the Internet of Things (IoT) | 2013-09-21 14:09:19 | 2021-08-29 19:10:57 |
-| [flogo](http://flogo.io) | 1,831 | 248 | 153 | Project Flogo is an open source ecosystem of opinionated  event-driven capabilities to simplify building efficient & modern serverless functions, microservices & edge apps. | 2016-07-10 02:57:43 | 2021-08-28 12:50:32 |
-| [periph](https://periph.io) | 1,675 | 173 | 42 | Go·Hardware·Lean | 2016-10-13 16:53:51 | 2021-08-30 20:45:59 |
-| [mainflux](https://www.mainflux.io) | 1,526 | 451 | 83 | Industrial IoT Messaging and Device Management Platform | 2015-07-06 20:31:50 | 2021-08-29 10:49:52 |
-| [gatt](http://flogo.io) | 986 | 260 | 51 | Gatt is a Go package for building Bluetooth Low Energy peripherals | 2014-04-23 13:45:27 | 2021-08-29 18:54:47 |
-| [heedy](https://heedy.org) | 285 | 27 | 9 | An aggregator for personal metrics, and an extensible analysis engine | 2015-01-16 19:44:21 | 2021-08-25 08:26:41 |
-| [devices](https://github.com/goiot/devices) | 242 | 24 | 9 | Suite of libraries for IoT devices (written in Go), experimental for x/exp/io | 2016-05-30 08:07:02 | 2021-08-16 08:08:18 |
-| [sensorbee](http://sensorbee.io/) | 205 | 34 | 39 | Lightweight stream processing engine for IoT | 2016-02-19 07:49:56 | 2021-08-10 08:44:31 |
-| [huego](https://github.com/amimof/huego) | 187 | 31 | 5 | An extensive Philips Hue client library for Go with an emphasis on simplicity | 2017-05-16 05:31:45 | 2021-08-26 13:20:48 |
-| [iot](https://github.com/vaelen/iot) | 52 | 7 | 0 | A Go client for Google IoT Core | 2018-03-08 06:51:51 | 2021-04-30 18:44:01 |
-| [eywa](https://github.com/xcodersun/eywa) | 49 | 11 | 9 | Make IoT a lot more fun with data.  | 2016-02-20 17:02:16 | 2021-08-17 07:10:31 |
+| [gobot](https://gobot.io) | 8,462 | 1,063 | 130 | Golang framework for robotics, drones, and the Internet of Things (IoT) | 2013-09-21 14:09:19 | 2023-10-09 03:25:14 |
+| [flogo](http://flogo.io) | 2,324 | 291 | 127 | Project Flogo is an open source ecosystem of opinionated  event-driven capabilities to simplify building efficient & modern serverless functions, microservices & edge apps. | 2016-07-10 02:57:43 | 2023-10-04 12:36:09 |
+| [mainflux](https://www.mainflux.io) | 2,191 | 617 | 113 | Industrial IoT Messaging and Device Management Platform | 2015-07-06 20:31:50 | 2023-10-09 11:51:50 |
+| [periph](https://periph.io) | 1,768 | 203 | 0 | Older version of periph, see new version at https://github.com/periph | 2016-10-13 16:53:51 | 2023-10-06 14:07:28 |
+| [gatt](http://flogo.io) | 1,086 | 296 | 51 | Gatt is a Go package for building Bluetooth Low Energy peripherals | 2014-04-23 13:45:27 | 2023-10-02 10:36:01 |
+| [heedy](https://heedy.org) | 375 | 32 | 21 | An aggregator for personal metrics, and an extensible analysis engine | 2015-01-16 19:44:21 | 2023-09-29 03:30:35 |
+| [devices](https://github.com/goiot/devices) | 261 | 33 | 9 | Suite of libraries for IoT devices (written in Go), experimental for x/exp/io | 2016-05-30 08:07:02 | 2023-09-27 07:48:24 |
+| [huego](https://github.com/amimof/huego) | 237 | 37 | 10 | An extensive Philips Hue client library for Go with an emphasis on simplicity | 2017-05-16 05:31:45 | 2023-09-13 08:37:05 |
+| [sensorbee](http://sensorbee.io/) | 224 | 42 | 39 | Lightweight stream processing engine for IoT | 2016-02-19 07:49:56 | 2023-09-29 03:32:45 |
+| [iot](https://github.com/vaelen/iot) | 63 | 13 | 0 | A Go client for Google IoT Core | 2018-03-08 06:51:51 | 2023-03-29 11:27:06 |
+| [eywa](https://github.com/xcodersun/eywa) | 61 | 15 | 9 | Make IoT a lot more fun with data.  | 2016-02-20 17:02:16 | 2023-10-05 14:10:04 |
 </details>
 
 ### JSON
@@ -1467,13 +1467,13 @@ Libraries that implement messaging systems.
 ### Microsoft Office
 
 
-<sup>*Last Update: 2023-10-07 20:12:54*</sup>
+<sup>*Last Update: 2023-10-09 20:48:19*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [unioffice](https://unidoc.io/unioffice/) | 3,952 | 440 | 30 | Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents | 2017-08-29 01:25:48 | 2023-10-07 08:13:43 |
+| [unioffice](https://unidoc.io/unioffice/) | 3,953 | 440 | 30 | Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents | 2017-08-29 01:25:48 | 2023-10-08 06:18:01 |
 </details>
 
 ### Microsoft Office - Microsoft Excel
@@ -1495,24 +1495,24 @@ Libraries for working with Microsoft Excel.
 ### Miscellaneous - Dependency Injection
 Libraries for working with dependency injection.
 
-<sup>*Last Update: 2021-08-23 09:25:15*</sup>
+<sup>*Last Update: 2023-10-09 20:47:36*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [fx](https://go.uber.org/fx) | 2,159 | 143 | 36 | A dependency injection based application framework for Go. | 2016-10-27 00:25:00 | 2021-08-22 12:21:22 |
-| [dig](https://go.uber.org/dig) | 2,038 | 125 | 22 | A reflection based dependency injection toolkit for Go. | 2017-03-21 23:55:50 | 2021-08-22 19:58:41 |
-| [container](https://github.com/golobby/container) | 225 | 14 | 2 | A lightweight yet powerful IoC dependency injection container for Go projects | 2019-09-23 16:12:50 | 2021-08-21 21:22:18 |
-| [dingo](https://go.uber.org/dig) | 107 | 6 | 9 | Go Dependency Injection Framework | 2018-10-29 08:55:18 | 2021-08-20 09:17:49 |
-| [di](https://github.com/goava/di) | 102 | 8 | 1 | 🛠 A full-featured dependency injection container for go programming language. | 2020-02-03 19:06:39 | 2021-08-19 10:42:31 |
-| [di](https://pkg.go.dev/github.com/goioc/di/?tab=doc) | 90 | 3 | 0 | Simple and yet powerful Dependency Injection for Go | 2020-06-11 12:28:06 | 2021-08-18 14:34:36 |
-| [alice](https://godoc.org/github.com/magic003/alice) | 44 | 3 | 0 | An additive dependency injection container for Golang. | 2017-04-08 16:25:21 | 2021-02-01 22:07:46 |
-| [wire](https://github.com/Fs02/wire) | 33 | 7 | 1 | Strict Runtime Dependency Injection for Golang | 2018-07-05 10:42:24 | 2021-08-22 07:00:21 |
-| [linker](https://github.com/logrange/linker) | 32 | 5 | 0 | Dependency Injection and Inversion of Control package | 2018-12-04 23:56:34 | 2021-05-06 05:34:51 |
-| [gocontainer](https://github.com/vardius/gocontainer) | 14 | 1 | 0 | Simple Dependency Injection Container | 2019-06-06 08:18:07 | 2020-12-10 08:58:38 |
-| [kinit](https://github.com/go-kata/kinit) | 6 | 0 | 0 | GO Dependency Injection | 2021-01-24 13:41:41 | 2021-08-01 02:23:02 |
-| [nject](https://github.com/BlueOwlOpenSource/nject) | 3 | 1 | 2 | Go dependency injection: nject & npoint | 2018-10-31 18:15:43 | 2021-07-04 12:55:45 |
+| [fx](https://uber-go.github.io/fx/) | 4,471 | 264 | 48 | A dependency injection based application framework for Go. | 2016-10-27 00:25:00 | 2023-10-09 08:31:14 |
+| [dig](https://go.uber.org/dig) | 3,415 | 204 | 26 | A reflection based dependency injection toolkit for Go. | 2017-03-21 23:55:50 | 2023-10-08 12:17:40 |
+| [container](https://github.com/golobby/container) | 493 | 33 | 3 | A lightweight yet powerful IoC dependency injection container for the Go programming language | 2019-09-23 16:12:50 | 2023-09-29 08:30:36 |
+| [di](https://pkg.go.dev/github.com/goioc/di/?tab=doc) | 301 | 14 | 1 | Simple and yet powerful Dependency Injection for Go | 2020-06-11 12:28:06 | 2023-10-09 08:35:11 |
+| [di](https://github.com/defval/di) | 204 | 11 | 0 | 🛠 A full-featured dependency injection container for go programming language. | 2020-02-03 19:06:39 | 2023-10-09 03:37:12 |
+| [dingo](https://github.com/i-love-flamingo/dingo) | 168 | 10 | 16 | Go Dependency Injection Framework | 2018-10-29 08:55:18 | 2023-09-26 23:59:27 |
+| [alice](https://godoc.org/github.com/magic003/alice) | 51 | 4 | 0 | An additive dependency injection container for Golang. | 2017-04-08 16:25:21 | 2023-04-15 14:24:55 |
+| [wire](https://github.com/Fs02/wire) | 38 | 8 | 1 | Strict Runtime Dependency Injection for Golang | 2018-07-05 10:42:24 | 2023-05-09 10:12:20 |
+| [linker](https://github.com/logrange/linker) | 35 | 6 | 0 | Dependency Injection and Inversion of Control package | 2018-12-04 23:56:34 | 2023-03-10 16:25:52 |
+| [gocontainer](https://github.com/vardius/gocontainer) | 19 | 2 | 0 | Simple Dependency Injection Container | 2019-06-06 08:18:07 | 2023-08-13 21:34:00 |
+| [kinit](https://github.com/go-kata/kinit) | 9 | 1 | 0 | GO Dependency Injection | 2021-01-24 13:41:41 | 2023-09-05 15:50:49 |
+| [nject](https://github.com/BlueOwlOpenSource/nject) | 3 | 1 | 0 | Go dependency injection: nject & npoint | 2018-10-31 18:15:43 | 2022-09-23 15:02:00 |
 </details>
 
 ### Miscellaneous - Project Layout
@@ -1883,24 +1883,24 @@ Unofficial libraries for package and dependency management
 ### Resource Embedding
 
 
-<sup>*Last Update: 2021-08-23 09:25:12*</sup>
+<sup>*Last Update: 2023-10-09 20:47:23*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [packr](https://github.com/gobuffalo/packr) | 3,257 | 180 | 66 | The simple and easy way to embed static files into Go binaries. | 2017-03-15 22:24:53 | 2021-08-23 01:47:30 |
-| [statik](https://github.com/rakyll/statik) | 3,238 | 206 | 33 | Embed files into a Go executable | 2014-02-04 14:54:51 | 2021-08-19 08:53:42 |
-| [go.rice](https://github.com/GeertJohan/go.rice) | 2,235 | 141 | 36 | go.rice is a Go package that makes working with resources such as html,js,css,images,templates, etc very easy. | 2013-10-23 21:29:34 | 2021-08-21 05:04:22 |
-| [vfsgen](https://github.com/shurcooL/vfsgen) | 930 | 80 | 32 | Takes an input http.FileSystem (likely at go generate time) and generates Go code that statically implements it. | 2015-05-18 13:03:02 | 2021-08-20 22:31:11 |
-| [esc](http://godoc.org/github.com/mjibson/esc) | 602 | 66 | 11 | A simple file embedder for Go | 2014-01-26 05:08:04 | 2021-08-22 13:33:12 |
-| [fileb0x](https://github.com/UnnoTed/fileb0x) | 588 | 50 | 9 | a better customizable tool to embed files in go; also update embedded files remotely without restarting the server | 2016-01-23 20:19:33 | 2021-08-06 06:55:34 |
-| [go-resources](https://github.com/omeid/go-resources) | 172 | 18 | 3 | Unfancy resources embedding for Go with out of box http.FileSystem support. | 2015-02-21 15:40:17 | 2021-06-14 12:38:59 |
-| [statics](https://github.com/go-playground/statics) | 63 | 4 | 0 | :file_folder: Embeds static resources into go files for single binary compilation + works with http.FileSystem + symlinks | 2015-10-07 11:49:52 | 2021-07-19 11:37:53 |
-| [templify](https://github.com/wlbr/templify) | 26 | 4 | 1 | A tool to be used with 'go generate' to embed external template files into Go code. | 2016-05-22 16:42:47 | 2021-08-16 20:22:53 |
-| [rebed](https://github.com/soypat/rebed) | 18 | 2 | 0 | Recreates directory and files from embedded filesystem using Go 1.16 embed.FS type. | 2021-02-17 18:19:49 | 2021-08-16 21:07:29 |
-| [mule](https://github.com/wlbr/mule) | 9 | 1 | 1 | mule is a tool to be used with 'go generate' to embed external resources files into Go code. | 2020-01-17 10:56:00 | 2021-08-16 20:23:31 |
-| [debme](https://github.com/leaanthony/debme) | 8 | 1 | 0 | embed.FS wrapper providing additional functionality | 2021-04-16 00:25:13 | 2021-08-09 05:05:31 |
+| [statik](https://github.com/rakyll/statik) | 3,656 | 252 | 39 | Embed files into a Go executable | 2014-02-04 14:54:51 | 2023-10-08 02:57:56 |
+| [packr](https://github.com/gobuffalo/packr) | 3,404 | 194 | 67 | The simple and easy way to embed static files into Go binaries. | 2017-03-15 22:24:53 | 2023-09-20 10:51:45 |
+| [go.rice](https://github.com/GeertJohan/go.rice) | 2,374 | 220 | 36 | go.rice is a Go package that makes working with resources such as html,js,css,images,templates, etc very easy. | 2013-10-23 21:29:34 | 2023-10-06 09:26:37 |
+| [vfsgen](https://github.com/shurcooL/vfsgen) | 979 | 86 | 33 | Takes an input http.FileSystem (likely at go generate time) and generates Go code that statically implements it. | 2015-05-18 13:03:02 | 2023-10-06 16:54:47 |
+| [esc](http://godoc.org/github.com/mjibson/esc) | 639 | 75 | 11 | A simple file embedder for Go | 2014-01-26 05:08:04 | 2023-10-01 11:16:31 |
+| [fileb0x](https://github.com/UnnoTed/fileb0x) | 631 | 53 | 15 | a better customizable tool to embed files in go; also update embedded files remotely without restarting the server | 2016-01-23 20:19:33 | 2023-10-02 13:48:58 |
+| [go-resources](https://github.com/omeid/go-resources) | 176 | 17 | 0 | Unfancy resources embedding for Go with out of box http.FileSystem support. | 2015-02-21 15:40:17 | 2023-08-04 05:19:16 |
+| [statics](https://github.com/go-playground/statics) | 67 | 7 | 0 | :file_folder: Embeds static resources into go files for single binary compilation + works with http.FileSystem + symlinks | 2015-10-07 11:49:52 | 2023-10-03 00:25:47 |
+| [templify](https://github.com/wlbr/templify) | 30 | 6 | 1 | A tool to be used with 'go generate' to embed external template files into Go code. | 2016-05-22 16:42:47 | 2023-07-26 06:48:09 |
+| [rebed](https://github.com/soypat/rebed) | 28 | 2 | 0 | Recreates directory and files from embedded filesystem using Go 1.16 embed.FS type. | 2021-02-17 18:19:49 | 2023-09-18 14:42:50 |
+| [debme](https://github.com/leaanthony/debme) | 25 | 6 | 1 | embed.FS wrapper providing additional functionality | 2021-04-16 00:25:13 | 2023-07-30 02:06:01 |
+| [mule](https://github.com/wlbr/mule) | 12 | 4 | 1 | mule is a tool to be used with 'go generate' to embed external resources files into Go code. | 2020-01-17 10:56:00 | 2022-09-27 09:06:14 |
 </details>
 
 ### Science and Data Analysis
@@ -2607,18 +2607,18 @@ Libraries for validation.
 ### Version Control
 Libraries for version control.
 
-<sup>*Last Update: 2021-10-13 09:25:19*</sup>
+<sup>*Last Update: 2023-10-09 20:48:15*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [go-git](https://pkg.go.dev/github.com/go-git/go-git/v5) | 2,693 | 294 | 233 | A highly extensible Git implementation in pure Go. | 2019-12-19 10:27:02 | 2021-10-12 19:52:23 |
-| [git2go](https://github.com/libgit2/git2go) | 1,658 | 287 | 40 | Git to Go; bindings for libgit2. Like McDonald's but tastier. | 2013-03-05 19:50:43 | 2021-10-08 07:42:22 |
-| [hercules](https://github.com/src-d/hercules) | 1,449 | 122 | 38 | Gaining advanced insights from Git repository history. | 2016-12-12 17:30:29 | 2021-10-12 13:32:23 |
-| [gh](https://github.com/rjeczalik/gh) | 76 | 12 | 2 | Scriptable server and net/http middleware for GitHub Webhooks. | 2015-03-08 21:04:05 | 2021-09-17 13:41:09 |
-| [go-vcs](https://sourcegraph.com/sourcegraph/go-vcs) | 75 | 21 | 23 | manipulate and inspect VCS repositories in Go | 2013-06-02 02:36:18 | 2021-06-09 06:01:11 |
-| [hgo](https://github.com/beyang/hgo) | 13 | 3 | 0 | Hgo is a collection of Go packages providing read-access to local Mercurial repositories. | 2014-06-18 03:54:40 | 2020-05-05 03:52:16 |
+| [go-git](https://pkg.go.dev/github.com/go-git/go-git/v5) | 4,981 | 651 | 436 | A highly extensible Git implementation in pure Go. | 2019-12-19 10:27:02 | 2023-10-08 23:25:08 |
+| [hercules](https://github.com/src-d/hercules) | 1,936 | 151 | 48 | Gaining advanced insights from Git repository history. | 2016-12-12 17:30:29 | 2023-10-07 11:36:27 |
+| [git2go](https://github.com/libgit2/git2go) | 1,868 | 316 | 80 | Git to Go; bindings for libgit2. Like McDonald's but tastier. | 2013-03-05 19:50:43 | 2023-09-23 16:28:41 |
+| [gh](https://github.com/rjeczalik/gh) | 82 | 13 | 2 | Scriptable server and net/http middleware for GitHub Webhooks. | 2015-03-08 21:04:05 | 2023-09-27 03:53:54 |
+| [go-vcs](https://sourcegraph.com/sourcegraph/go-vcs) | 76 | 20 | 22 | manipulate and inspect VCS repositories in Go | 2013-06-02 02:36:18 | 2023-09-18 15:06:03 |
+| [hgo](https://github.com/beyang/hgo) | 17 | 4 | 0 | Hgo is a collection of Go packages providing read-access to local Mercurial repositories. | 2014-06-18 03:54:40 | 2023-09-27 03:54:35 |
 </details>
 
 ### Video

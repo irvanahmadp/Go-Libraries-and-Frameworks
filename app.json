@@ -1,8 +1,8 @@
 {
-	"last_update": 1696768882,
+	"last_update": 1696859299,
 	"rate_limit": 60,
 	"rate_limit_remaining": 0,
-	"rate_limit_reset": 1696772455,
+	"rate_limit_reset": 1696862779,
 	"categories": [
 		{
 			"name": "Audio and Music",
@@ -162,7 +162,7 @@
 		{
 			"name": "Generation and Generics",
 			"description": "Tools to enhance the language with features like generics via code generation.",
-			"last_update": 1629858314
+			"last_update": 1696859279
 		},
 		{
 			"name": "Geographic",
@@ -187,7 +187,7 @@
 		{
 			"name": "IoT (Internet of Things)",
 			"description": "Libraries for programming devices of the IoT.",
-			"last_update": 1630376714
+			"last_update": 1696859288
 		},
 		{
 			"name": "JSON",
@@ -227,7 +227,7 @@
 		{
 			"name": "Miscellaneous - Dependency Injection",
 			"description": "Libraries for working with dependency injection.",
-			"last_update": 1629685515
+			"last_update": 1696859256
 		},
 		{
 			"name": "Miscellaneous - Project Layout",
@@ -292,7 +292,7 @@
 		{
 			"name": "Resource Embedding",
 			"description": "",
-			"last_update": 1629685512
+			"last_update": 1696859243
 		},
 		{
 			"name": "Science and Data Analysis",
@@ -382,7 +382,7 @@
 		{
 			"name": "Version Control",
 			"description": "Libraries for version control.",
-			"last_update": 1634091919
+			"last_update": 1696859295
 		},
 		{
 			"name": "Video",

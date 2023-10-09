@@ -1,7 +1,7 @@
 {
 	"name": "Version Control",
 	"index_last_check": 0,
-	"last_update": 1634091919,
+	"last_update": 1696859295,
 	"libraries": [
 		{
 			"id": 229030654,
@@ -10,26 +10,12 @@
 			"html_url": "https://github.com/go-git/go-git",
 			"homepage": "https://pkg.go.dev/github.com/go-git/go-git/v5",
 			"created_at": "2019-12-19T10:27:02Z",
-			"updated_at": "2021-10-12T19:52:23Z",
+			"updated_at": "2023-10-08T23:25:08Z",
 			"svn_url": "https://github.com/go-git/go-git",
-			"stargazers_count": 2693,
-			"watchers_count": 2693,
-			"forks_count": 294,
-			"open_issues_count": 233
-		},
-		{
-			"id": 8587669,
-			"name": "git2go",
-			"description": "Git to Go; bindings for libgit2. Like McDonald's but tastier.",
-			"html_url": "https://github.com/libgit2/git2go",
-			"homepage": "",
-			"created_at": "2013-03-05T19:50:43Z",
-			"updated_at": "2021-10-08T07:42:22Z",
-			"svn_url": "https://github.com/libgit2/git2go",
-			"stargazers_count": 1658,
-			"watchers_count": 1658,
-			"forks_count": 287,
-			"open_issues_count": 40
+			"stargazers_count": 4981,
+			"watchers_count": 4981,
+			"forks_count": 651,
+			"open_issues_count": 436
 		},
 		{
 			"id": 76279648,
@@ -38,12 +24,26 @@
 			"html_url": "https://github.com/src-d/hercules",
 			"homepage": "",
 			"created_at": "2016-12-12T17:30:29Z",
-			"updated_at": "2021-10-12T13:32:23Z",
+			"updated_at": "2023-10-07T11:36:27Z",
 			"svn_url": "https://github.com/src-d/hercules",
-			"stargazers_count": 1449,
-			"watchers_count": 1449,
-			"forks_count": 122,
-			"open_issues_count": 38
+			"stargazers_count": 1936,
+			"watchers_count": 1936,
+			"forks_count": 151,
+			"open_issues_count": 48
+		},
+		{
+			"id": 8587669,
+			"name": "git2go",
+			"description": "Git to Go; bindings for libgit2. Like McDonald's but tastier.",
+			"html_url": "https://github.com/libgit2/git2go",
+			"homepage": "",
+			"created_at": "2013-03-05T19:50:43Z",
+			"updated_at": "2023-09-23T16:28:41Z",
+			"svn_url": "https://github.com/libgit2/git2go",
+			"stargazers_count": 1868,
+			"watchers_count": 1868,
+			"forks_count": 316,
+			"open_issues_count": 80
 		},
 		{
 			"id": 31865514,
@@ -52,11 +52,11 @@
 			"html_url": "https://github.com/rjeczalik/gh",
 			"homepage": "",
 			"created_at": "2015-03-08T21:04:05Z",
-			"updated_at": "2021-09-17T13:41:09Z",
+			"updated_at": "2023-09-27T03:53:54Z",
 			"svn_url": "https://github.com/rjeczalik/gh",
-			"stargazers_count": 76,
-			"watchers_count": 76,
-			"forks_count": 12,
+			"stargazers_count": 82,
+			"watchers_count": 82,
+			"forks_count": 13,
 			"open_issues_count": 2
 		},
 		{
@@ -66,12 +66,12 @@
 			"html_url": "https://github.com/sourcegraph/go-vcs",
 			"homepage": "https://sourcegraph.com/sourcegraph/go-vcs",
 			"created_at": "2013-06-02T02:36:18Z",
-			"updated_at": "2021-06-09T06:01:11Z",
+			"updated_at": "2023-09-18T15:06:03Z",
 			"svn_url": "https://github.com/sourcegraph/go-vcs",
-			"stargazers_count": 75,
-			"watchers_count": 75,
-			"forks_count": 21,
-			"open_issues_count": 23
+			"stargazers_count": 76,
+			"watchers_count": 76,
+			"forks_count": 20,
+			"open_issues_count": 22
 		},
 		{
 			"id": 20948751,
@@ -80,11 +80,11 @@
 			"html_url": "https://github.com/beyang/hgo",
 			"homepage": "",
 			"created_at": "2014-06-18T03:54:40Z",
-			"updated_at": "2020-05-05T03:52:16Z",
+			"updated_at": "2023-09-27T03:54:35Z",
 			"svn_url": "https://github.com/beyang/hgo",
-			"stargazers_count": 13,
-			"watchers_count": 13,
-			"forks_count": 3,
+			"stargazers_count": 17,
+			"watchers_count": 17,
+			"forks_count": 4,
 			"open_issues_count": 0
 		}
 	]

@@ -1,22 +1,8 @@
 {
 	"name": "Resource Embedding",
 	"index_last_check": 0,
-	"last_update": 1629685512,
+	"last_update": 1696859243,
 	"libraries": [
-		{
-			"id": 85126896,
-			"name": "packr",
-			"description": "The simple and easy way to embed static files into Go binaries.",
-			"html_url": "https://github.com/gobuffalo/packr",
-			"homepage": "",
-			"created_at": "2017-03-15T22:24:53Z",
-			"updated_at": "2021-08-23T01:47:30Z",
-			"svn_url": "https://github.com/gobuffalo/packr",
-			"stargazers_count": 3257,
-			"watchers_count": 3257,
-			"forks_count": 180,
-			"open_issues_count": 66
-		},
 		{
 			"id": 16514887,
 			"name": "statik",
@@ -24,12 +10,26 @@
 			"html_url": "https://github.com/rakyll/statik",
 			"homepage": "",
 			"created_at": "2014-02-04T14:54:51Z",
-			"updated_at": "2021-08-19T08:53:42Z",
+			"updated_at": "2023-10-08T02:57:56Z",
 			"svn_url": "https://github.com/rakyll/statik",
-			"stargazers_count": 3238,
-			"watchers_count": 3238,
-			"forks_count": 206,
-			"open_issues_count": 33
+			"stargazers_count": 3656,
+			"watchers_count": 3656,
+			"forks_count": 252,
+			"open_issues_count": 39
+		},
+		{
+			"id": 85126896,
+			"name": "packr",
+			"description": "The simple and easy way to embed static files into Go binaries.",
+			"html_url": "https://github.com/gobuffalo/packr",
+			"homepage": "",
+			"created_at": "2017-03-15T22:24:53Z",
+			"updated_at": "2023-09-20T10:51:45Z",
+			"svn_url": "https://github.com/gobuffalo/packr",
+			"stargazers_count": 3404,
+			"watchers_count": 3404,
+			"forks_count": 194,
+			"open_issues_count": 67
 		},
 		{
 			"id": 13815417,
@@ -38,11 +38,11 @@
 			"html_url": "https://github.com/GeertJohan/go.rice",
 			"homepage": "",
 			"created_at": "2013-10-23T21:29:34Z",
-			"updated_at": "2021-08-21T05:04:22Z",
+			"updated_at": "2023-10-06T09:26:37Z",
 			"svn_url": "https://github.com/GeertJohan/go.rice",
-			"stargazers_count": 2235,
-			"watchers_count": 2235,
-			"forks_count": 141,
+			"stargazers_count": 2374,
+			"watchers_count": 2374,
+			"forks_count": 220,
 			"open_issues_count": 36
 		},
 		{
@@ -52,12 +52,12 @@
 			"html_url": "https://github.com/shurcooL/vfsgen",
 			"homepage": "",
 			"created_at": "2015-05-18T13:03:02Z",
-			"updated_at": "2021-08-20T22:31:11Z",
+			"updated_at": "2023-10-06T16:54:47Z",
 			"svn_url": "https://github.com/shurcooL/vfsgen",
-			"stargazers_count": 930,
-			"watchers_count": 930,
-			"forks_count": 80,
-			"open_issues_count": 32
+			"stargazers_count": 979,
+			"watchers_count": 979,
+			"forks_count": 86,
+			"open_issues_count": 33
 		},
 		{
 			"id": 16247062,
@@ -66,11 +66,11 @@
 			"html_url": "https://github.com/mjibson/esc",
 			"homepage": "http://godoc.org/github.com/mjibson/esc",
 			"created_at": "2014-01-26T05:08:04Z",
-			"updated_at": "2021-08-22T13:33:12Z",
+			"updated_at": "2023-10-01T11:16:31Z",
 			"svn_url": "https://github.com/mjibson/esc",
-			"stargazers_count": 602,
-			"watchers_count": 602,
-			"forks_count": 66,
+			"stargazers_count": 639,
+			"watchers_count": 639,
+			"forks_count": 75,
 			"open_issues_count": 11
 		},
 		{
@@ -80,12 +80,12 @@
 			"html_url": "https://github.com/UnnoTed/fileb0x",
 			"homepage": "",
 			"created_at": "2016-01-23T20:19:33Z",
-			"updated_at": "2021-08-06T06:55:34Z",
+			"updated_at": "2023-10-02T13:48:58Z",
 			"svn_url": "https://github.com/UnnoTed/fileb0x",
-			"stargazers_count": 588,
-			"watchers_count": 588,
-			"forks_count": 50,
-			"open_issues_count": 9
+			"stargazers_count": 631,
+			"watchers_count": 631,
+			"forks_count": 53,
+			"open_issues_count": 15
 		},
 		{
 			"id": 31130055,
@@ -94,12 +94,12 @@
 			"html_url": "https://github.com/omeid/go-resources",
 			"homepage": "",
 			"created_at": "2015-02-21T15:40:17Z",
-			"updated_at": "2021-06-14T12:38:59Z",
+			"updated_at": "2023-08-04T05:19:16Z",
 			"svn_url": "https://github.com/omeid/go-resources",
-			"stargazers_count": 172,
-			"watchers_count": 172,
-			"forks_count": 18,
-			"open_issues_count": 3
+			"stargazers_count": 176,
+			"watchers_count": 176,
+			"forks_count": 17,
+			"open_issues_count": 0
 		},
 		{
 			"id": 43812000,
@@ -108,11 +108,11 @@
 			"html_url": "https://github.com/go-playground/statics",
 			"homepage": "",
 			"created_at": "2015-10-07T11:49:52Z",
-			"updated_at": "2021-07-19T11:37:53Z",
+			"updated_at": "2023-10-03T00:25:47Z",
 			"svn_url": "https://github.com/go-playground/statics",
-			"stargazers_count": 63,
-			"watchers_count": 63,
-			"forks_count": 4,
+			"stargazers_count": 67,
+			"watchers_count": 67,
+			"forks_count": 7,
 			"open_issues_count": 0
 		},
 		{
@@ -122,11 +122,11 @@
 			"html_url": "https://github.com/wlbr/templify",
 			"homepage": "",
 			"created_at": "2016-05-22T16:42:47Z",
-			"updated_at": "2021-08-16T20:22:53Z",
+			"updated_at": "2023-07-26T06:48:09Z",
 			"svn_url": "https://github.com/wlbr/templify",
-			"stargazers_count": 26,
-			"watchers_count": 26,
-			"forks_count": 4,
+			"stargazers_count": 30,
+			"watchers_count": 30,
+			"forks_count": 6,
 			"open_issues_count": 1
 		},
 		{
@@ -136,26 +136,12 @@
 			"html_url": "https://github.com/soypat/rebed",
 			"homepage": "",
 			"created_at": "2021-02-17T18:19:49Z",
-			"updated_at": "2021-08-16T21:07:29Z",
+			"updated_at": "2023-09-18T14:42:50Z",
 			"svn_url": "https://github.com/soypat/rebed",
-			"stargazers_count": 18,
-			"watchers_count": 18,
+			"stargazers_count": 28,
+			"watchers_count": 28,
 			"forks_count": 2,
 			"open_issues_count": 0
-		},
-		{
-			"id": 234530291,
-			"name": "mule",
-			"description": "mule is a tool to be used with 'go generate' to embed external resources files into Go code.",
-			"html_url": "https://github.com/wlbr/mule",
-			"homepage": "",
-			"created_at": "2020-01-17T10:56:00Z",
-			"updated_at": "2021-08-16T20:23:31Z",
-			"svn_url": "https://github.com/wlbr/mule",
-			"stargazers_count": 9,
-			"watchers_count": 9,
-			"forks_count": 1,
-			"open_issues_count": 1
 		},
 		{
 			"id": 358428672,
@@ -164,12 +150,26 @@
 			"html_url": "https://github.com/leaanthony/debme",
 			"homepage": "",
 			"created_at": "2021-04-16T00:25:13Z",
-			"updated_at": "2021-08-09T05:05:31Z",
+			"updated_at": "2023-07-30T02:06:01Z",
 			"svn_url": "https://github.com/leaanthony/debme",
-			"stargazers_count": 8,
-			"watchers_count": 8,
-			"forks_count": 1,
-			"open_issues_count": 0
+			"stargazers_count": 25,
+			"watchers_count": 25,
+			"forks_count": 6,
+			"open_issues_count": 1
+		},
+		{
+			"id": 234530291,
+			"name": "mule",
+			"description": "mule is a tool to be used with 'go generate' to embed external resources files into Go code.",
+			"html_url": "https://github.com/wlbr/mule",
+			"homepage": "",
+			"created_at": "2020-01-17T10:56:00Z",
+			"updated_at": "2022-09-27T09:06:14Z",
+			"svn_url": "https://github.com/wlbr/mule",
+			"stargazers_count": 12,
+			"watchers_count": 12,
+			"forks_count": 4,
+			"open_issues_count": 1
 		}
 	]
 }
