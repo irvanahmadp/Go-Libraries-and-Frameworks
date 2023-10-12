@@ -496,27 +496,27 @@ Generic datastructures and algorithms in Go.
 ### Database - Database tools
 
 
-<sup>*Last Update: 2021-09-03 09:25:10*</sup>
+<sup>*Last Update: 2023-10-12 20:38:48*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
 | [vitess](http://vitess.io) | 12,426 | 1,584 | 696 | Vitess is a database clustering system for horizontal scaling of MySQL. | 2013-06-27 21:20:28 | 2021-09-03 02:02:23 |
-| [pgweb](http://sosedoff.github.io/pgweb) | 6,993 | 553 | 57 | Cross-platform client for PostgreSQL databases | 2014-10-09 01:41:32 | 2021-09-02 15:55:14 |
-| [kingshard](https://github.com/flike/kingshard) | 5,794 | 1,156 | 155 | A high-performance MySQL proxy | 2015-07-04 02:22:32 | 2021-09-02 09:59:18 |
-| [orchestrator](https://github.com/openark/orchestrator) | 4,217 | 728 | 346 | MySQL replication topology management and HA | 2016-11-30 13:44:24 | 2021-09-02 13:27:41 |
-| [go-mysql-elasticsearch](https://github.com/go-mysql-org/go-mysql-elasticsearch) | 3,574 | 699 | 199 | Sync MySQL data into elasticsearch  | 2015-01-15 09:54:18 | 2021-09-01 08:34:28 |
-| [go-mysql](https://github.com/go-mysql-org/go-mysql) | 3,204 | 728 | 150 | a powerful mysql toolset with Go | 2014-02-21 01:56:45 | 2021-09-02 11:07:44 |
+| [pgweb](https://sosedoff.github.io/pgweb) | 8,074 | 694 | 15 | Cross-platform client for PostgreSQL databases | 2014-10-09 01:41:32 | 2023-10-12 08:07:54 |
+| [kingshard](https://github.com/flike/kingshard) | 6,267 | 1,217 | 165 | A high-performance MySQL proxy | 2015-07-04 02:22:32 | 2023-10-10 08:35:23 |
+| [orchestrator](https://github.com/openark/orchestrator) | 5,183 | 923 | 411 | MySQL replication topology management and HA | 2016-11-30 13:44:24 | 2023-10-11 16:19:10 |
+| [go-mysql](https://github.com/go-mysql-org/go-mysql) | 4,227 | 975 | 195 | a powerful mysql toolset with Go | 2014-02-21 01:56:45 | 2023-10-12 09:43:21 |
+| [go-mysql-elasticsearch](https://github.com/go-mysql-org/go-mysql-elasticsearch) | 4,006 | 824 | 210 | Sync MySQL data into elasticsearch  | 2015-01-15 09:54:18 | 2023-10-12 05:53:44 |
 | [prest](https://prestd.com) | 2,795 | 204 | 135 | pREST (PostgreSQL REST), low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new | 2016-11-22 05:17:05 | 2021-09-03 01:21:26 |
-| [chproxy](https://github.com/Vertamedia/chproxy) | 682 | 153 | 37 | ClickHouse http proxy and load balancer | 2017-09-18 13:09:23 | 2021-09-02 08:22:41 |
-| [pg_timetable](https://www.cybertec-postgresql.com/en/products/pg_timetable/) | 539 | 27 | 2 | pg_timetable: Advanced scheduling for PostgreSQL | 2018-12-19 10:19:51 | 2021-09-02 16:35:27 |
-| [clickhouse-bulk](https://github.com/nikepan/clickhouse-bulk) | 295 | 62 | 14 | Collects many small inserts to ClickHouse and send in big inserts | 2017-04-29 10:38:41 | 2021-08-30 07:05:06 |
-| [myreplication](https://github.com/2tvenom/myreplication) | 174 | 46 | 5 | Golang MySql binary log replication listener | 2015-02-04 20:59:49 | 2021-07-14 10:43:59 |
-| [octillery](https://github.com/blastrain/octillery) | 143 | 18 | 6 | Go package for sharding databases ( Supports every ORM or raw SQL ) | 2018-11-26 10:39:35 | 2021-09-01 19:04:22 |
-| [dbbench](https://github.com/sj14/dbbench) | 59 | 8 | 12 | 🏋️ dbbench is a simple database benchmarking tool which supports several databases and own scripts | 2018-11-24 13:21:18 | 2021-09-01 06:10:49 |
-| [datagen](https://github.com/codingconcepts/datagen) | 39 | 4 | 0 | A fast data generator that's multi-table aware and supports multi-row DML. | 2019-04-18 19:58:01 | 2021-08-28 12:54:51 |
-| [prep](http://sosedoff.github.io/pgweb) | 28 | 2 | 0 | Prep finds all SQL statements in a Go package and instruments db connection with prepared statements | 2017-12-11 23:47:38 | 2021-05-03 10:39:05 |
+| [chproxy](https://www.chproxy.org/) | 1,140 | 243 | 32 | Open-Source ClickHouse http proxy and load balancer | 2017-09-18 13:09:23 | 2023-10-08 06:19:26 |
+| [pg_timetable](https://www.cybertec-postgresql.com/en/products/pg_timetable/) | 921 | 57 | 0 | pg_timetable: Advanced scheduling for PostgreSQL | 2018-12-19 10:19:51 | 2023-10-12 08:21:27 |
+| [clickhouse-bulk](https://github.com/nikepan/clickhouse-bulk) | 438 | 86 | 24 | Collects many small inserts to ClickHouse and send in big inserts | 2017-04-29 10:38:41 | 2023-09-30 08:32:16 |
+| [myreplication](https://github.com/2tvenom/myreplication) | 190 | 49 | 5 | Golang MySql binary log replication listener | 2015-02-04 20:59:49 | 2023-06-28 11:21:12 |
+| [octillery](https://github.com/blastrain/octillery) | 181 | 29 | 6 | Go package for sharding databases ( Supports every ORM or raw SQL ) | 2018-11-26 10:39:35 | 2023-08-14 13:01:53 |
+| [dbbench](https://github.com/sj14/dbbench) | 89 | 18 | 10 | 🏋️ dbbench is a simple database benchmarking tool which supports several databases and own scripts | 2018-11-24 13:21:18 | 2023-10-11 17:32:02 |
+| [datagen](https://github.com/codingconcepts/datagen) | 56 | 9 | 0 | A fast data generator that's multi-table aware and supports multi-row DML. | 2019-04-18 19:58:01 | 2023-06-09 19:49:55 |
+| [prep](https://sosedoff.github.io/pgweb) | 33 | 6 | 0 | Prep finds all SQL statements in a Go package and instruments db connection with prepared statements | 2017-12-11 23:47:38 | 2022-12-10 17:38:11 |
 | [rwdb](https://prestd.com) | 12 | 0 | 0 | Database wrapper that manage read write connections | 2017-10-04 03:55:29 | 2021-05-29 03:21:37 |
 </details>
 
@@ -1612,53 +1612,53 @@ These libraries were placed here because none of the other categories seemed to 
 ### Natural Language Processing
 Libraries for working with human languages.
 
-<sup>*Last Update: 2021-08-31 09:25:01*</sup>
+<sup>*Last Update: 2023-10-12 20:38:19*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [prose](https://github.com/jdkato/prose) | 2,786 | 132 | 16 | :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction. | 2017-02-17 17:08:22 | 2021-08-29 20:22:28 |
-| [go-i18n](https://github.com/nicksnyder/go-i18n) | 1,742 | 180 | 15 | Translate your Go program into multiple languages. | 2012-01-14 21:44:37 | 2021-08-29 11:28:24 |
-| [gse](https://github.com/go-ego/gse) | 1,629 | 133 | 6 | Go efficient text segmentation and NLP; support english, chinese, japanese and other. Go 语言高性能分词 | 2017-06-23 15:42:35 | 2021-08-30 15:55:44 |
-| [gojieba](https://github.com/yanyiwu/gojieba) | 1,583 | 232 | 46 | "结巴"中文分词的Golang版本 | 2015-09-12 01:30:44 | 2021-08-30 06:10:14 |
-| [when](https://github.com/olebedev/when) | 1,126 | 64 | 14 | A natural language date/time parser with pluggable rules | 2016-12-27 13:11:46 | 2021-08-29 15:27:52 |
-| [go-pinyin](https://godoc.org/github.com/mozillazg/go-pinyin) | 1,006 | 152 | 12 | 汉字转拼音 | 2014-11-09 14:04:33 | 2021-08-27 23:38:22 |
-| [spago](https://github.com/nlpodyssey/spago) | 953 | 42 | 10 | Self-contained Machine Learning and Natural Language Processing library in Go | 2020-01-05 20:39:29 | 2021-08-27 19:15:56 |
-| [kagome](https://github.com/ikawaha/kagome) | 580 | 39 | 2 | Self-contained Japanese Morphological Analyzer written in pure Go | 2014-06-26 04:38:13 | 2021-08-30 17:33:36 |
-| [whatlanggo](https://github.com/abadojack/whatlanggo) | 504 | 50 | 11 | Natural language detection library for Go | 2017-02-20 17:32:01 | 2021-08-26 19:11:12 |
-| [nlp](https://github.com/shixzie/nlp) | 369 | 28 | 3 | [UNMANTEINED] Extract values from strings and fill your structs with nlp. | 2017-01-25 07:19:03 | 2021-06-05 13:26:18 |
-| [nlp](https://github.com/james-bowman/nlp) | 336 | 40 | 3 | Selected Machine Learning algorithms for natural language processing and semantic analysis in Golang | 2017-03-15 08:28:05 | 2021-08-20 16:35:47 |
-| [sentences](https://sentences-231000.appspot.com/) | 309 | 30 | 2 | A multilingual command line sentence tokenizer in Golang | 2015-08-07 01:08:20 | 2021-08-28 19:37:16 |
-| [getlang](https://github.com/rylans/getlang) | 119 | 16 | 4 | Natural language detection package in pure Go | 2018-03-01 21:27:30 | 2021-07-27 14:35:18 |
-| [go-unidecode](https://godoc.org/github.com/mozillazg/go-unidecode) | 89 | 13 | 3 | ASCII transliterations of Unicode text. | 2016-07-08 13:15:10 | 2021-07-06 08:27:20 |
-| [go-nlp](https://github.com/nuance/go-nlp) | 89 | 10 | 0 | Utilities for working with discrete probability distributions and other tools useful for doing NLP work | 2011-05-02 06:43:36 | 2021-01-30 05:58:16 |
-| [RAKE.Go](https://github.com/afjoseph/RAKE.Go) | 82 | 16 | 4 | A Go port of the Rapid Automatic Keyword Extraction algorithm (RAKE) | 2016-12-17 13:36:25 | 2021-08-10 03:42:24 |
-| [gounidecode](https://github.com/fiam/gounidecode) | 73 | 19 | 2 | Unicode transliterator for #golang | 2012-05-01 11:59:34 | 2021-05-09 09:43:14 |
-| [textcat](https://github.com/pebbe/textcat) | 65 | 8 | 1 | A Go package for n-gram based text categorization, with support for utf-8 and raw text | 2012-09-21 15:04:45 | 2021-06-21 14:35:11 |
-| [segment](https://github.com/blevesearch/segment) | 64 | 11 | 5 | A Go library for performing Unicode Text Segmentation as described in Unicode Standard Annex #29 | 2014-10-16 19:24:26 | 2021-08-09 04:03:56 |
-| [go-stem](svn://go-stem) | 64 | 15 | 1 | Word Stemming in Go | 2011-09-23 19:07:23 | 2021-08-08 10:04:07 |
-| [MMSEGO](https://github.com/awsong/MMSEGO) | 59 | 13 | 0 | Chinese word splitting algorithm MMSEG in GO | 2012-04-18 04:06:21 | 2020-08-05 02:49:45 |
-| [stemmer](https://godoc.org/github.com/dchest/stemmer) | 49 | 4 | 0 | Stemmer packages for Go programming language. Includes English, German and Dutch stemmers. | 2011-03-21 02:08:12 | 2021-04-29 22:02:55 |
-| [go2vec](https://godoc.org/github.com/mozillazg/go-unidecode) | 41 | 4 | 0 | Read and use word2vec vectors in Go | 2015-01-27 12:02:04 | 2020-10-14 13:06:04 |
-| [porter2](http://zhen.org/blog/generating-porter2-fsm-for-fun-and-performance/) | 40 | 5 | 1 | High Performance Porter2 Stemmer | 2015-01-21 07:30:32 | 2021-04-30 13:16:52 |
-| [petrovich](https://github.com/striker2000/petrovich) | 34 | 3 | 0 | Golang port of Petrovich - an inflector for Russian anthroponyms. | 2016-12-26 22:50:38 | 2021-06-23 11:55:26 |
-| [address](https://pkg.go.dev/github.com/bojanz/address) | 30 | 0 | 0 | Address handling for Go. | 2020-10-07 18:15:27 | 2021-07-19 21:23:38 |
-| [snowball](https://github.com/goodsign/snowball) | 28 | 3 | 0 | Cgo binding for Snowball C library | 2012-12-11 12:42:19 | 2021-08-08 10:04:22 |
-| [paicehusk](https://github.com/rookii/paicehusk) | 26 | 5 | 2 | Golang implementation of the Paice/Husk Stemming Algorithm | 2012-09-29 16:06:58 | 2019-11-28 05:32:37 |
-| [mystem](https://github.com/dveselov/mystem) | 26 | 6 | 0 | CGo bindings to Yandex.Mystem | 2016-08-30 14:55:39 | 2021-07-05 11:21:11 |
-| [go-localize](https://github.com/m1/go-localize) | 25 | 8 | 1 | i18n (Internationalization and localization) engine written in Go, used for translating locale strings.  | 2019-12-23 12:02:51 | 2021-06-24 15:17:10 |
-| [iuliia-go](https://github.com/mehanizm/iuliia-go) | 23 | 2 | 0 | Transliterate Cyrillic → Latin in every possible way | 2020-04-27 09:29:40 | 2021-08-10 13:39:08 |
-| [golibstemmer](https://github.com/rjohnsondev/golibstemmer) | 19 | 4 | 0 | Go bindings for the snowball libstemmer library including porter 2 | 2012-08-06 19:31:05 | 2021-08-10 21:12:14 |
-| [icu](https://github.com/goodsign/icu) | 19 | 4 | 2 | Cgo binding for icu4c library | 2012-12-11 13:09:41 | 2020-10-29 13:45:37 |
-| [govader](https://github.com/jonreiter/govader) | 15 | 2 | 0 | vader sentiment analysis in go | 2020-01-19 10:06:15 | 2021-06-22 02:34:30 |
-| [transliterator](https://github.com/alexsergivan/transliterator) | 12 | 5 | 1 | Golang text Transliterator (i.e München -> Muenchen) | 2020-04-17 14:19:55 | 2021-06-17 21:02:09 |
-| [gotokenizer](https://github.com/xujiajun/gotokenizer) | 12 | 3 | 0 | A tokenizer based on the dictionary and Bigram language models for Go. (Now only support chinese segmentation) | 2018-10-11 03:22:36 | 2021-06-10 07:32:49 |
-| [shamoji](https://github.com/osamingo/shamoji) | 12 | 0 | 0 | The shamoji (杓文字) is a word filtering package | 2017-07-23 06:38:42 | 2021-01-14 18:13:19 |
-| [detectlanguage-go](https://detectlanguage.com) | 10 | 0 | 0 | Detect Language API Go Client | 2019-12-14 23:30:44 | 2021-05-08 08:46:00 |
-| [libtextcat](https://github.com/goodsign/libtextcat) | 10 | 6 | 0 | Cgo binding for libtextcat C library | 2012-12-10 21:21:47 | 2018-07-29 06:39:58 |
-| [porter](https://github.com/a2800276/porter) | 8 | 0 | 0 | porter stemmer | 2013-09-17 11:10:16 | 2018-07-28 05:12:38 |
-| [gosentiwordnet](https://github.com/dinopuguh/gosentiwordnet) | 7 | 0 | 0 | 💬 Sentiment analyzer library using SentiWordnet in Go | 2020-04-21 09:09:28 | 2021-06-10 04:27:05 |
+| [prose](https://github.com/jdkato/prose) | 3,019 | 159 | 21 | :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction. | 2017-02-17 17:08:22 | 2023-10-04 20:33:16 |
+| [go-i18n](https://github.com/nicksnyder/go-i18n) | 2,530 | 295 | 21 | Translate your Go program into multiple languages. | 2012-01-14 21:44:37 | 2023-10-12 07:57:07 |
+| [gse](https://github.com/go-ego/gse) | 2,322 | 205 | 10 | Go efficient multilingual NLP and text segmentation; support English, Chinese, Japanese and others. | 2017-06-23 15:42:35 | 2023-10-12 01:38:37 |
+| [gojieba](https://github.com/yanyiwu/gojieba) | 2,223 | 324 | 59 | "结巴"中文分词的Golang版本 | 2015-09-12 01:30:44 | 2023-10-11 08:29:34 |
+| [spago](https://github.com/nlpodyssey/spago) | 1,578 | 81 | 13 | Self-contained Machine Learning and Natural Language Processing library in Go | 2020-01-05 20:39:29 | 2023-10-09 16:23:12 |
+| [go-pinyin](https://godoc.org/github.com/mozillazg/go-pinyin) | 1,474 | 225 | 14 | 汉字转拼音 | 2014-11-09 14:04:33 | 2023-10-12 08:41:35 |
+| [when](https://github.com/olebedev/when) | 1,292 | 83 | 18 | A natural language date/time parser with pluggable rules | 2016-12-27 13:11:46 | 2023-10-10 01:49:56 |
+| [kagome](https://github.com/ikawaha/kagome) | 754 | 48 | 5 | Self-contained Japanese Morphological Analyzer written in pure Go | 2014-06-26 04:38:13 | 2023-10-04 22:16:23 |
+| [whatlanggo](https://github.com/abadojack/whatlanggo) | 595 | 62 | 12 | Natural language detection library for Go | 2017-02-20 17:32:01 | 2023-09-22 06:06:10 |
+| [nlp](https://github.com/james-bowman/nlp) | 418 | 46 | 5 | Selected Machine Learning algorithms for natural language processing and semantic analysis in Golang | 2017-03-15 08:28:05 | 2023-09-12 00:43:16 |
+| [sentences](https://sentences-231000.appspot.com/) | 384 | 36 | 4 | A multilingual command line sentence tokenizer in Golang | 2015-08-07 01:08:20 | 2023-10-02 14:24:51 |
+| [nlp](https://github.com/shixzie/nlp) | 383 | 35 | 3 | [UNMANTEINED] Extract values from strings and fill your structs with nlp. | 2017-01-25 07:19:03 | 2023-08-27 20:19:47 |
+| [getlang](https://github.com/rylans/getlang) | 160 | 21 | 4 | Natural language detection package in pure Go | 2018-03-01 21:27:30 | 2023-09-28 14:06:27 |
+| [go-unidecode](https://godoc.org/github.com/mozillazg/go-unidecode) | 112 | 19 | 5 | ASCII transliterations of Unicode text. | 2016-07-08 13:15:10 | 2023-09-25 01:17:16 |
+| [RAKE.Go](https://github.com/afjoseph/RAKE.Go) | 101 | 18 | 4 | A Go port of the Rapid Automatic Keyword Extraction algorithm (RAKE) | 2016-12-17 13:36:25 | 2023-09-16 06:00:24 |
+| [go-nlp](https://github.com/nuance/go-nlp) | 95 | 12 | 0 | Utilities for working with discrete probability distributions and other tools useful for doing NLP work | 2011-05-02 06:43:36 | 2023-03-03 17:39:16 |
+| [gounidecode](https://github.com/fiam/gounidecode) | 79 | 21 | 2 | Unicode transliterator for #golang | 2012-05-01 11:59:34 | 2023-07-25 20:07:55 |
+| [segment](https://github.com/blevesearch/segment) | 78 | 16 | 5 | A Go library for performing Unicode Text Segmentation as described in Unicode Standard Annex #29 | 2014-10-16 19:24:26 | 2023-09-29 18:29:26 |
+| [go-stem](svn://go-stem) | 76 | 15 | 1 | Word Stemming in Go | 2011-09-23 19:07:23 | 2023-09-01 11:55:09 |
+| [textcat](https://github.com/pebbe/textcat) | 70 | 11 | 1 | A Go package for n-gram based text categorization, with support for utf-8 and raw text | 2012-09-21 15:04:45 | 2023-05-10 13:31:24 |
+| [address](https://pkg.go.dev/github.com/bojanz/address) | 69 | 2 | 0 | Address handling for Go. | 2020-10-07 18:15:27 | 2023-10-03 05:04:24 |
+| [MMSEGO](https://github.com/awsong/MMSEGO) | 62 | 14 | 1 | Chinese word splitting algorithm MMSEG in GO | 2012-04-18 04:06:21 | 2022-09-27 08:51:05 |
+| [go-localize](https://github.com/m1/go-localize) | 54 | 10 | 1 | i18n (Internationalization and localization) engine written in Go, used for translating locale strings.  | 2019-12-23 12:02:51 | 2023-09-07 09:19:06 |
+| [go2vec](https://godoc.org/github.com/mozillazg/go-unidecode) | 51 | 5 | 0 | Read and use word2vec vectors in Go | 2015-01-27 12:02:04 | 2023-09-19 14:26:50 |
+| [stemmer](https://godoc.org/github.com/dchest/stemmer) | 50 | 6 | 0 | Stemmer packages for Go programming language. Includes English, German and Dutch stemmers. | 2011-03-21 02:08:12 | 2023-08-27 23:09:33 |
+| [porter2](http://zhen.org/blog/generating-porter2-fsm-for-fun-and-performance/) | 46 | 7 | 1 | High Performance Porter2 Stemmer | 2015-01-21 07:30:32 | 2022-09-27 08:50:40 |
+| [petrovich](https://github.com/striker2000/petrovich) | 44 | 6 | 0 | Golang port of Petrovich - an inflector for Russian anthroponyms. | 2016-12-26 22:50:38 | 2023-07-12 14:23:24 |
+| [iuliia-go](https://github.com/mehanizm/iuliia-go) | 39 | 6 | 1 | Transliterate Cyrillic → Latin in every possible way | 2020-04-27 09:29:40 | 2023-09-08 18:06:37 |
+| [govader](https://github.com/jonreiter/govader) | 37 | 7 | 1 | vader sentiment analysis in go | 2020-01-19 10:06:15 | 2023-10-05 11:32:44 |
+| [snowball](https://github.com/goodsign/snowball) | 36 | 5 | 0 | Cgo binding for Snowball C library | 2012-12-11 12:42:19 | 2023-08-18 21:23:00 |
+| [transliterator](https://github.com/alexsergivan/transliterator) | 36 | 9 | 1 | Golang text Transliterator (i.e München -> Muenchen) | 2020-04-17 14:19:55 | 2023-08-13 23:32:28 |
+| [mystem](https://github.com/dveselov/mystem) | 31 | 8 | 0 | CGo bindings to Yandex.Mystem | 2016-08-30 14:55:39 | 2023-10-06 08:42:52 |
+| [paicehusk](https://github.com/rookii/paicehusk) | 29 | 7 | 2 | Golang implementation of the Paice/Husk Stemming Algorithm | 2012-09-29 16:06:58 | 2023-07-23 05:39:03 |
+| [detectlanguage-go](https://detectlanguage.com) | 23 | 3 | 0 | Detect Language API Go Client | 2019-12-14 23:30:44 | 2023-08-13 19:06:10 |
+| [icu](https://github.com/goodsign/icu) | 21 | 6 | 1 | Cgo binding for icu4c library | 2012-12-11 13:09:41 | 2023-10-04 07:11:36 |
+| [golibstemmer](https://github.com/rjohnsondev/golibstemmer) | 20 | 6 | 0 | Go bindings for the snowball libstemmer library including porter 2 | 2012-08-06 19:31:05 | 2022-09-27 08:50:18 |
+| [gotokenizer](https://github.com/xujiajun/gotokenizer) | 18 | 7 | 0 | A tokenizer based on the dictionary and Bigram language models for Go. (Now only support chinese segmentation) | 2018-10-11 03:22:36 | 2023-07-11 19:32:41 |
+| [shamoji](https://github.com/osamingo/shamoji) | 13 | 2 | 0 | The shamoji (杓文字) is a word filtering package | 2017-07-23 06:38:42 | 2022-09-27 08:51:16 |
+| [libtextcat](https://github.com/goodsign/libtextcat) | 13 | 8 | 0 | Cgo binding for libtextcat C library | 2012-12-10 21:21:47 | 2023-08-04 09:58:01 |
+| [porter](https://github.com/a2800276/porter) | 12 | 2 | 0 | porter stemmer | 2013-09-17 11:10:16 | 2022-12-19 17:32:36 |
+| [gosentiwordnet](https://github.com/dinopuguh/gosentiwordnet) | 11 | 2 | 0 | 💬 Sentiment analyzer library using SentiWordnet in Go | 2020-04-21 09:09:28 | 2023-08-25 15:07:32 |
 </details>
 
 ### Networking
