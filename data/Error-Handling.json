@@ -1,7 +1,7 @@
 {
 	"name": "Error Handling",
 	"index_last_check": 0,
-	"last_update": 1630635917,
+	"last_update": 1697205916,
 	"libraries": [
 		{
 			"id": 48643510,
@@ -10,11 +10,11 @@
 			"html_url": "https://github.com/pkg/errors",
 			"homepage": "https://godoc.org/github.com/pkg/errors",
 			"created_at": "2015-12-27T12:05:38Z",
-			"updated_at": "2021-09-03T01:16:10Z",
+			"updated_at": "2023-10-12T05:51:41Z",
 			"svn_url": "https://github.com/pkg/errors",
-			"stargazers_count": 7234,
-			"watchers_count": 7234,
-			"forks_count": 555,
+			"stargazers_count": 8086,
+			"watchers_count": 8086,
+			"forks_count": 679,
 			"open_issues_count": 42
 		},
 		{
@@ -24,26 +24,26 @@
 			"html_url": "https://github.com/hashicorp/go-multierror",
 			"homepage": "",
 			"created_at": "2014-12-15T20:12:26Z",
-			"updated_at": "2021-09-02T19:10:20Z",
+			"updated_at": "2023-10-13T06:38:52Z",
 			"svn_url": "https://github.com/hashicorp/go-multierror",
-			"stargazers_count": 1342,
-			"watchers_count": 1342,
-			"forks_count": 88,
-			"open_issues_count": 13
+			"stargazers_count": 2045,
+			"watchers_count": 2045,
+			"forks_count": 153,
+			"open_issues_count": 29
 		},
 		{
 			"id": 206998016,
 			"name": "eris",
-			"description": "eris provides a better way to handle, trace, and log errors in Go 🎆",
+			"description": "Error handling library with readable stack traces and flexible formatting support 🎆",
 			"html_url": "https://github.com/rotisserie/eris",
-			"homepage": "",
+			"homepage": "https://pkg.go.dev/github.com/rotisserie/eris",
 			"created_at": "2019-09-07T16:50:33Z",
-			"updated_at": "2021-08-30T02:14:27Z",
+			"updated_at": "2023-10-11T05:12:38Z",
 			"svn_url": "https://github.com/rotisserie/eris",
-			"stargazers_count": 833,
-			"watchers_count": 833,
-			"forks_count": 20,
-			"open_issues_count": 0
+			"stargazers_count": 1347,
+			"watchers_count": 1347,
+			"forks_count": 49,
+			"open_issues_count": 4
 		},
 		{
 			"id": 145090975,
@@ -52,12 +52,12 @@
 			"html_url": "https://github.com/joomcode/errorx",
 			"homepage": "",
 			"created_at": "2018-08-17T08:02:10Z",
-			"updated_at": "2021-08-23T09:19:07Z",
+			"updated_at": "2023-10-10T15:12:58Z",
 			"svn_url": "https://github.com/joomcode/errorx",
-			"stargazers_count": 760,
-			"watchers_count": 760,
-			"forks_count": 25,
-			"open_issues_count": 4
+			"stargazers_count": 1016,
+			"watchers_count": 1016,
+			"forks_count": 31,
+			"open_issues_count": 6
 		},
 		{
 			"id": 169459245,
@@ -66,12 +66,12 @@
 			"html_url": "https://github.com/ztrue/tracerr",
 			"homepage": "",
 			"created_at": "2019-02-06T18:57:46Z",
-			"updated_at": "2021-08-28T12:23:24Z",
+			"updated_at": "2023-10-11T12:26:21Z",
 			"svn_url": "https://github.com/ztrue/tracerr",
-			"stargazers_count": 679,
-			"watchers_count": 679,
-			"forks_count": 26,
-			"open_issues_count": 1
+			"stargazers_count": 832,
+			"watchers_count": 832,
+			"forks_count": 35,
+			"open_issues_count": 2
 		},
 		{
 			"id": 171062239,
@@ -80,12 +80,12 @@
 			"html_url": "https://github.com/snwfdhmp/errlog",
 			"homepage": "",
 			"created_at": "2019-02-16T23:19:05Z",
-			"updated_at": "2021-07-30T10:15:58Z",
+			"updated_at": "2023-09-26T23:05:04Z",
 			"svn_url": "https://github.com/snwfdhmp/errlog",
-			"stargazers_count": 398,
-			"watchers_count": 398,
-			"forks_count": 16,
-			"open_issues_count": 1
+			"stargazers_count": 454,
+			"watchers_count": 454,
+			"forks_count": 21,
+			"open_issues_count": 0
 		},
 		{
 			"id": 94152209,
@@ -94,12 +94,12 @@
 			"html_url": "https://github.com/emperror/emperror",
 			"homepage": "https://emperror.dev/emperror",
 			"created_at": "2017-06-13T00:24:28Z",
-			"updated_at": "2021-08-30T12:52:33Z",
+			"updated_at": "2023-10-10T19:42:30Z",
 			"svn_url": "https://github.com/emperror/emperror",
-			"stargazers_count": 221,
-			"watchers_count": 221,
-			"forks_count": 14,
-			"open_issues_count": 5
+			"stargazers_count": 314,
+			"watchers_count": 314,
+			"forks_count": 20,
+			"open_issues_count": 6
 		},
 		{
 			"id": 196009910,
@@ -108,12 +108,12 @@
 			"html_url": "https://github.com/emperror/errors",
 			"homepage": "https://emperror.dev/errors",
 			"created_at": "2019-07-09T13:02:52Z",
-			"updated_at": "2021-09-02T18:39:00Z",
+			"updated_at": "2023-10-13T04:48:34Z",
 			"svn_url": "https://github.com/emperror/errors",
-			"stargazers_count": 98,
-			"watchers_count": 98,
-			"forks_count": 5,
-			"open_issues_count": 6
+			"stargazers_count": 186,
+			"watchers_count": 186,
+			"forks_count": 11,
+			"open_issues_count": 10
 		},
 		{
 			"id": 280503106,
@@ -122,39 +122,25 @@
 			"html_url": "https://github.com/bnkamalesh/errors",
 			"homepage": "",
 			"created_at": "2020-07-17T18:57:04Z",
-			"updated_at": "2021-06-19T13:37:32Z",
+			"updated_at": "2023-10-05T12:13:30Z",
 			"svn_url": "https://github.com/bnkamalesh/errors",
-			"stargazers_count": 23,
-			"watchers_count": 23,
-			"forks_count": 3,
+			"stargazers_count": 57,
+			"watchers_count": 57,
+			"forks_count": 5,
 			"open_issues_count": 0
 		},
 		{
 			"id": 207307767,
 			"name": "falcon",
 			"description": "A Simple Yet Highly Powerful Package For Error Handling",
-			"html_url": "https://github.com/SonicRoshan/falcon",
+			"html_url": "https://github.com/ThundR67/falcon",
 			"homepage": "",
 			"created_at": "2019-09-09T12:49:43Z",
-			"updated_at": "2021-08-01T23:06:50Z",
-			"svn_url": "https://github.com/SonicRoshan/falcon",
-			"stargazers_count": 7,
-			"watchers_count": 7,
-			"forks_count": 0,
-			"open_issues_count": 0
-		},
-		{
-			"id": 198917567,
-			"name": "errors",
-			"description": "Simple golang error handling with classification primitives.",
-			"html_url": "https://github.com/neuronlabs/errors",
-			"homepage": "",
-			"created_at": "2019-07-26T00:15:36Z",
-			"updated_at": "2020-01-23T14:57:00Z",
-			"svn_url": "https://github.com/neuronlabs/errors",
-			"stargazers_count": 3,
-			"watchers_count": 3,
-			"forks_count": 0,
+			"updated_at": "2023-09-26T23:05:52Z",
+			"svn_url": "https://github.com/ThundR67/falcon",
+			"stargazers_count": 10,
+			"watchers_count": 10,
+			"forks_count": 1,
 			"open_issues_count": 0
 		},
 		{
@@ -164,11 +150,25 @@
 			"html_url": "https://github.com/PumpkinSeed/errors",
 			"homepage": "",
 			"created_at": "2020-01-08T21:12:51Z",
-			"updated_at": "2021-08-01T23:06:07Z",
+			"updated_at": "2023-08-29T00:07:32Z",
 			"svn_url": "https://github.com/PumpkinSeed/errors",
-			"stargazers_count": 3,
-			"watchers_count": 3,
-			"forks_count": 0,
+			"stargazers_count": 7,
+			"watchers_count": 7,
+			"forks_count": 1,
+			"open_issues_count": 0
+		},
+		{
+			"id": 198917567,
+			"name": "errors",
+			"description": "Simple golang error handling with classification primitives.",
+			"html_url": "https://github.com/neuronlabs/errors",
+			"homepage": "",
+			"created_at": "2019-07-26T00:15:36Z",
+			"updated_at": "2023-09-26T23:05:27Z",
+			"svn_url": "https://github.com/neuronlabs/errors",
+			"stargazers_count": 6,
+			"watchers_count": 6,
+			"forks_count": 1,
 			"open_issues_count": 0
 		}
 	]

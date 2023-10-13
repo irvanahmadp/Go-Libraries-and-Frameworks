@@ -496,19 +496,19 @@ Generic datastructures and algorithms in Go.
 ### Database - Database tools
 
 
-<sup>*Last Update: 2023-10-12 20:38:48*</sup>
+<sup>*Last Update: 2023-10-13 21:05:14*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [vitess](http://vitess.io) | 12,426 | 1,584 | 696 | Vitess is a database clustering system for horizontal scaling of MySQL. | 2013-06-27 21:20:28 | 2021-09-03 02:02:23 |
+| [vitess](http://vitess.io) | 16,881 | 2,012 | 821 | Vitess is a database clustering system for horizontal scaling of MySQL. | 2013-06-27 21:20:28 | 2023-10-13 11:40:46 |
 | [pgweb](https://sosedoff.github.io/pgweb) | 8,074 | 694 | 15 | Cross-platform client for PostgreSQL databases | 2014-10-09 01:41:32 | 2023-10-12 08:07:54 |
 | [kingshard](https://github.com/flike/kingshard) | 6,267 | 1,217 | 165 | A high-performance MySQL proxy | 2015-07-04 02:22:32 | 2023-10-10 08:35:23 |
 | [orchestrator](https://github.com/openark/orchestrator) | 5,183 | 923 | 411 | MySQL replication topology management and HA | 2016-11-30 13:44:24 | 2023-10-11 16:19:10 |
 | [go-mysql](https://github.com/go-mysql-org/go-mysql) | 4,227 | 975 | 195 | a powerful mysql toolset with Go | 2014-02-21 01:56:45 | 2023-10-12 09:43:21 |
 | [go-mysql-elasticsearch](https://github.com/go-mysql-org/go-mysql-elasticsearch) | 4,006 | 824 | 210 | Sync MySQL data into elasticsearch  | 2015-01-15 09:54:18 | 2023-10-12 05:53:44 |
-| [prest](https://prestd.com) | 2,795 | 204 | 135 | pREST (PostgreSQL REST), low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new | 2016-11-22 05:17:05 | 2021-09-03 01:21:26 |
+| [prest](https://prestd.com) | 3,912 | 278 | 126 | PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new | 2016-11-22 05:17:05 | 2023-10-09 06:30:26 |
 | [chproxy](https://www.chproxy.org/) | 1,140 | 243 | 32 | Open-Source ClickHouse http proxy and load balancer | 2017-09-18 13:09:23 | 2023-10-08 06:19:26 |
 | [pg_timetable](https://www.cybertec-postgresql.com/en/products/pg_timetable/) | 921 | 57 | 0 | pg_timetable: Advanced scheduling for PostgreSQL | 2018-12-19 10:19:51 | 2023-10-12 08:21:27 |
 | [clickhouse-bulk](https://github.com/nikepan/clickhouse-bulk) | 438 | 86 | 24 | Collects many small inserts to ClickHouse and send in big inserts | 2017-04-29 10:38:41 | 2023-09-30 08:32:16 |
@@ -517,7 +517,7 @@ Generic datastructures and algorithms in Go.
 | [dbbench](https://github.com/sj14/dbbench) | 89 | 18 | 10 | 🏋️ dbbench is a simple database benchmarking tool which supports several databases and own scripts | 2018-11-24 13:21:18 | 2023-10-11 17:32:02 |
 | [datagen](https://github.com/codingconcepts/datagen) | 56 | 9 | 0 | A fast data generator that's multi-table aware and supports multi-row DML. | 2019-04-18 19:58:01 | 2023-06-09 19:49:55 |
 | [prep](https://sosedoff.github.io/pgweb) | 33 | 6 | 0 | Prep finds all SQL statements in a Go package and instruments db connection with prepared statements | 2017-12-11 23:47:38 | 2022-12-10 17:38:11 |
-| [rwdb](https://prestd.com) | 12 | 0 | 0 | Database wrapper that manage read write connections | 2017-10-04 03:55:29 | 2021-05-29 03:21:37 |
+| [rwdb](https://prestd.com) | 18 | 2 | 0 | Database wrapper that manage read write connections | 2017-10-04 03:55:29 | 2023-05-02 21:55:01 |
 </details>
 
 ### Database - Databases implemented in Go
@@ -865,24 +865,24 @@ Embedding other languages inside your go code.
 ### Error Handling
 Libraries for handling errors.
 
-<sup>*Last Update: 2021-09-03 09:25:17*</sup>
+<sup>*Last Update: 2023-10-13 21:05:16*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [errors](https://godoc.org/github.com/pkg/errors) | 7,234 | 555 | 42 | Simple error handling primitives | 2015-12-27 12:05:38 | 2021-09-03 01:16:10 |
-| [go-multierror](https://github.com/hashicorp/go-multierror) | 1,342 | 88 | 13 | A Go (golang) package for representing a list of errors as a single error. | 2014-12-15 20:12:26 | 2021-09-02 19:10:20 |
-| [eris](https://github.com/rotisserie/eris) | 833 | 20 | 0 | eris provides a better way to handle, trace, and log errors in Go 🎆 | 2019-09-07 16:50:33 | 2021-08-30 02:14:27 |
-| [errorx](https://github.com/joomcode/errorx) | 760 | 25 | 4 | A comprehensive error handling library for Go | 2018-08-17 08:02:10 | 2021-08-23 09:19:07 |
-| [tracerr](https://github.com/ztrue/tracerr) | 679 | 26 | 1 | Golang errors with stack trace and source fragments. | 2019-02-06 18:57:46 | 2021-08-28 12:23:24 |
-| [errlog](https://github.com/snwfdhmp/errlog) | 398 | 16 | 1 | Reduce debugging time while programming Go. Use static and stack-trace analysis to determine which func call causes the error. | 2019-02-16 23:19:05 | 2021-07-30 10:15:58 |
-| [emperror](https://emperror.dev/emperror) | 221 | 14 | 5 | The Emperor takes care of all errors personally | 2017-06-13 00:24:28 | 2021-08-30 12:52:33 |
-| [errors](https://emperror.dev/errors) | 98 | 5 | 6 | Drop-in replacement for the standard library errors package and github.com/pkg/errors | 2019-07-09 13:02:52 | 2021-09-02 18:39:00 |
-| [errors](https://github.com/bnkamalesh/errors) | 23 | 3 | 0 | A drop-in replacement for Go errors, with some added sugar! Unwrap user-friendly messages, HTTP status code, easy wrapping with multiple error types. | 2020-07-17 18:57:04 | 2021-06-19 13:37:32 |
-| [falcon](https://github.com/SonicRoshan/falcon) | 7 | 0 | 0 | A Simple Yet Highly Powerful Package For Error Handling | 2019-09-09 12:49:43 | 2021-08-01 23:06:50 |
-| [errors](https://github.com/neuronlabs/errors) | 3 | 0 | 0 | Simple golang error handling with classification primitives. | 2019-07-26 00:15:36 | 2020-01-23 14:57:00 |
-| [errors](https://github.com/PumpkinSeed/errors) | 3 | 0 | 0 | Simple and efficient error package  | 2020-01-08 21:12:51 | 2021-08-01 23:06:07 |
+| [errors](https://godoc.org/github.com/pkg/errors) | 8,086 | 679 | 42 | Simple error handling primitives | 2015-12-27 12:05:38 | 2023-10-12 05:51:41 |
+| [go-multierror](https://github.com/hashicorp/go-multierror) | 2,045 | 153 | 29 | A Go (golang) package for representing a list of errors as a single error. | 2014-12-15 20:12:26 | 2023-10-13 06:38:52 |
+| [eris](https://pkg.go.dev/github.com/rotisserie/eris) | 1,347 | 49 | 4 | Error handling library with readable stack traces and flexible formatting support 🎆 | 2019-09-07 16:50:33 | 2023-10-11 05:12:38 |
+| [errorx](https://github.com/joomcode/errorx) | 1,016 | 31 | 6 | A comprehensive error handling library for Go | 2018-08-17 08:02:10 | 2023-10-10 15:12:58 |
+| [tracerr](https://github.com/ztrue/tracerr) | 832 | 35 | 2 | Golang errors with stack trace and source fragments. | 2019-02-06 18:57:46 | 2023-10-11 12:26:21 |
+| [errlog](https://github.com/snwfdhmp/errlog) | 454 | 21 | 0 | Reduce debugging time while programming Go. Use static and stack-trace analysis to determine which func call causes the error. | 2019-02-16 23:19:05 | 2023-09-26 23:05:04 |
+| [emperror](https://emperror.dev/emperror) | 314 | 20 | 6 | The Emperor takes care of all errors personally | 2017-06-13 00:24:28 | 2023-10-10 19:42:30 |
+| [errors](https://emperror.dev/errors) | 186 | 11 | 10 | Drop-in replacement for the standard library errors package and github.com/pkg/errors | 2019-07-09 13:02:52 | 2023-10-13 04:48:34 |
+| [errors](https://github.com/bnkamalesh/errors) | 57 | 5 | 0 | A drop-in replacement for Go errors, with some added sugar! Unwrap user-friendly messages, HTTP status code, easy wrapping with multiple error types. | 2020-07-17 18:57:04 | 2023-10-05 12:13:30 |
+| [falcon](https://github.com/ThundR67/falcon) | 10 | 1 | 0 | A Simple Yet Highly Powerful Package For Error Handling | 2019-09-09 12:49:43 | 2023-09-26 23:05:52 |
+| [errors](https://github.com/PumpkinSeed/errors) | 7 | 1 | 0 | Simple and efficient error package  | 2020-01-08 21:12:51 | 2023-08-29 00:07:32 |
+| [errors](https://github.com/neuronlabs/errors) | 6 | 1 | 0 | Simple golang error handling with classification primitives. | 2019-07-26 00:15:36 | 2023-09-26 23:05:27 |
 </details>
 
 ### File Handling
@@ -1024,30 +1024,30 @@ Libraries for building GUI Applications.
 ### Game Development
 Awesome game development libraries.
 
-<sup>*Last Update: 2021-09-07 09:25:10*</sup>
+<sup>*Last Update: 2023-10-13 21:05:34*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [ebiten](https://ebiten.org) | 5,018 | 332 | 224 | A dead simple 2D game library for Go | 2013-06-16 15:13:01 | 2021-09-06 16:19:56 |
-| [leaf](https://github.com/name5566/leaf) | 4,129 | 1,105 | 12 | A game server framework in Go (golang) | 2014-08-04 12:40:08 | 2021-09-06 03:17:12 |
-| [pixel](https://github.com/faiface/pixel) | 3,627 | 211 | 36 | A hand-crafted 2D game library in Go | 2016-11-19 11:15:34 | 2021-09-07 01:02:08 |
-| [goworld](https://github.com/xiaonanln/goworld) | 1,933 | 356 | 16 | Scalable Distributed Game Server Engine with Hot Swapping in Golang | 2017-06-03 15:02:46 | 2021-09-06 09:22:21 |
-| [nano](https://github.com/lonng/nano) | 1,802 | 298 | 18 | Lightweight, facility, high performance golang based game server framework | 2017-08-02 06:05:14 | 2021-09-04 02:15:13 |
-| [go-sdl2](https://godoc.org/github.com/veandco/go-sdl2) | 1,612 | 194 | 50 | SDL2 binding for Go | 2013-06-05 18:30:03 | 2021-09-06 23:32:26 |
-| [engine](https://discord.gg/NfaeVr8zDg) | 1,558 | 156 | 67 | Go 3D Game Engine (http://g3n.rocks) | 2017-03-07 18:25:09 | 2021-09-07 00:05:06 |
-| [engo](https://engoengine.github.io) | 1,416 | 118 | 52 | Engo is an open-source 2D game engine written in Go. | 2014-11-12 05:50:03 | 2021-09-03 06:56:55 |
-| [termloop](https://github.com/JoelOtter/termloop) | 1,227 | 74 | 5 | Terminal-based game engine for Go, built on top of Termbox | 2015-05-23 17:12:34 | 2021-08-31 07:02:30 |
-| [pitaya](https://github.com/topfreegames/pitaya) | 1,158 | 236 | 18 | Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK. | 2018-03-19 19:40:36 | 2021-09-06 11:33:32 |
-| [gonet](https://github.com/xtaci/gonet) | 1,149 | 300 | 0 | A Game Server Skeleton in golang. | 2013-04-11 02:18:23 | 2021-08-31 01:56:29 |
-| [oak](https://github.com/oakmound/oak) | 923 | 60 | 12 | A pure Go game engine | 2017-07-15 16:24:27 | 2021-09-07 01:42:48 |
-| [raylib-go](https://github.com/gen2brain/raylib-go) | 647 | 69 | 8 | Go bindings for raylib, a simple and easy-to-use library to enjoy videogames programming. | 2017-01-27 08:31:45 | 2021-09-06 16:07:01 |
-| [engine](https://azul3d.org) | 500 | 44 | 82 | Azul3D - A 3D game engine written in Go! | 2016-02-29 04:54:44 | 2021-09-03 17:21:44 |
-| [go-astar](https://discord.gg/NfaeVr8zDg) | 445 | 60 | 1 | Go implementation of the A* search algorithm | 2014-05-28 02:00:03 | 2021-09-01 21:26:51 |
-| [go3d](https://github.com/ungerik/go3d) | 206 | 36 | 2 | A performance oriented 2D/3D math package for Go | 2011-06-27 13:02:26 | 2021-09-02 02:56:12 |
-| [prototype](https://github.com/gonutz/prototype) | 60 | 4 | 2 | Simple 2D game prototyping framework. | 2015-03-04 09:24:39 | 2021-08-17 11:58:11 |
-| [tile](https://github.com/kelindar/tile) | 31 | 2 | 0 | Tile is a 2D grid engine, built with data and cache friendly ways, includes pathfinding and observers. | 2020-08-19 13:23:18 | 2021-08-23 14:57:44 |
+| [ebiten](https://ebitengine.org) | 8,903 | 591 | 244 | Ebitengine - A dead simple 2D game engine for Go | 2013-06-16 15:13:01 | 2023-10-13 06:02:03 |
+| [leaf](https://github.com/name5566/leaf) | 4,996 | 1,312 | 21 | A game server framework in Go (golang) | 2014-08-04 12:40:08 | 2023-10-13 03:48:07 |
+| [pixel](https://github.com/faiface/pixel) | 4,315 | 247 | 45 | A hand-crafted 2D game library in Go | 2016-11-19 11:15:34 | 2023-10-11 10:55:06 |
+| [nano](https://github.com/lonng/nano) | 2,494 | 404 | 26 | Lightweight, facility, high performance golang based game server framework | 2017-08-02 06:05:14 | 2023-10-13 09:09:08 |
+| [engine](https://discord.gg/NfaeVr8zDg) | 2,439 | 248 | 39 | Go 3D Game Engine (http://g3n.rocks) | 2017-03-07 18:25:09 | 2023-10-12 06:18:59 |
+| [goworld](https://github.com/xiaonanln/goworld) | 2,407 | 468 | 26 | Scalable Distributed Game Server Engine with Hot Swapping in Golang | 2017-06-03 15:02:46 | 2023-10-13 03:49:20 |
+| [go-sdl2](https://godoc.org/github.com/veandco/go-sdl2) | 2,035 | 252 | 77 | SDL2 binding for Go | 2013-06-05 18:30:03 | 2023-10-12 02:21:31 |
+| [pitaya](https://github.com/topfreegames/pitaya) | 1,977 | 415 | 39 | Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK. | 2018-03-19 19:40:36 | 2023-10-13 12:57:17 |
+| [engo](https://engoengine.github.io) | 1,653 | 134 | 49 | Engo is an open-source 2D game engine written in Go. | 2014-11-12 05:50:03 | 2023-10-13 00:33:53 |
+| [oak](https://github.com/oakmound/oak) | 1,455 | 81 | 15 | A pure Go game engine | 2017-07-15 16:24:27 | 2023-10-13 01:50:30 |
+| [termloop](https://github.com/JoelOtter/termloop) | 1,366 | 87 | 5 | Terminal-based game engine for Go, built on top of Termbox | 2015-05-23 17:12:34 | 2023-10-06 17:41:27 |
+| [gonet](https://github.com/xtaci/gonet) | 1,237 | 334 | 0 | A Game Server Skeleton in golang. | 2013-04-11 02:18:23 | 2023-09-29 22:55:29 |
+| [raylib-go](https://github.com/gen2brain/raylib-go) | 1,083 | 120 | 8 | Go bindings for raylib, a simple and easy-to-use library to enjoy videogames programming. | 2017-01-27 08:31:45 | 2023-10-12 19:39:24 |
+| [engine](https://azul3d.org) | 593 | 55 | 82 | Azul3D - A 3D game engine written in Go! | 2016-02-29 04:54:44 | 2023-10-09 21:20:15 |
+| [go-astar](https://discord.gg/NfaeVr8zDg) | 565 | 80 | 2 | Go implementation of the A* search algorithm | 2014-05-28 02:00:03 | 2023-10-09 08:20:41 |
+| [go3d](https://github.com/ungerik/go3d) | 284 | 48 | 2 | A performance oriented 2D/3D math package for Go | 2011-06-27 13:02:26 | 2023-09-25 02:31:41 |
+| [tile](https://github.com/kelindar/tile) | 115 | 14 | 2 | Tile is a 2D grid engine, built with data and cache friendly ways, includes pathfinding and observers. | 2020-08-19 13:23:18 | 2023-10-07 23:45:45 |
+| [prototype](https://github.com/gonutz/prototype) | 83 | 9 | 1 | Simple 2D game prototyping framework. | 2015-03-04 09:24:39 | 2023-10-11 08:03:12 |
 </details>
 
 ### Generation and Generics
@@ -1757,7 +1757,7 @@ Libraries for making HTTP requests.
 ### ORM
 Libraries that implement Object-Relational Mapping or datamapping techniques.
 
-<sup>*Last Update: 2023-10-11 21:36:59*</sup>
+<sup>*Last Update: 2023-10-13 21:05:10*</sup>
 <details>
   <summary>Show Table</summary>
 
@@ -1777,7 +1777,7 @@ Libraries that implement Object-Relational Mapping or datamapping techniques.
 | [rel](https://go-rel.github.io/) | 680 | 57 | 26 | :gem: Modern ORM for Golang - Testable, Extendable and Crafted Into a Clean and Elegant API | 2019-10-06 07:08:01 | 2023-10-06 18:45:10 |
 | [beego](beego.me) | 665 | 174 | 0 | beego is an open-source, high-performance web framework for the Go programming language. | 2020-12-13 14:58:50 | 2023-10-10 03:56:56 |
 | [qbs](https://github.com/coocood/qbs) | 547 | 101 | 10 | QBS stands for Query By Struct. A Go ORM. | 2013-02-02 05:40:59 | 2023-09-22 18:58:20 |
-| [zoom](https://github.com/albrow/zoom) | 278 | 24 | 2 | A blazing-fast datastore and querying engine for Go built on Redis. | 2013-07-17 00:32:34 | 2021-07-19 07:28:29 |
+| [zoom](https://github.com/albrow/zoom) | 303 | 28 | 2 | A blazing-fast datastore and querying engine for Go built on Redis. | 2013-07-17 00:32:34 | 2023-10-08 05:35:13 |
 | [gosql](https://github.com/rushteam/gosql) | 176 | 22 | 6 | golang orm and sql builder | 2020-04-27 09:16:29 | 2023-09-25 03:42:03 |
 | [grimoire](https://fs02.github.io/grimoire) | 160 | 18 | 0 | Database access layer for golang | 2018-03-05 16:52:20 | 2023-09-25 03:44:37 |
 | [go-store](https://github.com/gosuri/go-store) | 112 | 9 | 1 | A simple and fast Redis backed key-value store library for Go | 2015-03-22 12:07:29 | 2023-09-25 03:42:25 |
@@ -1985,33 +1985,33 @@ Libraries that are used to help make your application more secure.
 ### Serialization
 Libraries and tools for binary serialization.
 
-<sup>*Last Update: 2021-09-07 09:25:02*</sup>
+<sup>*Last Update: 2023-10-13 21:05:23*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [go](http://jsoniter.com/migrate-from-go-std.html) | 9,763 | 796 | 156 | A high-performance 100% compatible drop-in replacement of "encoding/json" | 2016-11-30 00:30:24 | 2021-09-06 16:30:20 |
-| [protobuf](https://github.com/golang/protobuf) | 7,884 | 1,437 | 56 | Go support for Google's protocol buffers | 2014-11-23 23:07:23 | 2021-09-07 01:53:29 |
-| [mapstructure](https://github.com/mitchellh/mapstructure) | 4,826 | 501 | 40 | Go library for decoding generic map values into native Go structures and vice versa. | 2013-05-20 05:24:34 | 2021-09-06 06:14:49 |
-| [protobuf](https://github.com/gogo/protobuf) | 4,794 | 626 | 211 | [Looking for new ownership] Protocol Buffers for Go with Gadgets | 2014-12-03 11:27:10 | 2021-09-06 21:18:48 |
-| [go](https://github.com/ugorji/go) | 1,577 | 262 | 3 | idiomatic codec and rpc lib for msgpack, cbor, json, etc. msgpack.org[Go] | 2013-05-30 02:13:13 | 2021-09-03 08:54:19 |
-| [colfer](https://github.com/pascaldekloe/colfer) | 618 | 48 | 12 | binary serialization format | 2015-09-05 16:42:41 | 2021-09-04 12:15:50 |
-| [csvutil](https://github.com/jszwec/csvutil) | 567 | 33 | 2 | csvutil provides fast and idiomatic mapping between CSV and Go (golang) values. | 2017-10-30 04:09:48 | 2021-09-06 16:49:23 |
-| [cbor](https://github.com/fxamacker/cbor) | 314 | 26 | 9 | CBOR codec (in Go) with CBOR tags, Go struct tags (toarray/keyasint/omitempty), float64/32/16, big.Int, and fuzz tested billions of execs for reliable RFC 7049 & RFC 8949.  | 2019-05-15 21:22:15 | 2021-09-06 20:12:13 |
-| [go-capnproto](https://github.com/glycerine/go-capnproto) | 279 | 18 | 1 | Cap'n Proto library and parser for go. This is go-capnproto-1.0, and does not have rpc. See https://github.com/zombiezen/go-capnproto2 for 2.0 which has rpc and capabilities. | 2013-11-07 20:28:12 | 2021-06-14 12:15:27 |
-| [php_session_decoder](https://github.com/yvasiyarov/php_session_decoder) | 151 | 41 | 3 | PHP session encoder/decoder written in Go | 2012-12-23 14:04:25 | 2021-08-12 13:22:37 |
-| [structomap](https://godoc.org/github.com/danhper/structomap) | 125 | 10 | 0 | Easily and dynamically generate maps from Go static structures | 2015-05-13 08:54:11 | 2021-08-27 20:58:29 |
-| [bambam](https://github.com/glycerine/bambam) | 62 | 10 | 3 | auto-generate capnproto schema from your golang source files. Depends on go-capnproto-1.0 at https://github.com/glycerine/go-capnproto | 2014-09-17 14:39:12 | 2021-03-04 20:35:06 |
-| [asn1](https://github.com/Logicalis/asn1) | 47 | 22 | 6 | Asn.1 BER and DER encoding library for golang. | 2016-02-29 13:00:25 | 2020-08-21 06:42:00 |
-| [binstruct](https://github.com/ghostiam/binstruct) | 33 | 5 | 0 | Golang binary decoder for mapping data into the structure | 2018-10-23 15:42:22 | 2021-08-23 08:00:01 |
-| [elastic](https://github.com/epiclabs-io/elastic) | 15 | 1 | 1 | Converts go types no matter what | 2020-02-25 19:55:00 | 2021-05-20 08:50:22 |
-| [fwencoder](https://github.com/o1egl/fwencoder) | 14 | 3 | 0 | Fixed width file parser (encoder/decoder) in GO (golang) | 2017-12-25 12:55:29 | 2020-09-10 10:26:54 |
-| [pletter](https://github.com/vimeda/pletter) | 14 | 1 | 3 | A standard way to wrap a proto message | 2019-07-09 14:02:08 | 2021-05-21 04:32:24 |
-| [bel](https://github.com/csweichel/bel) | 13 | 5 | 2 | Generate TypeScript interfaces from Go structs/interfaces - useful for JSON RPC | 2019-02-20 20:48:24 | 2021-08-04 07:31:18 |
-| [fixedwidth](https://github.com/huydang284/fixedwidth) | 5 | 0 | 0 | A Go package for encode/decode fixed-width data | 2019-08-11 03:42:24 | 2020-12-07 08:51:25 |
-| [go-lctree](https://github.com/sbourlon/go-lctree) | 2 | 0 | 0 | go-lctree provides a CLI and Go primitives to serialize and deserialize LeetCode binary trees (e.g. "[5,4,7,3,null,2,null,-1,null,9]"). | 2020-05-04 05:39:46 | 2020-12-24 05:48:12 |
-| [unitpacking](https://github.com/recolude/unitpacking) | 2 | 0 | 0 | A library for storing unit vectors in a representation that lends itself to saving space on disk. | 2021-01-17 22:31:41 | 2021-07-06 08:31:13 |
+| [go](http://jsoniter.com/migrate-from-go-std.html) | 12,653 | 1,056 | 246 | A high-performance 100% compatible drop-in replacement of "encoding/json" | 2016-11-30 00:30:24 | 2023-10-13 13:36:48 |
+| [protobuf](https://github.com/golang/protobuf) | 9,285 | 1,633 | 92 | Go support for Google's protocol buffers | 2014-11-23 23:07:23 | 2023-10-13 02:06:10 |
+| [mapstructure](https://github.com/mitchellh/mapstructure) | 7,176 | 663 | 76 | Go library for decoding generic map values into native Go structures and vice versa. | 2013-05-20 05:24:34 | 2023-10-13 08:40:20 |
+| [protobuf](https://github.com/gogo/protobuf) | 5,598 | 822 | 234 | [Deprecated] Protocol Buffers for Go with Gadgets | 2014-12-03 11:27:10 | 2023-10-12 09:52:31 |
+| [go](https://github.com/ugorji/go) | 1,772 | 355 | 10 | idiomatic codec and rpc lib for msgpack, cbor, json, etc. msgpack.org[Go] | 2013-05-30 02:13:13 | 2023-10-12 03:25:22 |
+| [csvutil](https://github.com/jszwec/csvutil) | 833 | 59 | 0 | csvutil provides fast and idiomatic mapping between CSV and Go (golang) values. | 2017-10-30 04:09:48 | 2023-10-04 22:00:21 |
+| [colfer](https://github.com/pascaldekloe/colfer) | 719 | 54 | 10 | binary serialization format | 2015-09-05 16:42:41 | 2023-10-11 07:44:51 |
+| [cbor](https://github.com/fxamacker/cbor) | 604 | 54 | 11 | CBOR codec (RFC 8949) with CBOR tags, Go struct tags (toarray, keyasint, omitempty), float64/32/16, big.Int, and fuzz tested billions of execs.  | 2019-05-15 21:22:15 | 2023-10-12 13:03:44 |
+| [go-capnproto](https://github.com/glycerine/go-capnproto) | 288 | 21 | 1 | Cap'n Proto library and parser for go. This is go-capnproto-1.0, and does not have rpc. See https://github.com/zombiezen/go-capnproto2 for 2.0 which has rpc and capabilities. | 2013-11-07 20:28:12 | 2023-09-08 16:43:17 |
+| [php_session_decoder](https://github.com/yvasiyarov/php_session_decoder) | 159 | 45 | 3 | PHP session encoder/decoder written in Go | 2012-12-23 14:04:25 | 2023-08-14 14:05:46 |
+| [structomap](https://godoc.org/github.com/danhper/structomap) | 140 | 11 | 0 | Easily and dynamically generate maps from Go static structures | 2015-05-13 08:54:11 | 2023-06-15 13:58:04 |
+| [binstruct](https://github.com/ghostiam/binstruct) | 77 | 19 | 0 | Golang binary decoder for mapping data into the structure | 2018-10-23 15:42:22 | 2023-10-08 17:36:29 |
+| [bambam](https://github.com/glycerine/bambam) | 67 | 12 | 3 | auto-generate capnproto schema from your golang source files. Depends on go-capnproto-1.0 at https://github.com/glycerine/go-capnproto | 2014-09-17 14:39:12 | 2023-09-08 16:50:41 |
+| [asn1](https://github.com/Logicalis/asn1) | 53 | 27 | 6 | Asn.1 BER and DER encoding library for golang. | 2016-02-29 13:00:25 | 2023-01-28 18:49:45 |
+| [bel](https://github.com/csweichel/bel) | 35 | 9 | 4 | Generate TypeScript interfaces from Go structs/interfaces - useful for JSON RPC | 2019-02-20 20:48:24 | 2023-06-16 22:34:38 |
+| [fwencoder](https://github.com/o1egl/fwencoder) | 26 | 10 | 1 | Fixed width file parser (encoder/decoder) in GO (golang) | 2017-12-25 12:55:29 | 2023-08-22 02:17:43 |
+| [elastic](https://github.com/epiclabs-io/elastic) | 23 | 4 | 1 | Converts go types no matter what | 2020-02-25 19:55:00 | 2023-09-29 08:28:04 |
+| [pletter](https://github.com/vimeda/pletter) | 19 | 3 | 9 | A standard way to wrap a proto message | 2019-07-09 14:02:08 | 2023-08-22 11:20:27 |
+| [fixedwidth](https://github.com/huydang284/fixedwidth) | 9 | 2 | 0 | A Go package for encode/decode fixed-width data | 2019-08-11 03:42:24 | 2023-10-01 22:40:50 |
+| [unitpacking](https://github.com/recolude/unitpacking) | 6 | 1 | 0 | A library for storing unit vectors in a representation that lends itself to saving space on disk. | 2021-01-17 22:31:41 | 2023-02-06 17:20:12 |
+| [go-lctree](https://github.com/sbourlon/go-lctree) | 4 | 2 | 0 | go-lctree provides a CLI and Go primitives to serialize and deserialize LeetCode binary trees (e.g. "[5,4,7,3,null,2,null,-1,null,9]"). | 2020-05-04 05:39:46 | 2022-09-27 09:21:38 |
 </details>
 
 ### Server Applications
