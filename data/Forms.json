@@ -1,7 +1,7 @@
 {
 	"name": "Forms",
 	"index_last_check": 0,
-	"last_update": 1630981516,
+	"last_update": 1698067731,
 	"libraries": [
 		{
 			"id": 12303687,
@@ -10,12 +10,26 @@
 			"html_url": "https://github.com/justinas/nosurf",
 			"homepage": "http://godoc.org/github.com/justinas/nosurf",
 			"created_at": "2013-08-22T17:47:34Z",
-			"updated_at": "2021-09-05T19:24:16Z",
+			"updated_at": "2023-10-23T09:03:24Z",
 			"svn_url": "https://github.com/justinas/nosurf",
-			"stargazers_count": 1208,
-			"watchers_count": 1208,
-			"forks_count": 98,
-			"open_issues_count": 9
+			"stargazers_count": 1448,
+			"watchers_count": 1448,
+			"forks_count": 142,
+			"open_issues_count": 13
+		},
+		{
+			"id": 40097643,
+			"name": "csrf",
+			"description": "Package gorilla/csrf provides Cross Site Request Forgery (CSRF) prevention middleware for Go web applications \u0026 services 🔒",
+			"html_url": "https://github.com/gorilla/csrf",
+			"homepage": "https://gorilla.github.io",
+			"created_at": "2015-08-03T00:35:16Z",
+			"updated_at": "2023-10-23T01:44:15Z",
+			"svn_url": "https://github.com/gorilla/csrf",
+			"stargazers_count": 932,
+			"watchers_count": 932,
+			"forks_count": 153,
+			"open_issues_count": 1
 		},
 		{
 			"id": 20001290,
@@ -24,26 +38,12 @@
 			"html_url": "https://github.com/mholt/binding",
 			"homepage": "http://mholt.github.io/binding",
 			"created_at": "2014-05-20T23:35:14Z",
-			"updated_at": "2021-08-27T10:44:32Z",
+			"updated_at": "2023-10-13T16:12:40Z",
 			"svn_url": "https://github.com/mholt/binding",
-			"stargazers_count": 783,
-			"watchers_count": 783,
-			"forks_count": 79,
+			"stargazers_count": 796,
+			"watchers_count": 796,
+			"forks_count": 84,
 			"open_issues_count": 8
-		},
-		{
-			"id": 40097643,
-			"name": "csrf",
-			"description": "gorilla/csrf provides Cross Site Request Forgery (CSRF) prevention middleware for Go web applications \u0026 services 🔒",
-			"html_url": "https://github.com/gorilla/csrf",
-			"homepage": "https://github.com/gorilla/csrf",
-			"created_at": "2015-08-03T00:35:16Z",
-			"updated_at": "2021-09-06T01:20:00Z",
-			"svn_url": "https://github.com/gorilla/csrf",
-			"stargazers_count": 691,
-			"watchers_count": 691,
-			"forks_count": 102,
-			"open_issues_count": 1
 		},
 		{
 			"id": 59752363,
@@ -52,12 +52,12 @@
 			"html_url": "https://github.com/go-playground/form",
 			"homepage": "",
 			"created_at": "2016-05-26T13:26:40Z",
-			"updated_at": "2021-08-27T18:50:44Z",
+			"updated_at": "2023-10-22T14:50:54Z",
 			"svn_url": "https://github.com/go-playground/form",
-			"stargazers_count": 493,
-			"watchers_count": 493,
-			"forks_count": 28,
-			"open_issues_count": 8
+			"stargazers_count": 637,
+			"watchers_count": 637,
+			"forks_count": 38,
+			"open_issues_count": 9
 		},
 		{
 			"id": 49083043,
@@ -66,12 +66,12 @@
 			"html_url": "https://github.com/leebenson/conform",
 			"homepage": "",
 			"created_at": "2016-01-05T18:00:06Z",
-			"updated_at": "2021-08-15T11:02:11Z",
+			"updated_at": "2023-10-19T03:22:22Z",
 			"svn_url": "https://github.com/leebenson/conform",
-			"stargazers_count": 229,
-			"watchers_count": 229,
-			"forks_count": 29,
-			"open_issues_count": 1
+			"stargazers_count": 312,
+			"watchers_count": 312,
+			"forks_count": 37,
+			"open_issues_count": 5
 		},
 		{
 			"id": 25714210,
@@ -80,11 +80,11 @@
 			"html_url": "https://github.com/monoculum/formam",
 			"homepage": "",
 			"created_at": "2014-10-25T00:23:30Z",
-			"updated_at": "2021-08-24T18:57:04Z",
+			"updated_at": "2023-10-18T14:05:13Z",
 			"svn_url": "https://github.com/monoculum/formam",
-			"stargazers_count": 164,
-			"watchers_count": 164,
-			"forks_count": 14,
+			"stargazers_count": 182,
+			"watchers_count": 182,
+			"forks_count": 17,
 			"open_issues_count": 2
 		},
 		{
@@ -94,11 +94,11 @@
 			"html_url": "https://github.com/albrow/forms",
 			"homepage": "",
 			"created_at": "2014-08-07T16:11:30Z",
-			"updated_at": "2021-07-01T09:59:08Z",
+			"updated_at": "2023-10-12T17:02:12Z",
 			"svn_url": "https://github.com/albrow/forms",
-			"stargazers_count": 122,
-			"watchers_count": 122,
-			"forks_count": 16,
+			"stargazers_count": 133,
+			"watchers_count": 133,
+			"forks_count": 24,
 			"open_issues_count": 2
 		},
 		{
@@ -108,11 +108,11 @@
 			"html_url": "https://github.com/sonh/qs",
 			"homepage": "",
 			"created_at": "2020-10-02T09:50:35Z",
-			"updated_at": "2021-09-02T15:56:05Z",
+			"updated_at": "2023-10-18T09:53:48Z",
 			"svn_url": "https://github.com/sonh/qs",
-			"stargazers_count": 58,
-			"watchers_count": 58,
-			"forks_count": 0,
+			"stargazers_count": 68,
+			"watchers_count": 68,
+			"forks_count": 4,
 			"open_issues_count": 0
 		},
 		{
@@ -122,11 +122,11 @@
 			"html_url": "https://github.com/robfig/bind",
 			"homepage": "",
 			"created_at": "2014-08-06T00:13:10Z",
-			"updated_at": "2021-08-01T23:12:30Z",
+			"updated_at": "2023-10-12T21:12:33Z",
 			"svn_url": "https://github.com/robfig/bind",
-			"stargazers_count": 26,
-			"watchers_count": 26,
-			"forks_count": 3,
+			"stargazers_count": 30,
+			"watchers_count": 30,
+			"forks_count": 6,
 			"open_issues_count": 0
 		},
 		{
@@ -136,10 +136,10 @@
 			"html_url": "https://github.com/TomWright/queryparam",
 			"homepage": "",
 			"created_at": "2018-06-14T10:23:05Z",
-			"updated_at": "2021-07-25T13:31:51Z",
+			"updated_at": "2023-10-18T09:53:58Z",
 			"svn_url": "https://github.com/TomWright/queryparam",
-			"stargazers_count": 10,
-			"watchers_count": 10,
+			"stargazers_count": 18,
+			"watchers_count": 18,
 			"forks_count": 5,
 			"open_issues_count": 0
 		}
