@@ -1,7 +1,7 @@
 {
 	"name": "Testing - Selenium and browser control tools",
 	"index_last_check": 0,
-	"last_update": 1696039787,
+	"last_update": 1698199935,
 	"libraries": [
 		{
 			"id": 79921099,
@@ -10,26 +10,12 @@
 			"html_url": "https://github.com/chromedp/chromedp",
 			"homepage": "",
 			"created_at": "2017-01-24T14:54:30Z",
-			"updated_at": "2021-11-25T03:28:48Z",
+			"updated_at": "2023-10-25T00:25:24Z",
 			"svn_url": "https://github.com/chromedp/chromedp",
-			"stargazers_count": 6978,
-			"watchers_count": 6978,
-			"forks_count": 577,
-			"open_issues_count": 44
-		},
-		{
-			"id": 66257173,
-			"name": "selenoid",
-			"description": "Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary.",
-			"html_url": "https://github.com/aerokube/selenoid",
-			"homepage": "https://aerokube.com/selenoid/latest/",
-			"created_at": "2016-08-22T09:11:16Z",
-			"updated_at": "2023-09-29T07:25:21Z",
-			"svn_url": "https://github.com/aerokube/selenoid",
-			"stargazers_count": 2417,
-			"watchers_count": 2417,
-			"forks_count": 320,
-			"open_issues_count": 263
+			"stargazers_count": 9671,
+			"watchers_count": 9671,
+			"forks_count": 750,
+			"open_issues_count": 46
 		},
 		{
 			"id": 235431922,
@@ -38,12 +24,40 @@
 			"html_url": "https://github.com/go-rod/rod",
 			"homepage": "https://go-rod.github.io",
 			"created_at": "2020-01-21T20:09:45Z",
-			"updated_at": "2021-11-24T08:14:08Z",
+			"updated_at": "2023-10-24T15:25:47Z",
 			"svn_url": "https://github.com/go-rod/rod",
-			"stargazers_count": 1937,
-			"watchers_count": 1937,
-			"forks_count": 130,
-			"open_issues_count": 75
+			"stargazers_count": 4264,
+			"watchers_count": 4264,
+			"forks_count": 291,
+			"open_issues_count": 101
+		},
+		{
+			"id": 66257173,
+			"name": "selenoid",
+			"description": "Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary.",
+			"html_url": "https://github.com/aerokube/selenoid",
+			"homepage": "https://aerokube.com/selenoid/latest/",
+			"created_at": "2016-08-22T09:11:16Z",
+			"updated_at": "2023-10-24T07:45:05Z",
+			"svn_url": "https://github.com/aerokube/selenoid",
+			"stargazers_count": 2424,
+			"watchers_count": 2424,
+			"forks_count": 318,
+			"open_issues_count": 263
+		},
+		{
+			"id": 287942241,
+			"name": "playwright-go",
+			"description": "Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.",
+			"html_url": "https://github.com/playwright-community/playwright-go",
+			"homepage": "https://playwright-community.github.io/playwright-go/",
+			"created_at": "2020-08-16T12:46:14Z",
+			"updated_at": "2023-10-23T22:26:35Z",
+			"svn_url": "https://github.com/playwright-community/playwright-go",
+			"stargazers_count": 1495,
+			"watchers_count": 1495,
+			"forks_count": 129,
+			"open_issues_count": 43
 		},
 		{
 			"id": 84717184,
@@ -52,25 +66,11 @@
 			"html_url": "https://github.com/mafredri/cdp",
 			"homepage": "",
 			"created_at": "2017-03-12T10:25:41Z",
-			"updated_at": "2021-11-22T19:11:49Z",
+			"updated_at": "2023-10-23T22:57:33Z",
 			"svn_url": "https://github.com/mafredri/cdp",
-			"stargazers_count": 581,
-			"watchers_count": 581,
-			"forks_count": 40,
-			"open_issues_count": 12
-		},
-		{
-			"id": 287942241,
-			"name": "playwright-go",
-			"description": "Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.",
-			"html_url": "https://github.com/mxschmitt/playwright-go",
-			"homepage": "https://mxschmitt.github.io/playwright-go/",
-			"created_at": "2020-08-16T12:46:14Z",
-			"updated_at": "2021-11-24T22:06:03Z",
-			"svn_url": "https://github.com/mxschmitt/playwright-go",
-			"stargazers_count": 563,
-			"watchers_count": 563,
-			"forks_count": 56,
+			"stargazers_count": 692,
+			"watchers_count": 692,
+			"forks_count": 46,
 			"open_issues_count": 13
 		},
 		{
@@ -80,12 +80,12 @@
 			"html_url": "https://github.com/aerokube/ggr",
 			"homepage": "https://aerokube.com/ggr/latest/",
 			"created_at": "2016-06-16T15:33:24Z",
-			"updated_at": "2021-11-22T19:39:19Z",
+			"updated_at": "2023-09-22T12:06:35Z",
 			"svn_url": "https://github.com/aerokube/ggr",
-			"stargazers_count": 275,
-			"watchers_count": 275,
-			"forks_count": 58,
-			"open_issues_count": 15
+			"stargazers_count": 301,
+			"watchers_count": 301,
+			"forks_count": 69,
+			"open_issues_count": 13
 		}
 	]
 }

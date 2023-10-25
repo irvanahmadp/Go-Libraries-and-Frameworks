@@ -1,7 +1,7 @@
 {
 	"name": "Geographic",
 	"index_last_check": 0,
-	"last_update": 1631327119,
+	"last_update": 1698199930,
 	"libraries": [
 		{
 			"id": 53171300,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/tidwall/tile38",
 			"homepage": "https://tile38.com",
 			"created_at": "2016-03-04T23:07:44Z",
-			"updated_at": "2021-09-11T01:06:57Z",
+			"updated_at": "2023-10-24T15:21:25Z",
 			"svn_url": "https://github.com/tidwall/tile38",
-			"stargazers_count": 7662,
-			"watchers_count": 7662,
-			"forks_count": 469,
-			"open_issues_count": 116
+			"stargazers_count": 8733,
+			"watchers_count": 8733,
+			"forks_count": 545,
+			"open_issues_count": 137
 		},
 		{
 			"id": 27512134,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/golang/geo",
 			"homepage": "",
 			"created_at": "2014-12-03T23:02:15Z",
-			"updated_at": "2021-09-04T18:07:39Z",
+			"updated_at": "2023-10-24T17:43:23Z",
 			"svn_url": "https://github.com/golang/geo",
-			"stargazers_count": 1269,
-			"watchers_count": 1269,
-			"forks_count": 143,
-			"open_issues_count": 10
+			"stargazers_count": 1577,
+			"watchers_count": 1577,
+			"forks_count": 225,
+			"open_issues_count": 22
 		},
 		{
 			"id": 26041451,
@@ -38,12 +38,12 @@
 			"html_url": "https://github.com/consbio/mbtileserver",
 			"homepage": "",
 			"created_at": "2014-11-01T04:12:14Z",
-			"updated_at": "2021-09-10T08:12:13Z",
+			"updated_at": "2023-10-24T13:31:31Z",
 			"svn_url": "https://github.com/consbio/mbtileserver",
-			"stargazers_count": 271,
-			"watchers_count": 271,
-			"forks_count": 50,
-			"open_issues_count": 12
+			"stargazers_count": 547,
+			"watchers_count": 547,
+			"forks_count": 89,
+			"open_issues_count": 14
 		},
 		{
 			"id": 50883366,
@@ -52,26 +52,26 @@
 			"html_url": "https://github.com/paulmach/osm",
 			"homepage": "",
 			"created_at": "2016-02-02T00:59:03Z",
-			"updated_at": "2021-09-07T08:48:12Z",
+			"updated_at": "2023-10-23T11:12:55Z",
 			"svn_url": "https://github.com/paulmach/osm",
-			"stargazers_count": 172,
-			"watchers_count": 172,
-			"forks_count": 28,
-			"open_issues_count": 2
+			"stargazers_count": 306,
+			"watchers_count": 306,
+			"forks_count": 42,
+			"open_issues_count": 3
 		},
 		{
 			"id": 190915256,
 			"name": "wgs84",
-			"description": "A pure Go package for coordinate transformations.",
+			"description": "A zero-dependency Go package for coordinate transformations.",
 			"html_url": "https://github.com/wroge/wgs84",
 			"homepage": "",
 			"created_at": "2019-06-08T17:17:59Z",
-			"updated_at": "2021-09-02T09:55:41Z",
+			"updated_at": "2023-10-19T16:43:41Z",
 			"svn_url": "https://github.com/wroge/wgs84",
-			"stargazers_count": 64,
-			"watchers_count": 64,
-			"forks_count": 4,
-			"open_issues_count": 0
+			"stargazers_count": 102,
+			"watchers_count": 102,
+			"forks_count": 11,
+			"open_issues_count": 3
 		},
 		{
 			"id": 126892982,
@@ -80,12 +80,12 @@
 			"html_url": "https://github.com/hishamkaram/geoserver",
 			"homepage": "",
 			"created_at": "2018-03-26T21:36:49Z",
-			"updated_at": "2021-09-01T14:16:41Z",
+			"updated_at": "2023-08-15T19:42:24Z",
 			"svn_url": "https://github.com/hishamkaram/geoserver",
-			"stargazers_count": 59,
-			"watchers_count": 59,
-			"forks_count": 13,
-			"open_issues_count": 2
+			"stargazers_count": 84,
+			"watchers_count": 84,
+			"forks_count": 22,
+			"open_issues_count": 4
 		},
 		{
 			"id": 150863977,
@@ -94,12 +94,12 @@
 			"html_url": "https://github.com/hishamkaram/gismanager",
 			"homepage": "",
 			"created_at": "2018-09-29T12:51:37Z",
-			"updated_at": "2021-03-02T15:54:38Z",
+			"updated_at": "2023-04-14T15:44:10Z",
 			"svn_url": "https://github.com/hishamkaram/gismanager",
-			"stargazers_count": 38,
-			"watchers_count": 38,
-			"forks_count": 6,
-			"open_issues_count": 0
+			"stargazers_count": 50,
+			"watchers_count": 50,
+			"forks_count": 10,
+			"open_issues_count": 1
 		},
 		{
 			"id": 104001262,
@@ -108,12 +108,12 @@
 			"html_url": "https://github.com/maguro/pbf",
 			"homepage": "",
 			"created_at": "2017-09-18T23:13:18Z",
-			"updated_at": "2021-09-04T12:33:25Z",
+			"updated_at": "2023-07-11T01:28:45Z",
 			"svn_url": "https://github.com/maguro/pbf",
-			"stargazers_count": 26,
-			"watchers_count": 26,
-			"forks_count": 3,
-			"open_issues_count": 1
+			"stargazers_count": 45,
+			"watchers_count": 45,
+			"forks_count": 7,
+			"open_issues_count": 3
 		},
 		{
 			"id": 250496401,
@@ -122,12 +122,12 @@
 			"html_url": "https://github.com/pantrif/s2-geojson",
 			"homepage": "",
 			"created_at": "2020-03-27T09:47:32Z",
-			"updated_at": "2021-08-23T13:10:07Z",
+			"updated_at": "2023-08-01T17:36:42Z",
 			"svn_url": "https://github.com/pantrif/s2-geojson",
-			"stargazers_count": 13,
-			"watchers_count": 13,
-			"forks_count": 3,
-			"open_issues_count": 1
+			"stargazers_count": 25,
+			"watchers_count": 25,
+			"forks_count": 9,
+			"open_issues_count": 2
 		}
 	]
 }

@@ -626,63 +626,63 @@ libraries for building and using SQL
 ### Database Drivers - NoSQL Databases
 
 
-<sup>*Last Update: 2021-09-11 09:25:02*</sup>
+<sup>*Last Update: 2023-10-25 09:11:51*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [redis](https://redis.uptrace.dev/) | 12,386 | 1,585 | 116 | Type-safe Redis client for Golang | 2012-07-25 13:01:39 | 2021-09-11 01:58:54 |
-| [redigo](https://github.com/gomodule/redigo) | 8,640 | 1,195 | 21 | Go client for Redis | 2012-04-14 04:31:58 | 2021-09-10 16:18:51 |
-| [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) | 6,062 | 693 | 12 | The Go driver for MongoDB | 2017-02-08 17:18:02 | 2021-09-10 20:50:42 |
-| [gocql](http://gocql.github.io/) | 2,152 | 523 | 160 | Package gocql implements a fast and robust Cassandra client for the Go programming language. | 2012-08-26 15:42:42 | 2021-09-10 21:12:40 |
-| [mgo](https://github.com/globalsign/mgo) | 1,908 | 233 | 64 | The MongoDB driver for Go | 2017-04-13 11:14:04 | 2021-09-07 07:14:57 |
-| [rethinkdb-go](https://github.com/rethinkdb/rethinkdb-go) | 1,572 | 177 | 19 | Go language driver for RethinkDB | 2013-09-12 13:56:27 | 2021-08-31 20:34:46 |
-| [gomemcache](https://github.com/bradfitz/gomemcache) | 1,387 | 384 | 49 | Go Memcached client library #golang | 2011-06-28 19:29:12 | 2021-09-10 12:52:43 |
-| [qmgo](https://github.com/qiniu/qmgo) | 664 | 79 | 23 | Qmgo - The Go driver for MongoDB. It‘s based on official mongo-go-driver but easier to use like Mgo. | 2020-08-04 09:06:00 | 2021-09-10 05:11:02 |
-| [redeo](https://github.com/bsm/redeo) | 397 | 28 | 3 | High-performance framework for building redis-protocol compatible TCP servers/services | 2014-03-06 08:46:18 | 2021-08-25 03:38:14 |
-| [neoism](https://github.com/jmcvetta/neoism) | 378 | 57 | 16 | Neo4j client for Golang | 2012-07-12 07:42:33 | 2021-09-10 10:01:00 |
-| [aerospike-client-go](https://github.com/aerospike/aerospike-client-go) | 370 | 167 | 15 | Aerospike Client Go  | 2014-07-26 02:56:21 | 2021-09-10 13:33:13 |
-| [mgm](https://github.com/Kamva/mgm) | 361 | 32 | 2 | Mongo Go Models (mgm) is a fast and simple MongoDB ODM for Go (based on official Mongo Go Driver) | 2019-12-27 14:40:51 | 2021-09-09 19:45:58 |
-| [gocb](http://blog.couchbase.com/2015/september/go-sdk-1.0-ga) | 328 | 92 | 0 | The Couchbase Go SDK | 2015-01-15 20:01:32 | 2021-09-02 12:56:46 |
-| [go-couchbase](https://godoc.org/github.com/couchbase/go-couchbase) | 313 | 88 | 41 | Couchbase client in Go | 2012-01-19 22:52:08 | 2021-09-10 11:26:56 |
-| [go-rejson](https://github.com/nitishm/go-rejson) | 177 | 29 | 7 | Golang client for redislabs' ReJSON module with support for multilple redis clients (redigo, go-redis) | 2018-04-23 00:51:05 | 2021-09-10 13:48:52 |
-| [godis](https://github.com/piaohao/godis) | 96 | 16 | 0 | redis client implement by golang, inspired by jedis. | 2019-06-14 03:14:22 | 2021-08-20 12:35:27 |
-| [Neo4j-GO](https://github.com/davemeehan/Neo4j-GO) | 76 | 15 | 0 | Neo4j REST Client in golang | 2011-06-04 16:08:35 | 2020-08-28 21:16:55 |
-| [arangolite](https://github.com/solher/arangolite) | 69 | 18 | 5 | Lightweight Golang driver for ArangoDB | 2015-10-04 17:27:34 | 2021-03-10 17:27:16 |
-| [go-pilosa](https://www.pilosa.com/) | 46 | 20 | 13 | Go client library for Pilosa | 2016-09-30 21:37:10 | 2021-06-13 07:36:01 |
-| [goforestdb](https://github.com/couchbase/goforestdb) | 30 | 4 | 7 | Go bindings for ForestDB | 2014-05-14 15:36:12 | 2021-02-25 12:12:32 |
-| [neo4j](https://github.com/cihangir/neo4j) | 26 | 7 | 8 | Neo4j Rest API Client for Go lang | 2013-05-18 08:54:01 | 2020-08-28 21:16:50 |
-| [goriak](https://godoc.org/gopkg.in/zegl/goriak.v3) | 25 | 5 | 5 | goriak - Go language driver for Riak KV | 2016-10-05 16:48:17 | 2021-07-19 21:24:49 |
-| [xredis](https://github.com/shomali11/xredis) | 15 | 2 | 0 | Go Redis Client | 2017-06-14 00:19:26 | 2021-06-02 07:51:37 |
-| [godscache](https://github.com/defcronyke/godscache) | 9 | 1 | 0 | An unofficial Google Cloud Platform Go Datastore wrapper that adds caching using memcached. For App Engine Flexible, Compute Engine, Kubernetes Engine, and more. | 2018-05-08 20:19:39 | 2021-07-06 18:09:14 |
-| [asc](https://github.com/viant/asc) | 6 | 1 | 0 | Datastore Connectivity for Aerospike for go | 2016-06-13 20:22:31 | 2020-08-28 21:15:29 |
-| [gocosmos](http://blog.couchbase.com/2015/september/go-sdk-1.0-ga) | 4 | 1 | 0 | Go driver for Azure CosmosDB SQL API | 2020-12-06 07:03:43 | 2021-07-20 08:21:50 |
+| [go-redis](https://redis.uptrace.dev) | 18,173 | 2,190 | 258 | Redis Go client | 2012-07-25 13:01:39 | 2023-10-25 01:46:30 |
+| [redigo](https://github.com/gomodule/redigo) | 9,623 | 1,309 | 17 | Go client for Redis | 2012-04-14 04:31:58 | 2023-10-24 08:01:09 |
+| [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) | 7,680 | 920 | 15 | The Official Golang driver for MongoDB | 2017-02-08 17:18:02 | 2023-10-24 07:36:59 |
+| [gocql](http://gocql.github.io/) | 2,465 | 628 | 174 | Package gocql implements a fast and robust Cassandra client for the Go programming language. | 2012-08-26 15:42:42 | 2023-10-24 14:50:05 |
+| [mgo](https://github.com/globalsign/mgo) | 1,960 | 239 | 68 | The MongoDB driver for Go | 2017-04-13 11:14:04 | 2023-09-30 19:22:35 |
+| [gomemcache](https://github.com/bradfitz/gomemcache) | 1,645 | 475 | 45 | Go Memcached client library #golang | 2011-06-28 19:29:12 | 2023-10-17 04:32:27 |
+| [rethinkdb-go](https://github.com/rethinkdb/rethinkdb-go) | 1,639 | 220 | 20 | Go language driver for RethinkDB | 2013-09-12 13:56:27 | 2023-10-14 12:00:34 |
+| [qmgo](https://github.com/qiniu/qmgo) | 1,197 | 143 | 38 | Qmgo - The Go driver for MongoDB. It‘s based on official mongo-go-driver but easier to use like Mgo. | 2020-08-04 09:06:00 | 2023-10-20 09:02:28 |
+| [mgm](https://github.com/Kamva/mgm) | 688 | 64 | 10 | Mongo Go Models (mgm) is a fast and simple MongoDB ODM for Go (based on official Mongo Go Driver) | 2019-12-27 14:40:51 | 2023-10-24 22:48:42 |
+| [redeo](https://github.com/bsm/redeo) | 431 | 38 | 2 | High-performance framework for building redis-protocol compatible TCP servers/services | 2014-03-06 08:46:18 | 2023-10-23 11:06:24 |
+| [aerospike-client-go](https://github.com/aerospike/aerospike-client-go) | 414 | 224 | 33 | Aerospike Client Go  | 2014-07-26 02:56:21 | 2023-10-18 21:47:12 |
+| [neoism](https://github.com/jmcvetta/neoism) | 389 | 57 | 14 | Neo4j client for Golang | 2012-07-12 07:42:33 | 2023-06-24 09:03:09 |
+| [gocb](http://blog.couchbase.com/2015/september/go-sdk-1.0-ga) | 350 | 103 | 1 | The Couchbase Go SDK | 2015-01-15 20:01:32 | 2023-10-10 20:06:40 |
+| [go-rejson](https://github.com/nitishm/go-rejson) | 332 | 49 | 15 | Golang client for redislabs' ReJSON module with support for multilple redis clients (redigo, go-redis) | 2018-04-23 00:51:05 | 2023-10-19 17:06:38 |
+| [go-couchbase](https://godoc.org/github.com/couchbase/go-couchbase) | 319 | 92 | 41 | Couchbase client in Go | 2012-01-19 22:52:08 | 2023-09-22 10:35:34 |
+| [godis](https://github.com/piaohao/godis) | 109 | 17 | 0 | redis client implement by golang, inspired by jedis. | 2019-06-14 03:14:22 | 2023-08-28 08:58:28 |
+| [Neo4j-GO](https://github.com/davemeehan/Neo4j-GO) | 76 | 19 | 0 | Neo4j REST Client in golang | 2011-06-04 16:08:35 | 2023-07-27 20:01:33 |
+| [arangolite](https://github.com/solher/arangolite) | 73 | 19 | 5 | Lightweight Golang driver for ArangoDB | 2015-10-04 17:27:34 | 2022-09-26 09:46:39 |
+| [go-pilosa](https://www.pilosa.com/) | 58 | 23 | 13 | Go client library for Pilosa | 2016-09-30 21:37:10 | 2023-04-24 14:20:57 |
+| [goforestdb](https://github.com/couchbase/goforestdb) | 34 | 6 | 7 | Go bindings for ForestDB | 2014-05-14 15:36:12 | 2023-09-24 06:32:29 |
+| [goriak](https://godoc.org/gopkg.in/zegl/goriak.v3) | 30 | 6 | 5 | goriak - Go language driver for Riak KV | 2016-10-05 16:48:17 | 2023-04-04 10:04:44 |
+| [neo4j](https://github.com/cihangir/neo4j) | 27 | 9 | 8 | Neo4j Rest API Client for Go lang | 2013-05-18 08:54:01 | 2022-11-09 17:49:55 |
+| [xredis](https://github.com/shomali11/xredis) | 19 | 6 | 0 | Go Redis Client | 2017-06-14 00:19:26 | 2022-09-26 09:47:39 |
+| [gocosmos](https://github.com/btnguyen2k/gocosmos) | 18 | 7 | 1 | Go database/sql driver for Azure Cosmos DB SQL API | 2020-12-06 07:03:43 | 2023-08-11 06:38:44 |
+| [godscache](https://github.com/defcronyke/godscache) | 11 | 2 | 0 | An unofficial Google Cloud Platform Go Datastore wrapper that adds caching using memcached. For App Engine Flexible, Compute Engine, Kubernetes Engine, and more. | 2018-05-08 20:19:39 | 2022-09-26 09:47:05 |
+| [asc](https://github.com/viant/asc) | 9 | 3 | 0 | Datastore Connectivity for Aerospike for go | 2016-06-13 20:22:31 | 2022-09-26 09:46:41 |
 </details>
 
 ### Database Drivers - Relational Databases
 
 
-<sup>*Last Update: 2021-09-08 15:02:42*</sup>
+<sup>*Last Update: 2023-10-25 09:11:32*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [mysql](https://pkg.go.dev/github.com/go-sql-driver/mysql) | 11,446 | 1,989 | 90 | Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package | 2012-12-09 20:33:55 | 2021-09-08 03:44:20 |
-| [pq](https://pkg.go.dev/github.com/lib/pq) | 6,755 | 820 | 283 | Pure Go Postgres driver for database/sql | 2012-03-12 18:50:22 | 2021-09-07 16:38:22 |
-| [go-sqlite3](http://mattn.github.io/go-sqlite3) | 5,066 | 865 | 105 | sqlite3 driver for go using database/sql | 2011-11-11 12:36:50 | 2021-09-07 14:26:08 |
-| [pgx](https://github.com/jackc/pgx) | 4,468 | 442 | 176 | PostgreSQL driver and toolkit for Go | 2013-03-30 19:06:26 | 2021-09-08 04:48:04 |
-| [go-mssqldb](https://github.com/denisenkom/go-mssqldb) | 1,431 | 372 | 135 | Microsoft SQL server driver written in go language | 2013-12-16 00:10:47 | 2021-09-06 07:01:21 |
-| [go-oci8](https://mattn.kaoriya.net/) | 557 | 202 | 6 | Oracle driver for Go using database/sql | 2012-02-29 12:19:16 | 2021-09-03 02:19:06 |
-| [godror](https://github.com/godror/godror) | 289 | 51 | 8 | GO DRiver for ORacle DB | 2019-11-21 21:23:17 | 2021-09-03 10:21:03 |
-| [firebirdsql](https://github.com/nakagami/firebirdsql) | 151 | 45 | 12 | Firebird RDBMS sql driver for Go (golang) | 2013-08-27 13:09:14 | 2021-08-15 00:09:19 |
-| [go-adodb](http://mattn.kaoriya.net/) | 121 | 30 | 17 | Microsoft ActiveX Object DataBase driver for go that using exp/sql | 2011-11-14 04:32:50 | 2021-09-01 08:42:32 |
-| [gofreetds](https://github.com/minus5/gofreetds) | 106 | 43 | 18 | Go Sql Server database driver. | 2012-12-06 17:29:26 | 2021-08-10 18:15:24 |
-| [calcite-avatica-go](https://github.com/apache/calcite-avatica-go) | 77 | 19 | 1 | Mirror of Apache Calcite - Avatica Go SQL Driver | 2017-08-08 07:00:08 | 2021-08-13 14:02:25 |
-| [sqinn-go](https://github.com/cvilsmeier/sqinn-go) | 74 | 7 | 1 | SQLite with pure Go | 2020-06-06 20:37:12 | 2021-08-30 16:46:17 |
-| [bgc](https://github.com/viant/bgc) | 15 | 4 | 0 | Datastore Connectivity for BigQuery in go | 2016-06-13 20:24:26 | 2020-09-06 06:58:35 |
-| [pig](https://github.com/alexeyco/pig) | 4 | 0 | 0 | Simple pgx wrapper to execute and scan query results | 2021-04-15 15:33:23 | 2021-07-04 12:55:47 |
+| [mysql](https://pkg.go.dev/github.com/go-sql-driver/mysql) | 13,752 | 2,360 | 71 | Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package | 2012-12-09 20:33:55 | 2023-10-24 22:15:20 |
+| [pq](https://pkg.go.dev/github.com/lib/pq) | 8,374 | 942 | 302 | Pure Go Postgres driver for database/sql | 2012-03-12 18:50:22 | 2023-10-24 20:16:07 |
+| [pgx](https://github.com/jackc/pgx) | 8,362 | 772 | 128 | PostgreSQL driver and toolkit for Go | 2013-03-30 19:06:26 | 2023-10-25 01:28:18 |
+| [go-sqlite3](http://mattn.github.io/go-sqlite3) | 6,963 | 1,094 | 138 | sqlite3 driver for go using database/sql | 2011-11-11 12:36:50 | 2023-10-24 14:02:56 |
+| [go-mssqldb](https://github.com/denisenkom/go-mssqldb) | 1,765 | 493 | 166 | Microsoft SQL server driver written in go language | 2013-12-16 00:10:47 | 2023-10-23 09:24:42 |
+| [go-oci8](https://mattn.kaoriya.net/) | 612 | 215 | 19 | Oracle driver for Go using database/sql | 2012-02-29 12:19:16 | 2023-10-23 03:50:35 |
+| [godror](https://github.com/godror/godror) | 466 | 97 | 5 | GO DRiver for ORacle DB | 2019-11-21 21:23:17 | 2023-10-20 07:55:43 |
+| [sqinn-go](https://github.com/cvilsmeier/sqinn-go) | 331 | 14 | 0 | Golang SQLite without cgo | 2020-06-06 20:37:12 | 2023-10-24 11:44:49 |
+| [firebirdsql](https://github.com/nakagami/firebirdsql) | 204 | 56 | 12 | Firebird RDBMS sql driver for Go (golang) | 2013-08-27 13:09:14 | 2023-10-03 19:26:03 |
+| [go-adodb](http://mattn.kaoriya.net/) | 133 | 36 | 19 | Microsoft ActiveX Object DataBase driver for go that using exp/sql | 2011-11-14 04:32:50 | 2023-07-17 08:49:24 |
+| [gofreetds](https://github.com/minus5/gofreetds) | 109 | 48 | 18 | Go Sql Server database driver. | 2012-12-06 17:29:26 | 2023-05-24 11:51:09 |
+| [calcite-avatica-go](https://github.com/apache/calcite-avatica-go) | 109 | 34 | 0 | Mirror of Apache Calcite - Avatica Go SQL Driver | 2017-08-08 07:00:08 | 2023-07-25 14:10:44 |
+| [bgc](https://github.com/viant/bgc) | 20 | 8 | 0 | Datastore Connectivity for BigQuery in go | 2016-06-13 20:24:26 | 2023-04-23 05:10:45 |
+| [pig](https://github.com/alexeyco/pig) | 15 | 3 | 0 | Simple pgx wrapper to execute and scan query results | 2021-04-15 15:33:23 | 2023-10-12 23:00:33 |
 </details>
 
 ### Database Drivers - Search and Analytic Databases
@@ -1077,21 +1077,21 @@ Tools to enhance the language with features like generics via code generation.
 ### Geographic
 Geographic tools and servers
 
-<sup>*Last Update: 2021-09-11 09:25:19*</sup>
+<sup>*Last Update: 2023-10-25 09:12:10*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [tile38](https://tile38.com) | 7,662 | 469 | 116 | Real-time Geospatial and Geofencing | 2016-03-04 23:07:44 | 2021-09-11 01:06:57 |
-| [geo](https://github.com/golang/geo) | 1,269 | 143 | 10 | S2 geometry library in Go | 2014-12-03 23:02:15 | 2021-09-04 18:07:39 |
-| [mbtileserver](https://github.com/consbio/mbtileserver) | 271 | 50 | 12 | Basic Go server for mbtiles | 2014-11-01 04:12:14 | 2021-09-10 08:12:13 |
-| [osm](https://github.com/paulmach/osm) | 172 | 28 | 2 | General purpose library for reading, writing and working with OpenStreetMap data | 2016-02-02 00:59:03 | 2021-09-07 08:48:12 |
-| [wgs84](https://github.com/wroge/wgs84) | 64 | 4 | 0 | A pure Go package for coordinate transformations. | 2019-06-08 17:17:59 | 2021-09-02 09:55:41 |
-| [geoserver](https://github.com/hishamkaram/geoserver) | 59 | 13 | 2 | geoserver is a Go library for manipulating a GeoServer instance via the GeoServer REST API. | 2018-03-26 21:36:49 | 2021-09-01 14:16:41 |
-| [gismanager](https://github.com/hishamkaram/gismanager) | 38 | 6 | 0 | Publish Your GIS Data(Vector Data) to PostGIS and Geoserver | 2018-09-29 12:51:37 | 2021-03-02 15:54:38 |
-| [pbf](https://github.com/maguro/pbf) | 26 | 3 | 1 | OpenStreetMap PBF golang parser | 2017-09-18 23:13:18 | 2021-09-04 12:33:25 |
-| [s2-geojson](https://github.com/pantrif/s2-geojson) | 13 | 3 | 1 | Draw a polygon on the map or paste a geoJSON and explore how the s2.RegionCoverer covers it with S2 cells depending on the min and max levels | 2020-03-27 09:47:32 | 2021-08-23 13:10:07 |
+| [tile38](https://tile38.com) | 8,733 | 545 | 137 | Real-time Geospatial and Geofencing | 2016-03-04 23:07:44 | 2023-10-24 15:21:25 |
+| [geo](https://github.com/golang/geo) | 1,577 | 225 | 22 | S2 geometry library in Go | 2014-12-03 23:02:15 | 2023-10-24 17:43:23 |
+| [mbtileserver](https://github.com/consbio/mbtileserver) | 547 | 89 | 14 | Basic Go server for mbtiles | 2014-11-01 04:12:14 | 2023-10-24 13:31:31 |
+| [osm](https://github.com/paulmach/osm) | 306 | 42 | 3 | General purpose library for reading, writing and working with OpenStreetMap data | 2016-02-02 00:59:03 | 2023-10-23 11:12:55 |
+| [wgs84](https://github.com/wroge/wgs84) | 102 | 11 | 3 | A zero-dependency Go package for coordinate transformations. | 2019-06-08 17:17:59 | 2023-10-19 16:43:41 |
+| [geoserver](https://github.com/hishamkaram/geoserver) | 84 | 22 | 4 | geoserver is a Go library for manipulating a GeoServer instance via the GeoServer REST API. | 2018-03-26 21:36:49 | 2023-08-15 19:42:24 |
+| [gismanager](https://github.com/hishamkaram/gismanager) | 50 | 10 | 1 | Publish Your GIS Data(Vector Data) to PostGIS and Geoserver | 2018-09-29 12:51:37 | 2023-04-14 15:44:10 |
+| [pbf](https://github.com/maguro/pbf) | 45 | 7 | 3 | OpenStreetMap PBF golang parser | 2017-09-18 23:13:18 | 2023-07-11 01:28:45 |
+| [s2-geojson](https://github.com/pantrif/s2-geojson) | 25 | 9 | 2 | Draw a polygon on the map or paste a geoJSON and explore how the s2.RegionCoverer covers it with S2 cells depending on the min and max levels | 2020-03-27 09:47:32 | 2023-08-01 17:36:42 |
 </details>
 
 ### Go Compilers
@@ -2150,18 +2150,18 @@ Libraries and tools for templating and lexing.
 ### Testing - Selenium and browser control tools
 
 
-<sup>*Last Update: 2023-09-30 09:09:47*</sup>
+<sup>*Last Update: 2023-10-25 09:12:15*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [chromedp](https://github.com/chromedp/chromedp) | 6,978 | 577 | 44 | A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol. | 2017-01-24 14:54:30 | 2021-11-25 03:28:48 |
-| [selenoid](https://aerokube.com/selenoid/latest/) | 2,417 | 320 | 263 | Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary. | 2016-08-22 09:11:16 | 2023-09-29 07:25:21 |
-| [rod](https://go-rod.github.io) | 1,937 | 130 | 75 | A Devtools driver for web automation and scraping | 2020-01-21 20:09:45 | 2021-11-24 08:14:08 |
-| [cdp](https://github.com/mafredri/cdp) | 581 | 40 | 12 | Package cdp provides type-safe bindings for the Chrome DevTools Protocol (CDP), written in the Go programming language. | 2017-03-12 10:25:41 | 2021-11-22 19:11:49 |
-| [playwright-go](https://mxschmitt.github.io/playwright-go/) | 563 | 56 | 13 | Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API. | 2020-08-16 12:46:14 | 2021-11-24 22:06:03 |
-| [ggr](https://aerokube.com/ggr/latest/) | 275 | 58 | 15 | A lightweight load balancer used to create big Selenium clusters | 2016-06-16 15:33:24 | 2021-11-22 19:39:19 |
+| [chromedp](https://github.com/chromedp/chromedp) | 9,671 | 750 | 46 | A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol. | 2017-01-24 14:54:30 | 2023-10-25 00:25:24 |
+| [rod](https://go-rod.github.io) | 4,264 | 291 | 101 | A Devtools driver for web automation and scraping | 2020-01-21 20:09:45 | 2023-10-24 15:25:47 |
+| [selenoid](https://aerokube.com/selenoid/latest/) | 2,424 | 318 | 263 | Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary. | 2016-08-22 09:11:16 | 2023-10-24 07:45:05 |
+| [playwright-go](https://playwright-community.github.io/playwright-go/) | 1,495 | 129 | 43 | Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API. | 2020-08-16 12:46:14 | 2023-10-23 22:26:35 |
+| [cdp](https://github.com/mafredri/cdp) | 692 | 46 | 13 | Package cdp provides type-safe bindings for the Chrome DevTools Protocol (CDP), written in the Go programming language. | 2017-03-12 10:25:41 | 2023-10-23 22:57:33 |
+| [ggr](https://aerokube.com/ggr/latest/) | 301 | 69 | 13 | A lightweight load balancer used to create big Selenium clusters | 2016-06-16 15:33:24 | 2023-09-22 12:06:35 |
 </details>
 
 ### Testing - Testing Frameworks

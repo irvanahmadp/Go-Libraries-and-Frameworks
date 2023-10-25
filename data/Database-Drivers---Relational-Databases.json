@@ -1,7 +1,7 @@
 {
 	"name": "Database Drivers - Relational Databases",
 	"index_last_check": 0,
-	"last_update": 1631088162,
+	"last_update": 1698199892,
 	"libraries": [
 		{
 			"id": 7083242,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/go-sql-driver/mysql",
 			"homepage": "https://pkg.go.dev/github.com/go-sql-driver/mysql",
 			"created_at": "2012-12-09T20:33:55Z",
-			"updated_at": "2021-09-08T03:44:20Z",
+			"updated_at": "2023-10-24T22:15:20Z",
 			"svn_url": "https://github.com/go-sql-driver/mysql",
-			"stargazers_count": 11446,
-			"watchers_count": 11446,
-			"forks_count": 1989,
-			"open_issues_count": 90
+			"stargazers_count": 13752,
+			"watchers_count": 13752,
+			"forks_count": 2360,
+			"open_issues_count": 71
 		},
 		{
 			"id": 3698588,
@@ -24,26 +24,12 @@
 			"html_url": "https://github.com/lib/pq",
 			"homepage": "https://pkg.go.dev/github.com/lib/pq",
 			"created_at": "2012-03-12T18:50:22Z",
-			"updated_at": "2021-09-07T16:38:22Z",
+			"updated_at": "2023-10-24T20:16:07Z",
 			"svn_url": "https://github.com/lib/pq",
-			"stargazers_count": 6755,
-			"watchers_count": 6755,
-			"forks_count": 820,
-			"open_issues_count": 283
-		},
-		{
-			"id": 2755696,
-			"name": "go-sqlite3",
-			"description": "sqlite3 driver for go using database/sql",
-			"html_url": "https://github.com/mattn/go-sqlite3",
-			"homepage": "http://mattn.github.io/go-sqlite3",
-			"created_at": "2011-11-11T12:36:50Z",
-			"updated_at": "2021-09-07T14:26:08Z",
-			"svn_url": "https://github.com/mattn/go-sqlite3",
-			"stargazers_count": 5066,
-			"watchers_count": 5066,
-			"forks_count": 865,
-			"open_issues_count": 105
+			"stargazers_count": 8374,
+			"watchers_count": 8374,
+			"forks_count": 942,
+			"open_issues_count": 302
 		},
 		{
 			"id": 9120526,
@@ -52,12 +38,26 @@
 			"html_url": "https://github.com/jackc/pgx",
 			"homepage": "",
 			"created_at": "2013-03-30T19:06:26Z",
-			"updated_at": "2021-09-08T04:48:04Z",
+			"updated_at": "2023-10-25T01:28:18Z",
 			"svn_url": "https://github.com/jackc/pgx",
-			"stargazers_count": 4468,
-			"watchers_count": 4468,
-			"forks_count": 442,
-			"open_issues_count": 176
+			"stargazers_count": 8362,
+			"watchers_count": 8362,
+			"forks_count": 772,
+			"open_issues_count": 128
+		},
+		{
+			"id": 2755696,
+			"name": "go-sqlite3",
+			"description": "sqlite3 driver for go using database/sql",
+			"html_url": "https://github.com/mattn/go-sqlite3",
+			"homepage": "http://mattn.github.io/go-sqlite3",
+			"created_at": "2011-11-11T12:36:50Z",
+			"updated_at": "2023-10-24T14:02:56Z",
+			"svn_url": "https://github.com/mattn/go-sqlite3",
+			"stargazers_count": 6963,
+			"watchers_count": 6963,
+			"forks_count": 1094,
+			"open_issues_count": 138
 		},
 		{
 			"id": 15213446,
@@ -66,12 +66,12 @@
 			"html_url": "https://github.com/denisenkom/go-mssqldb",
 			"homepage": "",
 			"created_at": "2013-12-16T00:10:47Z",
-			"updated_at": "2021-09-06T07:01:21Z",
+			"updated_at": "2023-10-23T09:24:42Z",
 			"svn_url": "https://github.com/denisenkom/go-mssqldb",
-			"stargazers_count": 1431,
-			"watchers_count": 1431,
-			"forks_count": 372,
-			"open_issues_count": 135
+			"stargazers_count": 1765,
+			"watchers_count": 1765,
+			"forks_count": 493,
+			"open_issues_count": 166
 		},
 		{
 			"id": 3581394,
@@ -80,12 +80,12 @@
 			"html_url": "https://github.com/mattn/go-oci8",
 			"homepage": "https://mattn.kaoriya.net/",
 			"created_at": "2012-02-29T12:19:16Z",
-			"updated_at": "2021-09-03T02:19:06Z",
+			"updated_at": "2023-10-23T03:50:35Z",
 			"svn_url": "https://github.com/mattn/go-oci8",
-			"stargazers_count": 557,
-			"watchers_count": 557,
-			"forks_count": 202,
-			"open_issues_count": 6
+			"stargazers_count": 612,
+			"watchers_count": 612,
+			"forks_count": 215,
+			"open_issues_count": 19
 		},
 		{
 			"id": 223268020,
@@ -94,12 +94,26 @@
 			"html_url": "https://github.com/godror/godror",
 			"homepage": "",
 			"created_at": "2019-11-21T21:23:17Z",
-			"updated_at": "2021-09-03T10:21:03Z",
+			"updated_at": "2023-10-20T07:55:43Z",
 			"svn_url": "https://github.com/godror/godror",
-			"stargazers_count": 289,
-			"watchers_count": 289,
-			"forks_count": 51,
-			"open_issues_count": 8
+			"stargazers_count": 466,
+			"watchers_count": 466,
+			"forks_count": 97,
+			"open_issues_count": 5
+		},
+		{
+			"id": 270098255,
+			"name": "sqinn-go",
+			"description": "Golang SQLite without cgo",
+			"html_url": "https://github.com/cvilsmeier/sqinn-go",
+			"homepage": "",
+			"created_at": "2020-06-06T20:37:12Z",
+			"updated_at": "2023-10-24T11:44:49Z",
+			"svn_url": "https://github.com/cvilsmeier/sqinn-go",
+			"stargazers_count": 331,
+			"watchers_count": 331,
+			"forks_count": 14,
+			"open_issues_count": 0
 		},
 		{
 			"id": 12406292,
@@ -108,11 +122,11 @@
 			"html_url": "https://github.com/nakagami/firebirdsql",
 			"homepage": "",
 			"created_at": "2013-08-27T13:09:14Z",
-			"updated_at": "2021-08-15T00:09:19Z",
+			"updated_at": "2023-10-03T19:26:03Z",
 			"svn_url": "https://github.com/nakagami/firebirdsql",
-			"stargazers_count": 151,
-			"watchers_count": 151,
-			"forks_count": 45,
+			"stargazers_count": 204,
+			"watchers_count": 204,
+			"forks_count": 56,
 			"open_issues_count": 12
 		},
 		{
@@ -122,12 +136,12 @@
 			"html_url": "https://github.com/mattn/go-adodb",
 			"homepage": "http://mattn.kaoriya.net/",
 			"created_at": "2011-11-14T04:32:50Z",
-			"updated_at": "2021-09-01T08:42:32Z",
+			"updated_at": "2023-07-17T08:49:24Z",
 			"svn_url": "https://github.com/mattn/go-adodb",
-			"stargazers_count": 121,
-			"watchers_count": 121,
-			"forks_count": 30,
-			"open_issues_count": 17
+			"stargazers_count": 133,
+			"watchers_count": 133,
+			"forks_count": 36,
+			"open_issues_count": 19
 		},
 		{
 			"id": 7039830,
@@ -136,11 +150,11 @@
 			"html_url": "https://github.com/minus5/gofreetds",
 			"homepage": "",
 			"created_at": "2012-12-06T17:29:26Z",
-			"updated_at": "2021-08-10T18:15:24Z",
+			"updated_at": "2023-05-24T11:51:09Z",
 			"svn_url": "https://github.com/minus5/gofreetds",
-			"stargazers_count": 106,
-			"watchers_count": 106,
-			"forks_count": 43,
+			"stargazers_count": 109,
+			"watchers_count": 109,
+			"forks_count": 48,
 			"open_issues_count": 18
 		},
 		{
@@ -150,26 +164,12 @@
 			"html_url": "https://github.com/apache/calcite-avatica-go",
 			"homepage": "",
 			"created_at": "2017-08-08T07:00:08Z",
-			"updated_at": "2021-08-13T14:02:25Z",
+			"updated_at": "2023-07-25T14:10:44Z",
 			"svn_url": "https://github.com/apache/calcite-avatica-go",
-			"stargazers_count": 77,
-			"watchers_count": 77,
-			"forks_count": 19,
-			"open_issues_count": 1
-		},
-		{
-			"id": 270098255,
-			"name": "sqinn-go",
-			"description": "SQLite with pure Go",
-			"html_url": "https://github.com/cvilsmeier/sqinn-go",
-			"homepage": "",
-			"created_at": "2020-06-06T20:37:12Z",
-			"updated_at": "2021-08-30T16:46:17Z",
-			"svn_url": "https://github.com/cvilsmeier/sqinn-go",
-			"stargazers_count": 74,
-			"watchers_count": 74,
-			"forks_count": 7,
-			"open_issues_count": 1
+			"stargazers_count": 109,
+			"watchers_count": 109,
+			"forks_count": 34,
+			"open_issues_count": 0
 		},
 		{
 			"id": 61067172,
@@ -178,11 +178,11 @@
 			"html_url": "https://github.com/viant/bgc",
 			"homepage": "",
 			"created_at": "2016-06-13T20:24:26Z",
-			"updated_at": "2020-09-06T06:58:35Z",
+			"updated_at": "2023-04-23T05:10:45Z",
 			"svn_url": "https://github.com/viant/bgc",
-			"stargazers_count": 15,
-			"watchers_count": 15,
-			"forks_count": 4,
+			"stargazers_count": 20,
+			"watchers_count": 20,
+			"forks_count": 8,
 			"open_issues_count": 0
 		},
 		{
@@ -192,11 +192,11 @@
 			"html_url": "https://github.com/alexeyco/pig",
 			"homepage": "",
 			"created_at": "2021-04-15T15:33:23Z",
-			"updated_at": "2021-07-04T12:55:47Z",
+			"updated_at": "2023-10-12T23:00:33Z",
 			"svn_url": "https://github.com/alexeyco/pig",
-			"stargazers_count": 4,
-			"watchers_count": 4,
-			"forks_count": 0,
+			"stargazers_count": 15,
+			"watchers_count": 15,
+			"forks_count": 3,
 			"open_issues_count": 0
 		}
 	]
