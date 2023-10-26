@@ -1,7 +1,7 @@
 {
 	"name": "Miscellaneous - Strings",
 	"index_last_check": 0,
-	"last_update": 1696039787,
+	"last_update": 1698281618,
 	"libraries": [
 		{
 			"id": 28851913,
@@ -10,11 +10,11 @@
 			"html_url": "https://github.com/huandu/xstrings",
 			"homepage": "",
 			"created_at": "2015-01-06T07:25:26Z",
-			"updated_at": "2023-09-29T06:38:26Z",
+			"updated_at": "2023-10-25T05:34:34Z",
 			"svn_url": "https://github.com/huandu/xstrings",
-			"stargazers_count": 1251,
-			"watchers_count": 1251,
-			"forks_count": 95,
+			"stargazers_count": 1256,
+			"watchers_count": 1256,
+			"forks_count": 106,
 			"open_issues_count": 0
 		},
 		{
@@ -38,10 +38,10 @@
 			"html_url": "https://github.com/gobeam/stringy",
 			"homepage": "https://pkg.go.dev/github.com/gobeam/Stringy?tab=doc",
 			"created_at": "2020-04-03T03:34:10Z",
-			"updated_at": "2023-09-16T06:40:56Z",
+			"updated_at": "2023-10-02T18:51:14Z",
 			"svn_url": "https://github.com/gobeam/stringy",
-			"stargazers_count": 191,
-			"watchers_count": 191,
+			"stargazers_count": 193,
+			"watchers_count": 193,
 			"forks_count": 17,
 			"open_issues_count": 1
 		}

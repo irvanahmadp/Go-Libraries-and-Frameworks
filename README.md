@@ -737,72 +737,72 @@ Libraries for working with dates and times.
 ### Distributed Systems
 Packages that help with building Distributed Systems.
 
-<sup>*Last Update: 2021-09-09 09:25:01*</sup>
+<sup>*Last Update: 2023-10-26 07:53:11*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [etcd](https://etcd.io) | 37,156 | 7,946 | 206 | Distributed reliable key-value store for the most critical data of a distributed system | 2013-07-06 21:57:21 | 2021-09-08 23:00:59 |
-| [kit](https://gokit.io) | 21,182 | 2,175 | 48 | A standard library for microservices. | 2015-02-03 00:01:19 | 2021-09-09 01:53:44 |
-| [go-micro](https://go-micro.dev) | 16,713 | 1,856 | 39 | A Go framework for distributed systems development | 2015-01-13 23:30:18 | 2021-09-09 01:54:46 |
-| [grpc-go](https://grpc.io) | 14,444 | 3,151 | 109 | The Go language implementation of gRPC. HTTP/2 based RPC | 2014-12-08 18:59:34 | 2021-09-09 00:32:00 |
-| [go-zero](https://go-zero.dev) | 10,759 | 1,326 | 30 | go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity. | 2020-08-07 15:37:57 | 2021-09-08 23:19:55 |
-| [micro](https://micro.mu) | 10,355 | 917 | 85 | Micro is a cloud operating system | 2015-01-16 22:35:14 | 2021-09-08 19:44:04 |
-| [nats-server](https://nats.io) | 9,791 | 957 | 147 | High-Performance server for NATS.io, the cloud and edge native messaging system. | 2012-10-29 16:12:24 | 2021-09-09 01:35:33 |
-| [rpcx](https://rpcx.io) | 5,990 | 922 | 12 | Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱! | 2016-05-18 09:34:05 | 2021-09-09 02:22:13 |
-| [raft](https://godoc.org/cirello.io/pglock) | 5,016 | 680 | 18 | Golang implementation of the Raft consensus protocol | 2013-11-05 00:41:20 | 2021-09-08 13:25:09 |
-| [lura](https://luraproject.org) | 4,488 | 416 | 56 | Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation | 2016-11-04 18:37:13 | 2021-09-09 02:09:41 |
-| [tendermint](https://tendermint.com/) | 4,303 | 1,376 | 331 | ⟁ Tendermint Core (BFT Consensus) in Go | 2014-05-14 23:21:35 | 2021-09-08 21:49:41 |
-| [torrent](https://github.com/anacrolix/torrent) | 4,028 | 500 | 54 | Full-featured BitTorrent client package and utilities | 2015-01-08 21:10:42 | 2021-09-09 00:55:18 |
-| [dragonboat](https://github.com/lni/dragonboat) | 3,820 | 387 | 24 | A feature complete and high performance multi-group Raft library in Go.   | 2018-12-23 07:02:04 | 2021-09-09 02:09:21 |
-| [emitter](https://emitter.io) | 3,004 | 276 | 11 | High performance, distributed and low latency publish-subscribe platform. | 2016-10-29 08:52:21 | 2021-09-08 13:03:14 |
-| [glow](https://github.com/chrislusf/glow) | 2,985 | 232 | 11 | Glow is an easy-to-use distributed computation system written in Go, similar to Hadoop Map Reduce, Spark, Flink, Storm, etc. I am also working on another similar pure Go system, https://github.com/chrislusf/gleam , which is more flexible and more performant. | 2015-06-14 00:33:48 | 2021-09-08 06:37:15 |
-| [gleam](https://github.com/chrislusf/gleam) | 2,883 | 257 | 36 | Fast, efficient, and scalable distributed map/reduce system, DAG execution, in memory or on disk, written in pure Go, runs standalone or distributedly. | 2016-08-26 08:44:48 | 2021-09-08 09:06:47 |
-| [liftbridge](https://liftbridge.io) | 2,132 | 91 | 38 | Lightweight, fault-tolerant message streams. | 2017-10-13 19:50:26 | 2021-09-08 12:08:11 |
-| [hprose-golang](https://github.com/hprose/hprose-golang) | 1,178 | 204 | 20 | Hprose is a cross-language RPC. This project is Hprose for Golang. | 2014-02-14 03:16:43 | 2021-09-05 07:05:55 |
-| [ringpop-go](http://www.uber.com) | 697 | 61 | 25 | Scalable, fault-tolerant application-layer sharding for Go applications | 2015-06-05 22:48:53 | 2021-09-01 17:42:55 |
-| [gorpc](https://github.com/valyala/gorpc) | 640 | 93 | 15 | Simple, fast and scalable golang rpc library for high load | 2014-11-20 17:02:37 | 2021-09-06 11:15:12 |
-| [rain](https://put.io) | 622 | 40 | 1 | 🌧 BitTorrent client and library in Go | 2014-05-21 09:17:24 | 2021-09-05 03:37:45 |
-| [go-health](https://github.com/InVisionApp/go-health) | 600 | 38 | 9 | Library for enabling asynchronous health checks in your service | 2017-11-29 21:00:07 | 2021-08-16 06:45:23 |
-| [resgate](https://resgate.io) | 510 | 41 | 6 | A Realtime API Gateway used with NATS to build REST, real time, and RPC APIs, where all your clients are synchronized seamlessly. | 2018-02-22 12:06:26 | 2021-09-07 09:32:39 |
-| [redislock](https://put.io) | 491 | 68 | 1 | Simplified distributed locking implementation using Redis | 2019-06-24 11:10:10 | 2021-09-06 16:08:19 |
-| [go-sundheit](https://pdu.pub) | 425 | 22 | 3 | A library built to provide support for defining service health for golang services. It allows you to register async health checks for your dependencies and the service itself, provides a health endpoint that exposes their status, and health metrics. | 2019-04-08 12:54:01 | 2021-08-16 11:23:54 |
-| [consistent](https://research.googleblog.com/2017/04/consistent-hashing-with-bounded-loads.html) | 405 | 50 | 6 | Consistent hashing with bounded loads in Golang | 2018-03-25 15:38:27 | 2021-09-05 05:59:06 |
-| [digota](http://digota.com) | 404 | 64 | 10 | ecommerce microservice | 2017-08-14 12:01:37 | 2021-09-02 06:23:05 |
-| [arpc](https://github.com/lesismal/arpc) | 341 | 29 | 0 | More effective network communication, two-way calling, notify and broadcast supported. | 2020-05-19 11:30:05 | 2021-09-06 16:17:49 |
-| [sleuth](http://ursiform.github.io/sleuth/) | 338 | 21 | 0 | A Go library for master-less peer-to-peer autodiscovery and RPC between HTTP services | 2016-04-23 14:21:41 | 2021-09-03 03:12:33 |
-| [go-jump](https://github.com/dgryski/go-jump) | 333 | 27 | 1 | go-jump: Jump consistent hashing | 2014-06-15 22:12:04 | 2021-09-07 03:50:47 |
-| [dht](https://github.com/anacrolix/dht) | 205 | 46 | 5 | dht is used by anacrolix/torrent, and is intended for use as a library in other projects both torrent related and otherwise | 2016-12-14 00:34:42 | 2021-09-09 00:54:43 |
-| [jsonrpc](https://github.com/ybbus/jsonrpc) | 186 | 69 | 4 | A simple go implementation of json rpc 2.0 client over http | 2016-11-10 11:27:55 | 2021-09-08 22:58:21 |
-| [jsonrpc](https://github.com/osamingo/jsonrpc) | 152 | 16 | 3 | The jsonrpc package helps implement of JSON-RPC 2.0 | 2016-10-28 13:36:59 | 2021-08-20 06:22:49 |
-| [celeriac.v1](https://github.com/svcavallar/celeriac.v1) | 67 | 8 | 1 | Golang client library for adding support for interacting and monitoring Celery workers, tasks and events. | 2015-10-10 07:27:33 | 2021-06-13 12:55:46 |
-| [dynamolock](https://godoc.org/cirello.io/dynamolock) | 65 | 33 | 1 | DynamoDB Lock Client for Go | 2018-07-08 11:13:00 | 2021-09-05 08:49:28 |
-| [doublejump](https://github.com/edwingeng/doublejump) | 64 | 12 | 0 | A revamped Google's jump consistent hash | 2018-06-26 16:04:50 | 2021-08-30 02:15:41 |
-| [dot](https://github.com/dotchain/dot) | 58 | 1 | 0 | distributed data sync with operational transformation/transforms  | 2017-12-18 01:08:12 | 2021-07-05 18:18:30 |
-| [semaphore](https://jexia.github.io/semaphore/) | 56 | 13 | 9 | Take control of your data, connect with anything, and expose it anywhere through protocols such as HTTP, GraphQL, and gRPC. | 2020-02-05 16:39:39 | 2021-09-03 13:51:44 |
-| [outboxer](https://github.com/italolelis/outboxer) | 55 | 8 | 11 | A library that implements the outboxer pattern in go | 2019-02-01 09:50:13 | 2021-08-31 15:59:15 |
-| [flowgraph](https://emitter.io) | 41 | 4 | 0 | Flowgraph package for scalable asynchronous system development | 2018-08-29 21:45:26 | 2021-08-12 09:29:53 |
-| [drmaa](https://github.com/dgruber/drmaa) | 33 | 15 | 0 | Compute cluster (HPC) job submission library for Go (#golang) based on the open DRMAA standard. | 2013-03-17 12:58:02 | 2021-06-27 10:39:31 |
-| [go-pdu](https://pdu.pub) | 29 | 3 | 0 | Parallel Digital Universe - A decentralized identity-based social network | 2018-10-08 08:13:22 | 2021-09-02 10:25:33 |
-| [pglock](https://godoc.org/cirello.io/pglock) | 28 | 6 | 0 | [Mirror] PostgreSQL Lock Client for Go | 2018-12-17 17:43:41 | 2021-08-16 07:57:24 |
-| [go-mysql-lock](https://github.com/sanketplus/go-mysql-lock) | 28 | 1 | 2 | MySQL Backed Locking Primitive | 2020-06-06 16:30:07 | 2021-08-23 06:07:27 |
-| [dynatomic](https://github.com/tylfin/dynatomic) | 14 | 1 | 0 | Dynatomic is a library for using dynamodb as an atomic counter | 2019-02-08 17:45:14 | 2020-12-25 16:56:32 |
-| [micro](https://github.com/gmsec/micro) | 13 | 5 | 0 | A Go distributed systems development framework | 2020-05-03 01:16:16 | 2021-08-24 09:38:01 |
-| [consistenthash](https://research.googleblog.com/2017/04/consistent-hashing-with-bounded-loads.html) | 9 | 1 | 0 | A Go library that implements Consistent Hashing | 2020-04-22 16:01:25 | 2021-04-09 18:54:48 |
+| [etcd](https://etcd.io) | 44,754 | 9,529 | 245 | Distributed reliable key-value store for the most critical data of a distributed system | 2013-07-06 21:57:21 | 2023-10-26 00:09:55 |
+| [go-zero](https://go-zero.dev) | 26,127 | 3,680 | 396 | A cloud-native Go microservices framework with cli tool for productivity. | 2020-08-07 15:37:57 | 2023-10-25 23:38:12 |
+| [kit](https://gokit.io) | 25,558 | 2,468 | 43 | A standard library for microservices. | 2015-02-03 00:01:19 | 2023-10-25 22:41:26 |
+| [go-micro](https://go-micro.dev) | 20,924 | 2,348 | 85 | A Go microservices framework | 2015-01-13 23:30:18 | 2023-10-25 13:43:50 |
+| [grpc-go](https://grpc.io) | 18,991 | 4,153 | 128 | The Go language implementation of gRPC. HTTP/2 based RPC | 2014-12-08 18:59:34 | 2023-10-26 00:42:33 |
+| [nats-server](https://nats.io) | 13,737 | 1,301 | 274 | High-Performance server for NATS.io, the cloud and edge native messaging system. | 2012-10-29 16:12:24 | 2023-10-25 08:19:49 |
+| [micro](https://micro.dev) | 11,891 | 1,094 | 44 | API first development platform | 2015-01-16 22:35:14 | 2023-10-25 21:46:31 |
+| [rpcx](https://rpcx.io) | 7,762 | 1,154 | 11 | Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱! build for cloud! | 2016-05-18 09:34:05 | 2023-10-24 17:50:06 |
+| [raft](https://godoc.org/cirello.io/pglock) | 7,465 | 936 | 33 | Golang implementation of the Raft consensus protocol | 2013-11-05 00:41:20 | 2023-10-25 14:23:17 |
+| [lura](https://luraproject.org) | 5,778 | 537 | 12 | Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation | 2016-11-04 18:37:13 | 2023-10-25 15:18:50 |
+| [tendermint](https://tendermint.com/) | 5,561 | 2,107 | 31 | ⟁ Tendermint Core (BFT Consensus) in Go | 2014-05-14 23:21:35 | 2023-10-25 21:04:14 |
+| [torrent](https://github.com/anacrolix/torrent) | 4,960 | 605 | 47 | Full-featured BitTorrent client package and utilities | 2015-01-08 21:10:42 | 2023-10-25 09:01:34 |
+| [dragonboat](https://github.com/lni/dragonboat) | 4,766 | 522 | 34 | A feature complete and high performance multi-group Raft library in Go.   | 2018-12-23 07:02:04 | 2023-10-25 12:50:17 |
+| [emitter](https://emitter.io) | 3,646 | 345 | 13 | High performance, distributed and low latency publish-subscribe platform. | 2016-10-29 08:52:21 | 2023-10-23 11:01:03 |
+| [gleam](https://github.com/chrislusf/gleam) | 3,252 | 290 | 38 | Fast, efficient, and scalable distributed map/reduce system, DAG execution, in memory or on disk, written in pure Go, runs standalone or distributedly. | 2016-08-26 08:44:48 | 2023-10-23 17:20:10 |
+| [glow](https://github.com/chrislusf/glow) | 3,163 | 250 | 15 | Glow is an easy-to-use distributed computation system written in Go, similar to Hadoop Map Reduce, Spark, Flink, Storm, etc. I am also working on another similar pure Go system, https://github.com/chrislusf/gleam , which is more flexible and more performant. | 2015-06-14 00:33:48 | 2023-10-23 11:10:09 |
+| [liftbridge](https://liftbridge.io) | 2,492 | 106 | 45 | Lightweight, fault-tolerant message streams. | 2017-10-13 19:50:26 | 2023-10-18 18:32:10 |
+| [hprose-golang](https://github.com/hprose/hprose-golang) | 1,247 | 212 | 5 | Hprose is a cross-language RPC. This project is Hprose for Golang. | 2014-02-14 03:16:43 | 2023-10-17 18:20:05 |
+| [redislock](https://github.com/bsm/redislock) | 1,142 | 142 | 1 | Simplified distributed locking implementation using Redis | 2019-06-24 11:10:10 | 2023-10-23 10:09:19 |
+| [rain](https://github.com/cenkalti/rain) | 873 | 65 | 1 | 🌧 BitTorrent client and library in Go | 2014-05-21 09:17:24 | 2023-10-23 18:43:03 |
+| [arpc](https://github.com/lesismal/arpc) | 814 | 71 | 3 | More effective network communication, two-way calling, notify and broadcast supported. | 2020-05-19 11:30:05 | 2023-10-25 05:37:52 |
+| [ringpop-go](http://www.uber.com) | 800 | 82 | 27 | Scalable, fault-tolerant application-layer sharding for Go applications | 2015-06-05 22:48:53 | 2023-10-25 15:26:18 |
+| [go-health](https://github.com/InVisionApp/go-health) | 719 | 56 | 11 | Library for enabling asynchronous health checks in your service | 2017-11-29 21:00:07 | 2023-10-23 11:16:39 |
+| [gorpc](https://github.com/valyala/gorpc) | 681 | 101 | 15 | Simple, fast and scalable golang rpc library for high load | 2014-11-20 17:02:37 | 2023-10-10 13:52:51 |
+| [resgate](https://resgate.io) | 642 | 63 | 19 | A Realtime API Gateway used with NATS to build REST, real time, and RPC APIs, where all your clients are synchronized seamlessly. | 2018-02-22 12:06:26 | 2023-10-12 21:21:43 |
+| [consistent](https://research.googleblog.com/2017/04/consistent-hashing-with-bounded-loads.html) | 620 | 67 | 7 | Consistent hashing with bounded loads in Golang | 2018-03-25 15:38:27 | 2023-10-13 10:06:59 |
+| [go-sundheit](https://pdu.pub) | 514 | 30 | 4 | A library built to provide support for defining service health for golang services. It allows you to register async health checks for your dependencies and the service itself, provides a health endpoint that exposes their status, and health metrics. | 2019-04-08 12:54:01 | 2023-09-22 01:17:15 |
+| [digota](https://github.com/digota/digota) | 489 | 79 | 11 | ecommerce microservice | 2017-08-14 12:01:37 | 2023-10-18 19:42:47 |
+| [go-jump](https://github.com/dgryski/go-jump) | 371 | 34 | 1 | go-jump: Jump consistent hashing | 2014-06-15 22:12:04 | 2023-10-24 11:30:48 |
+| [sleuth](http://ursiform.github.io/sleuth/) | 367 | 25 | 0 | A Go library for master-less peer-to-peer autodiscovery and RPC between HTTP services | 2016-04-23 14:21:41 | 2023-10-23 11:14:20 |
+| [jsonrpc](https://github.com/ybbus/jsonrpc) | 284 | 87 | 0 | A simple go implementation of json rpc 2.0 client over http | 2016-11-10 11:27:55 | 2023-10-22 16:56:25 |
+| [dht](https://github.com/anacrolix/dht) | 279 | 61 | 3 | dht is used by anacrolix/torrent, and is intended for use as a library in other projects both torrent related and otherwise | 2016-12-14 00:34:42 | 2023-10-25 15:43:07 |
+| [jsonrpc](https://github.com/osamingo/jsonrpc) | 182 | 22 | 4 | The jsonrpc package helps implement of JSON-RPC 2.0 | 2016-10-28 13:36:59 | 2023-10-09 20:41:41 |
+| [outboxer](https://github.com/italolelis/outboxer) | 138 | 26 | 0 | A library that implements the outboxer pattern in go | 2019-02-01 09:50:13 | 2023-10-18 22:53:59 |
+| [dynamolock](https://godoc.org/cirello.io/dynamolock/v2) | 123 | 47 | 0 | DynamoDB Lock Client for Go | 2018-07-08 11:13:00 | 2023-10-23 21:46:12 |
+| [doublejump](https://github.com/edwingeng/doublejump) | 92 | 15 | 0 | A revamped Google's jump consistent hash | 2018-06-26 16:04:50 | 2023-10-18 03:16:51 |
+| [semaphore](https://jexia.github.io/semaphore/) | 87 | 15 | 32 | Take control of your data, connect with anything, and expose it anywhere through protocols such as HTTP, GraphQL, and gRPC. | 2020-02-05 16:39:39 | 2023-10-02 07:33:53 |
+| [pglock](https://godoc.org/cirello.io/pglock) | 83 | 18 | 0 | PostgreSQL Lock Client for Go | 2018-12-17 17:43:41 | 2023-10-23 07:09:55 |
+| [dot](https://github.com/dotchain/dot) | 80 | 8 | 0 | distributed data sync with operational transformation/transforms  | 2017-12-18 01:08:12 | 2023-07-07 18:16:07 |
+| [celeriac.v1](https://github.com/svcavallar/celeriac.v1) | 71 | 12 | 0 | Golang client library for adding support for interacting and monitoring Celery workers, tasks and events. | 2015-10-10 07:27:33 | 2023-07-08 17:19:54 |
+| [go-mysql-lock](https://github.com/sanketplus/go-mysql-lock) | 58 | 15 | 3 | MySQL Backed Locking Primitive | 2020-06-06 16:30:07 | 2023-10-08 03:08:40 |
+| [flowgraph](https://emitter.io) | 53 | 8 | 0 | Flowgraph package for scalable asynchronous system development | 2018-08-29 21:45:26 | 2023-09-25 21:29:38 |
+| [go-pdu](https://pdu.pub) | 46 | 7 | 0 | Go implementation of PDU - A decentralized SNS backbone | 2018-10-08 08:13:22 | 2023-10-20 22:37:30 |
+| [drmaa](https://github.com/dgruber/drmaa) | 45 | 20 | 0 | Compute cluster (HPC) job submission library for Go (#golang) based on the open DRMAA standard. | 2013-03-17 12:58:02 | 2023-08-12 03:12:45 |
+| [micro](https://github.com/gmsec/micro) | 22 | 7 | 3 | A Go distributed systems development framework | 2020-05-03 01:16:16 | 2023-03-06 09:16:21 |
+| [consistenthash](https://research.googleblog.com/2017/04/consistent-hashing-with-bounded-loads.html) | 20 | 4 | 0 | A Go library that implements Consistent Hashing | 2020-04-22 16:01:25 | 2023-08-19 03:33:24 |
+| [dynatomic](https://github.com/tylfin/dynatomic) | 15 | 3 | 0 | Dynatomic is a library for using dynamodb as an atomic counter | 2019-02-08 17:45:14 | 2022-09-26 10:08:52 |
 </details>
 
 ### Dynamic DNS
 Tools for updating dynamic DNS records.
 
-<sup>*Last Update: 2023-10-08 19:41:22*</sup>
+<sup>*Last Update: 2023-10-26 07:53:40*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [godns](https://xiaozhou.net/godns-project-2014-05-18.html) | 1,352 | 235 | 14 | A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go. | 2014-05-11 11:49:17 | 2023-10-05 13:59:40 |
-| [ddns](https://github.com/skibish/ddns) | 239 | 22 | 1 | Personal DDNS client with Digital Ocean Networking DNS as backend. | 2017-03-13 21:02:27 | 2023-09-24 14:01:53 |
+| [godns](https://xiaozhou.net/godns-project-2014-05-18.html) | 1,356 | 246 | 14 | A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go. | 2014-05-11 11:49:17 | 2023-10-25 23:45:09 |
+| [ddns](https://github.com/skibish/ddns) | 240 | 22 | 1 | Personal DDNS client with Digital Ocean Networking DNS as backend. | 2017-03-13 21:02:27 | 2023-10-23 22:36:55 |
 </details>
 
 ### Email
@@ -1538,15 +1538,15 @@ Unofficial set of patterns for structuring projects.
 ### Miscellaneous - Strings
 Libraries for working with strings.
 
-<sup>*Last Update: 2023-09-30 09:09:47*</sup>
+<sup>*Last Update: 2023-10-26 07:53:38*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [xstrings](https://github.com/huandu/xstrings) | 1,251 | 95 | 0 | Implements string functions widely used in other languages but absent in Go. | 2015-01-06 07:25:26 | 2023-09-29 06:38:26 |
+| [xstrings](https://github.com/huandu/xstrings) | 1,256 | 106 | 0 | Implements string functions widely used in other languages but absent in Go. | 2015-01-06 07:25:26 | 2023-10-25 05:34:34 |
 | [strutil](https://pkg.go.dev/github.com/gobeam/Stringy?tab=doc) | 197 | 24 | 1 | String utilities for Go | 2018-08-16 06:56:15 | 2023-09-27 08:53:39 |
-| [stringy](https://pkg.go.dev/github.com/gobeam/Stringy?tab=doc) | 191 | 17 | 1 | Convert string to camel case, snake case, kebab case / slugify, custom delimiter, pad string, tease string and many other functionalities with help of by Stringy package. | 2020-04-03 03:34:10 | 2023-09-16 06:40:56 |
+| [stringy](https://pkg.go.dev/github.com/gobeam/Stringy?tab=doc) | 193 | 17 | 1 | Convert string to camel case, snake case, kebab case / slugify, custom delimiter, pad string, tease string and many other functionalities with help of by Stringy package. | 2020-04-03 03:34:10 | 2023-10-02 18:51:14 |
 </details>
 
 ### Miscellaneous - Uncategorized
@@ -2798,14 +2798,14 @@ Full stack web frameworks.
 ### Windows
 
 
-<sup>*Last Update: 2023-10-05 09:12:28*</sup>
+<sup>*Last Update: 2023-10-26 07:53:41*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [go-ole](https://github.com/go-ole/go-ole) | 1,025 | 215 | 72 | win32 ole implementation for golang | 2011-01-21 12:45:20 | 2023-09-26 11:08:50 |
-| [d3d9](https://github.com/gonutz/d3d9) | 147 | 13 | 1 | Direct3D9 wrapper for Go. | 2015-12-12 21:24:38 | 2023-09-02 13:30:59 |
+| [go-ole](https://github.com/go-ole/go-ole) | 1,033 | 223 | 73 | win32 ole implementation for golang | 2011-01-21 12:45:20 | 2023-10-25 08:21:13 |
+| [d3d9](https://github.com/gonutz/d3d9) | 149 | 13 | 1 | Direct3D9 wrapper for Go. | 2015-12-12 21:24:38 | 2023-10-12 23:59:24 |
 | [gosddl](https://github.com/MonaxGT/gosddl) | 10 | 2 | 0 | GoSDDL converter | 2018-12-04 08:36:11 | 2023-04-23 09:37:32 |
 </details>
 
