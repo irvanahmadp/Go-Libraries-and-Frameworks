@@ -1,7 +1,7 @@
 {
 	"name": "Data Structures",
-	"index_last_check": 53,
-	"last_update": 1698847877,
+	"index_last_check": 0,
+	"last_update": 1698931678,
 	"libraries": [
 		{
 			"id": 31660590,
@@ -60,6 +60,34 @@
 			"open_issues_count": 79
 		},
 		{
+			"id": 21708754,
+			"name": "roaring",
+			"description": "Roaring bitmaps in Go (golang), used by InfluxDB, Bleve, DataDog",
+			"html_url": "https://github.com/RoaringBitmap/roaring",
+			"homepage": "http://roaringbitmap.org/",
+			"created_at": "2014-07-10T20:14:34Z",
+			"updated_at": "2023-10-30T09:49:51Z",
+			"svn_url": "https://github.com/RoaringBitmap/roaring",
+			"stargazers_count": 2183,
+			"watchers_count": 2183,
+			"forks_count": 248,
+			"open_issues_count": 67
+		},
+		{
+			"id": 1780633,
+			"name": "bloom",
+			"description": "Go package implementing Bloom filters, used by Milvus and Beego.",
+			"html_url": "https://github.com/bits-and-blooms/bloom",
+			"homepage": "",
+			"created_at": "2011-05-21T14:18:41Z",
+			"updated_at": "2023-11-01T21:47:34Z",
+			"svn_url": "https://github.com/bits-and-blooms/bloom",
+			"stargazers_count": 2117,
+			"watchers_count": 2117,
+			"forks_count": 265,
+			"open_issues_count": 8
+		},
+		{
 			"id": 212965919,
 			"name": "gocache",
 			"description": "☔️ A complete Go cache library that brings you multiple ways of managing your caches",
@@ -86,34 +114,6 @@
 			"watchers_count": 1558,
 			"forks_count": 116,
 			"open_issues_count": 12
-		},
-		{
-			"id": 21708754,
-			"name": "roaring",
-			"description": "Roaring bitmaps in Go (golang)",
-			"html_url": "https://github.com/RoaringBitmap/roaring",
-			"homepage": "http://roaringbitmap.org/",
-			"created_at": "2014-07-10T20:14:34Z",
-			"updated_at": "2021-09-20T04:55:24Z",
-			"svn_url": "https://github.com/RoaringBitmap/roaring",
-			"stargazers_count": 1325,
-			"watchers_count": 1325,
-			"forks_count": 146,
-			"open_issues_count": 62
-		},
-		{
-			"id": 1780633,
-			"name": "bloom",
-			"description": "Go package implementing Bloom filters",
-			"html_url": "https://github.com/bits-and-blooms/bloom",
-			"homepage": "",
-			"created_at": "2011-05-21T14:18:41Z",
-			"updated_at": "2021-09-21T03:19:58Z",
-			"svn_url": "https://github.com/bits-and-blooms/bloom",
-			"stargazers_count": 1289,
-			"watchers_count": 1289,
-			"forks_count": 174,
-			"open_issues_count": 7
 		},
 		{
 			"id": 1731413,
@@ -172,6 +172,20 @@
 			"open_issues_count": 6
 		},
 		{
+			"id": 27945817,
+			"name": "ttlcache",
+			"description": "An in-memory cache with item expiration and generics",
+			"html_url": "https://github.com/jellydator/ttlcache",
+			"homepage": "",
+			"created_at": "2014-12-13T01:55:40Z",
+			"updated_at": "2023-10-31T13:57:05Z",
+			"svn_url": "https://github.com/jellydator/ttlcache",
+			"stargazers_count": 755,
+			"watchers_count": 755,
+			"forks_count": 109,
+			"open_issues_count": 8
+		},
+		{
 			"id": 119665158,
 			"name": "algorithms",
 			"description": "CLRS study. Codes are written with golang.",
@@ -192,12 +206,12 @@
 			"html_url": "https://github.com/derekparker/trie",
 			"homepage": "",
 			"created_at": "2014-03-06T22:01:49Z",
-			"updated_at": "2021-09-18T10:09:55Z",
+			"updated_at": "2023-10-26T11:45:18Z",
 			"svn_url": "https://github.com/derekparker/trie",
-			"stargazers_count": 550,
-			"watchers_count": 550,
-			"forks_count": 91,
-			"open_issues_count": 10
+			"stargazers_count": 703,
+			"watchers_count": 703,
+			"forks_count": 111,
+			"open_issues_count": 13
 		},
 		{
 			"id": 130787782,
@@ -312,20 +326,6 @@
 			"open_issues_count": 2
 		},
 		{
-			"id": 27945817,
-			"name": "ttlcache",
-			"description": "An in-memory string-interface{} map with various expiration options for golang",
-			"html_url": "https://github.com/ReneKroon/ttlcache",
-			"homepage": "",
-			"created_at": "2014-12-13T01:55:40Z",
-			"updated_at": "2021-09-18T07:57:08Z",
-			"svn_url": "https://github.com/ReneKroon/ttlcache",
-			"stargazers_count": 273,
-			"watchers_count": 273,
-			"forks_count": 45,
-			"open_issues_count": 0
-		},
-		{
 			"id": 40313556,
 			"name": "hilbert",
 			"description": "Go package for mapping values to and from space-filling curves, such as Hilbert and Peano curves.",
@@ -338,6 +338,20 @@
 			"watchers_count": 269,
 			"forks_count": 43,
 			"open_issues_count": 3
+		},
+		{
+			"id": 138414869,
+			"name": "skiplist",
+			"description": "A Go library for an efficient implementation of a skip list: https://godoc.org/github.com/MauriceGit/skiplist",
+			"html_url": "https://github.com/MauriceGit/skiplist",
+			"homepage": "",
+			"created_at": "2018-06-23T16:01:51Z",
+			"updated_at": "2023-10-26T08:11:48Z",
+			"svn_url": "https://github.com/MauriceGit/skiplist",
+			"stargazers_count": 263,
+			"watchers_count": 263,
+			"forks_count": 37,
+			"open_issues_count": 5
 		},
 		{
 			"id": 4268733,
@@ -380,20 +394,6 @@
 			"watchers_count": 183,
 			"forks_count": 13,
 			"open_issues_count": 0
-		},
-		{
-			"id": 138414869,
-			"name": "skiplist",
-			"description": "A Go library for an efficient implementation of a skip list: https://godoc.org/github.com/MauriceGit/skiplist",
-			"html_url": "https://github.com/MauriceGit/skiplist",
-			"homepage": "",
-			"created_at": "2018-06-23T16:01:51Z",
-			"updated_at": "2021-09-12T08:48:06Z",
-			"svn_url": "https://github.com/MauriceGit/skiplist",
-			"stargazers_count": 168,
-			"watchers_count": 168,
-			"forks_count": 25,
-			"open_issues_count": 3
 		},
 		{
 			"id": 90183913,
@@ -550,6 +550,20 @@
 			"open_issues_count": 0
 		},
 		{
+			"id": 26818585,
+			"name": "skiplist",
+			"description": "skiplist for golang",
+			"html_url": "https://github.com/gansidui/skiplist",
+			"homepage": "",
+			"created_at": "2014-11-18T16:29:53Z",
+			"updated_at": "2023-08-11T07:39:56Z",
+			"svn_url": "https://github.com/gansidui/skiplist",
+			"stargazers_count": 83,
+			"watchers_count": 83,
+			"forks_count": 23,
+			"open_issues_count": 1
+		},
+		{
 			"id": 55736685,
 			"name": "levenshtein",
 			"description": "Levenshtein distance and similarity metrics with customizable edit costs and Winkler-like bonus for common prefix.",
@@ -578,20 +592,6 @@
 			"open_issues_count": 0
 		},
 		{
-			"id": 26818585,
-			"name": "skiplist",
-			"description": "skiplist for golang",
-			"html_url": "https://github.com/gansidui/skiplist",
-			"homepage": "",
-			"created_at": "2014-11-18T16:29:53Z",
-			"updated_at": "2021-08-25T03:13:20Z",
-			"svn_url": "https://github.com/gansidui/skiplist",
-			"stargazers_count": 75,
-			"watchers_count": 75,
-			"forks_count": 18,
-			"open_issues_count": 1
-		},
-		{
 			"id": 224098087,
 			"name": "cmap",
 			"description": "a thread-safe concurrent map for go",
@@ -618,6 +618,20 @@
 			"watchers_count": 66,
 			"forks_count": 5,
 			"open_issues_count": 0
+		},
+		{
+			"id": 168342959,
+			"name": "timedmap",
+			"description": "A thread safe map which has expiring key-value pairs.",
+			"html_url": "https://github.com/zekroTJA/timedmap",
+			"homepage": "https://pkg.go.dev/github.com/zekroTJA/timedmap",
+			"created_at": "2019-01-30T12:55:37Z",
+			"updated_at": "2023-08-14T14:18:59Z",
+			"svn_url": "https://github.com/zekroTJA/timedmap",
+			"stargazers_count": 66,
+			"watchers_count": 66,
+			"forks_count": 9,
+			"open_issues_count": 1
 		},
 		{
 			"id": 166048649,
@@ -676,6 +690,20 @@
 			"open_issues_count": 1
 		},
 		{
+			"id": 173535197,
+			"name": "typ",
+			"description": "Null Types, Safe primitive type conversion and fetching value from complex structures.",
+			"html_url": "https://github.com/gurukami/typ",
+			"homepage": "",
+			"created_at": "2019-03-03T05:34:23Z",
+			"updated_at": "2023-10-04T00:44:17Z",
+			"svn_url": "https://github.com/gurukami/typ",
+			"stargazers_count": 44,
+			"watchers_count": 44,
+			"forks_count": 4,
+			"open_issues_count": 0
+		},
+		{
 			"id": 182903954,
 			"name": "dict",
 			"description": "Python-like dictionaries for Go",
@@ -718,20 +746,6 @@
 			"open_issues_count": 0
 		},
 		{
-			"id": 168342959,
-			"name": "timedmap",
-			"description": "A thread safe map which has expiring key-value pairs.",
-			"html_url": "https://github.com/zekroTJA/timedmap",
-			"homepage": "https://pkg.go.dev/github.com/zekroTJA/timedmap",
-			"created_at": "2019-01-30T12:55:37Z",
-			"updated_at": "2021-09-13T09:34:16Z",
-			"svn_url": "https://github.com/zekroTJA/timedmap",
-			"stargazers_count": 31,
-			"watchers_count": 31,
-			"forks_count": 3,
-			"open_issues_count": 0
-		},
-		{
 			"id": 104418115,
 			"name": "go-ef",
 			"description": "A Go implementation of the Elias-Fano encoding",
@@ -746,18 +760,18 @@
 			"open_issues_count": 0
 		},
 		{
-			"id": 173535197,
-			"name": "typ",
-			"description": "Null Types, Safe primitive type conversion and fetching value from complex structures.",
-			"html_url": "https://github.com/gurukami/typ",
+			"id": 141761192,
+			"name": "set",
+			"description": "A simple Set data structure implementation in Go (Golang) using LinkedHashMap.",
+			"html_url": "https://github.com/StudioSol/set",
 			"homepage": "",
-			"created_at": "2019-03-03T05:34:23Z",
-			"updated_at": "2021-09-23T17:56:10Z",
-			"svn_url": "https://github.com/gurukami/typ",
-			"stargazers_count": 28,
-			"watchers_count": 28,
-			"forks_count": 1,
-			"open_issues_count": 0
+			"created_at": "2018-07-20T21:53:37Z",
+			"updated_at": "2023-10-31T12:17:29Z",
+			"svn_url": "https://github.com/StudioSol/set",
+			"stargazers_count": 26,
+			"watchers_count": 26,
+			"forks_count": 11,
+			"open_issues_count": 2
 		},
 		{
 			"id": 343174144,
@@ -802,6 +816,20 @@
 			"open_issues_count": 1
 		},
 		{
+			"id": 148953747,
+			"name": "treap",
+			"description": "golang persistent immutable treap sorted sets",
+			"html_url": "https://github.com/perdata/treap",
+			"homepage": "https://pkg.go.dev/github.com/zekroTJA/timedmap",
+			"created_at": "2018-09-16T01:38:03Z",
+			"updated_at": "2023-10-09T04:34:58Z",
+			"svn_url": "https://github.com/perdata/treap",
+			"stargazers_count": 23,
+			"watchers_count": 23,
+			"forks_count": 6,
+			"open_issues_count": 0
+		},
+		{
 			"id": 200606021,
 			"name": "gofal",
 			"description": "fractional api base on golang . golang math tools fractional molecular denominator 分数计算 分子 分母 运算",
@@ -816,18 +844,18 @@
 			"open_issues_count": 0
 		},
 		{
-			"id": 141761192,
-			"name": "set",
-			"description": "A simple Set data structure implementation in Go (Golang) using LinkedHashMap.",
-			"html_url": "https://github.com/StudioSol/set",
+			"id": 276762750,
+			"name": "slices",
+			"description": "Functions that operate on slices. Similar to functions from package strings or package bytes that have been adapted to work with slices.",
+			"html_url": "https://github.com/srfrog/slices",
 			"homepage": "",
-			"created_at": "2018-07-20T21:53:37Z",
-			"updated_at": "2021-07-04T12:30:18Z",
-			"svn_url": "https://github.com/StudioSol/set",
-			"stargazers_count": 15,
-			"watchers_count": 15,
-			"forks_count": 6,
-			"open_issues_count": 1
+			"created_at": "2020-07-02T23:17:34Z",
+			"updated_at": "2023-10-04T00:46:10Z",
+			"svn_url": "https://github.com/srfrog/slices",
+			"stargazers_count": 16,
+			"watchers_count": 16,
+			"forks_count": 3,
+			"open_issues_count": 0
 		},
 		{
 			"id": 287102166,
@@ -872,20 +900,6 @@
 			"open_issues_count": 0
 		},
 		{
-			"id": 148953747,
-			"name": "treap",
-			"description": "golang persistent immutable treap sorted sets",
-			"html_url": "https://github.com/perdata/treap",
-			"homepage": "https://pkg.go.dev/github.com/zekroTJA/timedmap",
-			"created_at": "2018-09-16T01:38:03Z",
-			"updated_at": "2021-07-15T16:36:40Z",
-			"svn_url": "https://github.com/perdata/treap",
-			"stargazers_count": 12,
-			"watchers_count": 12,
-			"forks_count": 3,
-			"open_issues_count": 0
-		},
-		{
 			"id": 181090409,
 			"name": "parsefields",
 			"description": "Tools for parse JSON-like logs for collecting unique fields and events",
@@ -897,20 +911,6 @@
 			"stargazers_count": 7,
 			"watchers_count": 7,
 			"forks_count": 1,
-			"open_issues_count": 0
-		},
-		{
-			"id": 276762750,
-			"name": "slices",
-			"description": "Functions that operate on slices. Similar to functions from package strings or package bytes that have been adapted to work with slices.",
-			"html_url": "https://github.com/srfrog/slices",
-			"homepage": "",
-			"created_at": "2020-07-02T23:17:34Z",
-			"updated_at": "2021-05-08T03:37:15Z",
-			"svn_url": "https://github.com/srfrog/slices",
-			"stargazers_count": 3,
-			"watchers_count": 3,
-			"forks_count": 0,
 			"open_issues_count": 0
 		}
 	]
