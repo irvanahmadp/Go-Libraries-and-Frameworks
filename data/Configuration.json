@@ -1,7 +1,7 @@
 {
 	"name": "Configuration",
-	"index_last_check": 44,
-	"last_update": 1698931690,
+	"index_last_check": 0,
+	"last_update": 1698974253,
 	"libraries": [
 		{
 			"id": 18369373,
@@ -396,6 +396,20 @@
 			"open_issues_count": 3
 		},
 		{
+			"id": 97854070,
+			"name": "xdg",
+			"description": "A cross platform package that follows the XDG Standard",
+			"html_url": "https://github.com/OpenPeeDeeP/xdg",
+			"homepage": "",
+			"created_at": "2017-07-20T15:58:29Z",
+			"updated_at": "2023-10-05T11:48:29Z",
+			"svn_url": "https://github.com/OpenPeeDeeP/xdg",
+			"stargazers_count": 79,
+			"watchers_count": 79,
+			"forks_count": 7,
+			"open_issues_count": 2
+		},
+		{
 			"id": 27101299,
 			"name": "gofigure",
 			"description": "Go configuration made easy!",
@@ -422,20 +436,6 @@
 			"watchers_count": 65,
 			"forks_count": 15,
 			"open_issues_count": 10
-		},
-		{
-			"id": 97854070,
-			"name": "xdg",
-			"description": "A cross platform package that follows the XDG Standard",
-			"html_url": "https://github.com/OpenPeeDeeP/xdg",
-			"homepage": "",
-			"created_at": "2017-07-20T15:58:29Z",
-			"updated_at": "2021-06-18T00:46:25Z",
-			"svn_url": "https://github.com/OpenPeeDeeP/xdg",
-			"stargazers_count": 63,
-			"watchers_count": 63,
-			"forks_count": 5,
-			"open_issues_count": 1
 		},
 		{
 			"id": 37403869,

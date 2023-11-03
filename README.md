@@ -164,32 +164,32 @@ Libraries for implementing authentications schemes.
 ### Bot Building
 Libraries for building and working with bots.
 
-<sup>*Last Update: 2023-09-30 07:16:18*</sup>
+<sup>*Last Update: 2023-11-03 08:18:05*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [telegram-bot-api](https://go-telegram-bot-api.dev) | 4,967 | 757 | 112 | Golang bindings for the Telegram Bot API | 2015-06-25 05:33:57 | 2023-09-29 19:50:28 |
-| [olivia](https://olivia-ai.org) | 3,592 | 354 | 28 | 💁‍♀️Your new best friend powered by an artificial neural network | 2018-06-05 18:19:31 | 2023-09-28 10:51:17 |
-| [telebot](https://github.com/tucnak/telebot) | 3,261 | 393 | 45 | Telebot is a Telegram bot framework in Go. | 2015-06-25 19:27:50 | 2023-09-28 10:29:19 |
-| [kelp](https://kelpbot.io) | 1,021 | 239 | 176 | Kelp is a free and open-source trading bot for the Stellar DEX and 100+ centralized exchanges | 2018-08-08 23:31:18 | 2023-09-24 15:12:40 |
-| [golang-crypto-trading-bot](https://github.com/saniales/golang-crypto-trading-bot) | 938 | 239 | 6 | A golang implementation of a console-based trading bot for cryptocurrency exchanges | 2017-05-14 22:11:41 | 2023-09-25 08:06:00 |
-| [bot](https://github.com/go-chat-bot/bot) | 799 | 212 | 15 | IRC, Slack, Telegram and RocketChat bot written in go | 2015-09-22 16:41:13 | 2023-09-26 14:27:27 |
-| [slacker](https://github.com/shomali11/slacker) | 798 | 120 | 2 | Slack Bot Framework | 2017-05-20 01:41:20 | 2023-09-28 10:41:35 |
-| [joe](https://joe-bot.net) | 468 | 26 | 6 | A general-purpose bot library inspired by Hubot but written in Go.   :robot: | 2019-03-03 11:19:18 | 2023-08-06 14:21:19 |
-| [tbot](https://yanzay.github.io/tbot-doc/) | 337 | 52 | 1 | Go library for Telegram Bot API | 2015-09-11 16:19:25 | 2023-09-18 15:27:32 |
-| [go-twitch-irc](https://github.com/gempir/go-twitch-irc) | 307 | 56 | 7 | go irc client for twitch.tv | 2017-03-23 21:31:35 | 2023-09-24 12:56:12 |
-| [echotron](https://t.me/s/echotronnews) | 270 | 21 | 1 | An elegant and concurrent library for the Telegram bot API in Go. | 2019-07-22 17:31:49 | 2023-09-28 11:04:21 |
-| [go-sarah](https://pkg.go.dev/github.com/oklahomer/go-sarah/v4) | 261 | 17 | 0 | Simple yet customizable bot framework written in Go. | 2016-11-06 10:04:43 | 2023-09-21 06:31:58 |
+| [telegram-bot-api](https://go-telegram-bot-api.dev) | 5,047 | 774 | 115 | Golang bindings for the Telegram Bot API | 2015-06-25 05:33:57 | 2023-11-02 08:49:16 |
+| [olivia](https://olivia-ai.org) | 3,612 | 357 | 28 | 💁‍♀️Your new best friend powered by an artificial neural network | 2018-06-05 18:19:31 | 2023-11-02 07:23:19 |
+| [telebot](https://github.com/tucnak/telebot) | 3,314 | 401 | 49 | Telebot is a Telegram bot framework in Go. | 2015-06-25 19:27:50 | 2023-11-02 19:04:37 |
+| [kelp](https://kelpbot.io) | 1,030 | 239 | 176 | Kelp is a free and open-source trading bot for the Stellar DEX and 100+ centralized exchanges | 2018-08-08 23:31:18 | 2023-11-02 07:34:35 |
+| [golang-crypto-trading-bot](https://github.com/saniales/golang-crypto-trading-bot) | 943 | 239 | 6 | A golang implementation of a console-based trading bot for cryptocurrency exchanges | 2017-05-14 22:11:41 | 2023-11-02 15:20:50 |
+| [slacker](https://github.com/shomali11/slacker) | 805 | 122 | 7 | Slack Bot Framework | 2017-05-20 01:41:20 | 2023-10-30 02:27:36 |
+| [bot](https://github.com/go-chat-bot/bot) | 801 | 214 | 15 | IRC, Slack, Telegram and RocketChat bot written in go | 2015-09-22 16:41:13 | 2023-11-02 02:19:13 |
+| [joe](https://joe-bot.net) | 468 | 26 | 6 | A general-purpose bot library inspired by Hubot but written in Go.   :robot: | 2019-03-03 11:19:18 | 2023-11-01 11:31:04 |
+| [tbot](https://yanzay.github.io/tbot-doc/) | 342 | 53 | 1 | Go library for Telegram Bot API | 2015-09-11 16:19:25 | 2023-10-26 23:18:19 |
+| [go-twitch-irc](https://github.com/gempir/go-twitch-irc) | 309 | 55 | 7 | go irc client for twitch.tv | 2017-03-23 21:31:35 | 2023-10-29 12:15:25 |
+| [echotron](https://t.me/s/echotronnews) | 284 | 21 | 0 | An elegant and concurrent library for the Telegram bot API in Go. | 2019-07-22 17:31:49 | 2023-11-01 04:54:18 |
+| [go-sarah](https://pkg.go.dev/github.com/oklahomer/go-sarah/v4) | 260 | 17 | 0 | Simple yet customizable bot framework written in Go. | 2016-11-06 10:04:43 | 2023-11-01 14:48:25 |
 | [tenyks](http://tenyks.io) | 176 | 19 | 12 | The Tenyks IRC bot. | 2012-08-26 02:02:24 | 2023-09-28 17:37:33 |
-| [hanu](https://sbstjn.com/host-golang-slackbot-on-heroku-with-hanu.html) | 149 | 24 | 3 | Golang Framework for writing Slack bots | 2016-09-16 07:10:42 | 2023-09-18 15:27:21 |
-| [slack-bot](https://github.com/innogames/slack-bot) | 146 | 44 | 6 | Ready to use Slack bot for lazy developers: start Jenkins jobs, watch Jira tickets, watch pull requests with AI support... | 2019-07-19 07:49:06 | 2023-09-24 04:07:51 |
-| [go-tgbot](https://github.com/olebedev/go-tgbot) | 120 | 4 | 2 | Golang  telegram bot API wrapper, session-based router and middleware | 2016-12-11 06:06:32 | 2023-09-18 15:27:18 |
+| [hanu](https://sbstjn.com/host-golang-slackbot-on-heroku-with-hanu.html) | 150 | 24 | 3 | Golang Framework for writing Slack bots | 2016-09-16 07:10:42 | 2023-10-24 00:43:33 |
+| [slack-bot](https://github.com/innogames/slack-bot) | 149 | 44 | 8 | Ready to use Slack bot for lazy developers: start Jenkins jobs, watch Jira tickets, watch pull requests with AI support... | 2019-07-19 07:49:06 | 2023-10-05 02:19:16 |
+| [go-tgbot](https://github.com/olebedev/go-tgbot) | 119 | 4 | 2 | Golang  telegram bot API wrapper, session-based router and middleware | 2016-12-11 06:06:32 | 2023-10-19 10:27:28 |
 | [margelet](https://github.com/zhulik/margelet) | 81 | 15 | 2 | Telegram Bot Framework for Go | 2015-11-21 13:02:17 | 2023-09-18 15:27:27 |
-| [ephemeral-roles](https://github.com/ewohltman/ephemeral-roles) | 81 | 10 | 8 | A Discord bot for managing ephemeral roles based upon voice channel member presence. | 2017-12-19 15:20:30 | 2023-09-25 20:00:44 |
-| [slackscot](https://github.com/alexandre-normand/slackscot) | 56 | 11 | 3 | Slack bot core/framework written in Go with support for reactions to message updates/deletes | 2015-10-22 04:54:55 | 2023-09-18 15:27:30 |
-| [govkbot](https://github.com/nikepan/govkbot) | 45 | 6 | 1 | VK bot package for Go | 2016-07-11 22:09:54 | 2023-09-18 15:27:20 |
+| [ephemeral-roles](https://github.com/ewohltman/ephemeral-roles) | 81 | 10 | 6 | A Discord bot for managing ephemeral roles based upon voice channel member presence. | 2017-12-19 15:20:30 | 2023-09-25 20:00:44 |
+| [slackscot](https://github.com/alexandre-normand/slackscot) | 56 | 10 | 3 | Slack bot core/framework written in Go with support for reactions to message updates/deletes | 2015-10-22 04:54:55 | 2023-09-18 15:27:30 |
+| [govkbot](https://github.com/nikepan/govkbot) | 45 | 6 | 1 | VK bot package for Go | 2016-07-11 22:09:54 | 2023-10-24 12:10:37 |
 | [micha](https://github.com/onrik/micha) | 26 | 5 | 1 | Client lib for Telegram bot api | 2016-04-14 12:09:44 | 2023-09-18 15:27:25 |
 </details>
 
@@ -319,7 +319,7 @@ Libraries for building standard or basic Command Line applications.
 ### Configuration
 Libraries for configuration parsing.
 
-<sup>*Last Update: 2023-11-02 20:28:10*</sup>
+<sup>*Last Update: 2023-11-03 08:17:33*</sup>
 <details>
   <summary>Show Table</summary>
 
@@ -353,9 +353,9 @@ Libraries for configuration parsing.
 | [envh](https://github.com/antham/envh) | 97 | 2 | 0 | Go helpers to manage environment variables | 2017-01-12 11:25:48 | 2023-09-26 04:38:05 |
 | [configuro](https://medium.com/better-programming/designing-cloud-native-configuration-framework-eefb0b3793cb) | 88 | 12 | 0 | An opinionated configuration loading framework for Containerized and Cloud-Native applications. | 2020-04-09 22:10:34 | 2023-11-02 13:23:06 |
 | [configuration](https://github.com/BoRuDar/configuration) | 84 | 7 | 3 | Library for setting values to structs' fields from env, flags, files or default tag | 2019-11-27 17:58:49 | 2023-09-26 04:36:37 |
+| [xdg](https://github.com/OpenPeeDeeP/xdg) | 79 | 7 | 2 | A cross platform package that follows the XDG Standard | 2017-07-20 15:58:29 | 2023-10-05 11:48:29 |
 | [gofigure](https://github.com/ian-kent/gofigure) | 67 | 9 | 1 | Go configuration made easy! | 2014-11-25 00:12:40 | 2023-09-14 04:16:44 |
 | [hocon](https://hjson.github.io/) | 65 | 15 | 10 | go implementation of lightbend's HOCON configuration library https://github.com/lightbend/config | 2020-03-01 18:20:12 | 2023-10-20 20:59:06 |
-| [xdg](https://github.com/OpenPeeDeeP/xdg) | 63 | 5 | 1 | A cross platform package that follows the XDG Standard | 2017-07-20 15:58:29 | 2021-06-18 00:46:25 |
 | [configure](https://github.com/paked/configure) | 56 | 10 | 2 | Configure is a Go package that gives you easy configuration of your project through redundancy | 2015-06-14 07:46:56 | 2023-10-04 06:04:20 |
 | [go-aws-ssm](https://github.com/PaddleHQ/go-aws-ssm) | 54 | 10 | 1 | Go package that interfaces with AWS System Manager | 2019-01-24 09:01:19 | 2023-10-05 08:02:55 |
 | [gone](https://github.com/One-com/gone) | 47 | 8 | 0 | Golang packages for writing small daemons and servers. | 2016-09-05 09:39:11 | 2023-10-26 09:27:48 |
@@ -889,33 +889,33 @@ Libraries for handling errors.
 ### File Handling
 Libraries for handling files and file systems.
 
-<sup>*Last Update: 2021-10-07 09:25:10*</sup>
+<sup>*Last Update: 2023-11-03 08:17:34*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [afero](https://github.com/spf13/afero) | 3,995 | 363 | 93 | A FileSystem Abstraction System for Go | 2014-10-28 14:19:05 | 2021-10-03 16:51:23 |
-| [pdfcpu](https://pdfcpu.io) | 2,612 | 194 | 32 | A PDF processor written in Go. | 2017-06-18 17:27:38 | 2021-10-07 02:23:25 |
-| [notify](https://github.com/rjeczalik/notify) | 685 | 104 | 40 | File system event notification library on steroids. | 2014-09-08 16:09:34 | 2021-10-06 21:36:16 |
-| [copy](https://pkg.go.dev/github.com/otiai10/copy) | 341 | 77 | 7 | Go copy directory recursively | 2017-09-01 03:18:56 | 2021-10-02 09:09:53 |
-| [bigfile](https://learnku.com/docs/bigfile) | 206 | 38 | 1 | Bigfile -- a file transfer system that supports http, rpc and ftp protocol   https://bigfile.site   | 2019-07-15 10:43:50 | 2021-09-16 02:25:05 |
-| [afs](https://github.com/viant/afs) | 156 | 14 | 1 | Abstract File Storage | 2019-08-19 18:43:38 | 2021-10-05 04:37:45 |
-| [vfs](https://github.com/C2FO/vfs) | 127 | 11 | 12 | Pluggable, extensible virtual file system for Go | 2017-08-01 18:06:14 | 2021-10-06 14:42:38 |
-| [go-csv-tag](https://github.com/artonge/go-csv-tag) | 91 | 18 | 0 | Read csv file from go using tags | 2017-06-18 15:31:16 | 2021-10-04 17:39:57 |
-| [go-exiftool](https://github.com/barasher/go-exiftool) | 82 | 20 | 3 | Golang wrapper for Exiftool : extract as much metadata as possible (EXIF, ...) from files (pictures, pdf, office documents, ...) | 2019-05-12 20:34:09 | 2021-10-05 04:49:02 |
-| [opc](https://github.com/qmuntal/opc) | 67 | 4 | 0 | Go implementation of the Open Packaging Conventions (OPC) | 2018-11-06 14:49:06 | 2021-09-24 13:20:30 |
-| [skywalker](https://github.com/dixonwille/skywalker) | 65 | 5 | 1 | A package to allow one to concurrently go through a filesystem with ease | 2017-08-01 20:08:25 | 2021-08-31 17:22:11 |
-| [tarfs](https://github.com/posener/tarfs) | 47 | 6 | 1 | An implementation of the FileSystem interface for tar files. | 2017-03-10 22:13:11 | 2021-06-30 11:02:38 |
-| [checksum](https://github.com/codingsince1985/checksum) | 42 | 11 | 0 | Compute message digest for large files in Go | 2014-11-05 09:37:00 | 2021-09-29 11:29:41 |
-| [parquet](https://github.com/parsyl/parquet) | 34 | 3 | 2 | A library for reading and writing parquet files. | 2019-01-29 21:52:30 | 2021-10-03 06:00:07 |
-| [baraka](https://github.com/xis/baraka) | 33 | 5 | 1 | a tool for handling file uploads simple | 2020-07-12 21:56:50 | 2021-08-22 11:11:59 |
-| [go-gtfs](https://github.com/artonge/go-gtfs) | 28 | 14 | 0 | Load GTFS files in golang | 2017-07-09 09:30:31 | 2021-09-26 10:25:42 |
-| [flop](https://github.com/homedepot/flop) | 26 | 5 | 1 | Go file operations library chasing GNU APIs. | 2019-03-01 13:41:39 | 2021-09-19 13:58:40 |
-| [gut](https://github.com/1set/gut) | 18 | 4 | 13 | 🍱 yet another collection of go utilities & tools | 2019-10-05 23:47:24 | 2021-08-20 02:09:32 |
-| [go-decent-copy](https://github.com/hugocarreira/go-decent-copy) | 14 | 4 | 1 | copy files for humans | 2018-10-16 07:08:24 | 2021-03-12 20:07:53 |
-| [todotxt](https://github.com/1set/todotxt) | 9 | 0 | 0 | Parser for todo.txt files in Go ✅ | 2020-11-06 17:41:59 | 2021-08-06 11:59:04 |
-| [higgs](https://github.com/dastoori/higgs) | 5 | 2 | 2 | A tiny cross-platform Go library to hide/unhide files and directories | 2020-12-13 18:33:10 | 2021-07-19 13:23:35 |
+| [pdfcpu](http://pdfcpu.io/) | 5,484 | 412 | 67 | A PDF processor written in Go. | 2017-06-18 17:27:38 | 2023-11-02 19:32:18 |
+| [afero](https://github.com/spf13/afero) | 5,438 | 524 | 124 | A FileSystem Abstraction System for Go | 2014-10-28 14:19:05 | 2023-11-02 19:52:52 |
+| [notify](https://github.com/rjeczalik/notify) | 856 | 128 | 47 | File system event notification library on steroids. | 2014-09-08 16:09:34 | 2023-10-25 09:08:39 |
+| [copy](https://pkg.go.dev/github.com/otiai10/copy) | 607 | 154 | 19 | Go copy directory recursively | 2017-09-01 03:18:56 | 2023-11-02 14:11:17 |
+| [afs](https://github.com/viant/afs) | 266 | 32 | 3 | Abstract File Storage | 2019-08-19 18:43:38 | 2023-11-02 01:58:49 |
+| [vfs](https://github.com/C2FO/vfs) | 256 | 28 | 8 | Pluggable, extensible virtual file system for Go | 2017-08-01 18:06:14 | 2023-10-28 05:45:20 |
+| [bigfile](https://learnku.com/docs/bigfile) | 243 | 47 | 3 | Bigfile -- a file transfer system that supports http, rpc and ftp protocol   https://bigfile.site   | 2019-07-15 10:43:50 | 2023-10-26 02:52:10 |
+| [go-exiftool](https://github.com/barasher/go-exiftool) | 193 | 41 | 6 | Golang wrapper for Exiftool : extract as much metadata as possible (EXIF, ...) from files (pictures, pdf, office documents, ...) | 2019-05-12 20:34:09 | 2023-11-01 01:04:57 |
+| [go-csv-tag](https://github.com/artonge/go-csv-tag) | 108 | 31 | 0 | Read csv file from go using tags | 2017-06-18 15:31:16 | 2023-07-24 03:28:19 |
+| [skywalker](https://github.com/dixonwille/skywalker) | 95 | 5 | 1 | A package to allow one to concurrently go through a filesystem with ease | 2017-08-01 20:08:25 | 2023-10-24 18:02:45 |
+| [checksum](https://github.com/codingsince1985/checksum) | 94 | 17 | 0 | Compute message digest for large files in Go | 2014-11-05 09:37:00 | 2023-11-02 01:03:14 |
+| [parquet](https://github.com/parsyl/parquet) | 85 | 12 | 1 | A library for reading and writing parquet files. | 2019-01-29 21:52:30 | 2023-08-17 11:05:19 |
+| [opc](https://github.com/qmuntal/opc) | 75 | 7 | 0 | Go implementation of the Open Packaging Conventions (OPC) | 2018-11-06 14:49:06 | 2023-09-11 17:12:49 |
+| [tarfs](https://github.com/posener/tarfs) | 56 | 9 | 1 | An implementation of the FileSystem interface for tar files. | 2017-03-10 22:13:11 | 2023-06-25 16:38:44 |
+| [baraka](https://github.com/xis/baraka) | 51 | 8 | 2 | a tool for handling file uploads simple | 2020-07-12 21:56:50 | 2023-10-24 14:50:08 |
+| [go-gtfs](https://github.com/artonge/go-gtfs) | 37 | 24 | 0 | Load GTFS files in golang | 2017-07-09 09:30:31 | 2023-07-29 18:17:44 |
+| [flop](https://github.com/homedepot/flop) | 34 | 12 | 0 | Go file operations library chasing GNU APIs. | 2019-03-01 13:41:39 | 2023-06-26 22:45:43 |
+| [gut](https://github.com/1set/gut) | 27 | 9 | 13 | 🍱 yet another collection of go utilities & tools | 2019-10-05 23:47:24 | 2023-09-05 07:27:56 |
+| [go-decent-copy](https://github.com/hugocarreira/go-decent-copy) | 21 | 8 | 1 | copy files for humans | 2018-10-16 07:08:24 | 2023-10-30 02:09:25 |
+| [todotxt](https://github.com/1set/todotxt) | 19 | 6 | 1 | Parser for todo.txt files in Go ✅ | 2020-11-06 17:41:59 | 2023-04-14 11:43:41 |
+| [higgs](https://github.com/dastoori/higgs) | 18 | 4 | 0 | A tiny cross-platform Go library to hide/unhide files and directories | 2020-12-13 18:33:10 | 2023-10-22 08:05:01 |
 </details>
 
 ### Financial
@@ -1002,24 +1002,24 @@ Libraries for building GUI Applications.
 ### GUI - Toolkits
 Libraries for building GUI Applications.
 
-<sup>*Last Update: 2021-11-25 13:59:01*</sup>
+<sup>*Last Update: 2023-11-03 08:17:54*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [fyne](https://fyne.io/) | 14,660 | 788 | 307 | Cross platform GUI in Go inspired by Material Design | 2018-02-04 22:07:16 | 2021-11-25 06:30:54 |
-| [webview](https://github.com/webview/webview) | 9,120 | 714 | 275 | Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows) | 2017-08-19 08:26:00 | 2021-11-25 02:21:14 |
-| [qt](https://github.com/therecipe/qt) | 8,919 | 704 | 341 | Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly | 2014-11-19 00:03:08 | 2021-11-25 06:21:49 |
-| [ui](https://github.com/andlabs/ui) | 8,022 | 727 | 120 | Platform-native GUI library for Go. | 2014-02-17 23:44:00 | 2021-11-23 03:55:05 |
-| [walk](https://github.com/lxn/walk) | 5,763 | 791 | 319 | A Windows GUI toolkit for the Go Programming Language | 2010-09-16 08:11:49 | 2021-11-24 01:09:15 |
-| [go-app](https://go-app.dev) | 5,537 | 259 | 38 | A package to build progressive web apps with Go programming language and WebAssembly. | 2016-10-12 00:31:33 | 2021-11-24 05:15:33 |
-| [wails](https://wails.app) | 4,778 | 235 | 32 | Create desktop apps using Go and Web Technologies. | 2018-12-15 23:14:06 | 2021-11-25 03:10:53 |
-| [go-astilectron](https://github.com/asticode/go-astilectron) | 4,118 | 293 | 46 | Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron) | 2017-04-22 07:59:15 | 2021-11-25 03:22:33 |
-| [go-sciter](https://sciter.com) | 2,268 | 243 | 81 | Golang bindings of Sciter: the Embeddable HTML/CSS/script engine for modern UI development | 2015-10-15 12:41:06 | 2021-11-25 05:59:17 |
-| [go-gtk](http://mattn.github.com/go-gtk) | 1,823 | 245 | 68 | Go binding for GTK | 2009-11-26 16:58:53 | 2021-11-19 00:17:40 |
-| [gotk3](https://github.com/gotk3/gotk3) | 1,643 | 204 | 82 | Go bindings for GTK3 | 2015-08-13 13:09:46 | 2021-11-24 15:31:52 |
-| [gowd](https://github.com/dtylman/gowd) | 334 | 40 | 3 | Build cross platform GUI apps with GO and HTML/JS/CSS (powered by nwjs) | 2017-03-29 14:50:53 | 2021-11-12 17:48:43 |
+| [fyne](https://fyne.io/) | 21,712 | 1,260 | 596 | Cross platform GUI toolkit in Go inspired by Material Design | 2018-02-04 22:07:16 | 2023-11-03 00:41:02 |
+| [wails](https://wails.io) | 18,708 | 935 | 193 | Create beautiful applications using Go | 2018-12-15 23:14:06 | 2023-11-03 00:12:38 |
+| [webview](https://webview.dev) | 11,605 | 928 | 206 | Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows). | 2017-08-19 08:26:00 | 2023-11-02 22:16:14 |
+| [qt](https://github.com/therecipe/qt) | 9,998 | 737 | 369 | Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly | 2014-11-19 00:03:08 | 2023-11-02 06:56:53 |
+| [ui](https://github.com/andlabs/ui) | 8,294 | 790 | 124 | Platform-native GUI library for Go. | 2014-02-17 23:44:00 | 2023-11-01 15:11:38 |
+| [go-app](https://go-app.dev) | 7,378 | 391 | 118 | A package to build progressive web apps with Go programming language and WebAssembly. | 2016-10-12 00:31:33 | 2023-11-02 05:59:39 |
+| [walk](https://github.com/lxn/walk) | 6,568 | 915 | 346 | A Windows GUI toolkit for the Go Programming Language | 2010-09-16 08:11:49 | 2023-10-31 20:31:51 |
+| [go-astilectron](https://github.com/asticode/go-astilectron) | 4,849 | 384 | 53 | Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron) | 2017-04-22 07:59:15 | 2023-11-02 19:08:46 |
+| [go-sciter](https://sciter.com) | 2,543 | 301 | 95 | Golang bindings of Sciter: the Embeddable HTML/CSS/script engine for modern UI development | 2015-10-15 12:41:06 | 2023-10-29 16:18:43 |
+| [go-gtk](http://mattn.github.com/go-gtk) | 2,017 | 291 | 73 | Go binding for GTK | 2009-11-26 16:58:53 | 2023-10-30 02:50:00 |
+| [gotk3](https://github.com/gotk3/gotk3) | 1,965 | 269 | 104 | Go bindings for GTK3 | 2015-08-13 13:09:46 | 2023-11-01 09:42:00 |
+| [gowd](https://github.com/dtylman/gowd) | 411 | 42 | 7 | Build cross platform GUI apps with GO and HTML/JS/CSS (powered by nwjs) | 2017-03-29 14:50:53 | 2023-10-25 17:09:32 |
 </details>
 
 ### Game Development
@@ -1098,14 +1098,14 @@ Geographic tools and servers
 ### Go Compilers
 Tools for compiling Go to other languages.
 
-<sup>*Last Update: 2023-10-05 09:12:22*</sup>
+<sup>*Last Update: 2023-11-03 08:18:31*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [gopherjs](https://github.com/gopherjs/gopherjs) | 12,124 | 601 | 186 | A compiler from Go to JavaScript for running Go code in a browser | 2013-08-27 22:23:58 | 2023-10-04 18:38:58 |
-| [tardisgo](http://tardisgo.github.io) | 428 | 33 | 5 | Golang->Haxe->CPP/CSharp/Java/JavaScript transpiler   | 2014-01-08 11:07:33 | 2023-09-21 10:00:22 |
+| [gopherjs](https://github.com/gopherjs/gopherjs) | 12,166 | 608 | 189 | A compiler from Go to JavaScript for running Go code in a browser | 2013-08-27 22:23:58 | 2023-11-02 12:53:30 |
+| [tardisgo](http://tardisgo.github.io) | 429 | 33 | 5 | Golang->Haxe->CPP/CSharp/Java/JavaScript transpiler   | 2014-01-08 11:07:33 | 2023-10-26 19:49:15 |
 | [c4go](https://github.com/Konstantin8105/c4go) | 339 | 37 | 25 | Transpiling C code to Go code | 2018-03-28 06:24:57 | 2023-09-28 10:49:21 |
 | [f4go](https://github.com/Konstantin8105/f4go) | 39 | 10 | 7 | Transpiling fortran code to golang code | 2018-07-08 17:05:43 | 2023-09-30 09:26:29 |
 </details>
