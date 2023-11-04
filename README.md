@@ -2151,17 +2151,17 @@ Libraries and tools for templating and lexing.
 ### Testing - Selenium and browser control tools
 
 
-<sup>*Last Update: 2023-10-30 20:28:26*</sup>
+<sup>*Last Update: 2023-11-04 16:10:42*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [chromedp](https://github.com/chromedp/chromedp) | 9,689 | 751 | 46 | A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol. | 2017-01-24 14:54:30 | 2023-10-30 12:02:22 |
-| [rod](https://go-rod.github.io) | 4,283 | 293 | 101 | A Devtools driver for web automation and scraping | 2020-01-21 20:09:45 | 2023-10-30 07:47:06 |
-| [selenoid](https://aerokube.com/selenoid/latest/) | 2,425 | 318 | 264 | Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary. | 2016-08-22 09:11:16 | 2023-10-28 09:02:31 |
-| [playwright-go](https://playwright-community.github.io/playwright-go/) | 1,504 | 129 | 41 | Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API. | 2020-08-16 12:46:14 | 2023-10-30 12:51:37 |
-| [cdp](https://github.com/mafredri/cdp) | 695 | 46 | 13 | Package cdp provides type-safe bindings for the Chrome DevTools Protocol (CDP), written in the Go programming language. | 2017-03-12 10:25:41 | 2023-10-27 15:02:04 |
+| [chromedp](https://github.com/chromedp/chromedp) | 9,706 | 753 | 45 | A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol. | 2017-01-24 14:54:30 | 2023-11-04 08:26:37 |
+| [rod](https://go-rod.github.io) | 4,295 | 292 | 102 | A Devtools driver for web automation and scraping | 2020-01-21 20:09:45 | 2023-11-03 08:16:21 |
+| [selenoid](https://aerokube.com/selenoid/latest/) | 2,426 | 318 | 262 | Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary. | 2016-08-22 09:11:16 | 2023-11-03 13:41:28 |
+| [playwright-go](https://playwright-community.github.io/playwright-go/) | 1,513 | 129 | 40 | Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API. | 2020-08-16 12:46:14 | 2023-11-03 17:13:14 |
+| [cdp](https://github.com/mafredri/cdp) | 697 | 45 | 13 | Package cdp provides type-safe bindings for the Chrome DevTools Protocol (CDP), written in the Go programming language. | 2017-03-12 10:25:41 | 2023-11-01 21:19:05 |
 | [ggr](https://aerokube.com/ggr/latest/) | 301 | 69 | 13 | A lightweight load balancer used to create big Selenium clusters | 2016-06-16 15:33:24 | 2023-09-22 12:06:35 |
 </details>
 
@@ -2799,14 +2799,14 @@ Full stack web frameworks.
 ### Windows
 
 
-<sup>*Last Update: 2023-10-26 07:53:41*</sup>
+<sup>*Last Update: 2023-11-04 16:10:46*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [go-ole](https://github.com/go-ole/go-ole) | 1,033 | 223 | 73 | win32 ole implementation for golang | 2011-01-21 12:45:20 | 2023-10-25 08:21:13 |
-| [d3d9](https://github.com/gonutz/d3d9) | 149 | 13 | 1 | Direct3D9 wrapper for Go. | 2015-12-12 21:24:38 | 2023-10-12 23:59:24 |
+| [go-ole](https://github.com/go-ole/go-ole) | 1,037 | 224 | 72 | win32 ole implementation for golang | 2011-01-21 12:45:20 | 2023-11-02 09:41:26 |
+| [d3d9](https://github.com/gonutz/d3d9) | 150 | 13 | 1 | Direct3D9 wrapper for Go. | 2015-12-12 21:24:38 | 2023-11-01 09:38:18 |
 | [gosddl](https://github.com/MonaxGT/gosddl) | 10 | 2 | 0 | GoSDDL converter | 2018-12-04 08:36:11 | 2023-04-23 09:37:32 |
 </details>
 
