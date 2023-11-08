@@ -1,8 +1,8 @@
 {
-	"last_update": 1699234346,
+	"last_update": 1699452123,
 	"rate_limit": 60,
 	"rate_limit_remaining": 0,
-	"rate_limit_reset": 1699237924,
+	"rate_limit_reset": 1699455669,
 	"categories": [
 		{
 			"name": "Audio and Music",
@@ -372,7 +372,7 @@
 		{
 			"name": "Utilities",
 			"description": "General utilities and tools to make your life easier.",
-			"last_update": 1633573501
+			"last_update": 1699452064
 		},
 		{
 			"name": "Validation",
