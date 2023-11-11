@@ -1,7 +1,7 @@
 {
 	"name": "OpenGL",
 	"index_last_check": 0,
-	"last_update": 1696317143,
+	"last_update": 1699707170,
 	"libraries": [
 		{
 			"id": 10151943,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/go-gl/glfw",
 			"homepage": "",
 			"created_at": "2013-05-19T06:38:45Z",
-			"updated_at": "2023-09-30T06:52:42Z",
+			"updated_at": "2023-11-10T16:53:32Z",
 			"svn_url": "https://github.com/go-gl/glfw",
-			"stargazers_count": 1437,
-			"watchers_count": 1437,
-			"forks_count": 194,
-			"open_issues_count": 24
+			"stargazers_count": 1451,
+			"watchers_count": 1451,
+			"forks_count": 208,
+			"open_issues_count": 25
 		},
 		{
 			"id": 31151120,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/go-gl/gl",
 			"homepage": "",
 			"created_at": "2015-02-22T03:29:45Z",
-			"updated_at": "2023-10-02T13:27:41Z",
+			"updated_at": "2023-11-04T20:06:23Z",
 			"svn_url": "https://github.com/go-gl/gl",
-			"stargazers_count": 986,
-			"watchers_count": 986,
-			"forks_count": 65,
-			"open_issues_count": 16
+			"stargazers_count": 992,
+			"watchers_count": 992,
+			"forks_count": 68,
+			"open_issues_count": 17
 		},
 		{
 			"id": 8180452,
@@ -38,12 +38,12 @@
 			"html_url": "https://github.com/go-gl/mathgl",
 			"homepage": "",
 			"created_at": "2013-02-13T14:18:55Z",
-			"updated_at": "2023-09-17T14:11:56Z",
+			"updated_at": "2023-11-03T09:03:25Z",
 			"svn_url": "https://github.com/go-gl/mathgl",
-			"stargazers_count": 504,
-			"watchers_count": 504,
-			"forks_count": 62,
-			"open_issues_count": 9
+			"stargazers_count": 509,
+			"watchers_count": 509,
+			"forks_count": 65,
+			"open_issues_count": 10
 		},
 		{
 			"id": 35805166,
@@ -52,10 +52,10 @@
 			"html_url": "https://github.com/goxjs/gl",
 			"homepage": "",
 			"created_at": "2015-05-18T08:10:15Z",
-			"updated_at": "2023-09-17T18:54:57Z",
+			"updated_at": "2023-10-04T08:25:18Z",
 			"svn_url": "https://github.com/goxjs/gl",
-			"stargazers_count": 167,
-			"watchers_count": 167,
+			"stargazers_count": 168,
+			"watchers_count": 168,
 			"forks_count": 28,
 			"open_issues_count": 8
 		},
@@ -70,7 +70,7 @@
 			"svn_url": "https://github.com/goxjs/glfw",
 			"stargazers_count": 79,
 			"watchers_count": 79,
-			"forks_count": 24,
+			"forks_count": 26,
 			"open_issues_count": 6
 		},
 		{

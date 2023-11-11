@@ -377,7 +377,7 @@ Libraries for configuration parsing.
 ### Continuous Integration
 Tools for help with continuous integration.
 
-<sup>*Last Update: 2023-11-09 08:25:35*</sup>
+<sup>*Last Update: 2023-11-11 19:52:50*</sup>
 <details>
   <summary>Show Table</summary>
 
@@ -1409,72 +1409,72 @@ Libraries for Machine Learning.
 ### Messaging
 Libraries that implement messaging systems.
 
-<sup>*Last Update: 2021-10-13 09:25:01*</sup>
+<sup>*Last Update: 2023-11-11 19:52:23*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [sarama](https://shopify.github.io/sarama) | 7,714 | 1,340 | 191 | Sarama is a Go library for Apache Kafka 0.8, and up. | 2013-07-05 18:52:38 | 2021-10-12 09:59:58 |
-| [gorush](https://github.com/appleboy/gorush) | 5,775 | 647 | 43 | A push notification server written in Go (Golang). | 2016-03-22 07:15:20 | 2021-10-12 23:46:40 |
-| [machinery](https://github.com/RichardKnop/machinery) | 5,647 | 704 | 171 | Machinery is an asynchronous task queue/job queue based on distributed message passing. | 2015-04-05 19:46:34 | 2021-10-13 01:31:17 |
-| [centrifugo](https://centrifugal.dev) | 5,462 | 459 | 10 | Scalable real-time messaging server in a language-agnostic way. Set up once and forever. | 2015-03-31 20:26:49 | 2021-10-12 18:29:59 |
-| [go-socket.io](https://github.com/googollee/go-socket.io) | 4,289 | 696 | 86 | socket.io library for golang, a realtime application framework. | 2013-07-13 13:04:38 | 2021-10-12 16:28:10 |
-| [nats.go](https://nats.io) | 3,582 | 460 | 42 | Golang client for NATS, the cloud native messaging system. | 2012-08-15 12:54:59 | 2021-10-12 16:32:06 |
-| [benthos](https://www.benthos.dev) | 3,443 | 320 | 140 | Fancy stream processing made operationally mundane | 2016-03-22 01:18:48 | 2021-10-12 13:05:03 |
-| [confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) | 2,929 | 450 | 173 | Confluent's Apache Kafka Golang client | 2016-07-12 22:23:34 | 2021-10-13 01:49:44 |
-| [apns2](https://github.com/sideshow/apns2) | 2,560 | 283 | 24 | ⚡ HTTP/2 Apple Push Notification Service (APNs) push provider for Go — Send push notifications to iOS, tvOS, Safari and OSX apps, using the APNs HTTP/2 protocol. | 2016-01-05 00:56:53 | 2021-10-12 12:22:47 |
-| [mercure](https://mercure.rocks) | 2,558 | 180 | 11 | Server-sent live updates: protocol and reference implementation | 2018-07-14 13:47:14 | 2021-10-12 12:39:08 |
-| [melody](https://github.com/olahol/melody) | 2,252 | 269 | 25 | :notes: Minimalist websocket framework for Go | 2015-05-13 20:38:32 | 2021-10-11 22:18:03 |
-| [gopush-cluster](https://github.com/Terry-Mao/gopush-cluster) | 2,005 | 555 | 4 | Golang push server cluster | 2013-12-27 08:56:10 | 2021-10-08 07:37:41 |
-| [go-nsq](https://github.com/nsqio/go-nsq) | 1,984 | 380 | 22 | The official Go package for NSQ | 2013-08-29 01:18:32 | 2021-10-12 17:34:15 |
-| [asynq](https://github.com/hibiken/asynq) | 1,631 | 143 | 18 | Asynq: simple, reliable, and efficient distributed task queue in Go | 2019-11-15 05:17:55 | 2021-10-12 16:01:20 |
-| [uniqush-push](http://uniqush.org) | 1,280 | 198 | 72 | Uniqush is a free and open source software system which provides a unified push service for server side notification to apps on mobile devices. | 2011-08-29 08:42:37 | 2021-10-11 15:59:40 |
-| [Beaver](https://clivern.github.io/Beaver/) | 1,173 | 63 | 4 | 💨 A real time messaging system to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps. | 2018-10-20 21:10:43 | 2021-10-11 16:48:13 |
-| [EventBus](https://github.com/asaskevich/EventBus) | 999 | 119 | 17 | [Go] Lightweight eventbus with async compatibility for Go | 2014-12-19 16:38:39 | 2021-10-12 12:26:17 |
-| [zmq4](http://uniqush.org) | 930 | 151 | 42 | A Go interface to ZeroMQ version 4 | 2013-10-18 11:48:51 | 2021-10-11 20:25:06 |
-| [gollum](http://gollum.readthedocs.org/en/latest/) | 906 | 73 | 20 | An n:m message multiplexer written in Go | 2015-06-20 21:51:20 | 2021-10-09 18:31:07 |
-| [dbus](https://github.com/godbus/dbus) | 622 | 154 | 48 | Native Go bindings for D-Bus | 2014-03-27 19:07:41 | 2021-10-07 18:15:13 |
-| [golongpoll](https://github.com/jcuga/golongpoll) | 576 | 45 | 1 | golang long polling library.  Makes web pub-sub easy via HTTP long-poll servers and clients :smiley: :coffee: :computer: | 2015-11-02 00:32:56 | 2021-10-08 02:44:07 |
-| [mangos](https://github.com/nanomsg/mangos) | 447 | 60 | 27 | mangos is a pure Golang implementation of nanomsg's "Scalablilty Protocols" | 2018-10-12 17:35:46 | 2021-10-12 02:10:36 |
-| [emitter](https://github.com/olebedev/emitter) | 410 | 32 | 4 | Emits events in Go way, with wildcard, predicates, cancellation possibilities and many other good wins | 2015-11-10 20:56:36 | 2021-10-12 16:54:04 |
-| [glue](https://github.com/desertbit/glue) | 385 | 29 | 6 | Glue - Robust Go and Javascript Socket Library (Alternative to Socket.io) | 2015-06-07 10:21:15 | 2021-09-12 12:17:32 |
-| [pubsub](https://github.com/cskr/pubsub) | 359 | 55 | 1 | A simple pubsub package for go. | 2012-04-01 06:31:43 | 2021-10-06 19:07:20 |
-| [bus](https://pkg.go.dev/github.com/mustafaturan/bus/v3?tab=doc) | 224 | 15 | 0 | 🔊Minimalist message bus implementation for internal communication with zero-allocation magic on Emit | 2019-04-27 06:41:53 | 2021-10-02 00:41:00 |
-| [message-bus](http://rafallorenz.com/message-bus) | 194 | 30 | 2 | Go simple async message bus | 2017-10-04 09:18:34 | 2021-10-12 01:35:06 |
-| [rabtap](https://github.com/jandelgado/rabtap) | 189 | 13 | 6 | RabbitMQ wire tap and swiss army knife | 2017-11-11 11:32:39 | 2021-10-10 19:51:51 |
-| [guble](https://github.com/smancke/guble) | 148 | 20 | 5 | websocket based messaging server written in golang | 2015-11-15 20:32:42 | 2021-09-07 13:09:18 |
-| [hub](https://github.com/leandro-lugaresi/hub) | 111 | 10 | 2 | :incoming_envelope: A fast Message/Event Hub using publish/subscribe pattern with support for topics like* rabbitMQ exchanges for Go applications | 2018-04-13 23:47:13 | 2021-09-30 05:07:46 |
-| [oplog](https://github.com/dailymotion/oplog) | 108 | 11 | 2 | A generic oplog/replication system for microservices | 2014-11-06 09:11:15 | 2021-10-10 07:33:11 |
-| [rabbus](https://github.com/rafaeljesus/rabbus) | 92 | 22 | 6 | A tiny wrapper over amqp exchanges and queues 🚌 ✨ | 2017-05-07 08:51:11 | 2021-10-04 10:26:25 |
-| [drone-line](https://github.com/appleboy/drone-line) | 76 | 16 | 0 | Sending line notifications using a binary, docker or Drone CI. | 2016-09-13 05:21:44 | 2021-09-17 01:36:19 |
-| [nsq-event-bus](https://github.com/rafaeljesus/nsq-event-bus) | 69 | 12 | 2 | A tiny wrapper around NSQ topic and channel :rocket: | 2017-01-15 22:05:13 | 2021-08-30 01:48:37 |
-| [go-mq](https://github.com/cheshir/go-mq) | 69 | 12 | 3 | Declare AMQP entities like queues, producers, and consumers in a declarative way. Can be used to work with RabbitMQ. | 2017-06-19 16:16:30 | 2021-10-05 04:56:38 |
-| [redisqueue](https://godoc.org/github.com/robinjoseph08/redisqueue) | 64 | 18 | 3 | redisqueue provides a producer and consumer of a queue that uses Redis streams | 2019-07-07 04:36:54 | 2021-09-25 02:45:26 |
-| [RapidMQ](https://github.com/sybrexsys/RapidMQ) | 62 | 9 | 1 | RapidMQ is a pure, extremely productive, lightweight and reliable library for managing of the local messages queue | 2016-10-04 21:07:48 | 2021-06-02 05:57:13 |
-| [commander](https://github.com/jeroenrinzema/commander) | 57 | 3 | 2 | Build event-driven and event streaming applications with ease | 2018-04-20 12:30:51 | 2021-10-12 06:49:07 |
-| [go-notify](https://github.com/TheCreeper/go-notify) | 55 | 9 | 1 | Package notify provides an implementation of the Gnome DBus Notifications Specification. | 2015-03-01 19:21:44 | 2021-09-05 00:31:04 |
-| [go-res](https://github.com/jirenius/go-res) | 51 | 6 | 6 | RES Service protocol library for Go | 2018-07-15 09:10:11 | 2021-10-12 10:14:11 |
-| [event](https://github.com/agoalofalife/event) | 41 | 8 | 0 | The implementation of the pattern observer | 2017-07-02 12:19:56 | 2021-07-07 02:57:49 |
-| [hare](https://github.com/leozz37/hare) | 30 | 4 | 0 | 🐇  Easy to use socket lib for Golang and CLI tool | 2020-12-01 22:30:27 | 2021-09-21 13:55:39 |
-| [ami](https://github.com/kak-tus/ami) | 21 | 6 | 0 | Go client to reliable queues based on Redis Cluster Streams | 2018-10-27 10:38:16 | 2021-07-24 13:55:05 |
-| [gosd](https://github.com/alexsniffin/gosd) | 18 | 2 | 0 | A library for scheduling when to dispatch a message to a channel | 2020-05-17 23:19:51 | 2021-05-24 02:42:11 |
-| [go-vitotrol](https://godoc.org/github.com/maxatome/go-vitotrol) | 16 | 3 | 1 | golang client library to Viessmann Vitotrol web service | 2016-11-03 19:59:43 | 2021-02-19 21:40:43 |
-| [rmqconn](https://github.com/sbabiv/rmqconn) | 14 | 0 | 0 | RabbitMQ Reconnection client | 2019-01-14 16:05:44 | 2021-10-09 03:50:00 |
-| [jazz](https://github.com/socifi/jazz) | 13 | 1 | 1 | Abstraction layer for simple rabbitMQ connection, messaging and administration | 2018-10-22 12:28:15 | 2021-08-10 09:13:37 |
-| [gaurun-client](https://github.com/osamingo/gaurun-client) | 9 | 2 | 0 | Gaurun Client written in Go | 2017-06-29 02:50:51 | 2021-06-12 19:53:09 |
+| [sarama](https://github.com/IBM/sarama) | 10,510 | 1,752 | 180 | Sarama is a Go library for Apache Kafka. | 2013-07-05 18:52:38 | 2023-11-11 07:56:00 |
+| [asynq](https://github.com/hibiken/asynq) | 7,508 | 580 | 178 | Simple, reliable, and efficient distributed task queue in Go | 2019-11-15 05:17:55 | 2023-11-11 12:04:33 |
+| [centrifugo](https://centrifugal.dev) | 7,488 | 553 | 10 | Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably. Set up once and forever. | 2015-03-31 20:26:49 | 2023-11-10 17:51:09 |
+| [gorush](https://github.com/appleboy/gorush) | 7,354 | 864 | 49 | A push notification server written in Go (Golang). | 2016-03-22 07:15:20 | 2023-11-11 12:10:37 |
+| [machinery](https://github.com/RichardKnop/machinery) | 7,078 | 885 | 225 | Machinery is an asynchronous task queue/job queue based on distributed message passing. | 2015-04-05 19:46:34 | 2023-11-11 12:25:09 |
+| [benthos](https://www.benthos.dev) | 6,782 | 662 | 401 | Fancy stream processing made operationally mundane | 2016-03-22 01:18:48 | 2023-11-11 12:29:17 |
+| [go-socket.io](https://github.com/googollee/go-socket.io) | 5,385 | 859 | 123 | socket.io library for golang, a realtime application framework. | 2013-07-13 13:04:38 | 2023-11-10 14:27:46 |
+| [nats.go](https://nats.io) | 4,861 | 672 | 122 | Golang client for NATS, the cloud native messaging system. | 2012-08-15 12:54:59 | 2023-11-11 11:42:54 |
+| [confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) | 4,204 | 653 | 232 | Confluent's Apache Kafka Golang client | 2016-07-12 22:23:34 | 2023-11-11 08:38:58 |
+| [mercure](https://mercure.rocks) | 3,525 | 267 | 22 | An open, easy, fast, reliable and battery-efficient solution for real-time communications | 2018-07-14 13:47:14 | 2023-11-11 10:25:32 |
+| [melody](https://github.com/olahol/melody) | 3,327 | 383 | 11 | :notes: Minimalist websocket framework for Go | 2015-05-13 20:38:32 | 2023-11-10 08:45:40 |
+| [apns2](https://github.com/sideshow/apns2) | 2,879 | 328 | 36 | ⚡ HTTP/2 Apple Push Notification Service (APNs) push provider for Go — Send push notifications to iOS, tvOS, Safari and OSX apps, using the APNs HTTP/2 protocol. | 2016-01-05 00:56:53 | 2023-11-11 03:23:42 |
+| [go-nsq](https://github.com/nsqio/go-nsq) | 2,476 | 468 | 26 | The official Go package for NSQ | 2013-08-29 01:18:32 | 2023-11-11 05:11:21 |
+| [gopush-cluster](https://github.com/Terry-Mao/gopush-cluster) | 2,077 | 609 | 5 | Golang push server cluster | 2013-12-27 08:56:10 | 2023-10-26 02:28:17 |
+| [EventBus](https://github.com/asaskevich/EventBus) | 1,533 | 238 | 27 | [Go] Lightweight eventbus with async compatibility for Go | 2014-12-19 16:38:39 | 2023-11-08 07:27:43 |
+| [uniqush-push](http://uniqush.org) | 1,516 | 205 | 73 | Uniqush is a free and open source software system which provides a unified push service for server side notification to apps on mobile devices. | 2011-08-29 08:42:37 | 2023-11-08 19:53:19 |
+| [Beaver](https://clivern.github.io/Beaver/) | 1,475 | 82 | 10 | 💨 A real time messaging system to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps. | 2018-10-20 21:10:43 | 2023-11-06 00:23:23 |
+| [zmq4](http://uniqush.org) | 1,089 | 166 | 51 | A Go interface to ZeroMQ version 4 | 2013-10-18 11:48:51 | 2023-11-08 09:17:07 |
+| [gollum](http://gollum.readthedocs.org/en/latest/) | 934 | 80 | 22 | An n:m message multiplexer written in Go | 2015-06-20 21:51:20 | 2023-10-23 11:10:13 |
+| [dbus](https://github.com/godbus/dbus) | 896 | 218 | 43 | Native Go bindings for D-Bus | 2014-03-27 19:07:41 | 2023-10-30 19:35:46 |
+| [golongpoll](https://github.com/jcuga/golongpoll) | 640 | 61 | 0 | golang long polling library.  Makes web pub-sub easy via HTTP long-poll servers and clients :smiley: :coffee: :computer: | 2015-11-02 00:32:56 | 2023-11-09 07:43:36 |
+| [mangos](https://github.com/nanomsg/mangos) | 610 | 75 | 26 | mangos is a pure Golang implementation of nanomsg's "Scalablilty Protocols" | 2018-10-12 17:35:46 | 2023-11-01 22:51:17 |
+| [emitter](https://github.com/olebedev/emitter) | 483 | 35 | 4 | Emits events in Go way, with wildcard, predicates, cancellation possibilities and many other good wins | 2015-11-10 20:56:36 | 2023-11-09 07:42:15 |
+| [glue](https://github.com/desertbit/glue) | 408 | 32 | 5 | Glue - Robust Go and Javascript Socket Library (Alternative to Socket.io) | 2015-06-07 10:21:15 | 2023-09-11 06:48:22 |
+| [pubsub](https://github.com/cskr/pubsub) | 391 | 65 | 2 | A simple pubsub package for go. | 2012-04-01 06:31:43 | 2023-10-28 14:04:10 |
+| [bus](https://pkg.go.dev/github.com/mustafaturan/bus/v3?tab=doc) | 316 | 21 | 0 | 🔊Minimalist message bus implementation for internal communication with zero-allocation magic on Emit | 2019-04-27 06:41:53 | 2023-10-26 11:19:18 |
+| [message-bus](http://rafallorenz.com/message-bus) | 261 | 43 | 2 | Go simple async message bus | 2017-10-04 09:18:34 | 2023-10-26 02:05:31 |
+| [rabtap](https://github.com/jandelgado/rabtap) | 247 | 15 | 2 | RabbitMQ wire tap and swiss army knife | 2017-11-11 11:32:39 | 2023-10-27 10:43:04 |
+| [guble](https://github.com/smancke/guble) | 155 | 23 | 5 | websocket based messaging server written in golang | 2015-11-15 20:32:42 | 2023-03-14 21:05:06 |
+| [hub](https://github.com/leandro-lugaresi/hub) | 135 | 17 | 2 | :incoming_envelope: A fast Message/Event Hub using publish/subscribe pattern with support for topics like* rabbitMQ exchanges for Go applications | 2018-04-13 23:47:13 | 2023-11-03 06:41:56 |
+| [redisqueue](https://godoc.org/github.com/robinjoseph08/redisqueue) | 114 | 50 | 7 | redisqueue provides a producer and consumer of a queue that uses Redis streams | 2019-07-07 04:36:54 | 2023-10-25 16:52:04 |
+| [oplog](https://github.com/dailymotion/oplog) | 113 | 13 | 2 | A generic oplog/replication system for microservices | 2014-11-06 09:11:15 | 2023-08-20 15:14:48 |
+| [rabbus](https://github.com/rafaeljesus/rabbus) | 97 | 23 | 6 | A tiny wrapper over amqp exchanges and queues 🚌 ✨ | 2017-05-07 08:51:11 | 2023-06-07 09:41:54 |
+| [go-mq](https://github.com/cheshir/go-mq) | 88 | 18 | 1 | Declare AMQP entities like queues, producers, and consumers in a declarative way. Can be used to work with RabbitMQ. | 2017-06-19 16:16:30 | 2023-09-20 10:31:26 |
+| [drone-line](https://github.com/appleboy/drone-line) | 78 | 17 | 2 | Sending line notifications using a binary, docker or Drone CI. | 2016-09-13 05:21:44 | 2023-10-23 01:17:51 |
+| [nsq-event-bus](https://github.com/rafaeljesus/nsq-event-bus) | 77 | 17 | 2 | A tiny wrapper around NSQ topic and channel :rocket: | 2017-01-15 22:05:13 | 2023-06-18 10:05:11 |
+| [RapidMQ](https://github.com/sybrexsys/RapidMQ) | 67 | 12 | 1 | RapidMQ is a pure, extremely productive, lightweight and reliable library for managing of the local messages queue | 2016-10-04 21:07:48 | 2023-10-08 23:04:12 |
+| [go-notify](https://github.com/TheCreeper/go-notify) | 67 | 11 | 1 | Package notify provides an implementation of the Gnome DBus Notifications Specification. | 2015-03-01 19:21:44 | 2023-06-28 17:14:23 |
+| [commander](https://github.com/jeroenrinzema/commander) | 65 | 5 | 2 | Build event-driven and event streaming applications with ease | 2018-04-20 12:30:51 | 2023-05-25 08:42:55 |
+| [go-res](https://github.com/jirenius/go-res) | 63 | 8 | 8 | RES Service protocol library for Go | 2018-07-15 09:10:11 | 2023-06-17 06:55:57 |
+| [event](https://github.com/agoalofalife/event) | 54 | 12 | 0 | The implementation of the pattern observer | 2017-07-02 12:19:56 | 2023-07-26 13:36:32 |
+| [hare](https://github.com/leozz37/hare) | 51 | 13 | 1 | 🐇  CLI tool for websockets and Go package | 2020-12-01 22:30:27 | 2023-08-21 05:55:10 |
+| [ami](https://github.com/kak-tus/ami) | 27 | 8 | 0 | Go client to reliable queues based on Redis Cluster Streams | 2018-10-27 10:38:16 | 2023-10-31 09:43:34 |
+| [go-vitotrol](https://godoc.org/github.com/maxatome/go-vitotrol) | 23 | 9 | 2 | golang client library to Viessmann Vitotrol web service | 2016-11-03 19:59:43 | 2023-10-23 12:05:44 |
+| [gosd](https://github.com/alexsniffin/gosd) | 21 | 5 | 0 | A library for scheduling when to dispatch a message to a channel | 2020-05-17 23:19:51 | 2023-08-09 21:06:16 |
+| [rmqconn](https://github.com/sbabiv/rmqconn) | 21 | 2 | 0 | RabbitMQ Reconnection client | 2019-01-14 16:05:44 | 2023-11-04 03:48:32 |
+| [jazz](https://github.com/socifi/jazz) | 18 | 4 | 1 | Abstraction layer for simple rabbitMQ connection, messaging and administration | 2018-10-22 12:28:15 | 2023-06-28 09:06:17 |
+| [gaurun-client](https://github.com/osamingo/gaurun-client) | 11 | 4 | 0 | Gaurun Client written in Go | 2017-06-29 02:50:51 | 2022-09-27 08:41:03 |
 </details>
 
 ### Microsoft Office
 
 
-<sup>*Last Update: 2023-10-31 07:51:59*</sup>
+<sup>*Last Update: 2023-11-11 19:52:53*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [unioffice](https://unidoc.io/unioffice/) | 3,976 | 441 | 30 | Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents | 2017-08-29 01:25:48 | 2023-10-30 10:54:45 |
+| [unioffice](https://unidoc.io/unioffice/) | 3,992 | 442 | 32 | Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents | 2017-08-29 01:25:48 | 2023-11-10 06:27:54 |
 </details>
 
 ### Microsoft Office - Microsoft Excel
@@ -1790,17 +1790,17 @@ Libraries that implement Object-Relational Mapping or datamapping techniques.
 ### OpenGL
 Libraries for using OpenGL in Go.
 
-<sup>*Last Update: 2023-10-03 14:12:23*</sup>
+<sup>*Last Update: 2023-11-11 19:52:50*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [glfw](https://github.com/go-gl/glfw) | 1,437 | 194 | 24 | Go bindings for GLFW 3 | 2013-05-19 06:38:45 | 2023-09-30 06:52:42 |
-| [gl](https://github.com/go-gl/gl) | 986 | 65 | 16 | Go bindings for OpenGL (generated via glow) | 2015-02-22 03:29:45 | 2023-10-02 13:27:41 |
-| [mathgl](https://github.com/go-gl/mathgl) | 504 | 62 | 9 | A pure Go 3D math library. | 2013-02-13 14:18:55 | 2023-09-17 14:11:56 |
-| [gl](https://github.com/goxjs/gl) | 167 | 28 | 8 | Go cross-platform OpenGL bindings. | 2015-05-18 08:10:15 | 2023-09-17 18:54:57 |
-| [glfw](https://github.com/goxjs/glfw) | 79 | 24 | 6 | Go cross-platform glfw library for creating an OpenGL context and receiving events. | 2014-12-27 22:40:24 | 2023-09-17 18:54:49 |
+| [glfw](https://github.com/go-gl/glfw) | 1,451 | 208 | 25 | Go bindings for GLFW 3 | 2013-05-19 06:38:45 | 2023-11-10 16:53:32 |
+| [gl](https://github.com/go-gl/gl) | 992 | 68 | 17 | Go bindings for OpenGL (generated via glow) | 2015-02-22 03:29:45 | 2023-11-04 20:06:23 |
+| [mathgl](https://github.com/go-gl/mathgl) | 509 | 65 | 10 | A pure Go 3D math library. | 2013-02-13 14:18:55 | 2023-11-03 09:03:25 |
+| [gl](https://github.com/goxjs/gl) | 168 | 28 | 8 | Go cross-platform OpenGL bindings. | 2015-05-18 08:10:15 | 2023-10-04 08:25:18 |
+| [glfw](https://github.com/goxjs/glfw) | 79 | 26 | 6 | Go cross-platform glfw library for creating an OpenGL context and receiving events. | 2014-12-27 22:40:24 | 2023-09-17 18:54:49 |
 | [go-glmatrix](https://github.com/technohippy/go-glmatrix) | 7 | 3 | 0 | go-glmatrix is a golang version of glMatrix, which is "designed to perform vector and matrix operations stupidly fast". | 2020-07-02 13:40:40 | 2023-03-04 15:15:00 |
 </details>
 
