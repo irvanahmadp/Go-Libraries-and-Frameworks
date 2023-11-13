@@ -1,8 +1,8 @@
 {
-	"last_update": 1699794718,
+	"last_update": 1699886966,
 	"rate_limit": 60,
 	"rate_limit_remaining": 0,
-	"rate_limit_reset": 1699798286,
+	"rate_limit_reset": 1699890504,
 	"categories": [
 		{
 			"name": "Audio and Music",
@@ -12,7 +12,7 @@
 		{
 			"name": "Authentication and OAuth",
 			"description": "Libraries for implementing authentications schemes.",
-			"last_update": 1637823548
+			"last_update": 1699886902
 		},
 		{
 			"name": "Bot Building",
@@ -32,7 +32,7 @@
 		{
 			"name": "Command Line - Advanced Console UIs",
 			"description": "Libraries for building Console Applications and Console User Interfaces.",
-			"last_update": 1696039714
+			"last_update": 1699886906
 		},
 		{
 			"name": "Command Line - Standard CLI",
@@ -407,7 +407,7 @@
 		{
 			"name": "Web Frameworks - Routers",
 			"description": "",
-			"last_update": 1696039752
+			"last_update": 1699886930
 		},
 		{
 			"name": "WebAssembly",

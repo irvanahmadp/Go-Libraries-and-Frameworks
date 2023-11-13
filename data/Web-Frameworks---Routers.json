@@ -1,7 +1,7 @@
 {
 	"name": "Web Frameworks - Routers",
 	"index_last_check": 0,
-	"last_update": 1696039752,
+	"last_update": 1699886930,
 	"libraries": [
 		{
 			"id": 6051812,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/gorilla/mux",
 			"homepage": "https://gorilla.github.io",
 			"created_at": "2012-10-02T21:32:24Z",
-			"updated_at": "2023-09-29T19:01:45Z",
+			"updated_at": "2023-11-13T08:21:13Z",
 			"svn_url": "https://github.com/gorilla/mux",
-			"stargazers_count": 19238,
-			"watchers_count": 19238,
-			"forks_count": 1807,
-			"open_issues_count": 17
+			"stargazers_count": 19458,
+			"watchers_count": 19458,
+			"forks_count": 1820,
+			"open_issues_count": 19
 		},
 		{
 			"id": 14956897,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/julienschmidt/httprouter",
 			"homepage": "https://pkg.go.dev/github.com/julienschmidt/httprouter",
 			"created_at": "2013-12-05T15:10:55Z",
-			"updated_at": "2023-09-29T17:35:09Z",
+			"updated_at": "2023-11-13T05:52:20Z",
 			"svn_url": "https://github.com/julienschmidt/httprouter",
-			"stargazers_count": 15802,
-			"watchers_count": 15802,
-			"forks_count": 1460,
-			"open_issues_count": 84
+			"stargazers_count": 15899,
+			"watchers_count": 15899,
+			"forks_count": 1468,
+			"open_issues_count": 87
 		},
 		{
 			"id": 44344606,
@@ -38,12 +38,12 @@
 			"html_url": "https://github.com/go-chi/chi",
 			"homepage": "https://go-chi.io",
 			"created_at": "2015-10-15T20:46:29Z",
-			"updated_at": "2023-09-30T00:22:28Z",
+			"updated_at": "2023-11-13T11:58:41Z",
 			"svn_url": "https://github.com/go-chi/chi",
-			"stargazers_count": 15414,
-			"watchers_count": 15414,
-			"forks_count": 947,
-			"open_issues_count": 65
+			"stargazers_count": 15798,
+			"watchers_count": 15798,
+			"forks_count": 972,
+			"open_issues_count": 59
 		},
 		{
 			"id": 14454569,
@@ -52,12 +52,12 @@
 			"html_url": "https://github.com/gocraft/web",
 			"homepage": "",
 			"created_at": "2013-11-16T20:48:20Z",
-			"updated_at": "2023-09-24T14:43:27Z",
+			"updated_at": "2023-11-03T08:27:31Z",
 			"svn_url": "https://github.com/gocraft/web",
-			"stargazers_count": 1501,
-			"watchers_count": 1501,
-			"forks_count": 151,
-			"open_issues_count": 23
+			"stargazers_count": 1502,
+			"watchers_count": 1502,
+			"forks_count": 163,
+			"open_issues_count": 24
 		},
 		{
 			"id": 26840153,
@@ -66,10 +66,10 @@
 			"html_url": "https://github.com/go-zoo/bone",
 			"homepage": "http://go-zoo.github.io/bone",
 			"created_at": "2014-11-19T02:16:36Z",
-			"updated_at": "2023-09-27T05:13:02Z",
+			"updated_at": "2023-11-04T12:26:12Z",
 			"svn_url": "https://github.com/go-zoo/bone",
-			"stargazers_count": 1292,
-			"watchers_count": 1292,
+			"stargazers_count": 1294,
+			"watchers_count": 1294,
 			"forks_count": 90,
 			"open_issues_count": 3
 		},
@@ -80,10 +80,10 @@
 			"html_url": "https://github.com/goji/goji",
 			"homepage": "https://goji.io",
 			"created_at": "2015-11-16T00:52:41Z",
-			"updated_at": "2023-09-23T20:30:10Z",
+			"updated_at": "2023-10-26T10:46:44Z",
 			"svn_url": "https://github.com/goji/goji",
-			"stargazers_count": 946,
-			"watchers_count": 946,
+			"stargazers_count": 948,
+			"watchers_count": 948,
 			"forks_count": 72,
 			"open_issues_count": 6
 		},
@@ -98,7 +98,7 @@
 			"svn_url": "https://github.com/buaazp/fasthttprouter",
 			"stargazers_count": 875,
 			"watchers_count": 875,
-			"forks_count": 92,
+			"forks_count": 93,
 			"open_issues_count": 19
 		},
 		{
@@ -108,10 +108,10 @@
 			"html_url": "https://github.com/dimfeld/httptreemux",
 			"homepage": "",
 			"created_at": "2014-05-14T20:10:20Z",
-			"updated_at": "2023-09-19T09:39:45Z",
+			"updated_at": "2023-10-09T07:03:54Z",
 			"svn_url": "https://github.com/dimfeld/httptreemux",
-			"stargazers_count": 606,
-			"watchers_count": 606,
+			"stargazers_count": 609,
+			"watchers_count": 609,
 			"forks_count": 56,
 			"open_issues_count": 7
 		},
@@ -150,11 +150,11 @@
 			"html_url": "https://github.com/go-playground/lars",
 			"homepage": "",
 			"created_at": "2015-12-24T17:28:45Z",
-			"updated_at": "2023-06-14T04:55:34Z",
+			"updated_at": "2023-10-12T18:24:58Z",
 			"svn_url": "https://github.com/go-playground/lars",
-			"stargazers_count": 390,
-			"watchers_count": 390,
-			"forks_count": 25,
+			"stargazers_count": 391,
+			"watchers_count": 391,
+			"forks_count": 26,
 			"open_issues_count": 1
 		},
 		{
@@ -164,7 +164,7 @@
 			"html_url": "https://github.com/VividCortex/siesta",
 			"homepage": "",
 			"created_at": "2014-09-23T13:55:56Z",
-			"updated_at": "2023-04-07T21:48:35Z",
+			"updated_at": "2023-10-05T13:36:02Z",
 			"svn_url": "https://github.com/VividCortex/siesta",
 			"stargazers_count": 351,
 			"watchers_count": 351,
@@ -192,10 +192,10 @@
 			"html_url": "https://github.com/gowww/router",
 			"homepage": "",
 			"created_at": "2017-05-25T10:29:27Z",
-			"updated_at": "2023-09-11T15:16:57Z",
+			"updated_at": "2023-11-13T09:44:45Z",
 			"svn_url": "https://github.com/gowww/router",
-			"stargazers_count": 166,
-			"watchers_count": 166,
+			"stargazers_count": 229,
+			"watchers_count": 229,
 			"forks_count": 14,
 			"open_issues_count": 0
 		},
@@ -220,11 +220,11 @@
 			"html_url": "https://github.com/go-playground/pure",
 			"homepage": "",
 			"created_at": "2016-09-23T19:57:58Z",
-			"updated_at": "2023-09-04T21:19:45Z",
+			"updated_at": "2023-10-03T09:51:54Z",
 			"svn_url": "https://github.com/go-playground/pure",
-			"stargazers_count": 142,
-			"watchers_count": 142,
-			"forks_count": 12,
+			"stargazers_count": 144,
+			"watchers_count": 144,
+			"forks_count": 13,
 			"open_issues_count": 0
 		},
 		{
@@ -276,10 +276,10 @@
 			"html_url": "https://github.com/rs/xmux",
 			"homepage": "http://violetear.org",
 			"created_at": "2015-12-14T19:01:05Z",
-			"updated_at": "2023-08-05T16:14:30Z",
+			"updated_at": "2023-10-31T20:04:33Z",
 			"svn_url": "https://github.com/rs/xmux",
-			"stargazers_count": 97,
-			"watchers_count": 97,
+			"stargazers_count": 98,
+			"watchers_count": 98,
 			"forks_count": 11,
 			"open_issues_count": 2
 		},
@@ -318,10 +318,10 @@
 			"html_url": "https://github.com/goroute/route",
 			"homepage": "https://goroute.github.io",
 			"created_at": "2019-07-06T18:47:38Z",
-			"updated_at": "2023-04-05T19:56:17Z",
+			"updated_at": "2023-11-07T06:35:08Z",
 			"svn_url": "https://github.com/goroute/route",
-			"stargazers_count": 8,
-			"watchers_count": 8,
+			"stargazers_count": 9,
+			"watchers_count": 9,
 			"forks_count": 2,
 			"open_issues_count": 1
 		}

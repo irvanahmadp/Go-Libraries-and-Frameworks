@@ -120,7 +120,7 @@ Libraries for manipulating audio.
 ### Authentication and OAuth
 Libraries for implementing authentications schemes.
 
-<sup>*Last Update: 2023-11-08 21:01:34*</sup>
+<sup>*Last Update: 2023-11-13 21:48:22*</sup>
 <details>
   <summary>Show Table</summary>
 
@@ -147,10 +147,10 @@ Libraries for implementing authentications schemes.
 | [httpauth](https://blog.gobuffalo.io/goth-needs-a-new-maintainer-626cd47ca37b) | 219 | 30 | 5 | HTTP Authentication middlewares | 2014-05-26 22:53:57 | 2023-04-30 05:53:08 |
 | [branca](https://branca.io) | 171 | 20 | 0 | :key: Secure alternative to JWT. Authenticated Encrypted API Tokens for Go. | 2018-01-09 15:27:31 | 2023-11-03 07:21:19 |
 | [sessionup](https://github.com/swithek/sessionup) | 122 | 7 | 3 | Straightforward HTTP session management | 2019-07-23 18:55:21 | 2023-09-18 22:06:41 |
+| [sjwt](https://godoc.org/github.com/brianvoe/sjwt) | 113 | 10 | 1 | Simple JWT Golang | 2019-06-20 04:06:21 | 2023-08-24 12:52:50 |
 | [session](https://github.com/icza/session) | 111 | 17 | 4 | Go session management for web servers (including support for Google App Engine - GAE). | 2016-02-08 09:07:07 | 2023-01-22 03:03:17 |
 | [rbac](https://github.com/zpatrick/rbac) | 107 | 25 | 0 | Minimalistic RBAC package for Go applications | 2018-08-02 00:11:04 | 2023-06-20 17:52:41 |
 | [jwt](https://github.com/robbert229/jwt) | 104 | 28 | 8 | This is an implementation of JWT in golang! | 2016-06-05 22:01:37 | 2023-09-03 17:53:11 |
-| [sjwt](https://godoc.org/github.com/brianvoe/sjwt) | 94 | 7 | 0 | Simple JWT Golang | 2019-06-20 04:06:21 | 2021-09-22 11:16:33 |
 | [sessions](https://github.com/adam-hanna/sessions) | 75 | 11 | 4 | A dead simple, highly performant, highly customizable sessions middleware for go http servers. | 2017-04-29 01:09:28 | 2023-08-07 04:30:13 |
 | [securecookie](https://github.com/chmike/securecookie) | 74 | 11 | 1 | Fast, secure and efficient secure cookie encoder/decoder  | 2017-09-03 14:40:29 | 2023-08-26 00:38:03 |
 | [otpgo](https://github.com/jltorresm/otpgo) | 61 | 9 | 2 | Time-Based One-Time Password (TOTP) and HMAC-Based One-Time Password (HOTP) library for Go. | 2020-08-19 13:20:23 | 2023-11-07 12:55:26 |
@@ -229,41 +229,41 @@ Libraries for preprocessing CSS files.
 ### Command Line - Advanced Console UIs
 Libraries for building Console Applications and Console User Interfaces.
 
-<sup>*Last Update: 2023-09-30 09:08:34*</sup>
+<sup>*Last Update: 2023-11-13 21:48:26*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [termui](https://github.com/gizak/termui) | 12,660 | 781 | 100 | Golang terminal dashboard | 2015-02-03 14:09:27 | 2023-09-28 01:39:18 |
-| [gocui](https://github.com/jroimartin/gocui) | 9,399 | 633 | 74 | Minimalist Go package aimed at creating Console User Interfaces. | 2014-01-04 02:50:20 | 2023-09-28 23:28:34 |
-| [go-prompt](https://godoc.org/github.com/c-bata/go-prompt) | 5,014 | 369 | 108 | Building powerful interactive prompts in Go, inspired by python-prompt-toolkit. | 2017-08-14 16:02:09 | 2023-09-29 19:51:59 |
-| [termbox-go](http://godoc.org/github.com/nsf/termbox-go) | 4,573 | 399 | 45 | Pure Go termbox implementation | 2012-01-12 21:03:03 | 2023-09-28 10:19:46 |
-| [pterm](https://docs.pterm.sh) | 4,191 | 164 | 48 | ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform compatible. | 2020-09-17 15:52:59 | 2023-09-29 23:55:29 |
-| [progressbar](https://pkg.go.dev/github.com/schollz/progressbar/v3?tab=doc) | 3,497 | 200 | 33 | A really basic thread-safe progress bar for Golang applications | 2017-10-26 18:28:10 | 2023-09-29 11:56:52 |
-| [termdash](http://godoc.org/github.com/nsf/termbox-go) | 2,366 | 118 | 43 | Terminal based dashboard. | 2018-03-24 12:01:49 | 2023-09-28 10:49:16 |
-| [asciigraph](https://pkg.go.dev/github.com/guptarohit/asciigraph) | 2,317 | 93 | 12 | Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies. | 2018-06-17 10:37:16 | 2023-09-28 19:53:13 |
-| [mpb](https://github.com/vbauerster/mpb) | 2,097 | 123 | 8 | multi progress bar for Go cli applications | 2016-12-14 11:56:29 | 2023-09-28 10:37:58 |
-| [uiprogress](https://github.com/gosuri/uiprogress) | 2,044 | 125 | 25 | A go library to render progress bars in terminal applications | 2015-11-17 00:59:24 | 2023-09-26 16:39:25 |
-| [uilive](https://github.com/gosuri/uilive) | 1,601 | 87 | 11 | uilive is a go library for updating terminal output in realtime | 2015-11-16 06:13:10 | 2023-09-26 20:39:42 |
-| [color](https://gookit.github.io/color/) | 1,374 | 84 | 6 | 🎨 Terminal color rendering library, support 8/16 colors, 256 colors, RGB color rendering output, support Print/Sprintf methods, compatible with Windows. GO CLI 控制台颜色渲染工具库，支持16色，256色，RGB色彩渲染输出，使用类似于 Print/Sprintf，兼容并支持 Windows 环境的色彩渲染 | 2018-07-01 07:28:17 | 2023-09-27 02:04:06 |
-| [aurora](https://pkg.go.dev/github.com/guptarohit/asciigraph) | 1,347 | 61 | 1 | Golang ultimate ANSI-colors that supports Printf/Sprintf methods | 2016-11-06 22:37:12 | 2023-09-26 14:04:15 |
-| [go-isatty](http://godoc.org/github.com/mattn/go-isatty) | 743 | 105 | 14 | Change the color of console text. | 2014-04-01 01:53:09 | 2023-09-27 01:28:07 |
-| [go-colorable](http://godoc.org/github.com/mattn/go-colorable) | 713 | 94 | 9 | Another Text Attribute Manupulator | 2014-07-30 02:38:06 | 2023-09-27 02:03:22 |
-| [uitable](https://github.com/gosuri/uitable) | 713 | 33 | 8 | A go library to improve readability in terminal apps using tabular data | 2015-11-13 21:59:21 | 2023-09-26 16:39:12 |
-| [gommon](https://github.com/labstack/gommon) | 505 | 120 | 14 | Common packages for Go | 2015-03-12 22:35:57 | 2023-09-26 02:52:27 |
-| [simpletable](https://github.com/alexeyco/simpletable) | 467 | 30 | 5 | Simple tables in terminal with Go | 2017-03-29 07:27:23 | 2023-09-23 14:56:31 |
-| [chalk](https://github.com/ttacon/chalk) | 430 | 20 | 3 | Intuitive package for prettifying terminal/console output. http://godoc.org/github.com/ttacon/chalk | 2014-07-18 19:38:58 | 2023-09-27 02:02:54 |
-| [yacspin](https://github.com/theckman/yacspin) | 413 | 13 | 6 | Yet Another CLi Spinner; providing over 80 easy to use and customizable terminal spinners for multiple OSes | 2019-12-29 07:41:23 | 2023-09-26 16:39:04 |
-| [box-cli-maker](https://github.com/Delta456/box-cli-maker) | 386 | 19 | 8 | Make Highly Customized Boxes for CLI | 2020-05-01 07:23:56 | 2023-09-29 08:33:05 |
-| [tabby](https://github.com/cheynewallace/tabby) | 335 | 18 | 3 | A tiny library for super simple Golang tables | 2018-12-17 23:35:39 | 2023-09-26 16:40:53 |
+| [termui](https://github.com/gizak/termui) | 12,697 | 786 | 98 | Golang terminal dashboard | 2015-02-03 14:09:27 | 2023-11-13 09:20:43 |
+| [gocui](https://github.com/jroimartin/gocui) | 9,448 | 646 | 74 | Minimalist Go package aimed at creating Console User Interfaces. | 2014-01-04 02:50:20 | 2023-11-13 13:00:29 |
+| [go-prompt](https://godoc.org/github.com/c-bata/go-prompt) | 5,050 | 389 | 108 | Building powerful interactive prompts in Go, inspired by python-prompt-toolkit. | 2017-08-14 16:02:09 | 2023-11-12 15:26:59 |
+| [termbox-go](http://godoc.org/github.com/nsf/termbox-go) | 4,582 | 411 | 45 | Pure Go termbox implementation | 2012-01-12 21:03:03 | 2023-11-12 21:47:54 |
+| [pterm](https://docs.pterm.sh) | 4,297 | 166 | 48 | ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform compatible. | 2020-09-17 15:52:59 | 2023-11-13 12:06:04 |
+| [progressbar](https://pkg.go.dev/github.com/schollz/progressbar/v3?tab=doc) | 3,578 | 207 | 33 | A really basic thread-safe progress bar for Golang applications | 2017-10-26 18:28:10 | 2023-11-13 14:14:30 |
+| [termdash](http://godoc.org/github.com/nsf/termbox-go) | 2,384 | 119 | 43 | Terminal based dashboard. | 2018-03-24 12:01:49 | 2023-11-12 22:01:57 |
+| [asciigraph](https://pkg.go.dev/github.com/guptarohit/asciigraph) | 2,342 | 94 | 12 | Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies. | 2018-06-17 10:37:16 | 2023-11-11 02:53:43 |
+| [mpb](https://github.com/vbauerster/mpb) | 2,123 | 124 | 10 | multi progress bar for Go cli applications | 2016-12-14 11:56:29 | 2023-11-13 13:01:04 |
+| [uiprogress](https://github.com/gosuri/uiprogress) | 2,048 | 125 | 25 | A go library to render progress bars in terminal applications | 2015-11-17 00:59:24 | 2023-11-11 02:36:18 |
+| [uilive](https://github.com/gosuri/uilive) | 1,624 | 87 | 11 | uilive is a go library for updating terminal output in realtime | 2015-11-16 06:13:10 | 2023-11-11 12:23:47 |
+| [color](https://gookit.github.io/color/) | 1,393 | 84 | 5 | 🎨 Terminal color rendering library, support 8/16 colors, 256 colors, RGB color rendering output, support Print/Sprintf methods, compatible with Windows. GO CLI 控制台颜色渲染工具库，支持16色，256色，RGB色彩渲染输出，使用类似于 Print/Sprintf，兼容并支持 Windows 环境的色彩渲染 | 2018-07-01 07:28:17 | 2023-11-11 07:32:01 |
+| [aurora](https://pkg.go.dev/github.com/guptarohit/asciigraph) | 1,355 | 61 | 1 | Golang ultimate ANSI-colors that supports Printf/Sprintf methods | 2016-11-06 22:37:12 | 2023-11-11 22:43:05 |
+| [go-isatty](http://godoc.org/github.com/mattn/go-isatty) | 754 | 106 | 13 | Change the color of console text. | 2014-04-01 01:53:09 | 2023-11-09 11:21:54 |
+| [go-colorable](http://godoc.org/github.com/mattn/go-colorable) | 717 | 94 | 9 | Another Text Attribute Manupulator | 2014-07-30 02:38:06 | 2023-11-12 10:21:52 |
+| [uitable](https://github.com/gosuri/uitable) | 716 | 33 | 8 | A go library to improve readability in terminal apps using tabular data | 2015-11-13 21:59:21 | 2023-11-12 22:08:30 |
+| [gommon](https://github.com/labstack/gommon) | 508 | 131 | 13 | Common packages for Go | 2015-03-12 22:35:57 | 2023-11-12 14:14:21 |
+| [simpletable](https://github.com/alexeyco/simpletable) | 485 | 30 | 5 | Simple tables in terminal with Go | 2017-03-29 07:27:23 | 2023-11-12 11:17:12 |
+| [chalk](https://github.com/ttacon/chalk) | 434 | 20 | 3 | Intuitive package for prettifying terminal/console output. http://godoc.org/github.com/ttacon/chalk | 2014-07-18 19:38:58 | 2023-11-08 21:44:05 |
+| [yacspin](https://github.com/theckman/yacspin) | 418 | 14 | 6 | Yet Another CLi Spinner; providing over 80 easy to use and customizable terminal spinners for multiple OSes | 2019-12-29 07:41:23 | 2023-11-11 23:55:14 |
+| [box-cli-maker](https://github.com/Delta456/box-cli-maker) | 396 | 20 | 8 | Make Highly Customized Boxes for CLI | 2020-05-01 07:23:56 | 2023-11-07 16:54:25 |
+| [tabby](https://github.com/cheynewallace/tabby) | 338 | 18 | 3 | A tiny library for super simple Golang tables | 2018-12-17 23:35:39 | 2023-11-12 21:26:31 |
 | [go-colortext](http://godoc.org/github.com/mattn/go-colorable) | 214 | 22 | 3 | Change the color of console text. | 2013-01-23 03:38:54 | 2023-07-30 06:16:45 |
-| [cfmt](https://github.com/mingrammer/cfmt) | 96 | 7 | 1 | :art: Contextual fmt inspired by bootstrap color classes | 2018-03-15 19:04:27 | 2023-09-27 02:02:43 |
-| [tabular](https://github.com/InVisionApp/tabular) | 73 | 7 | 0 | Tabular simplifies printing ASCII tables from command line utilities | 2018-04-23 21:17:03 | 2023-09-26 16:40:30 |
-| [cfmt](https://github.com/i582/cfmt) | 61 | 3 | 0 | Small library for simple and convenient formatted stylized output to the console. | 2020-11-13 20:29:45 | 2023-09-19 07:48:09 |
-| [table](https://github.com/tomlazar/table) | 46 | 3 | 1 | pretty colorfull tables in go with less effort | 2020-09-22 05:42:34 | 2023-09-26 16:40:38 |
-| [ctc](https://github.com/wzshiming/ctc) | 45 | 3 | 1 | Console Text Colors - The non-invasive cross-platform terminal color library does not need to modify the Print method | 2018-04-27 18:07:42 | 2023-08-30 18:35:21 |
-| [marker](https://github.com/cyucelen/marker) | 42 | 13 | 4 |  🖍️ Marker is the easiest way to match and mark strings for colorful terminal outputs! | 2019-08-28 15:44:08 | 2023-09-27 02:04:27 |
+| [cfmt](https://github.com/mingrammer/cfmt) | 97 | 7 | 1 | :art: Contextual fmt inspired by bootstrap color classes | 2018-03-15 19:04:27 | 2023-11-08 21:43:36 |
+| [tabular](https://github.com/InVisionApp/tabular) | 74 | 7 | 0 | Tabular simplifies printing ASCII tables from command line utilities | 2018-04-23 21:17:03 | 2023-11-06 21:17:50 |
+| [cfmt](https://github.com/i582/cfmt) | 60 | 3 | 0 | Small library for simple and convenient formatted stylized output to the console. | 2020-11-13 20:29:45 | 2023-10-19 04:14:32 |
+| [table](https://github.com/tomlazar/table) | 46 | 3 | 1 | pretty colorfull tables in go with less effort | 2020-09-22 05:42:34 | 2023-10-12 01:09:02 |
+| [ctc](https://github.com/wzshiming/ctc) | 45 | 3 | 1 | Console Text Colors - The non-invasive cross-platform terminal color library does not need to modify the Print method | 2018-04-27 18:07:42 | 2023-10-30 13:52:20 |
+| [marker](https://github.com/cyucelen/marker) | 43 | 13 | 4 |  🖍️ Marker is the easiest way to match and mark strings for colorful terminal outputs! | 2019-08-28 15:44:08 | 2023-11-08 21:45:10 |
 | [colourize](https://github.com/TreyBastian/colourize) | 26 | 5 | 0 | An ANSI colour terminal package for Go | 2015-05-11 11:49:39 | 2023-02-20 07:52:41 |
 | [go-ataman](https://github.com/workanator/go-ataman) | 16 | 3 | 0 | Another Text Attribute Manupulator | 2017-05-17 19:04:57 | 2023-09-27 02:03:14 |
 </details>
@@ -1843,16 +1843,16 @@ Unofficial libraries for package and dependency management
 ### Performance
 
 
-<sup>*Last Update: 2023-10-03 20:34:53*</sup>
+<sup>*Last Update: 2023-11-13 21:49:23*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [jaeger](https://www.jaegertracing.io/) | 18,355 | 2,250 | 343 | CNCF Jaeger, a Distributed Tracing Platform | 2016-04-15 18:49:02 | 2023-10-02 21:50:04 |
-| [pixie](https://px.dev) | 4,893 | 382 | 234 | Instant Kubernetes-Native Application Observability | 2020-02-27 00:22:45 | 2023-10-03 09:30:58 |
-| [statsviz](https://github.com/arl/statsviz) | 2,945 | 107 | 6 | 🚀 Visualise your Go program runtime metrics in real time in the browser | 2020-08-14 00:00:41 | 2023-10-03 00:56:39 |
-| [profile](https://px.dev) | 1,908 | 152 | 9 | Simple profiling for Go | 2014-10-22 01:35:18 | 2023-10-01 11:48:25 |
+| [jaeger](https://www.jaegertracing.io/) | 18,612 | 2,283 | 353 | CNCF Jaeger, a Distributed Tracing Platform | 2016-04-15 18:49:02 | 2023-11-13 14:46:00 |
+| [pixie](https://px.dev) | 4,972 | 388 | 231 | Instant Kubernetes-Native Application Observability | 2020-02-27 00:22:45 | 2023-11-13 13:07:37 |
+| [statsviz](https://github.com/arl/statsviz) | 2,992 | 108 | 5 | 🚀 Visualise your Go program runtime metrics in real time in the browser | 2020-08-14 00:00:41 | 2023-11-13 14:49:11 |
+| [profile](https://px.dev) | 1,912 | 166 | 9 | Simple profiling for Go | 2014-10-22 01:35:18 | 2023-11-09 01:22:11 |
 | [tracer](https://github.com/kamilsk/tracer) | 79 | 4 | 11 | 🪡 Dead simple, lightweight tracing. | 2019-06-22 13:23:27 | 2023-07-30 02:49:16 |
 </details>
 
@@ -2748,35 +2748,35 @@ Full stack web frameworks.
 ### Web Frameworks - Routers
 
 
-<sup>*Last Update: 2023-09-30 09:09:12*</sup>
+<sup>*Last Update: 2023-11-13 21:48:50*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [mux](https://gorilla.github.io) | 19,238 | 1,807 | 17 | Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍 | 2012-10-02 21:32:24 | 2023-09-29 19:01:45 |
-| [httprouter](https://pkg.go.dev/github.com/julienschmidt/httprouter) | 15,802 | 1,460 | 84 | A high performance HTTP request router that scales well | 2013-12-05 15:10:55 | 2023-09-29 17:35:09 |
-| [chi](https://go-chi.io) | 15,414 | 947 | 65 | lightweight, idiomatic and composable router for building Go HTTP services | 2015-10-15 20:46:29 | 2023-09-30 00:22:28 |
-| [web](https://github.com/gocraft/web) | 1,501 | 151 | 23 | Go Router + Middleware. Your Contexts. | 2013-11-16 20:48:20 | 2023-09-24 14:43:27 |
-| [bone](http://go-zoo.github.io/bone) | 1,292 | 90 | 3 | Lightning Fast HTTP Multiplexer | 2014-11-19 02:16:36 | 2023-09-27 05:13:02 |
-| [goji](https://goji.io) | 946 | 72 | 6 | Goji is a minimalistic and flexible HTTP request multiplexer for Go (golang) | 2015-11-16 00:52:41 | 2023-09-23 20:30:10 |
-| [fasthttprouter](http://godoc.org/github.com/buaazp/fasthttprouter) | 875 | 92 | 19 | A high performance fasthttp request router that scales well | 2015-12-13 09:32:30 | 2023-09-23 20:29:33 |
-| [httptreemux](https://github.com/dimfeld/httptreemux) | 606 | 56 | 7 | High-speed, flexible tree-based HTTP router for Go. | 2014-05-14 20:10:20 | 2023-09-19 09:39:45 |
+| [mux](https://gorilla.github.io) | 19,458 | 1,820 | 19 | Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍 | 2012-10-02 21:32:24 | 2023-11-13 08:21:13 |
+| [httprouter](https://pkg.go.dev/github.com/julienschmidt/httprouter) | 15,899 | 1,468 | 87 | A high performance HTTP request router that scales well | 2013-12-05 15:10:55 | 2023-11-13 05:52:20 |
+| [chi](https://go-chi.io) | 15,798 | 972 | 59 | lightweight, idiomatic and composable router for building Go HTTP services | 2015-10-15 20:46:29 | 2023-11-13 11:58:41 |
+| [web](https://github.com/gocraft/web) | 1,502 | 163 | 24 | Go Router + Middleware. Your Contexts. | 2013-11-16 20:48:20 | 2023-11-03 08:27:31 |
+| [bone](http://go-zoo.github.io/bone) | 1,294 | 90 | 3 | Lightning Fast HTTP Multiplexer | 2014-11-19 02:16:36 | 2023-11-04 12:26:12 |
+| [goji](https://goji.io) | 948 | 72 | 6 | Goji is a minimalistic and flexible HTTP request multiplexer for Go (golang) | 2015-11-16 00:52:41 | 2023-10-26 10:46:44 |
+| [fasthttprouter](http://godoc.org/github.com/buaazp/fasthttprouter) | 875 | 93 | 19 | A high performance fasthttp request router that scales well | 2015-12-13 09:32:30 | 2023-09-23 20:29:33 |
+| [httptreemux](https://github.com/dimfeld/httptreemux) | 609 | 56 | 7 | High-speed, flexible tree-based HTTP router for Go. | 2014-05-14 20:10:20 | 2023-10-09 07:03:54 |
 | [gorouter](https://xujiajun.cn/gorouter) | 532 | 87 | 0 | xujiajun/gorouter is a simple and fast HTTP router for Go. It is easy to build RESTful APIs and your web framework. | 2018-01-29 09:28:28 | 2023-08-25 19:53:08 |
 | [ozzo-routing](https://github.com/go-ozzo/ozzo-routing) | 445 | 52 | 11 | An extremely fast Go (golang) HTTP router that supports regular expression route matching. Comes with full support for building RESTful APIs. | 2015-10-27 01:03:14 | 2023-09-05 12:52:58 |
-| [lars](https://github.com/go-playground/lars) | 390 | 25 | 1 | :rotating_light: Is a lightweight, fast and extensible zero allocation HTTP router for Go used to create customizable frameworks. | 2015-12-24 17:28:45 | 2023-06-14 04:55:34 |
-| [siesta](https://github.com/VividCortex/siesta) | 351 | 15 | 0 | Composable framework for writing HTTP handlers in Go. | 2014-09-23 13:55:56 | 2023-04-07 21:48:35 |
+| [lars](https://github.com/go-playground/lars) | 391 | 26 | 1 | :rotating_light: Is a lightweight, fast and extensible zero allocation HTTP router for Go used to create customizable frameworks. | 2015-12-24 17:28:45 | 2023-10-12 18:24:58 |
+| [siesta](https://github.com/VividCortex/siesta) | 351 | 15 | 0 | Composable framework for writing HTTP handlers in Go. | 2014-09-23 13:55:56 | 2023-10-05 13:36:02 |
 | [vestigo](https://github.com/husobee/vestigo) | 269 | 31 | 13 | Echo Inspired Stand Alone URL Router | 2015-09-22 03:08:03 | 2023-06-13 00:23:19 |
-| [router](https://github.com/gowww/router) | 166 | 14 | 0 | ⚡️ A lightning fast HTTP router | 2017-05-25 10:29:27 | 2023-09-11 15:16:57 |
+| [router](https://github.com/gowww/router) | 229 | 14 | 0 | ⚡️ A lightning fast HTTP router | 2017-05-25 10:29:27 | 2023-11-13 09:44:45 |
 | [gorouter](https://rafallorenz.com/gorouter) | 150 | 16 | 10 | Go Server/API micro framework, HTTP request router, multiplexer, mux | 2016-07-14 13:13:34 | 2023-09-15 16:49:01 |
-| [pure](https://github.com/go-playground/pure) | 142 | 12 | 0 | :non-potable_water: Is a lightweight  HTTP router that sticks to the std "net/http" implementation | 2016-09-23 19:57:58 | 2023-09-04 21:19:45 |
+| [pure](https://github.com/go-playground/pure) | 144 | 13 | 0 | :non-potable_water: Is a lightweight  HTTP router that sticks to the std "net/http" implementation | 2016-09-23 19:57:58 | 2023-10-03 09:51:54 |
 | [alien](https://github.com/gernest/alien) | 127 | 14 | 3 | A lightweight and  fast http router from outer space | 2016-01-30 23:23:10 | 2023-09-28 10:32:23 |
 | [violetear](http://violetear.org) | 107 | 11 | 1 | Go HTTP router | 2015-06-19 16:49:41 | 2023-09-25 21:28:11 |
 | [Bxog](http://go-zoo.github.io/bone) | 104 | 8 | 0 | Bxog is a simple and fast HTTP router for Go (HTTP request multiplexer). | 2016-05-19 12:20:08 | 2023-06-28 11:21:56 |
-| [xmux](http://violetear.org) | 97 | 11 | 2 | xmux is a httprouter fork on top of xhandler (net/context aware) | 2015-12-14 19:01:05 | 2023-08-05 16:14:30 |
+| [xmux](http://violetear.org) | 98 | 11 | 2 | xmux is a httprouter fork on top of xhandler (net/context aware) | 2015-12-14 19:01:05 | 2023-10-31 20:04:33 |
 | [bellt](https://github.com/GuilhermeCaruso/bellt) | 54 | 7 | 0 | :bell: A simple Go router | 2019-02-21 13:13:52 | 2023-02-20 06:49:25 |
 | [fastrouter](http://godoc.org/github.com/buaazp/fasthttprouter) | 22 | 5 | 0 | FastRouter is a fast, flexible HTTP router written in Go. | 2017-11-01 08:52:52 | 2022-09-27 10:08:01 |
-| [route](https://goroute.github.io) | 8 | 2 | 1 | Go Route - Simple yet powerful HTTP request multiplexer | 2019-07-06 18:47:38 | 2023-04-05 19:56:17 |
+| [route](https://goroute.github.io) | 9 | 2 | 1 | Go Route - Simple yet powerful HTTP request multiplexer | 2019-07-06 18:47:38 | 2023-11-07 06:35:08 |
 </details>
 
 ### WebAssembly
