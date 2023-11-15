@@ -216,13 +216,13 @@ Libraries and tools helping with build automation.
 ### CSS Preprocessors
 Libraries for preprocessing CSS files.
 
-<sup>*Last Update: 2023-10-28 18:30:31*</sup>
+<sup>*Last Update: 2023-11-15 08:24:13*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [gcss](https://github.com/yosssi/gcss) | 486 | 38 | 8 | Pure Go CSS Preprocessor | 2014-09-04 14:38:20 | 2023-10-17 16:47:47 |
+| [gcss](https://github.com/yosssi/gcss) | 488 | 39 | 8 | Pure Go CSS Preprocessor | 2014-09-04 14:38:20 | 2023-11-11 09:14:55 |
 | [go-libsass](http://godoc.org/github.com/wellington/go-libsass) | 199 | 27 | 16 | Go wrapper for libsass, the only Sass 3.5 compiler for Go | 2015-04-19 15:09:47 | 2023-09-26 23:10:14 |
 </details>
 
@@ -2068,33 +2068,33 @@ Libraries and tools for stream processing and reactive programming.
 ### Template Engines
 Libraries and tools for templating and lexing.
 
-<sup>*Last Update: 2023-09-30 16:55:33*</sup>
+<sup>*Last Update: 2023-11-15 08:23:48*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [gofpdf](http://godoc.org/github.com/jung-kurt/gofpdf) | 4,190 | 760 | 56 | A PDF document generator with high level support for text, drawing and images | 2015-03-13 11:57:30 | 2023-09-28 02:38:07 |
-| [sprig](http://masterminds.github.io/sprig/) | 3,755 | 421 | 126 | Useful template functions for Go templates. | 2013-11-22 01:20:40 | 2023-09-29 20:34:00 |
-| [quicktemplate](https://github.com/valyala/quicktemplate) | 2,868 | 149 | 37 | Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template | 2016-03-06 21:42:01 | 2023-09-29 22:13:47 |
-| [pongo2](https://www.schlachter.tech/pongo2) | 2,652 | 284 | 61 | Django-syntax like template-engine for Go | 2013-08-23 01:00:08 | 2023-09-27 19:30:49 |
-| [hero](https://shiyanhui.github.io/hero) | 1,544 | 107 | 28 | A handy, fast and powerful go template engine. | 2017-01-15 13:31:50 | 2023-09-26 14:27:53 |
-| [maroto](https://maroto.io) | 1,218 | 153 | 19 | A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple. | 2019-05-20 23:27:47 | 2023-09-30 09:34:06 |
-| [mustache](https://github.com/hoisie/mustache) | 1,089 | 234 | 33 | The mustache template language in Go | 2009-12-30 21:05:05 | 2023-09-27 19:38:49 |
-| [jet](https://shiyanhui.github.io/hero) | 1,080 | 100 | 22 | Jet  template engine | 2016-03-31 16:53:36 | 2023-09-27 20:32:00 |
-| [amber](https://github.com/eknkc/amber) | 908 | 61 | 24 | Amber is an elegant templating engine for Go Programming Language, inspired from HAML and Jade | 2012-10-31 20:27:24 | 2023-09-25 08:48:51 |
-| [gorazor](https://github.com/sipin/gorazor) | 830 | 90 | 2 | Razor view engine for go | 2014-05-01 05:30:31 | 2023-09-25 10:58:54 |
-| [ace](https://github.com/yosssi/ace) | 827 | 71 | 30 | HTML template engine for Go | 2014-07-13 13:39:19 | 2023-09-12 09:48:49 |
-| [fasttemplate](https://github.com/valyala/fasttemplate) | 770 | 77 | 12 | Simple and fast template engine for Go | 2015-08-19 12:44:22 | 2023-09-27 10:19:34 |
-| [ego](https://github.com/benbjohnson/ego) | 563 | 42 | 10 | An ERB-style templating language for Go. | 2014-02-23 18:14:41 | 2023-09-08 21:30:20 |
-| [raymond](https://github.com/aymerick/raymond) | 552 | 92 | 19 | Handlebars for golang | 2015-04-22 13:07:59 | 2023-09-27 18:05:17 |
-| [goview](https://github.com/foolin/goview) | 371 | 34 | 15 | Goview is a lightweight, minimalist and idiomatic template library based on golang html/template for building Go web application. | 2019-04-14 11:22:41 | 2023-09-15 06:27:47 |
-| [liquid](https://godoc.org/github.com/osteele/liquid) | 233 | 47 | 26 | A Liquid template engine in Go | 2017-06-26 14:39:52 | 2023-09-25 08:49:30 |
-| [soy](https://github.com/robfig/soy) | 170 | 42 | 7 | Go implementation for Soy templates (Google Closure templates) | 2013-12-15 01:14:48 | 2023-09-16 19:15:14 |
+| [gofpdf](http://godoc.org/github.com/jung-kurt/gofpdf) | 4,203 | 781 | 56 | A PDF document generator with high level support for text, drawing and images | 2015-03-13 11:57:30 | 2023-11-12 11:44:08 |
+| [sprig](http://masterminds.github.io/sprig/) | 3,812 | 438 | 129 | Useful template functions for Go templates. | 2013-11-22 01:20:40 | 2023-11-14 21:15:55 |
+| [quicktemplate](https://github.com/valyala/quicktemplate) | 2,902 | 149 | 37 | Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template | 2016-03-06 21:42:01 | 2023-11-13 01:40:31 |
+| [pongo2](https://www.schlachter.tech/pongo2) | 2,675 | 298 | 61 | Django-syntax like template-engine for Go | 2013-08-23 01:00:08 | 2023-11-13 20:28:19 |
+| [hero](https://shiyanhui.github.io/hero) | 1,547 | 107 | 28 | A handy, fast and powerful go template engine. | 2017-01-15 13:31:50 | 2023-11-07 07:29:57 |
+| [maroto](https://maroto.io) | 1,276 | 161 | 18 | A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple. | 2019-05-20 23:27:47 | 2023-11-14 19:50:42 |
+| [mustache](https://github.com/hoisie/mustache) | 1,092 | 246 | 33 | The mustache template language in Go | 2009-12-30 21:05:05 | 2023-11-10 10:01:57 |
+| [jet](https://shiyanhui.github.io/hero) | 1,090 | 103 | 22 | Jet  template engine | 2016-03-31 16:53:36 | 2023-11-12 14:53:17 |
+| [amber](https://github.com/eknkc/amber) | 909 | 63 | 24 | Amber is an elegant templating engine for Go Programming Language, inspired from HAML and Jade | 2012-10-31 20:27:24 | 2023-11-10 02:13:06 |
+| [gorazor](https://github.com/sipin/gorazor) | 835 | 89 | 2 | Razor view engine for go | 2014-05-01 05:30:31 | 2023-11-11 23:51:56 |
+| [ace](https://github.com/yosssi/ace) | 826 | 87 | 30 | HTML template engine for Go | 2014-07-13 13:39:19 | 2023-11-07 00:20:18 |
+| [fasttemplate](https://github.com/valyala/fasttemplate) | 776 | 79 | 12 | Simple and fast template engine for Go | 2015-08-19 12:44:22 | 2023-11-10 08:50:28 |
+| [ego](https://github.com/benbjohnson/ego) | 565 | 42 | 10 | An ERB-style templating language for Go. | 2014-02-23 18:14:41 | 2023-11-08 06:19:21 |
+| [raymond](https://github.com/aymerick/raymond) | 555 | 95 | 19 | Handlebars for golang | 2015-04-22 13:07:59 | 2023-11-14 00:16:38 |
+| [goview](https://github.com/foolin/goview) | 378 | 34 | 16 | Goview is a lightweight, minimalist and idiomatic template library based on golang html/template for building Go web application. | 2019-04-14 11:22:41 | 2023-11-10 16:41:19 |
+| [liquid](https://godoc.org/github.com/osteele/liquid) | 241 | 47 | 26 | A Liquid template engine in Go | 2017-06-26 14:39:52 | 2023-11-13 19:33:49 |
+| [soy](https://github.com/robfig/soy) | 171 | 42 | 7 | Go implementation for Soy templates (Google Closure templates) | 2013-12-15 01:14:48 | 2023-10-07 12:08:06 |
 | [kasia.go](https://github.com/ziutek/kasia.go) | 74 | 9 | 2 | Templating system for HTML and other text documents - go implementation | 2010-12-07 10:46:05 | 2022-03-15 21:35:36 |
 | [velvet](http://masterminds.github.io/sprig/) | 72 | 10 | 2 | A sweet velvety templating package | 2016-12-29 16:46:57 | 2023-03-01 11:33:12 |
-| [extemplate](https://git.sr.ht/~dvko/extemplate) | 53 | 17 | 1 | Wrapper package for Go's template/html to allow for easy file-based template inheritance. | 2018-08-10 20:34:19 | 2023-06-14 00:13:05 |
-| [gospin](https://github.com/m1/gospin) | 47 | 7 | 3 | Article spinning and spintax/spinning syntax engine written in Go, useful for A/B, testing pieces of text/articles and creating more natural conversations | 2019-02-22 17:04:51 | 2023-09-19 17:42:46 |
+| [extemplate](https://git.sr.ht/~dvko/extemplate) | 55 | 17 | 1 | Wrapper package for Go's template/html to allow for easy file-based template inheritance. | 2018-08-10 20:34:19 | 2023-11-14 09:22:20 |
+| [gospin](https://github.com/m1/gospin) | 48 | 7 | 3 | Article spinning and spintax/spinning syntax engine written in Go, useful for A/B, testing pieces of text/articles and creating more natural conversations | 2019-02-22 17:04:51 | 2023-10-11 18:13:14 |
 | [damsel](https://github.com/dskinner/damsel) | 23 | 6 | 1 | Package damsel provides html outlining via css-selectors and common template functionality. | 2012-05-02 23:06:48 | 2023-03-17 14:34:28 |
 </details>
 
@@ -2314,7 +2314,7 @@ Libraries and tools for templating and lexing.
 ### Third-party APIs
 Libraries for accessing third party APIs.
 
-<sup>*Last Update: 2023-11-14 09:23:29*</sup>
+<sup>*Last Update: 2023-11-15 08:23:00*</sup>
 <details>
   <summary>Show Table</summary>
 
@@ -2322,31 +2322,31 @@ Libraries for accessing third party APIs.
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
 | [go-github](https://pkg.go.dev/github.com/google/go-github/v56/github) | 9,730 | 2,073 | 58 | Go library for accessing the GitHub v3 API | 2013-05-24 16:42:58 | 2023-11-13 20:59:08 |
 | [aws-sdk-go](http://aws.amazon.com/sdk-for-go/) | 8,445 | 2,148 | 45 | AWS SDK for the Go programming language. | 2014-12-05 05:29:41 | 2023-11-13 15:32:48 |
-| [slack](https://pkg.go.dev/github.com/slack-go/slack) | 4,411 | 1,125 | 103 | Slack API in Go - community-maintained fork created by the original author, @nlopes | 2015-01-24 14:19:00 | 2023-09-28 10:27:18 |
+| [slack](https://pkg.go.dev/github.com/slack-go/slack) | 4,433 | 1,139 | 110 | Slack API in Go - community-maintained fork created by the original author, @nlopes | 2015-01-24 14:19:00 | 2023-11-14 07:32:56 |
 | [discordgo](https://github.com/bwmarrin/discordgo) | 4,346 | 910 | 134 |  (Golang) Go bindings for Discord | 2015-11-01 20:51:01 | 2023-11-13 16:31:47 |
 | [google-api-go-client](https://pkg.go.dev/google.golang.org/api) | 3,622 | 1,180 | 30 | Auto-generated Google APIs for Go. | 2014-11-24 21:45:36 | 2023-11-14 02:07:34 |
 | [google-cloud-go](https://cloud.google.com/go/docs/reference) | 3,394 | 1,263 | 270 | Google Cloud Client Libraries for Go. | 2014-05-09 11:11:58 | 2023-11-12 23:19:58 |
-| [minio-go](https://docs.min.io/docs/golang-client-quickstart-guide.html) | 2,061 | 620 | 14 | MinIO Go client SDK for S3 compatible object storage | 2015-05-02 02:36:46 | 2023-09-29 15:06:54 |
-| [stripe-go](https://stripe.com) | 1,861 | 473 | 9 | Go library for the Stripe API.     | 2014-06-05 23:38:14 | 2023-09-27 10:16:30 |
+| [minio-go](https://docs.min.io/docs/golang-client-quickstart-guide.html) | 2,096 | 634 | 14 | MinIO Go client SDK for S3 compatible object storage | 2015-05-02 02:36:46 | 2023-11-13 03:16:49 |
+| [stripe-go](https://stripe.com) | 1,894 | 493 | 9 | Go library for the Stripe API.     | 2014-06-05 23:38:14 | 2023-11-11 20:39:31 |
 | [go-twitter](https://dev.twitter.com/rest/public) | 1,588 | 348 | 7 | Go Twitter REST and Streaming API v1.1 | 2015-04-11 23:26:07 | 2023-11-13 14:36:00 |
 | [go-jira](https://pkg.go.dev/github.com/andygrunwald/go-jira?tab=doc) | 1,377 | 485 | 163 | Go client library for Atlassian Jira | 2015-08-20 15:02:46 | 2023-11-13 20:26:02 |
 | [facebook](https://pkg.go.dev/github.com/huandu/facebook) | 1,215 | 598 | 1 | A Facebook Graph API SDK For Go. | 2012-07-28 19:05:56 | 2023-11-13 15:28:46 |
 | [anaconda](https://godoc.org/github.com/ngs/go-amazon-product-advertising-api/amazon) | 1,139 | 253 | 73 | A Go client library for the Twitter 1.1 API | 2013-03-04 22:46:07 | 2023-11-12 15:16:10 |
 | [githubv4](https://github.com/shurcooL/githubv4) | 1,046 | 92 | 41 | Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://docs.github.com/en/graphql). | 2017-05-27 05:05:31 | 2023-11-11 21:43:31 |
-| [webhooks](https://github.com/go-playground/webhooks) | 868 | 226 | 31 | :fishing_pole_and_fish: Webhook receiver for GitHub, Bitbucket, GitLab, Gogs | 2015-10-25 17:38:13 | 2023-09-26 16:43:45 |
-| [twitter-scraper](https://github.com/n0madic/twitter-scraper) | 709 | 129 | 16 | Scrape the Twitter frontend API without authentication with Golang. | 2018-11-29 15:31:50 | 2023-09-28 08:12:01 |
-| [paypal](https://github.com/plutov/paypal) | 603 | 261 | 2 | Golang client for PayPal REST API | 2015-10-14 04:57:49 | 2023-09-26 18:50:11 |
+| [webhooks](https://github.com/go-playground/webhooks) | 877 | 229 | 28 | :fishing_pole_and_fish: Webhook receiver for GitHub, Bitbucket, GitLab, Gogs | 2015-10-25 17:38:13 | 2023-11-09 02:56:49 |
+| [twitter-scraper](https://github.com/n0madic/twitter-scraper) | 780 | 144 | 24 | Scrape the Twitter frontend API without authentication with Golang. | 2018-11-29 15:31:50 | 2023-11-14 06:43:05 |
+| [paypal](https://github.com/plutov/paypal) | 613 | 261 | 2 | Golang client for PayPal REST API | 2015-10-14 04:57:49 | 2023-11-11 03:42:35 |
 | [geo-golang](https://github.com/codingsince1985/geo-golang) | 488 | 65 | 7 | Go library to access geocoding and reverse geocoding APIs | 2014-12-04 08:18:31 | 2023-11-11 17:56:50 |
 | [ethrpc](https://github.com/onrik/ethrpc) | 260 | 104 | 12 | Golang client for ethereum json rpc api | 2017-01-24 09:47:00 | 2023-10-20 17:10:46 |
-| [trello](https://github.com/adlio/trello) | 213 | 73 | 7 | Trello API wrapper for Go | 2016-09-24 04:36:10 | 2023-09-18 14:49:05 |
+| [trello](https://github.com/adlio/trello) | 214 | 73 | 7 | Trello API wrapper for Go | 2016-09-24 04:36:10 | 2023-10-10 01:53:49 |
 | [go-marathon](https://github.com/gambol99/go-marathon) | 200 | 128 | 27 | A GO API library for working with Marathon | 2015-02-11 13:25:26 | 2023-09-01 03:20:16 |
-| [wit-go](https://github.com/wit-ai/wit-go) | 147 | 30 | 1 | Go client for wit.ai HTTP API | 2018-08-20 07:18:40 | 2023-09-23 19:01:55 |
+| [wit-go](https://github.com/wit-ai/wit-go) | 147 | 31 | 1 | Go client for wit.ai HTTP API | 2018-08-20 07:18:40 | 2023-09-23 19:01:55 |
 | [medium-sdk-go](https://medium.com) | 138 | 20 | 6 | A Golang SDK for Medium's OAuth2 API | 2015-09-26 23:45:46 | 2023-07-30 04:40:22 |
+| [pushover](https://github.com/gregdel/pushover) | 138 | 12 | 1 | Go wrapper for the Pushover API | 2015-02-19 15:30:05 | 2023-11-08 22:38:06 |
 | [go-trending](http://godoc.org/github.com/andygrunwald/go-trending) | 137 | 19 | 1 | Go library for accessing trending repositories and developers at Github. | 2015-07-04 08:06:48 | 2023-10-29 10:36:30 |
-| [pushover](https://github.com/gregdel/pushover) | 137 | 12 | 1 | Go wrapper for the Pushover API | 2015-02-19 15:30:05 | 2023-09-26 14:27:38 |
 | [gostorm](https://github.com/jsgilmore/gostorm) | 129 | 20 | 5 | GoStorm is a Go library that implements the communications protocol required to write Storm spouts and Bolts in Go that communicate with the Storm shells. | 2013-07-22 12:43:41 | 2023-10-27 21:11:19 |
 | [gosip](https://go.spflow.com) | 122 | 28 | 7 | ⚡️ SharePoint SDK for Go | 2019-01-26 08:48:48 | 2023-11-13 06:07:46 |
-| [simples3](https://github.com/rhnvrm/simples3) | 116 | 25 | 2 | Simple no frills AWS S3 Golang Library using REST with V4 Signing (without AWS Go SDK) | 2018-12-06 10:24:21 | 2023-09-28 10:56:21 |
+| [simples3](https://github.com/rhnvrm/simples3) | 117 | 25 | 2 | Simple no frills AWS S3 Golang Library using REST with V4 Signing (without AWS Go SDK) | 2018-12-06 10:24:21 | 2023-11-09 16:00:44 |
 | [hipchat](https://github.com/daneharrigan/hipchat) | 110 | 37 | 1 | A golang package to communicate with HipChat over XMPP | 2013-04-28 02:16:21 | 2023-07-09 08:35:31 |
 | [hipchat](https://github.com/andybons/hipchat) | 105 | 21 | 0 | This project implements a Go client library for the Hipchat API. | 2012-10-20 18:34:06 | 2023-09-25 21:28:16 |
 | [cachet](https://github.com/andygrunwald/cachet) | 90 | 13 | 1 | Go(lang) client library for Cachet (open source status page system). | 2015-10-31 12:30:07 | 2023-10-08 14:08:30 |
@@ -2358,8 +2358,8 @@ Libraries for accessing third party APIs.
 | [go-postman-collection](https://github.com/rbretecher/go-postman-collection) | 70 | 17 | 1 | Go module to work with Postman Collections | 2019-11-16 12:13:32 | 2023-09-07 17:58:35 |
 | [airtable](https://github.com/mehanizm/airtable) | 65 | 16 | 1 | Simple golang airtable API wrapper | 2020-04-12 10:05:07 | 2023-10-16 19:00:22 |
 | [go-circleci](https://github.com/jszwedko/go-circleci) | 65 | 51 | 5 | Go library for interacting with CircleCI | 2015-08-14 21:19:36 | 2023-10-25 02:03:41 |
-| [mixpanel](https://github.com/dukex/mixpanel) | 60 | 32 | 6 | Golang Mixpanel Client | 2014-05-20 03:50:34 | 2023-06-22 07:09:11 |
-| [ynab.go](https://godoc.org/github.com/brunomvsouza/ynab.go) | 60 | 22 | 3 | Go client for the YNAB API. Unofficial. It covers 100% of the resources made available by the YNAB API. | 2018-07-13 11:10:54 | 2023-09-15 21:06:23 |
+| [ynab.go](https://godoc.org/github.com/brunomvsouza/ynab.go) | 62 | 23 | 3 | Go client for the YNAB API. Unofficial. It covers 100% of the resources made available by the YNAB API. | 2018-07-13 11:10:54 | 2023-11-03 18:28:30 |
+| [mixpanel](https://github.com/dukex/mixpanel) | 60 | 32 | 6 | Golang Mixpanel Client | 2014-05-20 03:50:34 | 2023-11-07 12:37:44 |
 | [go-amazon-product-advertising-api](https://godoc.org/github.com/ngs/go-amazon-product-advertising-api/amazon) | 57 | 15 | 3 | Go Client Library for Amazon Product Advertising API | 2016-11-15 15:37:32 | 2023-08-01 21:59:10 |
 | [uptimerobot](https://github.com/bitfield/uptimerobot) | 57 | 11 | 13 | Client library for UptimeRobot v2 API | 2018-05-29 10:27:19 | 2023-09-18 14:47:47 |
 | [clarifai-go](https://github.com/Clarifai/clarifai-go) | 55 | 15 | 8 | DEPRECATED: please use https://github.com/Clarifai/clarifai-go-grpc | 2015-09-28 23:33:59 | 2023-08-17 19:56:10 |
@@ -2373,7 +2373,7 @@ Libraries for accessing third party APIs.
 | [patreon-go](https://github.com/mxpv/patreon-go) | 37 | 19 | 1 | Patreon Go API client | 2017-08-06 21:15:14 | 2023-09-18 14:44:21 |
 | [go-myanimelist](https://github.com/nstratos/go-myanimelist) | 36 | 2 | 2 | Go library for accessing the MyAnimeList API: https://myanimelist.net/apiconfig/references/api/v2 | 2015-05-03 10:07:05 | 2023-03-30 10:42:12 |
 | [translate](https://github.com/nuveo/translate) | 33 | 6 | 0 | Go online translation package | 2015-07-13 15:42:13 | 2023-01-28 07:01:11 |
-| [lastpass-go](https://github.com/ansd/lastpass-go) | 32 | 6 | 3 | Golang client for LastPass | 2019-07-11 14:26:39 | 2023-08-18 23:39:40 |
+| [lastpass-go](https://github.com/ansd/lastpass-go) | 33 | 6 | 3 | Golang client for LastPass | 2019-07-11 14:26:39 | 2023-10-09 18:26:28 |
 | [gami](https://gitlab.com/bit4bit/gami) | 32 | 30 | 1 | GO - Asterisk AMI Interface | 2014-05-14 16:11:37 | 2023-08-10 19:51:18 |
 | [gcm](https://gitlab.com/bit4bit/gami) | 31 | 4 | 0 | Google Cloud Messaging for application servers implemented using the Go programming language. | 2015-11-09 16:16:25 | 2022-09-27 09:40:32 |
 | [go-steam](https://pkg.go.dev/github.com/slack-go/slack) | 30 | 6 | 2 | Go library for querying Source servers | 2014-11-23 16:34:56 | 2023-05-30 02:15:11 |
