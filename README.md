@@ -2018,35 +2018,35 @@ Libraries and tools for binary serialization.
 ### Server Applications
 
 
-<sup>*Last Update: 2023-10-02 20:50:22*</sup>
+<sup>*Last Update: 2023-11-17 08:00:05*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [caddy](https://caddyserver.com) | 49,948 | 3,818 | 141 | Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS | 2015-01-13 19:45:03 | 2023-10-02 13:22:44 |
-| [etcd](https://etcd.io) | 44,595 | 9,493 | 236 | Distributed reliable key-value store for the most critical data of a distributed system | 2013-07-06 21:57:21 | 2023-10-02 13:37:40 |
-| [minio](https://min.io/download) | 40,981 | 4,932 | 41 | High Performance Object Storage for AI | 2015-01-14 19:23:58 | 2023-10-02 13:11:17 |
-| [consul](https://www.consul.io) | 26,945 | 4,388 | 1,246 | Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. | 2013-11-04 22:15:27 | 2023-10-02 10:39:09 |
-| [nsq](https://nsq.io) | 23,802 | 2,890 | 65 | A realtime distributed messaging platform | 2012-05-12 14:37:08 | 2023-10-02 12:28:11 |
-| [roadrunner](https://roadrunner.dev) | 7,388 | 400 | 52 | 🤯 High-performance PHP application server, process manager written in Go and powered with plugins | 2017-12-26 16:13:10 | 2023-10-02 09:52:08 |
-| [sftpgo](https://github.com/drakkan/sftpgo) | 6,815 | 586 | 18 | Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob | 2019-07-20 10:18:31 | 2023-10-02 08:42:20 |
-| [devd](https://github.com/cortesi/devd) | 3,350 | 150 | 25 |  A local webserver for developers | 2015-09-27 22:43:00 | 2023-09-25 12:24:40 |
-| [flipt](https://flipt.io) | 2,838 | 143 | 18 | An open source, self-hosted feature flag solution | 2016-11-05 00:09:07 | 2023-10-01 16:09:03 |
-| [fider](https://fider.io) | 2,426 | 584 | 47 | Open platform to collect and prioritize feedback | 2017-01-17 22:55:19 | 2023-10-02 11:24:48 |
-| [algernon](https://algernon.roboticoverlords.org) | 2,297 | 121 | 22 | Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support | 2015-03-10 11:25:30 | 2023-09-30 15:51:46 |
-| [flagr](https://openflagr.github.io/flagr) | 2,234 | 184 | 2 | Flagr is a feature flagging, A/B testing and dynamic configuration microservice | 2017-10-03 19:07:32 | 2023-10-01 08:36:46 |
+| [caddy](https://caddyserver.com) | 50,604 | 3,855 | 138 | Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS | 2015-01-13 19:45:03 | 2023-11-17 00:27:45 |
+| [etcd](https://etcd.io) | 44,906 | 9,571 | 258 | Distributed reliable key-value store for the most critical data of a distributed system | 2013-07-06 21:57:21 | 2023-11-16 23:24:49 |
+| [minio](https://min.io/download) | 41,655 | 4,998 | 53 | High Performance Object Storage for AI | 2015-01-14 19:23:58 | 2023-11-17 00:54:17 |
+| [consul](https://www.consul.io) | 27,282 | 4,425 | 1,263 | Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. | 2013-11-04 22:15:27 | 2023-11-17 00:55:23 |
+| [nsq](https://nsq.io) | 23,917 | 2,899 | 65 | A realtime distributed messaging platform | 2012-05-12 14:37:08 | 2023-11-17 00:12:46 |
+| [roadrunner](https://roadrunner.dev) | 7,455 | 399 | 48 | 🤯 High-performance PHP application server, process manager written in Go and powered with plugins | 2017-12-26 16:13:10 | 2023-11-16 22:52:03 |
+| [sftpgo](https://github.com/drakkan/sftpgo) | 7,072 | 604 | 19 | Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob | 2019-07-20 10:18:31 | 2023-11-16 19:16:49 |
+| [devd](https://github.com/cortesi/devd) | 3,363 | 150 | 25 |  A local webserver for developers | 2015-09-27 22:43:00 | 2023-11-13 01:13:20 |
+| [flipt](https://flipt.io) | 2,943 | 150 | 29 | An open source, self-hosted feature flag solution | 2016-11-05 00:09:07 | 2023-11-17 00:24:24 |
+| [fider](https://fider.io) | 2,453 | 583 | 48 | Open platform to collect and prioritize feedback | 2017-01-17 22:55:19 | 2023-11-15 02:31:35 |
+| [algernon](https://algernon.roboticoverlords.org) | 2,341 | 122 | 21 | Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support | 2015-03-10 11:25:30 | 2023-11-15 07:46:24 |
+| [flagr](https://openflagr.github.io/flagr) | 2,282 | 186 | 5 | Flagr is a feature flagging, A/B testing and dynamic configuration microservice | 2017-10-03 19:07:32 | 2023-11-15 02:46:47 |
 | [trickster](https://trickstercache.org) | 1,909 | 171 | 57 | Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator | 2018-03-29 20:31:44 | 2023-09-29 03:35:29 |
-| [discovery](https://github.com/bilibili/discovery) | 1,760 | 399 | 26 | A registry for resilient mid-tier load balancing and failover. | 2018-04-20 12:57:50 | 2023-09-27 09:28:48 |
-| [jackal](https://github.com/ortuman/jackal) | 1,429 | 132 | 22 | 💬 Instant messaging server for the Extensible Messaging and Presence Protocol (XMPP). | 2017-11-13 18:17:48 | 2023-10-02 00:29:32 |
-| [go-feature-flag](https://gofeatureflag.org) | 832 | 70 | 9 | GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ | 2020-12-11 13:19:17 | 2023-10-02 00:56:11 |
-| [dudeldu](https://github.com/krotik/dudeldu) | 141 | 17 | 0 | A simple SHOUTcast server. | 2016-09-07 19:11:04 | 2023-09-12 19:18:45 |
-| [go-proxy-cache](https://github.com/fabiocicerchia/go-proxy-cache) | 100 | 13 | 25 | Simple Reverse Proxy with Caching, written in Go, using Redis. | 2020-11-12 15:10:40 | 2023-09-18 15:18:38 |
-| [lets-proxy2](https://github.com/rekby/lets-proxy2) | 82 | 16 | 40 | Reverse proxy with automatically obtains TLS certificates from Let's Encrypt | 2019-04-12 05:39:43 | 2023-09-18 15:18:41 |
-| [cortex-tenant](https://github.com/blind-oracle/cortex-tenant) | 75 | 49 | 5 | Prometheus remote write proxy that adds Cortex/Mimir tenant ID based on metric labels | 2020-10-06 16:52:25 | 2023-09-28 06:44:51 |
+| [discovery](https://github.com/bilibili/discovery) | 1,764 | 401 | 26 | A registry for resilient mid-tier load balancing and failover. | 2018-04-20 12:57:50 | 2023-11-15 05:47:58 |
+| [jackal](https://github.com/ortuman/jackal) | 1,439 | 133 | 22 | 💬 Instant messaging server for the Extensible Messaging and Presence Protocol (XMPP). | 2017-11-13 18:17:48 | 2023-11-03 11:58:13 |
+| [go-feature-flag](https://gofeatureflag.org) | 868 | 87 | 8 | GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ | 2020-12-11 13:19:17 | 2023-11-16 19:42:55 |
+| [dudeldu](https://github.com/krotik/dudeldu) | 142 | 17 | 0 | A simple SHOUTcast server. | 2016-09-07 19:11:04 | 2023-10-07 13:51:09 |
+| [go-proxy-cache](https://github.com/fabiocicerchia/go-proxy-cache) | 102 | 14 | 29 | Simple Reverse Proxy with Caching, written in Go, using Redis. | 2020-11-12 15:10:40 | 2023-10-12 20:54:31 |
+| [lets-proxy2](https://github.com/rekby/lets-proxy2) | 82 | 17 | 40 | Reverse proxy with automatically obtains TLS certificates from Let's Encrypt | 2019-04-12 05:39:43 | 2023-09-18 15:18:41 |
+| [cortex-tenant](https://github.com/blind-oracle/cortex-tenant) | 80 | 51 | 6 | Prometheus remote write proxy that adds Cortex/Mimir tenant ID based on metric labels | 2020-10-06 16:52:25 | 2023-11-15 14:15:19 |
 | [psql-streamer](https://github.com/blind-oracle/psql-streamer) | 53 | 13 | 2 | Stream database events from PostgreSQL to Kafka | 2019-04-28 21:55:31 | 2023-09-18 15:18:50 |
 | [nginx-prometheus](https://github.com/blind-oracle/nginx-prometheus) | 38 | 5 | 0 | Turn Nginx logs into Prometheus metrics | 2018-10-23 09:10:27 | 2023-09-18 15:18:48 |
-| [simple-jwt-provider](https://github.com/leberKleber/simple-jwt-provider) | 35 | 5 | 5 | Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob | 2019-12-18 12:48:14 | 2023-09-18 15:19:35 |
+| [simple-jwt-provider](https://github.com/leberKleber/simple-jwt-provider) | 36 | 5 | 5 | Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob | 2019-12-18 12:48:14 | 2023-11-14 09:46:29 |
 | [protoxy](https://github.com/camgraff/protoxy) | 32 | 5 | 0 | A proxy server than converts JSON request bodies to protocol buffers | 2020-09-03 23:24:34 | 2023-09-28 09:34:44 |
 | [riemann-relay](https://github.com/blind-oracle/riemann-relay) | 2 | 2 | 0 | Service for relaying Riemann events to Riemann/Carbon destinations | 2019-04-23 14:17:12 | 2022-09-27 09:23:35 |
 </details>
@@ -2412,21 +2412,21 @@ Libraries for accessing third party APIs.
 ### UUID
 Libraries for working with UUIDs.
 
-<sup>*Last Update: 2023-10-02 20:50:16*</sup>
+<sup>*Last Update: 2023-11-17 08:00:00*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [uuid](https://github.com/google/uuid) | 4,622 | 381 | 28 | Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services. | 2016-02-12 22:17:59 | 2023-10-02 07:45:59 |
-| [ulid](https://github.com/oklog/ulid) | 3,731 | 145 | 3 | Universally Unique Lexicographically Sortable Identifier (ULID) in Go | 2016-12-06 15:26:52 | 2023-10-02 12:44:36 |
-| [uuid](https://gof.rs/projects/uuid/) | 1,422 | 103 | 7 | A UUID package originally forked from github.com/satori/go.uuid | 2018-07-13 02:13:28 | 2023-10-02 05:38:00 |
-| [wuid](https://github.com/edwingeng/wuid) | 501 | 48 | 1 | An extremely fast globally unique number generator. | 2018-01-27 01:16:28 | 2023-08-27 12:15:00 |
+| [uuid](https://github.com/google/uuid) | 4,705 | 398 | 30 | Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services. | 2016-02-12 22:17:59 | 2023-11-16 18:24:38 |
+| [ulid](https://github.com/oklog/ulid) | 3,820 | 148 | 3 | Universally Unique Lexicographically Sortable Identifier (ULID) in Go | 2016-12-06 15:26:52 | 2023-11-16 09:57:33 |
+| [uuid](https://gof.rs/projects/uuid/) | 1,449 | 105 | 10 | A UUID package originally forked from github.com/satori/go.uuid | 2018-07-13 02:13:28 | 2023-11-16 00:56:25 |
+| [wuid](https://github.com/edwingeng/wuid) | 503 | 48 | 2 | An extremely fast globally unique number generator. | 2018-01-27 01:16:28 | 2023-11-07 21:58:41 |
 | [sno](https://pkg.go.dev/github.com/muyo/sno?tab=doc) | 87 | 5 | 1 | Compact, sortable and fast unique IDs with embedded metadata. | 2019-05-26 22:05:26 | 2023-09-08 05:25:42 |
 | [nanoid](https://github.com/aidarkhanov/nanoid) | 58 | 7 | 0 | A tiny and fast Go unique string generator | 2019-07-02 12:15:56 | 2023-07-10 12:46:11 |
 | [Goid](https://github.com/jakenvac/Goid) | 38 | 4 | 1 | A UUIDv4 generation package written in go | 2017-05-19 10:40:45 | 2023-01-07 04:19:58 |
 | [gouid](https://github.com/twharmon/gouid) | 21 | 4 | 0 | Fast, dependable universally unique ids | 2020-10-08 19:54:41 | 2023-07-15 15:39:02 |
-| [uuid](https://github.com/agext/uuid) | 16 | 5 | 0 | Generate, encode, and decode UUIDs v1 with fast or cryptographic-quality random node identifier. | 2016-02-03 03:02:51 | 2023-08-11 14:41:54 |
+| [uuid](https://github.com/agext/uuid) | 16 | 5 | 1 | Generate, encode, and decode UUIDs v1 with fast or cryptographic-quality random node identifier. | 2016-02-03 03:02:51 | 2023-08-11 14:41:54 |
 | [GoFlake](https://github.com/Hart87/GoFlake) | 7 | 0 | 0 | A highly scalable and serverless unique ID generator for use in distributed systems. Written in GoLang. Inspired by Twitters Snowflake. | 2021-05-03 14:44:19 | 2021-06-30 15:29:33 |
 </details>
 
@@ -2586,22 +2586,22 @@ General utilities and tools to make your life easier.
 ### Validation
 Libraries for validation.
 
-<sup>*Last Update: 2023-09-30 16:56:01*</sup>
+<sup>*Last Update: 2023-11-17 07:59:53*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [validator](https://github.com/go-playground/validator) | 14,076 | 1,212 | 246 | :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving | 2015-02-12 16:32:22 | 2023-09-30 09:32:28 |
-| [govalidator](https://github.com/asaskevich/govalidator) | 5,793 | 571 | 168 | [Go] Package of validators and sanitizers for strings, numerics, slices and structs | 2014-06-20 10:45:23 | 2023-09-29 12:58:04 |
-| [ozzo-validation](https://github.com/go-ozzo/ozzo-validation) | 3,350 | 213 | 47 | An idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags. | 2016-06-22 03:47:43 | 2023-09-28 13:00:37 |
-| [govalidator](https://github.com/thedevsaddam/govalidator) | 1,243 | 119 | 42 | Validate Golang request data with simple rules. Highly inspired by Laravel's request validation. | 2017-09-13 16:42:20 | 2023-09-27 10:34:40 |
-| [validate](https://gookit.github.io/validate/) | 948 | 111 | 20 | ⚔ Go package for data validation and filtering. support Map, Struct, Form data. Go通用的数据验证与过滤库，使用简单，内置大部分常用验证、过滤器，支持自定义验证器、自定义消息、字段翻译。 | 2018-07-16 08:23:49 | 2023-09-28 03:11:46 |
-| [checkdigit](https://github.com/osamingo/checkdigit) | 103 | 6 | 1 | Provide check digit algorithms and calculators written in Go | 2019-04-05 09:46:36 | 2023-09-27 03:51:33 |
-| [validate](https://gookit.github.io/validate/) | 91 | 21 | 0 | This package provides a framework for writing validations for Go applications. | 2018-02-10 18:25:55 | 2023-09-30 08:21:52 |
-| [jio](https://github.com/faceair/jio) | 90 | 11 | 1 | jio is a json schema validator similar to joi | 2018-10-28 11:02:45 | 2023-09-27 03:52:24 |
+| [validator](https://github.com/go-playground/validator) | 14,435 | 1,228 | 256 | :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving | 2015-02-12 16:32:22 | 2023-11-16 19:19:54 |
+| [govalidator](https://github.com/asaskevich/govalidator) | 5,833 | 592 | 167 | [Go] Package of validators and sanitizers for strings, numerics, slices and structs | 2014-06-20 10:45:23 | 2023-11-15 11:13:47 |
+| [ozzo-validation](https://github.com/go-ozzo/ozzo-validation) | 3,400 | 215 | 48 | An idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags. | 2016-06-22 03:47:43 | 2023-11-15 06:32:59 |
+| [govalidator](https://github.com/thedevsaddam/govalidator) | 1,253 | 120 | 43 | Validate Golang request data with simple rules. Highly inspired by Laravel's request validation. | 2017-09-13 16:42:20 | 2023-11-13 06:24:48 |
+| [validate](https://gookit.github.io/validate/) | 959 | 113 | 26 | ⚔ Go package for data validation and filtering. support Map, Struct, Form data. Go通用的数据验证与过滤库，使用简单，内置大部分常用验证、过滤器，支持自定义验证器、自定义消息、字段翻译。 | 2018-07-16 08:23:49 | 2023-11-09 14:17:00 |
+| [checkdigit](https://github.com/osamingo/checkdigit) | 103 | 7 | 1 | Provide check digit algorithms and calculators written in Go | 2019-04-05 09:46:36 | 2023-10-07 14:03:27 |
+| [validate](https://gookit.github.io/validate/) | 91 | 21 | 0 | This package provides a framework for writing validations for Go applications. | 2018-02-10 18:25:55 | 2023-10-26 20:45:24 |
+| [jio](https://github.com/faceair/jio) | 91 | 11 | 1 | jio is a json schema validator similar to joi | 2018-10-28 11:02:45 | 2023-10-10 22:40:50 |
 | [terraform-validator](https://github.com/thazelart/terraform-validator) | 80 | 9 | 1 | A norms and conventions validator for Terraform | 2019-05-29 11:37:15 | 2023-09-29 13:16:57 |
-| [gody](https://pkg.go.dev/github.com/guiferpa/gody) | 64 | 5 | 1 | :balloon: A lightweight struct validator for Go | 2018-11-01 21:08:16 | 2023-09-27 03:51:42 |
+| [gody](https://pkg.go.dev/github.com/guiferpa/gody) | 65 | 5 | 1 | :balloon: A lightweight struct validator for Go | 2018-11-01 21:08:16 | 2023-10-15 21:45:58 |
 | [govalid](https://github.com/twharmon/govalid) | 35 | 6 | 1 | Struct validation using tags | 2019-02-17 23:25:43 | 2023-09-27 03:51:47 |
 </details>
 
@@ -2625,23 +2625,23 @@ Libraries for version control.
 ### Video
 Libraries for manipulating video.
 
-<sup>*Last Update: 2023-09-30 16:55:53*</sup>
+<sup>*Last Update: 2023-11-17 07:59:48*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [goav](https://github.com/giorgisio/goav) | 2,022 | 397 | 48 | Golang bindings for FFmpeg (This repository is no longer maintained) | 2015-05-21 05:31:14 | 2023-09-25 07:09:42 |
-| [m3u8](http://tools.ietf.org/html/draft-pantos-http-live-streaming) | 1,073 | 294 | 60 | Parser and generator of M3U8-playlists for Apple HLS. Library for Go language. :cinema: | 2013-02-05 22:26:30 | 2023-09-26 19:08:46 |
-| [gmf](https://github.com/3d0c/gmf) | 859 | 197 | 47 | Go Media Framework | 2013-04-03 09:07:47 | 2023-09-25 13:38:40 |
-| [go-astisub](https://github.com/asticode/go-astisub) | 509 | 99 | 16 | Manipulate subtitles in GO (.srt, .ssa/.ass, .stl, .ttml, .vtt (webvtt), teletext, etc.) | 2016-12-16 14:47:59 | 2023-09-25 11:49:48 |
-| [go-astits](https://github.com/asticode/go-astits) | 503 | 51 | 11 | Demux and mux MPEG Transport Streams (.ts) natively in GO | 2017-07-04 13:06:15 | 2023-09-28 17:44:24 |
-| [libvlc-go](https://pkg.go.dev/github.com/adrg/libvlc-go/v3) | 372 | 46 | 6 | Go bindings for libVLC and high-level media player interface | 2015-01-06 14:01:50 | 2023-09-29 05:28:21 |
+| [goav](https://github.com/giorgisio/goav) | 2,032 | 413 | 48 | Golang bindings for FFmpeg (This repository is no longer maintained) | 2015-05-21 05:31:14 | 2023-11-15 08:50:08 |
+| [m3u8](http://tools.ietf.org/html/draft-pantos-http-live-streaming) | 1,097 | 298 | 62 | Parser and generator of M3U8-playlists for Apple HLS. Library for Go language. :cinema: | 2013-02-05 22:26:30 | 2023-11-16 06:50:09 |
+| [gmf](https://github.com/3d0c/gmf) | 863 | 215 | 47 | Go Media Framework | 2013-04-03 09:07:47 | 2023-11-15 11:26:27 |
+| [go-astisub](https://github.com/asticode/go-astisub) | 517 | 102 | 18 | Manipulate subtitles in GO (.srt, .ssa/.ass, .stl, .ttml, .vtt (webvtt), teletext, etc.) | 2016-12-16 14:47:59 | 2023-11-14 07:53:13 |
+| [go-astits](https://github.com/asticode/go-astits) | 507 | 52 | 13 | Demux and mux MPEG Transport Streams (.ts) natively in GO | 2017-07-04 13:06:15 | 2023-11-04 00:11:31 |
+| [libvlc-go](https://pkg.go.dev/github.com/adrg/libvlc-go/v3) | 376 | 48 | 6 | Go bindings for libVLC and high-level media player interface | 2015-01-06 14:01:50 | 2023-11-16 10:33:21 |
 | [gst](https://github.com/ziutek/gst) | 168 | 48 | 9 | Go bindings for GStreamer (retired: currently I don't use/develop this package) | 2011-07-26 00:44:40 | 2023-08-27 12:31:57 |
-| [go-m3u8](https://tools.ietf.org/html/rfc8216) | 106 | 23 | 2 | Parse and generate m3u8 playlists for Apple HTTP Live Streaming (HLS) in Golang (ported from gem https://github.com/sethdeckard/m3u8) | 2018-11-06 02:42:27 | 2023-07-23 07:27:11 |
+| [go-m3u8](https://tools.ietf.org/html/rfc8216) | 110 | 24 | 2 | Parse and generate m3u8 playlists for Apple HTTP Live Streaming (HLS) in Golang (ported from gem https://github.com/sethdeckard/m3u8) | 2018-11-06 02:42:27 | 2023-11-16 22:37:48 |
 | [v4l](https://pkg.go.dev/github.com/korandiz/v4l) | 77 | 14 | 0 | Facade to the Video4Linux video capture interface.  | 2016-10-25 10:50:25 | 2023-09-18 15:05:05 |
 | [libgosubs](https://github.com/wargarblgarbl/libgosubs) | 24 | 5 | 0 | golang library to read and write various subtitle formats | 2017-05-03 21:05:25 | 2023-08-17 13:54:41 |
-| [go-mpd](https://github.com/unki2aut/go-mpd) | 18 | 6 | 0 | Go library for parsing and generating MPEG-DASH Media Presentation Description (MPD) files | 2018-11-02 19:09:07 | 2023-09-18 15:04:52 |
+| [go-mpd](https://github.com/unki2aut/go-mpd) | 18 | 6 | 0 | Go library for parsing and generating MPEG-DASH Media Presentation Description (MPD) files | 2018-11-02 19:09:07 | 2023-11-11 09:34:37 |
 </details>
 
 ### Web Frameworks
