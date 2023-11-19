@@ -1,7 +1,7 @@
 {
 	"name": "Server Applications",
-	"index_last_check": 23,
-	"last_update": 1700182805,
+	"index_last_check": 0,
+	"last_update": 1700400929,
 	"libraries": [
 		{
 			"id": 29207621,
@@ -178,12 +178,12 @@
 			"html_url": "https://github.com/trickstercache/trickster",
 			"homepage": "https://trickstercache.org",
 			"created_at": "2018-03-29T20:31:44Z",
-			"updated_at": "2023-09-29T03:35:29Z",
+			"updated_at": "2023-11-18T10:42:59Z",
 			"svn_url": "https://github.com/trickstercache/trickster",
-			"stargazers_count": 1909,
-			"watchers_count": 1909,
-			"forks_count": 171,
-			"open_issues_count": 57
+			"stargazers_count": 1921,
+			"watchers_count": 1921,
+			"forks_count": 172,
+			"open_issues_count": 60
 		},
 		{
 			"id": 130362273,

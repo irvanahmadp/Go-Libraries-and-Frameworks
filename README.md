@@ -471,23 +471,23 @@ Generic datastructures and algorithms in Go.
 ### Database - Database schema migration
 
 
-<sup>*Last Update: 2023-10-03 14:12:09*</sup>
+<sup>*Last Update: 2023-11-19 20:35:49*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [migrate](https://github.com/golang-migrate/migrate) | 12,327 | 1,225 | 297 | Database migrations. CLI and Golang library. | 2018-01-19 09:30:58 | 2023-10-03 04:20:46 |
-| [goose](https://pressly.github.io/goose/) | 4,407 | 466 | 64 | A database migration tool. Supports SQL migrations and Go functions.  | 2016-02-25 20:39:37 | 2023-10-03 04:12:09 |
-| [sql-migrate](https://github.com/rubenv/sql-migrate) | 2,945 | 284 | 85 | SQL schema migration tool for Go. | 2014-09-09 07:31:41 | 2023-10-03 04:12:13 |
-| [pop](https://github.com/gobuffalo/pop) | 1,378 | 246 | 99 | A Tasty Treat For All Your Database Needs | 2018-02-07 21:13:46 | 2023-09-30 19:21:48 |
-| [skeema](https://github.com/skeema/skeema) | 1,174 | 109 | 18 | Declarative pure-SQL schema management for MySQL and MariaDB | 2016-10-31 23:18:56 | 2023-10-01 19:50:31 |
-| [gormigrate](https://pkg.go.dev/github.com/go-gormigrate/gormigrate/v2) | 933 | 90 | 13 | Minimalistic database migration helper for Gorm ORM | 2016-08-31 11:46:23 | 2023-09-28 14:08:49 |
-| [migrator](https://github.com/lopezator/migrator) | 156 | 17 | 5 | Dead simple Go database migration library. | 2019-02-04 09:40:01 | 2023-09-14 08:39:32 |
-| [darwin](https://github.com/GuiaBolso/darwin) | 137 | 37 | 5 | Database schema evolution library for Go | 2016-04-05 15:57:59 | 2023-08-25 00:31:54 |
+| [migrate](https://github.com/golang-migrate/migrate) | 12,639 | 1,253 | 311 | Database migrations. CLI and Golang library. | 2018-01-19 09:30:58 | 2023-11-19 04:30:25 |
+| [goose](https://pressly.github.io/goose/) | 4,681 | 496 | 58 | A database migration tool. Supports SQL migrations and Go functions.  | 2016-02-25 20:39:37 | 2023-11-19 00:58:16 |
+| [sql-migrate](https://github.com/rubenv/sql-migrate) | 2,977 | 298 | 86 | SQL schema migration tool for Go. | 2014-09-09 07:31:41 | 2023-11-18 10:28:49 |
+| [pop](https://github.com/gobuffalo/pop) | 1,389 | 247 | 96 | A Tasty Treat For All Your Database Needs | 2018-02-07 21:13:46 | 2023-11-07 22:42:50 |
+| [skeema](https://github.com/skeema/skeema) | 1,185 | 110 | 19 | Declarative pure-SQL schema management for MySQL and MariaDB | 2016-10-31 23:18:56 | 2023-11-17 20:39:51 |
+| [gormigrate](https://pkg.go.dev/github.com/go-gormigrate/gormigrate/v2) | 943 | 91 | 13 | Minimalistic database migration helper for Gorm ORM | 2016-08-31 11:46:23 | 2023-11-14 14:13:47 |
+| [migrator](https://github.com/lopezator/migrator) | 156 | 17 | 6 | Dead simple Go database migration library. | 2019-02-04 09:40:01 | 2023-09-14 08:39:32 |
+| [darwin](https://github.com/GuiaBolso/darwin) | 139 | 36 | 5 | Database schema evolution library for Go | 2016-04-05 15:57:59 | 2023-11-10 10:08:06 |
 | [go-pg-migrations](https://github.com/robinjoseph08/go-pg-migrations) | 83 | 21 | 7 | A Go package to help write migrations with go-pg/pg. | 2018-08-11 07:00:13 | 2023-05-24 11:35:40 |
-| [avro](https://github.com/khezen/avro) | 43 | 10 | 0 | Apache AVRO for go | 2019-04-07 12:22:46 | 2023-06-28 02:44:14 |
-| [schema](http://pravasan.github.io/pravasan/) | 30 | 3 | 0 | Embedded schema migration package for Go | 2019-09-24 19:27:13 | 2023-08-29 08:36:58 |
+| [avro](https://github.com/khezen/avro) | 44 | 10 | 0 | Apache AVRO for go | 2019-04-07 12:22:46 | 2023-10-27 07:49:02 |
+| [schema](http://pravasan.github.io/pravasan/) | 30 | 3 | 2 | Embedded schema migration package for Go | 2019-09-24 19:27:13 | 2023-08-29 08:36:58 |
 | [go-fixtures](https://github.com/RichardKnop/go-fixtures) | 28 | 11 | 0 | Django style fixtures for Golang's excellent built-in database/sql library. | 2015-12-24 11:27:45 | 2023-09-08 17:05:02 |
 | [pravasan](http://pravasan.github.io/pravasan/) | 28 | 6 | 30 | Simple Migration Tool - written in Go | 2015-01-03 17:11:05 | 2023-08-19 00:35:45 |
 | [migrator](https://github.com/larapulse/migrator) | 24 | 4 | 0 | MySQL database migrator | 2020-06-27 14:40:29 | 2023-08-03 12:41:19 |
@@ -1859,25 +1859,25 @@ Unofficial libraries for package and dependency management
 ### Query Language
 
 
-<sup>*Last Update: 2023-10-03 14:11:51*</sup>
+<sup>*Last Update: 2023-11-19 20:35:36*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [graphql](https://github.com/graphql-go/graphql) | 9,422 | 849 | 214 | An implementation of GraphQL for Go / Golang | 2015-07-19 12:25:43 | 2023-10-02 23:24:55 |
-| [gqlgen](https://gqlgen.com) | 9,206 | 1,105 | 253 | go generate based graphql server library | 2018-02-11 04:54:11 | 2023-10-03 05:49:58 |
-| [dasel](https://daseldocs.tomwright.me) | 4,553 | 115 | 31 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package. | 2020-09-22 10:33:56 | 2023-10-03 04:08:08 |
-| [graphql-go](https://github.com/graph-gophers/graphql-go) | 4,532 | 518 | 46 | GraphQL server with a focus on ease of use | 2016-10-18 13:57:24 | 2023-09-30 19:21:02 |
-| [gojsonq](https://github.com/thedevsaddam/gojsonq/wiki) | 2,102 | 173 | 25 | A simple Go package to Query over JSON/YAML/XML/CSV Data  | 2018-05-19 16:15:18 | 2023-09-30 15:47:24 |
-| [rql](https://github.com/a8m/rql) | 312 | 42 | 15 | Resource Query Language for REST | 2018-06-05 18:37:29 | 2023-10-01 19:35:48 |
-| [jsonql](https://github.com/elgs/jsonql) | 269 | 40 | 5 | JSON query expression library in Golang. | 2015-12-29 11:24:04 | 2023-08-05 21:16:29 |
+| [graphql](https://github.com/graphql-go/graphql) | 9,498 | 865 | 217 | An implementation of GraphQL for Go / Golang | 2015-07-19 12:25:43 | 2023-11-19 11:22:12 |
+| [gqlgen](https://gqlgen.com) | 9,301 | 1,133 | 258 | go generate based graphql server library | 2018-02-11 04:54:11 | 2023-11-19 12:31:57 |
+| [dasel](https://daseldocs.tomwright.me) | 4,617 | 116 | 32 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package. | 2020-09-22 10:33:56 | 2023-11-18 19:18:08 |
+| [graphql-go](https://github.com/graph-gophers/graphql-go) | 4,542 | 536 | 44 | GraphQL server with a focus on ease of use | 2016-10-18 13:57:24 | 2023-11-19 11:23:37 |
+| [gojsonq](https://github.com/thedevsaddam/gojsonq/wiki) | 2,112 | 187 | 26 | A simple Go package to Query over JSON/YAML/XML/CSV Data  | 2018-05-19 16:15:18 | 2023-11-16 23:12:13 |
+| [rql](https://github.com/a8m/rql) | 316 | 42 | 15 | Resource Query Language for REST | 2018-06-05 18:37:29 | 2023-11-07 02:20:26 |
+| [jsonql](https://github.com/elgs/jsonql) | 270 | 40 | 5 | JSON query expression library in Golang. | 2015-12-29 11:24:04 | 2023-10-04 08:55:56 |
 | [jsonslice](https://github.com/bhmj/jsonslice) | 79 | 8 | 3 | json slicer | 2018-05-02 00:33:15 | 2023-07-18 10:16:39 |
-| [rest-query-parser](https://github.com/timsolov/rest-query-parser) | 58 | 17 | 4 | Query Parser for REST | 2020-02-10 17:58:42 | 2023-09-22 16:09:57 |
+| [rest-query-parser](https://github.com/timsolov/rest-query-parser) | 61 | 18 | 4 | Query Parser for REST | 2020-02-10 17:58:42 | 2023-11-12 09:30:23 |
 | [graphql](https://github.com/tmc/graphql) | 57 | 7 | 3 | graphql parser + utilities | 2015-04-18 21:05:52 | 2023-08-01 19:59:34 |
 | [api-fu](https://github.com/ccbrown/api-fu) | 52 | 5 | 3 | A collection of Go packages for creating robust GraphQL APIs | 2019-07-30 05:18:43 | 2023-09-21 00:16:31 |
-| [straf](https://github.com/ThundR67/straf) | 35 | 6 | 0 | Convert Golang Struct To GraphQL Object On The Fly | 2019-08-16 13:31:39 | 2023-09-24 17:41:51 |
-| [jsonpath](https://github.com/AsaiYusuke/jsonpath) | 18 | 2 | 1 | A query library for retrieving part of JSON based on JSONPath syntax. | 2020-11-29 05:37:26 | 2023-06-02 17:34:28 |
+| [straf](https://github.com/ThundR67/straf) | 36 | 6 | 0 | Convert Golang Struct To GraphQL Object On The Fly | 2019-08-16 13:31:39 | 2023-10-19 21:15:40 |
+| [jsonpath](https://github.com/AsaiYusuke/jsonpath) | 19 | 3 | 1 | A query library for retrieving part of JSON based on JSONPath syntax. | 2020-11-29 05:37:26 | 2023-10-09 21:01:34 |
 | [gws](https://github.com/Zaba505/gws) | 7 | 2 | 2 | A WebSocket client and server for GraphQL | 2020-06-08 19:51:36 | 2023-06-08 02:43:37 |
 </details>
 
@@ -2018,7 +2018,7 @@ Libraries and tools for binary serialization.
 ### Server Applications
 
 
-<sup>*Last Update: 2023-11-17 08:00:05*</sup>
+<sup>*Last Update: 2023-11-19 20:35:29*</sup>
 <details>
   <summary>Show Table</summary>
 
@@ -2036,7 +2036,7 @@ Libraries and tools for binary serialization.
 | [fider](https://fider.io) | 2,453 | 583 | 48 | Open platform to collect and prioritize feedback | 2017-01-17 22:55:19 | 2023-11-15 02:31:35 |
 | [algernon](https://algernon.roboticoverlords.org) | 2,341 | 122 | 21 | Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support | 2015-03-10 11:25:30 | 2023-11-15 07:46:24 |
 | [flagr](https://openflagr.github.io/flagr) | 2,282 | 186 | 5 | Flagr is a feature flagging, A/B testing and dynamic configuration microservice | 2017-10-03 19:07:32 | 2023-11-15 02:46:47 |
-| [trickster](https://trickstercache.org) | 1,909 | 171 | 57 | Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator | 2018-03-29 20:31:44 | 2023-09-29 03:35:29 |
+| [trickster](https://trickstercache.org) | 1,921 | 172 | 60 | Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator | 2018-03-29 20:31:44 | 2023-11-18 10:42:59 |
 | [discovery](https://github.com/bilibili/discovery) | 1,764 | 401 | 26 | A registry for resilient mid-tier load balancing and failover. | 2018-04-20 12:57:50 | 2023-11-15 05:47:58 |
 | [jackal](https://github.com/ortuman/jackal) | 1,439 | 133 | 22 | 💬 Instant messaging server for the Extensible Messaging and Presence Protocol (XMPP). | 2017-11-13 18:17:48 | 2023-11-03 11:58:13 |
 | [go-feature-flag](https://gofeatureflag.org) | 868 | 87 | 8 | GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ | 2020-12-11 13:19:17 | 2023-11-16 19:42:55 |
@@ -2127,24 +2127,24 @@ Libraries and tools for templating and lexing.
 ### Testing - Mock
 
 
-<sup>*Last Update: 2023-10-03 14:12:02*</sup>
+<sup>*Last Update: 2023-11-19 20:35:42*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [mock](https://pkg.go.dev/github.com/h2non/gock) | 9,094 | 693 | 85 | GoMock is a mocking framework for the Go programming language. | 2015-06-12 17:15:11 | 2023-10-02 13:50:34 |
-| [go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) | 5,495 | 415 | 75 | Sql mock driver for golang to test database interactions | 2014-02-07 07:59:29 | 2023-10-03 04:14:49 |
-| [hoverfly](https://hoverfly.io) | 2,255 | 203 | 34 | Lightweight service virtualization/ API simulation / API mocking tool for developers and testers | 2015-11-30 16:36:31 | 2023-10-01 02:20:47 |
-| [gock](https://pkg.go.dev/github.com/h2non/gock) | 1,936 | 106 | 40 | HTTP traffic mocking and testing made easy in Go ༼ʘ̚ل͜ʘ̚༽ | 2016-03-02 16:20:26 | 2023-10-01 19:21:58 |
-| [httpmock](http://godoc.org/github.com/jarcoal/httpmock) | 1,750 | 101 | 3 | HTTP mocking for Golang | 2014-02-24 16:47:59 | 2023-09-30 17:47:20 |
-| [counterfeiter](https://github.com/maxbrunsfeld/counterfeiter) | 873 | 86 | 28 | A tool for generating self-contained, type-safe test doubles in go | 2014-05-21 00:12:54 | 2023-09-30 18:53:12 |
-| [go-txdb](https://github.com/DATA-DOG/go-txdb) | 574 | 40 | 5 | Immutable transaction isolated sql driver for golang | 2015-07-08 07:34:53 | 2023-09-27 06:34:40 |
-| [minimock](https://github.com/gojuno/minimock) | 510 | 34 | 17 | Powerful mock generation tool for Go programming language | 2016-08-03 16:01:35 | 2023-09-21 13:56:33 |
-| [govcr](https://github.com/seborama/govcr) | 161 | 14 | 1 | HTTP mock for Golang: record and replay HTTP/HTTPS interactions for offline testing | 2016-07-10 17:47:41 | 2023-10-03 02:25:24 |
-| [go-localstack](https://github.com/elgohr/go-localstack) | 72 | 16 | 2 | Go Wrapper for using localstack | 2020-03-18 07:13:02 | 2023-08-16 09:47:25 |
+| [mock](https://pkg.go.dev/github.com/h2non/gock) | 9,125 | 658 | 84 | GoMock is a mocking framework for the Go programming language. | 2015-06-12 17:15:11 | 2023-11-18 19:41:54 |
+| [go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) | 5,563 | 433 | 74 | Sql mock driver for golang to test database interactions | 2014-02-07 07:59:29 | 2023-11-19 08:16:00 |
+| [hoverfly](https://hoverfly.io) | 2,275 | 204 | 34 | Lightweight service virtualization/ API simulation / API mocking tool for developers and testers | 2015-11-30 16:36:31 | 2023-11-19 08:36:12 |
+| [gock](https://pkg.go.dev/github.com/h2non/gock) | 1,963 | 106 | 40 | HTTP traffic mocking and testing made easy in Go ༼ʘ̚ل͜ʘ̚༽ | 2016-03-02 16:20:26 | 2023-11-17 09:41:12 |
+| [httpmock](http://godoc.org/github.com/jarcoal/httpmock) | 1,788 | 102 | 3 | HTTP mocking for Golang | 2014-02-24 16:47:59 | 2023-11-14 08:40:54 |
+| [counterfeiter](https://github.com/maxbrunsfeld/counterfeiter) | 883 | 87 | 28 | A tool for generating self-contained, type-safe test doubles in go | 2014-05-21 00:12:54 | 2023-11-16 19:04:46 |
+| [go-txdb](https://github.com/DATA-DOG/go-txdb) | 581 | 43 | 5 | Immutable transaction isolated sql driver for golang | 2015-07-08 07:34:53 | 2023-11-13 16:51:34 |
+| [minimock](https://github.com/gojuno/minimock) | 520 | 36 | 18 | Powerful mock generation tool for Go programming language | 2016-08-03 16:01:35 | 2023-11-18 19:34:45 |
+| [govcr](https://github.com/seborama/govcr) | 160 | 14 | 1 | HTTP mock for Golang: record and replay HTTP/HTTPS interactions for offline testing | 2016-07-10 17:47:41 | 2023-10-23 06:51:11 |
+| [go-localstack](https://github.com/elgohr/go-localstack) | 72 | 19 | 1 | Go Wrapper for using localstack | 2020-03-18 07:13:02 | 2023-10-05 11:30:38 |
 | [timex](https://github.com/cabify/timex) | 70 | 5 | 1 | A test-friendly replacement for golang's time package | 2020-01-02 18:06:48 | 2023-09-13 09:00:01 |
-| [mockhttp](https://github.com/tv42/mockhttp) | 22 | 6 | 0 | Mock object for Go http.ResponseWriter | 2011-06-11 16:03:01 | 2022-09-27 09:30:55 |
+| [mockhttp](https://github.com/tv42/mockhttp) | 23 | 6 | 0 | Mock object for Go http.ResponseWriter | 2011-06-11 16:03:01 | 2023-11-14 18:39:38 |
 | [mockit](https://github.com/pasdam/mockit) | 16 | 3 | 4 | Library that make mocking of Go functions/methods easy | 2020-01-01 08:46:09 | 2023-05-30 03:26:52 |
 </details>
 
@@ -2291,23 +2291,23 @@ Libraries and tools for templating and lexing.
 ### Text Processing - Utility
 
 
-<sup>*Last Update: 2023-10-02 20:50:37*</sup>
+<sup>*Last Update: 2023-11-19 20:35:30*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [xurls](https://tysug.net) | 1,076 | 113 | 1 | Extract urls from text | 2015-01-12 01:28:46 | 2023-10-01 20:58:37 |
+| [xurls](https://tysug.net) | 1,087 | 115 | 2 | Extract urls from text | 2015-01-12 01:28:46 | 2023-11-16 15:32:57 |
 | [gotabulate](https://github.com/bndr/gotabulate) | 302 | 29 | 5 | Gotabulate - Easily pretty-print your tabular data with Go | 2014-08-21 07:44:28 | 2023-08-25 02:59:22 |
-| [radix](https://github.com/yourbasic/radix) | 186 | 11 | 0 | A fast string sorting algorithm (MSD radix sort) | 2017-06-09 14:38:58 | 2023-08-23 11:19:55 |
-| [regroup](https://github.com/oriser/regroup) | 135 | 12 | 2 | Match regex group into go struct using struct tags and automatic parsing | 2020-09-08 19:04:42 | 2023-10-02 07:15:05 |
-| [gofuckyourself](https://github.com/JoshuaDoes/gofuckyourself) | 58 | 8 | 4 | A sanitization-based swear filter for Go. | 2018-09-09 00:07:26 | 2023-09-08 03:32:12 |
-| [parth](https://github.com/codemodus/parth) | 43 | 6 | 0 | Path parsing for segment unmarshaling and slicing. | 2015-04-06 22:53:59 | 2023-01-08 16:11:52 |
-| [xj2go](https://tysug.net) | 33 | 8 | 0 | Convert xml and json to go struct | 2017-09-19 13:20:57 | 2023-09-15 15:57:48 |
-| [tagify](https://www.zoomio.org/tagify) | 33 | 2 | 3 | Tagify produces a set of tags from a given source. Source can be either an HTML page, a Markdown document or a plain text. Supports English, Russian, Chinese, Hindi, Spanish, Arabic, Japanese, German, Hebrew, French and Korean languages. | 2018-03-20 10:30:11 | 2023-10-02 06:58:10 |
+| [radix](https://github.com/yourbasic/radix) | 186 | 11 | 0 | A fast string sorting algorithm (MSD radix sort) | 2017-06-09 14:38:58 | 2023-10-27 13:45:49 |
+| [regroup](https://github.com/oriser/regroup) | 136 | 12 | 2 | Match regex group into go struct using struct tags and automatic parsing | 2020-09-08 19:04:42 | 2023-10-19 20:20:55 |
+| [gofuckyourself](https://github.com/JoshuaDoes/gofuckyourself) | 59 | 8 | 4 | A sanitization-based swear filter for Go. | 2018-09-09 00:07:26 | 2023-10-04 23:50:08 |
+| [parth](https://github.com/codemodus/parth) | 45 | 6 | 0 | Path parsing for segment unmarshaling and slicing. | 2015-04-06 22:53:59 | 2023-11-17 09:49:04 |
+| [xj2go](https://tysug.net) | 34 | 8 | 0 | Convert xml and json to go struct | 2017-09-19 13:20:57 | 2023-11-03 03:33:08 |
+| [tagify](https://www.zoomio.org/tagify) | 34 | 2 | 3 | Tagify produces a set of tags from a given source. Source can be either an HTML page, a Markdown document or a plain text. Supports English, Russian, Chinese, Hindi, Spanish, Arabic, Japanese, German, Hebrew, French and Korean languages. | 2018-03-20 10:30:11 | 2023-11-07 20:36:38 |
 | [kace](https://github.com/codemodus/kace) | 20 | 3 | 1 | Common case conversions covering common initialisms. | 2015-06-04 20:36:49 | 2023-08-01 23:38:06 |
 | [TySug](https://tysug.net) | 17 | 3 | 2 | A project around helping to prevent typing typos. TySug (Typo Suggestions) suggests alternative words with respect to keyboard layouts | 2018-06-05 19:46:29 | 2023-08-03 19:29:18 |
-| [parseargs-go](https://github.com/txgruppi/parseargs-go) | 9 | 5 | 1 | A string argument parser that understands quotes and backslashes | 2016-02-24 00:53:38 | 2023-06-15 15:58:40 |
+| [parseargs-go](https://github.com/txgruppi/parseargs-go) | 10 | 6 | 1 | A string argument parser that understands quotes and backslashes | 2016-02-24 00:53:38 | 2023-10-21 16:40:53 |
 | [textwrap](https://www.zoomio.org/tagify) | 5 | 4 | 1 | Port of Python's "textwrap" module to Go | 2019-07-26 17:57:55 | 2023-08-21 08:56:49 |
 </details>
 

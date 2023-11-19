@@ -1,7 +1,7 @@
 {
 	"name": "Testing - Mock",
 	"index_last_check": 0,
-	"last_update": 1696317122,
+	"last_update": 1700400942,
 	"libraries": [
 		{
 			"id": 37334619,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/golang/mock",
 			"homepage": "https://pkg.go.dev/github.com/h2non/gock",
 			"created_at": "2015-06-12T17:15:11Z",
-			"updated_at": "2023-10-02T13:50:34Z",
+			"updated_at": "2023-11-18T19:41:54Z",
 			"svn_url": "https://github.com/golang/mock",
-			"stargazers_count": 9094,
-			"watchers_count": 9094,
-			"forks_count": 693,
-			"open_issues_count": 85
+			"stargazers_count": 9125,
+			"watchers_count": 9125,
+			"forks_count": 658,
+			"open_issues_count": 84
 		},
 		{
 			"id": 16607984,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/DATA-DOG/go-sqlmock",
 			"homepage": "",
 			"created_at": "2014-02-07T07:59:29Z",
-			"updated_at": "2023-10-03T04:14:49Z",
+			"updated_at": "2023-11-19T08:16:00Z",
 			"svn_url": "https://github.com/DATA-DOG/go-sqlmock",
-			"stargazers_count": 5495,
-			"watchers_count": 5495,
-			"forks_count": 415,
-			"open_issues_count": 75
+			"stargazers_count": 5563,
+			"watchers_count": 5563,
+			"forks_count": 433,
+			"open_issues_count": 74
 		},
 		{
 			"id": 47131865,
@@ -38,11 +38,11 @@
 			"html_url": "https://github.com/SpectoLabs/hoverfly",
 			"homepage": "https://hoverfly.io",
 			"created_at": "2015-11-30T16:36:31Z",
-			"updated_at": "2023-10-01T02:20:47Z",
+			"updated_at": "2023-11-19T08:36:12Z",
 			"svn_url": "https://github.com/SpectoLabs/hoverfly",
-			"stargazers_count": 2255,
-			"watchers_count": 2255,
-			"forks_count": 203,
+			"stargazers_count": 2275,
+			"watchers_count": 2275,
+			"forks_count": 204,
 			"open_issues_count": 34
 		},
 		{
@@ -52,10 +52,10 @@
 			"html_url": "https://github.com/h2non/gock",
 			"homepage": "https://pkg.go.dev/github.com/h2non/gock",
 			"created_at": "2016-03-02T16:20:26Z",
-			"updated_at": "2023-10-01T19:21:58Z",
+			"updated_at": "2023-11-17T09:41:12Z",
 			"svn_url": "https://github.com/h2non/gock",
-			"stargazers_count": 1936,
-			"watchers_count": 1936,
+			"stargazers_count": 1963,
+			"watchers_count": 1963,
 			"forks_count": 106,
 			"open_issues_count": 40
 		},
@@ -66,11 +66,11 @@
 			"html_url": "https://github.com/jarcoal/httpmock",
 			"homepage": "http://godoc.org/github.com/jarcoal/httpmock",
 			"created_at": "2014-02-24T16:47:59Z",
-			"updated_at": "2023-09-30T17:47:20Z",
+			"updated_at": "2023-11-14T08:40:54Z",
 			"svn_url": "https://github.com/jarcoal/httpmock",
-			"stargazers_count": 1750,
-			"watchers_count": 1750,
-			"forks_count": 101,
+			"stargazers_count": 1788,
+			"watchers_count": 1788,
+			"forks_count": 102,
 			"open_issues_count": 3
 		},
 		{
@@ -80,11 +80,11 @@
 			"html_url": "https://github.com/maxbrunsfeld/counterfeiter",
 			"homepage": "",
 			"created_at": "2014-05-21T00:12:54Z",
-			"updated_at": "2023-09-30T18:53:12Z",
+			"updated_at": "2023-11-16T19:04:46Z",
 			"svn_url": "https://github.com/maxbrunsfeld/counterfeiter",
-			"stargazers_count": 873,
-			"watchers_count": 873,
-			"forks_count": 86,
+			"stargazers_count": 883,
+			"watchers_count": 883,
+			"forks_count": 87,
 			"open_issues_count": 28
 		},
 		{
@@ -94,11 +94,11 @@
 			"html_url": "https://github.com/DATA-DOG/go-txdb",
 			"homepage": "",
 			"created_at": "2015-07-08T07:34:53Z",
-			"updated_at": "2023-09-27T06:34:40Z",
+			"updated_at": "2023-11-13T16:51:34Z",
 			"svn_url": "https://github.com/DATA-DOG/go-txdb",
-			"stargazers_count": 574,
-			"watchers_count": 574,
-			"forks_count": 40,
+			"stargazers_count": 581,
+			"watchers_count": 581,
+			"forks_count": 43,
 			"open_issues_count": 5
 		},
 		{
@@ -108,12 +108,12 @@
 			"html_url": "https://github.com/gojuno/minimock",
 			"homepage": "",
 			"created_at": "2016-08-03T16:01:35Z",
-			"updated_at": "2023-09-21T13:56:33Z",
+			"updated_at": "2023-11-18T19:34:45Z",
 			"svn_url": "https://github.com/gojuno/minimock",
-			"stargazers_count": 510,
-			"watchers_count": 510,
-			"forks_count": 34,
-			"open_issues_count": 17
+			"stargazers_count": 520,
+			"watchers_count": 520,
+			"forks_count": 36,
+			"open_issues_count": 18
 		},
 		{
 			"id": 63011213,
@@ -122,10 +122,10 @@
 			"html_url": "https://github.com/seborama/govcr",
 			"homepage": "",
 			"created_at": "2016-07-10T17:47:41Z",
-			"updated_at": "2023-10-03T02:25:24Z",
+			"updated_at": "2023-10-23T06:51:11Z",
 			"svn_url": "https://github.com/seborama/govcr",
-			"stargazers_count": 161,
-			"watchers_count": 161,
+			"stargazers_count": 160,
+			"watchers_count": 160,
 			"forks_count": 14,
 			"open_issues_count": 1
 		},
@@ -136,12 +136,12 @@
 			"html_url": "https://github.com/elgohr/go-localstack",
 			"homepage": "",
 			"created_at": "2020-03-18T07:13:02Z",
-			"updated_at": "2023-08-16T09:47:25Z",
+			"updated_at": "2023-10-05T11:30:38Z",
 			"svn_url": "https://github.com/elgohr/go-localstack",
 			"stargazers_count": 72,
 			"watchers_count": 72,
-			"forks_count": 16,
-			"open_issues_count": 2
+			"forks_count": 19,
+			"open_issues_count": 1
 		},
 		{
 			"id": 231434301,
@@ -164,10 +164,10 @@
 			"html_url": "https://github.com/tv42/mockhttp",
 			"homepage": "",
 			"created_at": "2011-06-11T16:03:01Z",
-			"updated_at": "2022-09-27T09:30:55Z",
+			"updated_at": "2023-11-14T18:39:38Z",
 			"svn_url": "https://github.com/tv42/mockhttp",
-			"stargazers_count": 22,
-			"watchers_count": 22,
+			"stargazers_count": 23,
+			"watchers_count": 23,
 			"forks_count": 6,
 			"open_issues_count": 0
 		},
