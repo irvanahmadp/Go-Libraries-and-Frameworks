@@ -1,7 +1,7 @@
 {
 	"name": "Database - Database schema migration",
 	"index_last_check": 0,
-	"last_update": 1700400949,
+	"last_update": 1700443210,
 	"libraries": [
 		{
 			"id": 118105436,
@@ -10,11 +10,11 @@
 			"html_url": "https://github.com/golang-migrate/migrate",
 			"homepage": "",
 			"created_at": "2018-01-19T09:30:58Z",
-			"updated_at": "2023-11-19T04:30:25Z",
+			"updated_at": "2023-11-19T18:42:55Z",
 			"svn_url": "https://github.com/golang-migrate/migrate",
-			"stargazers_count": 12639,
-			"watchers_count": 12639,
-			"forks_count": 1253,
+			"stargazers_count": 12641,
+			"watchers_count": 12641,
+			"forks_count": 1254,
 			"open_issues_count": 311
 		},
 		{
@@ -24,10 +24,10 @@
 			"html_url": "https://github.com/pressly/goose",
 			"homepage": "https://pressly.github.io/goose/",
 			"created_at": "2016-02-25T20:39:37Z",
-			"updated_at": "2023-11-19T00:58:16Z",
+			"updated_at": "2023-11-20T01:11:54Z",
 			"svn_url": "https://github.com/pressly/goose",
-			"stargazers_count": 4681,
-			"watchers_count": 4681,
+			"stargazers_count": 4686,
+			"watchers_count": 4686,
 			"forks_count": 496,
 			"open_issues_count": 58
 		},
@@ -80,10 +80,10 @@
 			"html_url": "https://github.com/go-gormigrate/gormigrate",
 			"homepage": "https://pkg.go.dev/github.com/go-gormigrate/gormigrate/v2",
 			"created_at": "2016-08-31T11:46:23Z",
-			"updated_at": "2023-11-14T14:13:47Z",
+			"updated_at": "2023-11-19T20:05:38Z",
 			"svn_url": "https://github.com/go-gormigrate/gormigrate",
-			"stargazers_count": 943,
-			"watchers_count": 943,
+			"stargazers_count": 944,
+			"watchers_count": 944,
 			"forks_count": 91,
 			"open_issues_count": 13
 		},

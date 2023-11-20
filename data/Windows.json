@@ -1,7 +1,7 @@
 {
 	"name": "Windows",
 	"index_last_check": 0,
-	"last_update": 1699089046,
+	"last_update": 1700443234,
 	"libraries": [
 		{
 			"id": 1278292,
@@ -10,11 +10,11 @@
 			"html_url": "https://github.com/go-ole/go-ole",
 			"homepage": "",
 			"created_at": "2011-01-21T12:45:20Z",
-			"updated_at": "2023-11-02T09:41:26Z",
+			"updated_at": "2023-11-17T15:20:57Z",
 			"svn_url": "https://github.com/go-ole/go-ole",
-			"stargazers_count": 1037,
-			"watchers_count": 1037,
-			"forks_count": 224,
+			"stargazers_count": 1038,
+			"watchers_count": 1038,
+			"forks_count": 227,
 			"open_issues_count": 72
 		},
 		{

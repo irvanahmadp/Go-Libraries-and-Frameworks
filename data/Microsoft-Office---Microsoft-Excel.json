@@ -1,7 +1,7 @@
 {
 	"name": "Microsoft Office - Microsoft Excel",
 	"index_last_check": 0,
-	"last_update": 1696471937,
+	"last_update": 1700443228,
 	"libraries": [
 		{
 			"id": 66841911,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/qax-os/excelize",
 			"homepage": "https://xuri.me/excelize",
 			"created_at": "2016-08-29T12:32:12Z",
-			"updated_at": "2023-10-05T00:50:15Z",
+			"updated_at": "2023-11-19T20:00:22Z",
 			"svn_url": "https://github.com/qax-os/excelize",
-			"stargazers_count": 16016,
-			"watchers_count": 16016,
-			"forks_count": 1563,
-			"open_issues_count": 89
+			"stargazers_count": 16246,
+			"watchers_count": 16246,
+			"forks_count": 1588,
+			"open_issues_count": 80
 		},
 		{
 			"id": 1966991,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/tealeg/xlsx",
 			"homepage": "",
 			"created_at": "2011-06-28T15:20:28Z",
-			"updated_at": "2023-10-04T17:47:56Z",
+			"updated_at": "2023-11-17T17:16:35Z",
 			"svn_url": "https://github.com/tealeg/xlsx",
-			"stargazers_count": 5539,
-			"watchers_count": 5539,
-			"forks_count": 812,
-			"open_issues_count": 2
+			"stargazers_count": 5588,
+			"watchers_count": 5588,
+			"forks_count": 813,
+			"open_issues_count": 5
 		},
 		{
 			"id": 102260918,
@@ -38,10 +38,10 @@
 			"html_url": "https://github.com/szyhf/go-excel",
 			"homepage": "",
 			"created_at": "2017-09-03T11:51:58Z",
-			"updated_at": "2023-09-07T19:33:45Z",
+			"updated_at": "2023-11-09T02:53:17Z",
 			"svn_url": "https://github.com/szyhf/go-excel",
-			"stargazers_count": 180,
-			"watchers_count": 180,
+			"stargazers_count": 179,
+			"watchers_count": 179,
 			"forks_count": 35,
 			"open_issues_count": 1
 		},
@@ -52,10 +52,10 @@
 			"html_url": "https://github.com/plandem/xlsx",
 			"homepage": "",
 			"created_at": "2017-08-26T23:11:38Z",
-			"updated_at": "2023-10-02T07:07:57Z",
+			"updated_at": "2023-10-23T07:18:38Z",
 			"svn_url": "https://github.com/plandem/xlsx",
-			"stargazers_count": 167,
-			"watchers_count": 167,
+			"stargazers_count": 170,
+			"watchers_count": 170,
 			"forks_count": 25,
 			"open_issues_count": 12
 		},

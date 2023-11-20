@@ -1,7 +1,7 @@
 {
 	"name": "Testing - Fuzzing and delta-debugging, reducing, shrinking",
 	"index_last_check": 0,
-	"last_update": 1696684373,
+	"last_update": 1700443247,
 	"libraries": [
 		{
 			"id": 33994380,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/dvyukov/go-fuzz",
 			"homepage": "",
 			"created_at": "2015-04-15T13:07:50Z",
-			"updated_at": "2023-10-07T11:37:50Z",
+			"updated_at": "2023-11-16T04:10:15Z",
 			"svn_url": "https://github.com/dvyukov/go-fuzz",
-			"stargazers_count": 4653,
-			"watchers_count": 4653,
-			"forks_count": 307,
-			"open_issues_count": 59
+			"stargazers_count": 4659,
+			"watchers_count": 4659,
+			"forks_count": 318,
+			"open_issues_count": 57
 		},
 		{
 			"id": 22476286,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/google/gofuzz",
 			"homepage": "",
 			"created_at": "2014-07-31T16:21:29Z",
-			"updated_at": "2023-10-06T14:06:39Z",
+			"updated_at": "2023-11-18T19:34:52Z",
 			"svn_url": "https://github.com/google/gofuzz",
-			"stargazers_count": 1458,
-			"watchers_count": 1458,
-			"forks_count": 145,
-			"open_issues_count": 11
+			"stargazers_count": 1465,
+			"watchers_count": 1465,
+			"forks_count": 162,
+			"open_issues_count": 12
 		},
 		{
 			"id": 19913057,
