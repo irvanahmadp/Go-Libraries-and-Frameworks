@@ -1,7 +1,7 @@
 {
 	"name": "Package Management - Unofficial",
 	"index_last_check": 0,
-	"last_update": 1696471965,
+	"last_update": 1700660131,
 	"libraries": [
 		{
 			"id": 21641241,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/Masterminds/glide",
 			"homepage": "https://glide.sh",
 			"created_at": "2014-07-09T06:02:50Z",
-			"updated_at": "2023-10-04T06:07:55Z",
+			"updated_at": "2023-11-19T11:31:40Z",
 			"svn_url": "https://github.com/Masterminds/glide",
-			"stargazers_count": 8173,
-			"watchers_count": 8173,
-			"forks_count": 555,
-			"open_issues_count": 414
+			"stargazers_count": 8164,
+			"watchers_count": 8164,
+			"forks_count": 554,
+			"open_issues_count": 413
 		},
 		{
 			"id": 9787757,
@@ -24,11 +24,11 @@
 			"html_url": "https://github.com/tools/godep",
 			"homepage": "http://godoc.org/github.com/tools/godep",
 			"created_at": "2013-05-01T07:55:35Z",
-			"updated_at": "2023-10-04T15:53:53Z",
+			"updated_at": "2023-11-06T21:09:41Z",
 			"svn_url": "https://github.com/tools/godep",
-			"stargazers_count": 5569,
-			"watchers_count": 5569,
-			"forks_count": 507,
+			"stargazers_count": 5568,
+			"watchers_count": 5568,
+			"forks_count": 517,
 			"open_issues_count": 79
 		},
 		{
@@ -38,11 +38,11 @@
 			"html_url": "https://github.com/kardianos/govendor",
 			"homepage": "https://blog.golang.org/migrating-to-go-modules",
 			"created_at": "2015-04-12T15:26:40Z",
-			"updated_at": "2023-09-30T19:22:56Z",
+			"updated_at": "2023-11-20T18:02:16Z",
 			"svn_url": "https://github.com/kardianos/govendor",
 			"stargazers_count": 4943,
 			"watchers_count": 4943,
-			"forks_count": 427,
+			"forks_count": 445,
 			"open_issues_count": 122
 		},
 		{
@@ -52,11 +52,11 @@
 			"html_url": "https://github.com/gpmgo/gopm",
 			"homepage": "",
 			"created_at": "2013-05-15T14:53:29Z",
-			"updated_at": "2023-09-30T08:47:27Z",
+			"updated_at": "2023-10-23T11:04:52Z",
 			"svn_url": "https://github.com/gpmgo/gopm",
-			"stargazers_count": 2474,
-			"watchers_count": 2474,
-			"forks_count": 236,
+			"stargazers_count": 2473,
+			"watchers_count": 2473,
+			"forks_count": 242,
 			"open_issues_count": 0
 		},
 		{
@@ -66,11 +66,11 @@
 			"html_url": "https://github.com/mattn/gom",
 			"homepage": "",
 			"created_at": "2013-09-11T02:08:59Z",
-			"updated_at": "2023-09-14T21:01:53Z",
+			"updated_at": "2023-10-09T14:32:20Z",
 			"svn_url": "https://github.com/mattn/gom",
-			"stargazers_count": 1390,
-			"watchers_count": 1390,
-			"forks_count": 129,
+			"stargazers_count": 1389,
+			"watchers_count": 1389,
+			"forks_count": 141,
 			"open_issues_count": 14
 		},
 		{
@@ -80,10 +80,10 @@
 			"html_url": "https://github.com/pote/gpm",
 			"homepage": "",
 			"created_at": "2013-09-05T02:24:02Z",
-			"updated_at": "2023-08-22T21:18:52Z",
+			"updated_at": "2023-10-19T10:35:03Z",
 			"svn_url": "https://github.com/pote/gpm",
-			"stargazers_count": 1197,
-			"watchers_count": 1197,
+			"stargazers_count": 1196,
+			"watchers_count": 1196,
 			"forks_count": 51,
 			"open_issues_count": 11
 		},
@@ -108,11 +108,11 @@
 			"html_url": "https://github.com/lucasepe/modgv",
 			"homepage": "",
 			"created_at": "2020-09-12T16:23:46Z",
-			"updated_at": "2023-10-03T08:28:16Z",
+			"updated_at": "2023-11-19T03:42:13Z",
 			"svn_url": "https://github.com/lucasepe/modgv",
-			"stargazers_count": 467,
-			"watchers_count": 467,
-			"forks_count": 20,
+			"stargazers_count": 476,
+			"watchers_count": 476,
+			"forks_count": 21,
 			"open_issues_count": 1
 		},
 		{
@@ -150,7 +150,7 @@
 			"html_url": "https://github.com/raydac/mvn-golang",
 			"homepage": "",
 			"created_at": "2016-03-24T06:47:08Z",
-			"updated_at": "2023-07-30T16:46:44Z",
+			"updated_at": "2023-11-16T14:22:28Z",
 			"svn_url": "https://github.com/raydac/mvn-golang",
 			"stargazers_count": 157,
 			"watchers_count": 157,
@@ -164,10 +164,10 @@
 			"html_url": "https://github.com/DamnWidget/VenGO",
 			"homepage": "",
 			"created_at": "2014-10-17T15:19:03Z",
-			"updated_at": "2023-07-19T20:14:18Z",
+			"updated_at": "2023-10-10T16:39:21Z",
 			"svn_url": "https://github.com/DamnWidget/VenGO",
-			"stargazers_count": 122,
-			"watchers_count": 122,
+			"stargazers_count": 123,
+			"watchers_count": 123,
 			"forks_count": 11,
 			"open_issues_count": 3
 		},
