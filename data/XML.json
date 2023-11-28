@@ -1,7 +1,7 @@
 {
 	"name": "XML",
 	"index_last_check": 0,
-	"last_update": 1696596342,
+	"last_update": 1701180893,
 	"libraries": [
 		{
 			"id": 111842183,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/miku/zek",
 			"homepage": "",
 			"created_at": "2017-11-23T19:03:11Z",
-			"updated_at": "2023-09-27T15:03:13Z",
+			"updated_at": "2023-11-27T12:49:14Z",
 			"svn_url": "https://github.com/miku/zek",
-			"stargazers_count": 687,
-			"watchers_count": 687,
-			"forks_count": 61,
-			"open_issues_count": 10
+			"stargazers_count": 698,
+			"watchers_count": 698,
+			"forks_count": 62,
+			"open_issues_count": 8
 		},
 		{
 			"id": 70380104,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/antchfx/xpath",
 			"homepage": "",
 			"created_at": "2016-10-09T05:51:24Z",
-			"updated_at": "2023-10-05T20:27:32Z",
+			"updated_at": "2023-11-28T12:59:52Z",
 			"svn_url": "https://github.com/antchfx/xpath",
-			"stargazers_count": 600,
-			"watchers_count": 600,
-			"forks_count": 79,
-			"open_issues_count": 16
+			"stargazers_count": 612,
+			"watchers_count": 612,
+			"forks_count": 80,
+			"open_issues_count": 15
 		},
 		{
 			"id": 70380227,
@@ -38,10 +38,10 @@
 			"html_url": "https://github.com/antchfx/xquery",
 			"homepage": "https://github.com/antchfx/xpath",
 			"created_at": "2016-10-09T05:54:10Z",
-			"updated_at": "2023-03-20T02:53:40Z",
+			"updated_at": "2023-11-24T16:12:26Z",
 			"svn_url": "https://github.com/antchfx/xquery",
-			"stargazers_count": 156,
-			"watchers_count": 156,
+			"stargazers_count": 157,
+			"watchers_count": 157,
 			"forks_count": 28,
 			"open_issues_count": 0
 		},
@@ -52,10 +52,10 @@
 			"html_url": "https://github.com/sbabiv/xml2map",
 			"homepage": "",
 			"created_at": "2018-08-06T17:51:46Z",
-			"updated_at": "2023-10-02T19:59:42Z",
+			"updated_at": "2023-11-04T03:48:24Z",
 			"svn_url": "https://github.com/sbabiv/xml2map",
-			"stargazers_count": 54,
-			"watchers_count": 54,
+			"stargazers_count": 58,
+			"watchers_count": 58,
 			"forks_count": 12,
 			"open_issues_count": 2
 		},
@@ -66,10 +66,10 @@
 			"html_url": "https://github.com/shabbyrobe/xmlwriter",
 			"homepage": "",
 			"created_at": "2017-04-11T04:43:26Z",
-			"updated_at": "2023-09-04T05:54:43Z",
+			"updated_at": "2023-11-04T03:48:46Z",
 			"svn_url": "https://github.com/shabbyrobe/xmlwriter",
-			"stargazers_count": 23,
-			"watchers_count": 23,
+			"stargazers_count": 25,
+			"watchers_count": 25,
 			"forks_count": 6,
 			"open_issues_count": 1
 		},
@@ -80,10 +80,10 @@
 			"html_url": "https://github.com/XML-Comp/XML-Comp",
 			"homepage": "",
 			"created_at": "2016-10-25T22:09:12Z",
-			"updated_at": "2023-02-09T09:34:22Z",
+			"updated_at": "2023-11-04T03:47:00Z",
 			"svn_url": "https://github.com/XML-Comp/XML-Comp",
-			"stargazers_count": 20,
-			"watchers_count": 20,
+			"stargazers_count": 21,
+			"watchers_count": 21,
 			"forks_count": 11,
 			"open_issues_count": 8
 		}
