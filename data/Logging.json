@@ -1,7 +1,7 @@
 {
 	"name": "Logging",
 	"index_last_check": 0,
-	"last_update": 1696684341,
+	"last_update": 1701657209,
 	"libraries": [
 		{
 			"id": 13628513,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/sirupsen/logrus",
 			"homepage": "",
 			"created_at": "2013-10-16T19:08:55Z",
-			"updated_at": "2023-10-07T08:59:48Z",
+			"updated_at": "2023-12-04T00:24:30Z",
 			"svn_url": "https://github.com/sirupsen/logrus",
-			"stargazers_count": 23301,
-			"watchers_count": 23301,
-			"forks_count": 2293,
-			"open_issues_count": 68
+			"stargazers_count": 23485,
+			"watchers_count": 23485,
+			"forks_count": 2321,
+			"open_issues_count": 70
 		},
 		{
 			"id": 52034309,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/uber-go/zap",
 			"homepage": "https://pkg.go.dev/go.uber.org/zap",
 			"created_at": "2016-02-18T19:52:56Z",
-			"updated_at": "2023-10-07T04:17:59Z",
+			"updated_at": "2023-12-03T23:54:24Z",
 			"svn_url": "https://github.com/uber-go/zap",
-			"stargazers_count": 19820,
-			"watchers_count": 19820,
-			"forks_count": 1413,
-			"open_issues_count": 128
+			"stargazers_count": 20097,
+			"watchers_count": 20097,
+			"forks_count": 1440,
+			"open_issues_count": 136
 		},
 		{
 			"id": 91054480,
@@ -38,12 +38,12 @@
 			"html_url": "https://github.com/rs/zerolog",
 			"homepage": "",
 			"created_at": "2017-05-12T05:24:39Z",
-			"updated_at": "2023-10-07T07:14:27Z",
+			"updated_at": "2023-12-03T17:50:24Z",
 			"svn_url": "https://github.com/rs/zerolog",
-			"stargazers_count": 8939,
-			"watchers_count": 8939,
-			"forks_count": 510,
-			"open_issues_count": 131
+			"stargazers_count": 9115,
+			"watchers_count": 9115,
+			"forks_count": 521,
+			"open_issues_count": 140
 		},
 		{
 			"id": 7515336,
@@ -52,11 +52,11 @@
 			"html_url": "https://github.com/davecgh/go-spew",
 			"homepage": "",
 			"created_at": "2013-01-09T05:18:22Z",
-			"updated_at": "2023-10-07T05:00:42Z",
+			"updated_at": "2023-12-03T12:29:44Z",
 			"svn_url": "https://github.com/davecgh/go-spew",
-			"stargazers_count": 5725,
-			"watchers_count": 5725,
-			"forks_count": 394,
+			"stargazers_count": 5771,
+			"watchers_count": 5771,
+			"forks_count": 406,
 			"open_issues_count": 61
 		},
 		{
@@ -66,12 +66,12 @@
 			"html_url": "https://github.com/natefinch/lumberjack",
 			"homepage": "",
 			"created_at": "2014-06-14T11:55:47Z",
-			"updated_at": "2023-10-06T15:02:54Z",
+			"updated_at": "2023-12-04T02:22:17Z",
 			"svn_url": "https://github.com/natefinch/lumberjack",
-			"stargazers_count": 4288,
-			"watchers_count": 4288,
-			"forks_count": 555,
-			"open_issues_count": 72
+			"stargazers_count": 4371,
+			"watchers_count": 4371,
+			"forks_count": 582,
+			"open_issues_count": 78
 		},
 		{
 			"id": 11440704,
@@ -80,12 +80,12 @@
 			"html_url": "https://github.com/golang/glog",
 			"homepage": "",
 			"created_at": "2013-07-16T04:33:04Z",
-			"updated_at": "2023-10-07T01:42:23Z",
+			"updated_at": "2023-12-02T11:00:00Z",
 			"svn_url": "https://github.com/golang/glog",
-			"stargazers_count": 3435,
-			"watchers_count": 3435,
-			"forks_count": 940,
-			"open_issues_count": 1
+			"stargazers_count": 3471,
+			"watchers_count": 3471,
+			"forks_count": 956,
+			"open_issues_count": 2
 		},
 		{
 			"id": 8019413,
@@ -94,12 +94,12 @@
 			"html_url": "https://github.com/hpcloud/tail",
 			"homepage": "",
 			"created_at": "2013-02-05T00:28:03Z",
-			"updated_at": "2023-10-06T19:17:13Z",
+			"updated_at": "2023-12-03T05:07:42Z",
 			"svn_url": "https://github.com/hpcloud/tail",
-			"stargazers_count": 2607,
-			"watchers_count": 2607,
-			"forks_count": 503,
-			"open_issues_count": 75
+			"stargazers_count": 2632,
+			"watchers_count": 2632,
+			"forks_count": 502,
+			"open_issues_count": 74
 		},
 		{
 			"id": 2794417,
@@ -108,7 +108,7 @@
 			"html_url": "https://github.com/cihub/seelog",
 			"homepage": "",
 			"created_at": "2011-11-17T09:43:15Z",
-			"updated_at": "2023-10-04T08:11:59Z",
+			"updated_at": "2023-12-01T08:41:39Z",
 			"svn_url": "https://github.com/cihub/seelog",
 			"stargazers_count": 1639,
 			"watchers_count": 1639,
@@ -122,12 +122,12 @@
 			"html_url": "https://github.com/apex/log",
 			"homepage": "",
 			"created_at": "2015-12-21T20:27:48Z",
-			"updated_at": "2023-10-04T06:03:39Z",
+			"updated_at": "2023-11-30T11:33:21Z",
 			"svn_url": "https://github.com/apex/log",
-			"stargazers_count": 1330,
-			"watchers_count": 1330,
-			"forks_count": 132,
-			"open_issues_count": 46
+			"stargazers_count": 1339,
+			"watchers_count": 1339,
+			"forks_count": 151,
+			"open_issues_count": 48
 		},
 		{
 			"id": 19961931,
@@ -136,11 +136,11 @@
 			"html_url": "https://github.com/inconshreveable/log15",
 			"homepage": "https://godoc.org/github.com/inconshreveable/log15",
 			"created_at": "2014-05-20T00:11:52Z",
-			"updated_at": "2023-09-27T03:28:24Z",
+			"updated_at": "2023-12-02T10:57:53Z",
 			"svn_url": "https://github.com/inconshreveable/log15",
-			"stargazers_count": 1094,
-			"watchers_count": 1094,
-			"forks_count": 175,
+			"stargazers_count": 1097,
+			"watchers_count": 1097,
+			"forks_count": 188,
 			"open_issues_count": 46
 		},
 		{
@@ -150,12 +150,12 @@
 			"html_url": "https://github.com/phuslu/log",
 			"homepage": "",
 			"created_at": "2019-07-07T09:40:38Z",
-			"updated_at": "2023-10-04T15:58:05Z",
+			"updated_at": "2023-12-03T15:19:34Z",
 			"svn_url": "https://github.com/phuslu/log",
-			"stargazers_count": 514,
-			"watchers_count": 514,
+			"stargazers_count": 522,
+			"watchers_count": 522,
 			"forks_count": 36,
-			"open_issues_count": 0
+			"open_issues_count": 1
 		},
 		{
 			"id": 132346526,
@@ -164,11 +164,25 @@
 			"html_url": "https://github.com/francoispqt/onelog",
 			"homepage": "",
 			"created_at": "2018-05-06T14:32:10Z",
-			"updated_at": "2023-08-04T12:48:03Z",
+			"updated_at": "2023-11-26T08:32:44Z",
 			"svn_url": "https://github.com/francoispqt/onelog",
 			"stargazers_count": 414,
 			"watchers_count": 414,
-			"forks_count": 17,
+			"forks_count": 16,
+			"open_issues_count": 2
+		},
+		{
+			"id": 236057614,
+			"name": "httpretty",
+			"description": "Package httpretty prints the HTTP requests you make with Go pretty on your terminal.",
+			"html_url": "https://github.com/henvic/httpretty",
+			"homepage": "https://asciinema.org/a/297429",
+			"created_at": "2020-01-24T18:17:16Z",
+			"updated_at": "2023-12-03T20:36:40Z",
+			"svn_url": "https://github.com/henvic/httpretty",
+			"stargazers_count": 377,
+			"watchers_count": 377,
+			"forks_count": 14,
 			"open_issues_count": 2
 		},
 		{
@@ -178,10 +192,10 @@
 			"html_url": "https://github.com/hashicorp/logutils",
 			"homepage": "https://logur.dev/logur",
 			"created_at": "2013-10-09T07:31:15Z",
-			"updated_at": "2023-09-04T06:27:31Z",
+			"updated_at": "2023-11-19T21:06:45Z",
 			"svn_url": "https://github.com/hashicorp/logutils",
-			"stargazers_count": 356,
-			"watchers_count": 356,
+			"stargazers_count": 358,
+			"watchers_count": 358,
 			"forks_count": 35,
 			"open_issues_count": 3
 		},
@@ -192,12 +206,12 @@
 			"html_url": "https://github.com/mgutz/logxi",
 			"homepage": "https://logur.dev/logur",
 			"created_at": "2015-03-01T22:13:45Z",
-			"updated_at": "2023-09-16T01:42:31Z",
+			"updated_at": "2023-11-29T13:14:59Z",
 			"svn_url": "https://github.com/mgutz/logxi",
-			"stargazers_count": 349,
-			"watchers_count": 349,
+			"stargazers_count": 352,
+			"watchers_count": 352,
 			"forks_count": 42,
-			"open_issues_count": 23
+			"open_issues_count": 22
 		},
 		{
 			"id": 219189025,
@@ -206,26 +220,12 @@
 			"html_url": "https://github.com/simukti/sqldb-logger",
 			"homepage": "",
 			"created_at": "2019-11-02T17:28:03Z",
-			"updated_at": "2023-09-17T17:16:12Z",
+			"updated_at": "2023-11-28T17:38:44Z",
 			"svn_url": "https://github.com/simukti/sqldb-logger",
-			"stargazers_count": 318,
-			"watchers_count": 318,
-			"forks_count": 12,
+			"stargazers_count": 327,
+			"watchers_count": 327,
+			"forks_count": 14,
 			"open_issues_count": 8
-		},
-		{
-			"id": 236057614,
-			"name": "httpretty",
-			"description": "Package httpretty prints the HTTP requests you make with Go pretty on your terminal.",
-			"html_url": "https://github.com/henvic/httpretty",
-			"homepage": "https://asciinema.org/a/297429",
-			"created_at": "2020-01-24T18:17:16Z",
-			"updated_at": "2023-09-28T11:10:29Z",
-			"svn_url": "https://github.com/henvic/httpretty",
-			"stargazers_count": 305,
-			"watchers_count": 305,
-			"forks_count": 12,
-			"open_issues_count": 2
 		},
 		{
 			"id": 51254271,
@@ -234,12 +234,26 @@
 			"html_url": "https://github.com/go-playground/log",
 			"homepage": "",
 			"created_at": "2016-02-07T16:17:48Z",
-			"updated_at": "2023-10-07T09:17:28Z",
+			"updated_at": "2023-11-24T19:20:25Z",
 			"svn_url": "https://github.com/go-playground/log",
-			"stargazers_count": 290,
-			"watchers_count": 290,
+			"stargazers_count": 289,
+			"watchers_count": 289,
 			"forks_count": 23,
 			"open_issues_count": 1
+		},
+		{
+			"id": 81722987,
+			"name": "rollingwriter",
+			"description": "Rolling writer is an IO util for auto rolling write in go.",
+			"html_url": "https://github.com/arthurkiller/rollingwriter",
+			"homepage": "",
+			"created_at": "2017-02-12T12:05:26Z",
+			"updated_at": "2023-12-02T09:24:06Z",
+			"svn_url": "https://github.com/arthurkiller/rollingwriter",
+			"stargazers_count": 288,
+			"watchers_count": 288,
+			"forks_count": 43,
+			"open_issues_count": 8
 		},
 		{
 			"id": 24486800,
@@ -256,27 +270,13 @@
 			"open_issues_count": 3
 		},
 		{
-			"id": 81722987,
-			"name": "rollingwriter",
-			"description": "Rolling writer is an IO util for auto rolling write in go.",
-			"html_url": "https://github.com/arthurkiller/rollingwriter",
-			"homepage": "",
-			"created_at": "2017-02-12T12:05:26Z",
-			"updated_at": "2023-08-30T06:33:08Z",
-			"svn_url": "https://github.com/arthurkiller/rollingwriter",
-			"stargazers_count": 283,
-			"watchers_count": 283,
-			"forks_count": 41,
-			"open_issues_count": 8
-		},
-		{
 			"id": 161060081,
 			"name": "logur",
 			"description": "Logur is an opinionated collection of logging best practices",
 			"html_url": "https://github.com/logur/logur",
 			"homepage": "https://logur.dev/logur",
 			"created_at": "2018-12-09T16:43:11Z",
-			"updated_at": "2023-08-10T13:22:46Z",
+			"updated_at": "2023-11-29T13:15:31Z",
 			"svn_url": "https://github.com/logur/logur",
 			"stargazers_count": 197,
 			"watchers_count": 197,
@@ -290,10 +290,10 @@
 			"html_url": "https://github.com/kpango/glg",
 			"homepage": "",
 			"created_at": "2017-06-21T13:26:16Z",
-			"updated_at": "2023-10-04T06:05:53Z",
+			"updated_at": "2023-10-24T08:30:41Z",
 			"svn_url": "https://github.com/kpango/glg",
-			"stargazers_count": 186,
-			"watchers_count": 186,
+			"stargazers_count": 187,
+			"watchers_count": 187,
 			"forks_count": 15,
 			"open_issues_count": 3
 		},
@@ -388,10 +388,10 @@
 			"html_url": "https://github.com/One-com/gone",
 			"homepage": "",
 			"created_at": "2016-09-05T09:39:11Z",
-			"updated_at": "2023-06-16T18:46:19Z",
+			"updated_at": "2023-10-26T09:27:48Z",
 			"svn_url": "https://github.com/One-com/gone",
-			"stargazers_count": 46,
-			"watchers_count": 46,
+			"stargazers_count": 47,
+			"watchers_count": 47,
 			"forks_count": 8,
 			"open_issues_count": 0
 		},
@@ -430,10 +430,10 @@
 			"html_url": "https://github.com/sadlil/gologger",
 			"homepage": "",
 			"created_at": "2015-09-02T08:52:26Z",
-			"updated_at": "2023-05-10T14:13:07Z",
+			"updated_at": "2023-10-19T09:19:21Z",
 			"svn_url": "https://github.com/sadlil/gologger",
-			"stargazers_count": 41,
-			"watchers_count": 41,
+			"stargazers_count": 40,
+			"watchers_count": 40,
 			"forks_count": 10,
 			"open_issues_count": 2
 		},
@@ -528,10 +528,10 @@
 			"html_url": "https://github.com/edoger/zkits-logger",
 			"homepage": "",
 			"created_at": "2020-03-31T14:23:40Z",
-			"updated_at": "2023-04-13T03:30:08Z",
+			"updated_at": "2023-10-18T14:20:35Z",
 			"svn_url": "https://github.com/edoger/zkits-logger",
-			"stargazers_count": 24,
-			"watchers_count": 24,
+			"stargazers_count": 25,
+			"watchers_count": 25,
 			"forks_count": 2,
 			"open_issues_count": 1
 		},
@@ -634,6 +634,20 @@
 			"open_issues_count": 0
 		},
 		{
+			"id": 279197216,
+			"name": "kemba",
+			"description": "A tiny debug logging tool. Ideal for CLI tools and command applications. Inspired by https://github.com/visionmedia/debug",
+			"html_url": "https://github.com/clok/kemba",
+			"homepage": "https://pkg.go.dev/github.com/clok/kemba?tab=overview",
+			"created_at": "2020-07-13T03:10:54Z",
+			"updated_at": "2023-11-12T23:43:41Z",
+			"svn_url": "https://github.com/clok/kemba",
+			"stargazers_count": 11,
+			"watchers_count": 11,
+			"forks_count": 2,
+			"open_issues_count": 7
+		},
+		{
 			"id": 93930453,
 			"name": "log",
 			"description": ":memo: Logging with multiple output targets.",
@@ -659,21 +673,7 @@
 			"stargazers_count": 10,
 			"watchers_count": 10,
 			"forks_count": 5,
-			"open_issues_count": 0
-		},
-		{
-			"id": 279197216,
-			"name": "kemba",
-			"description": "A tiny debug logging tool. Ideal for CLI tools and command applications. Inspired by https://github.com/visionmedia/debug",
-			"html_url": "https://github.com/clok/kemba",
-			"homepage": "https://pkg.go.dev/github.com/clok/kemba?tab=overview",
-			"created_at": "2020-07-13T03:10:54Z",
-			"updated_at": "2023-03-26T21:23:00Z",
-			"svn_url": "https://github.com/clok/kemba",
-			"stargazers_count": 10,
-			"watchers_count": 10,
-			"forks_count": 2,
-			"open_issues_count": 7
+			"open_issues_count": 1
 		},
 		{
 			"id": 58146351,
