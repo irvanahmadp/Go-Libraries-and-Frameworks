@@ -1,7 +1,7 @@
 {
 	"name": "Stream Processing",
 	"index_last_check": 0,
-	"last_update": 1696768880,
+	"last_update": 1701783322,
 	"libraries": [
 		{
 			"id": 184304089,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/reugn/go-streams",
 			"homepage": "https://pkg.go.dev/github.com/reugn/go-streams",
 			"created_at": "2019-04-30T17:28:15Z",
-			"updated_at": "2023-10-08T01:22:41Z",
+			"updated_at": "2023-12-03T12:32:08Z",
 			"svn_url": "https://github.com/reugn/go-streams",
-			"stargazers_count": 1559,
-			"watchers_count": 1559,
-			"forks_count": 135,
-			"open_issues_count": 16
+			"stargazers_count": 1601,
+			"watchers_count": 1601,
+			"forks_count": 139,
+			"open_issues_count": 24
 		},
 		{
 			"id": 303587126,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/whitaker-io/machine",
 			"homepage": "https://pkg.go.dev/github.com/whitaker-io/machine",
 			"created_at": "2020-10-13T04:24:19Z",
-			"updated_at": "2023-09-19T11:12:30Z",
+			"updated_at": "2023-11-19T00:17:09Z",
 			"svn_url": "https://github.com/whitaker-io/machine",
-			"stargazers_count": 135,
-			"watchers_count": 135,
+			"stargazers_count": 139,
+			"watchers_count": 139,
 			"forks_count": 13,
-			"open_issues_count": 4
+			"open_issues_count": 1
 		},
 		{
 			"id": 312161631,
@@ -38,10 +38,10 @@
 			"html_url": "https://github.com/youthlin/stream",
 			"homepage": "",
 			"created_at": "2020-11-12T03:52:50Z",
-			"updated_at": "2023-09-08T09:02:34Z",
+			"updated_at": "2023-11-02T15:01:37Z",
 			"svn_url": "https://github.com/youthlin/stream",
-			"stargazers_count": 83,
-			"watchers_count": 83,
+			"stargazers_count": 84,
+			"watchers_count": 84,
 			"forks_count": 11,
 			"open_issues_count": 1
 		}

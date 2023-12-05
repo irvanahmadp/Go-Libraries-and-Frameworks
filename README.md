@@ -969,16 +969,16 @@ Libraries for working with forms.
 ### Functional
 Packages to support functional programming in Go.
 
-<sup>*Last Update: 2023-10-07 20:12:52*</sup>
+<sup>*Last Update: 2023-12-05 20:35:00*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [go-underscore](https://github.com/tobyhede/go-underscore) | 1,293 | 68 | 4 |  Helpfully Functional Go -  A useful collection of Go utilities. Designed for programmer happiness.  | 2014-07-02 10:27:16 | 2023-09-09 09:59:01 |
-| [fpGo](https://github.com/TeaEntityLab/fpGo) | 328 | 21 | 0 | Monad, Functional Programming features for Golang | 2018-05-24 09:08:45 | 2023-10-01 07:34:42 |
+| [go-underscore](https://github.com/tobyhede/go-underscore) | 1,294 | 68 | 4 |  Helpfully Functional Go -  A useful collection of Go utilities. Designed for programmer happiness.  | 2014-07-02 10:27:16 | 2023-11-26 19:02:02 |
+| [fpGo](https://github.com/TeaEntityLab/fpGo) | 332 | 21 | 0 | Monad, Functional Programming features for Golang | 2018-05-24 09:08:45 | 2023-11-19 04:50:55 |
+| [gofp](https://github.com/rbrahul/gofp) | 143 | 8 | 0 | A super simple Lodash like utility library with essential functions that empowers the development in Go | 2021-02-19 00:01:39 | 2023-11-23 07:46:41 |
 | [fuego](https://github.com/seborama/fuego) | 141 | 12 | 0 | Functional Experiment in Golang | 2018-11-05 22:24:09 | 2023-08-02 00:40:24 |
-| [gofp](https://github.com/rbrahul/gofp) | 141 | 7 | 0 | A super simple Lodash like utility library with essential functions that empowers the development in Go | 2021-02-19 00:01:39 | 2023-09-17 10:43:55 |
 </details>
 
 ### GUI - Interaction
@@ -1217,22 +1217,22 @@ Libraries for manipulating images.
 ### IoT (Internet of Things)
 Libraries for programming devices of the IoT.
 
-<sup>*Last Update: 2023-10-09 20:48:08*</sup>
+<sup>*Last Update: 2023-12-05 20:35:31*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [gobot](https://gobot.io) | 8,462 | 1,063 | 130 | Golang framework for robotics, drones, and the Internet of Things (IoT) | 2013-09-21 14:09:19 | 2023-10-09 03:25:14 |
-| [flogo](http://flogo.io) | 2,324 | 291 | 127 | Project Flogo is an open source ecosystem of opinionated  event-driven capabilities to simplify building efficient & modern serverless functions, microservices & edge apps. | 2016-07-10 02:57:43 | 2023-10-04 12:36:09 |
-| [mainflux](https://www.mainflux.io) | 2,191 | 617 | 113 | Industrial IoT Messaging and Device Management Platform | 2015-07-06 20:31:50 | 2023-10-09 11:51:50 |
-| [periph](https://periph.io) | 1,768 | 203 | 0 | Older version of periph, see new version at https://github.com/periph | 2016-10-13 16:53:51 | 2023-10-06 14:07:28 |
-| [gatt](http://flogo.io) | 1,086 | 296 | 51 | Gatt is a Go package for building Bluetooth Low Energy peripherals | 2014-04-23 13:45:27 | 2023-10-02 10:36:01 |
-| [heedy](https://heedy.org) | 375 | 32 | 21 | An aggregator for personal metrics, and an extensible analysis engine | 2015-01-16 19:44:21 | 2023-09-29 03:30:35 |
-| [devices](https://github.com/goiot/devices) | 261 | 33 | 9 | Suite of libraries for IoT devices (written in Go), experimental for x/exp/io | 2016-05-30 08:07:02 | 2023-09-27 07:48:24 |
-| [huego](https://github.com/amimof/huego) | 237 | 37 | 10 | An extensive Philips Hue client library for Go with an emphasis on simplicity | 2017-05-16 05:31:45 | 2023-09-13 08:37:05 |
+| [gobot](https://gobot.io) | 8,546 | 1,073 | 123 | Golang framework for robotics, drones, and the Internet of Things (IoT) | 2013-09-21 14:09:19 | 2023-12-05 09:34:23 |
+| [flogo](http://flogo.io) | 2,338 | 290 | 127 | Project Flogo is an open source ecosystem of opinionated  event-driven capabilities to simplify building efficient & modern serverless functions, microservices & edge apps. | 2016-07-10 02:57:43 | 2023-12-01 10:20:08 |
+| [mainflux](https://www.mainflux.io) | 2,250 | 626 | 107 | Industrial IoT Messaging and Device Management Platform | 2015-07-06 20:31:50 | 2023-12-05 04:30:32 |
+| [periph](https://periph.io) | 1,763 | 210 | 0 | Older version of periph, see new version at https://github.com/periph | 2016-10-13 16:53:51 | 2023-12-05 06:05:40 |
+| [gatt](http://flogo.io) | 1,091 | 294 | 51 | Gatt is a Go package for building Bluetooth Low Energy peripherals | 2014-04-23 13:45:27 | 2023-12-02 05:41:23 |
+| [heedy](https://heedy.org) | 379 | 32 | 21 | An aggregator for personal metrics, and an extensible analysis engine | 2015-01-16 19:44:21 | 2023-11-25 12:34:37 |
+| [devices](https://github.com/goiot/devices) | 261 | 33 | 9 | Suite of libraries for IoT devices (written in Go), experimental for x/exp/io | 2016-05-30 08:07:02 | 2023-11-24 19:22:25 |
+| [huego](https://github.com/amimof/huego) | 241 | 37 | 10 | An extensive Philips Hue client library for Go with an emphasis on simplicity | 2017-05-16 05:31:45 | 2023-12-01 08:43:27 |
 | [sensorbee](http://sensorbee.io/) | 224 | 42 | 39 | Lightweight stream processing engine for IoT | 2016-02-19 07:49:56 | 2023-09-29 03:32:45 |
-| [iot](https://github.com/vaelen/iot) | 63 | 13 | 0 | A Go client for Google IoT Core | 2018-03-08 06:51:51 | 2023-03-29 11:27:06 |
+| [iot](https://github.com/vaelen/iot) | 64 | 13 | 0 | A Go client for Google IoT Core | 2018-03-08 06:51:51 | 2023-11-04 01:47:14 |
 | [eywa](https://github.com/xcodersun/eywa) | 61 | 15 | 9 | Make IoT a lot more fun with data.  | 2016-02-20 17:02:16 | 2023-10-05 14:10:04 |
 </details>
 
@@ -1884,23 +1884,23 @@ Unofficial libraries for package and dependency management
 ### Resource Embedding
 
 
-<sup>*Last Update: 2023-10-09 20:47:23*</sup>
+<sup>*Last Update: 2023-12-05 20:35:23*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [statik](https://github.com/rakyll/statik) | 3,656 | 252 | 39 | Embed files into a Go executable | 2014-02-04 14:54:51 | 2023-10-08 02:57:56 |
-| [packr](https://github.com/gobuffalo/packr) | 3,404 | 194 | 67 | The simple and easy way to embed static files into Go binaries. | 2017-03-15 22:24:53 | 2023-09-20 10:51:45 |
-| [go.rice](https://github.com/GeertJohan/go.rice) | 2,374 | 220 | 36 | go.rice is a Go package that makes working with resources such as html,js,css,images,templates, etc very easy. | 2013-10-23 21:29:34 | 2023-10-06 09:26:37 |
-| [vfsgen](https://github.com/shurcooL/vfsgen) | 979 | 86 | 33 | Takes an input http.FileSystem (likely at go generate time) and generates Go code that statically implements it. | 2015-05-18 13:03:02 | 2023-10-06 16:54:47 |
-| [esc](http://godoc.org/github.com/mjibson/esc) | 639 | 75 | 11 | A simple file embedder for Go | 2014-01-26 05:08:04 | 2023-10-01 11:16:31 |
-| [fileb0x](https://github.com/UnnoTed/fileb0x) | 631 | 53 | 15 | a better customizable tool to embed files in go; also update embedded files remotely without restarting the server | 2016-01-23 20:19:33 | 2023-10-02 13:48:58 |
+| [statik](https://github.com/rakyll/statik) | 3,676 | 260 | 40 | Embed files into a Go executable | 2014-02-04 14:54:51 | 2023-11-28 16:33:29 |
+| [packr](https://github.com/gobuffalo/packr) | 3,407 | 196 | 67 | The simple and easy way to embed static files into Go binaries. | 2017-03-15 22:24:53 | 2023-11-24 19:29:17 |
+| [go.rice](https://github.com/GeertJohan/go.rice) | 2,383 | 232 | 36 | go.rice is a Go package that makes working with resources such as html,js,css,images,templates, etc very easy. | 2013-10-23 21:29:34 | 2023-11-29 11:46:04 |
+| [vfsgen](https://github.com/shurcooL/vfsgen) | 979 | 85 | 32 | Takes an input http.FileSystem (likely at go generate time) and generates Go code that statically implements it. | 2015-05-18 13:03:02 | 2023-11-26 02:52:13 |
+| [esc](http://godoc.org/github.com/mjibson/esc) | 638 | 75 | 10 | A simple file embedder for Go | 2014-01-26 05:08:04 | 2023-12-01 08:52:44 |
+| [fileb0x](https://github.com/UnnoTed/fileb0x) | 630 | 53 | 15 | a better customizable tool to embed files in go; also update embedded files remotely without restarting the server | 2016-01-23 20:19:33 | 2023-11-25 04:24:39 |
 | [go-resources](https://github.com/omeid/go-resources) | 176 | 17 | 0 | Unfancy resources embedding for Go with out of box http.FileSystem support. | 2015-02-21 15:40:17 | 2023-08-04 05:19:16 |
 | [statics](https://github.com/go-playground/statics) | 67 | 7 | 0 | :file_folder: Embeds static resources into go files for single binary compilation + works with http.FileSystem + symlinks | 2015-10-07 11:49:52 | 2023-10-03 00:25:47 |
 | [templify](https://github.com/wlbr/templify) | 30 | 6 | 1 | A tool to be used with 'go generate' to embed external template files into Go code. | 2016-05-22 16:42:47 | 2023-07-26 06:48:09 |
 | [rebed](https://github.com/soypat/rebed) | 28 | 2 | 0 | Recreates directory and files from embedded filesystem using Go 1.16 embed.FS type. | 2021-02-17 18:19:49 | 2023-09-18 14:42:50 |
-| [debme](https://github.com/leaanthony/debme) | 25 | 6 | 1 | embed.FS wrapper providing additional functionality | 2021-04-16 00:25:13 | 2023-07-30 02:06:01 |
+| [debme](https://github.com/leaanthony/debme) | 27 | 6 | 1 | embed.FS wrapper providing additional functionality | 2021-04-16 00:25:13 | 2023-11-02 12:30:35 |
 | [mule](https://github.com/wlbr/mule) | 12 | 4 | 1 | mule is a tool to be used with 'go generate' to embed external resources files into Go code. | 2020-01-17 10:56:00 | 2022-09-27 09:06:14 |
 </details>
 
@@ -1950,31 +1950,31 @@ Libraries for scientific computing and data analyzing.
 ### Security
 Libraries that are used to help make your application more secure.
 
-<sup>*Last Update: 2023-10-08 19:40:54*</sup>
+<sup>*Last Update: 2023-12-05 20:35:03*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [lego](https://go-acme.github.io/lego/) | 6,460 | 908 | 155 | Let's Encrypt/ACME client and library written in Go | 2015-06-08 00:36:41 | 2023-10-08 09:50:56 |
-| [cameradar](https://github.com/Ullaakut/cameradar) | 3,503 | 486 | 30 | Cameradar hacks its way into RTSP videosurveillance cameras | 2016-05-20 11:35:41 | 2023-10-05 15:06:54 |
-| [crypto](https://golang.org/x/crypto) | 2,807 | 2,519 | 74 | [mirror] Go supplementary cryptography libraries | 2014-12-04 04:02:55 | 2023-10-06 14:06:47 |
-| [memguard](https://github.com/awnumar/memguard) | 2,400 | 123 | 8 | Secure software enclave for storage of sensitive information in memory. | 2017-04-22 07:40:40 | 2023-10-06 16:17:53 |
-| [secure](https://github.com/unrolled/secure) | 2,150 | 132 | 0 | HTTP middleware for Go that facilitates some quick security wins. | 2014-05-20 19:46:28 | 2023-10-06 17:14:58 |
-| [acmetool](https://hlandau.github.io/acmetool/) | 1,999 | 133 | 71 | :lock: acmetool, an automatic certificate acquisition tool for ACME (Let's Encrypt) | 2015-11-15 01:56:02 | 2023-10-05 17:18:16 |
-| [themis](https://www.cossacklabs.com/themis) | 1,754 | 141 | 26 | Easy to use cryptographic framework for data protection: secure messaging with forward secrecy and secure data storage. Has unified APIs across 14 platforms. | 2015-05-06 13:25:25 | 2023-10-04 11:00:54 |
-| [acra](https://www.cossacklabs.com/acra/) | 1,217 | 123 | 4 | Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("transparent") encryption. SQL, NoSQL. | 2016-11-14 16:23:25 | 2023-10-06 05:11:48 |
-| [nacl](https://godoc.org/github.com/kevinburke/nacl) | 536 | 31 | 4 | Pure Go implementation of the NaCL set of API's | 2017-07-20 19:07:19 | 2023-09-20 13:42:29 |
-| [go-password-validator](https://blog.boot.dev/open-source/how-to-validate-passwords/) | 434 | 35 | 3 | Validate the Strength of a Password in Go | 2020-10-14 15:52:14 | 2023-10-06 23:43:59 |
-| [ssh-vault](https://ssh-vault.com) | 395 | 27 | 12 | 🌰  encrypt/decrypt using ssh keys | 2016-09-29 14:46:30 | 2023-09-24 10:05:14 |
-| [optimus-go](https://github.com/pjebs/optimus-go) | 349 | 21 | 1 | ID hashing and Obfuscation using Knuth's Algorithm | 2015-05-05 10:12:38 | 2023-09-27 07:18:00 |
-| [firewalld-rest](https://pkg.go.dev/github.com/prashantgupta24/firewalld-rest) | 333 | 19 | 2 | A rest application to update firewalld rules on a linux server  | 2020-06-12 20:16:33 | 2023-10-05 20:18:12 |
-| [badactor](https://badactor.org) | 317 | 17 | 1 | BadActor.org An in-memory application driven jailer written in Go | 2014-12-12 20:05:20 | 2023-10-07 13:42:54 |
-| [go-yara](https://github.com/hillu/go-yara) | 316 | 110 | 6 | Go bindings for YARA | 2015-01-25 01:01:11 | 2023-09-28 10:27:19 |
-| [passlib](https://github.com/hlandau/passlib) | 285 | 31 | 1 | :key: Idiotproof golang password validation library inspired by Python's passlib | 2014-12-21 17:45:52 | 2023-09-18 22:20:41 |
+| [lego](https://go-acme.github.io/lego/) | 6,567 | 925 | 159 | Let's Encrypt/ACME client and library written in Go | 2015-06-08 00:36:41 | 2023-12-05 10:05:22 |
+| [cameradar](https://github.com/Ullaakut/cameradar) | 3,693 | 502 | 32 | Cameradar hacks its way into RTSP videosurveillance cameras | 2016-05-20 11:35:41 | 2023-12-05 12:47:50 |
+| [crypto](https://golang.org/x/crypto) | 2,840 | 2,563 | 73 | [mirror] Go supplementary cryptography libraries | 2014-12-04 04:02:55 | 2023-12-05 06:06:06 |
+| [memguard](https://github.com/awnumar/memguard) | 2,424 | 125 | 7 | Secure software enclave for storage of sensitive information in memory. | 2017-04-22 07:40:40 | 2023-12-05 00:38:17 |
+| [secure](https://github.com/unrolled/secure) | 2,167 | 133 | 0 | HTTP middleware for Go that facilitates some quick security wins. | 2014-05-20 19:46:28 | 2023-12-01 11:14:22 |
+| [acmetool](https://hlandau.github.io/acmetool/) | 2,015 | 133 | 71 | :lock: acmetool, an automatic certificate acquisition tool for ACME (Let's Encrypt) | 2015-11-15 01:56:02 | 2023-11-29 13:19:47 |
+| [themis](https://www.cossacklabs.com/themis) | 1,778 | 142 | 24 | Easy to use cryptographic framework for data protection: secure messaging with forward secrecy and secure data storage. Has unified APIs across 14 platforms. | 2015-05-06 13:25:25 | 2023-12-03 13:14:34 |
+| [acra](https://www.cossacklabs.com/acra/) | 1,234 | 124 | 5 | Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("transparent") encryption. SQL, NoSQL. | 2016-11-14 16:23:25 | 2023-11-25 00:52:44 |
+| [nacl](https://godoc.org/github.com/kevinburke/nacl) | 536 | 31 | 4 | Pure Go implementation of the NaCL set of API's | 2017-07-20 19:07:19 | 2023-11-24 19:32:39 |
+| [go-password-validator](https://blog.boot.dev/open-source/how-to-validate-passwords/) | 447 | 36 | 3 | Validate the Strength of a Password in Go | 2020-10-14 15:52:14 | 2023-12-05 11:52:37 |
+| [ssh-vault](https://ssh-vault.com) | 411 | 29 | 0 | 🌰  encrypt/decrypt using ssh keys | 2016-09-29 14:46:30 | 2023-12-01 13:26:47 |
+| [optimus-go](https://github.com/pjebs/optimus-go) | 350 | 22 | 1 | ID hashing and Obfuscation using Knuth's Algorithm | 2015-05-05 10:12:38 | 2023-11-26 08:39:37 |
+| [firewalld-rest](https://pkg.go.dev/github.com/prashantgupta24/firewalld-rest) | 332 | 19 | 2 | A rest application to update firewalld rules on a linux server  | 2020-06-12 20:16:33 | 2023-11-24 20:03:41 |
+| [go-yara](https://github.com/hillu/go-yara) | 329 | 111 | 7 | Go bindings for YARA | 2015-01-25 01:01:11 | 2023-12-01 14:24:34 |
+| [badactor](https://badactor.org) | 318 | 17 | 1 | BadActor.org An in-memory application driven jailer written in Go | 2014-12-12 20:05:20 | 2023-10-18 16:35:21 |
+| [passlib](https://github.com/hlandau/passlib) | 287 | 30 | 1 | :key: Idiotproof golang password validation library inspired by Python's passlib | 2014-12-21 17:45:52 | 2023-10-29 14:49:09 |
 | [simple-scrypt](https://github.com/elithrar/simple-scrypt) | 190 | 26 | 3 | A convenience library for generating, comparing and inspecting password hashes using the scrypt KDF in Go 🔑 | 2015-04-14 06:52:21 | 2023-09-18 16:14:04 |
 | [argon2pw](https://github.com/raja/argon2pw) | 90 | 9 | 1 | Argon2 password hashing package for go with constant time hash comparison | 2018-03-13 13:56:36 | 2023-08-23 17:44:52 |
-| [goSecretBoxPassword](https://github.com/dwin/goSecretBoxPassword) | 56 | 9 | 0 | A probably paranoid Golang utility library for securely hashing and encrypting passwords based on the Dropbox method. This implementation uses Blake2b, Scrypt and XSalsa20-Poly1305 (via NaCl SecretBox) to create secure password hashes that are also encrypted using a master passphrase. | 2017-10-19 19:34:45 | 2023-09-18 14:17:15 |
+| [goSecretBoxPassword](https://github.com/dwin/goSecretBoxPassword) | 58 | 9 | 0 | A probably paranoid Golang utility library for securely hashing and encrypting passwords based on the Dropbox method. This implementation uses Blake2b, Scrypt and XSalsa20-Poly1305 (via NaCl SecretBox) to create secure password hashes that are also encrypted using a master passphrase. | 2017-10-19 19:34:45 | 2023-11-07 20:49:26 |
 | [go-generate-password](https://github.com/m1/go-generate-password) | 50 | 7 | 0 | Password generator written in Golang, usable as a CLI or Go library. Provides options for human readable and accessibility friendly passwords.  | 2019-11-14 17:57:19 | 2023-09-04 11:45:38 |
 | [certificates](https://github.com/mvmaasakkers/certificates) | 36 | 8 | 0 | An opinionated helper for generating tls certificates | 2019-03-04 07:20:36 | 2023-08-28 13:56:52 |
 | [secureio](https://github.com/xaionaro-go/secureio) | 30 | 5 | 1 | An easy-to-use XChaCha20-encryption wrapper for io.ReadWriteCloser (even lossy UDP) using ECDH key exchange algorithm, ED25519 signatures and Blake3+Poly1305 checksums/message-authentication for Go (golang). Also a multiplexer. | 2018-12-25 14:20:59 | 2023-05-18 13:31:11 |
@@ -2054,15 +2054,15 @@ Libraries and tools for binary serialization.
 ### Stream Processing
 Libraries and tools for stream processing and reactive programming.
 
-<sup>*Last Update: 2023-10-08 19:41:20*</sup>
+<sup>*Last Update: 2023-12-05 20:35:22*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [go-streams](https://pkg.go.dev/github.com/reugn/go-streams) | 1,559 | 135 | 16 | A lightweight stream processing library for Go | 2019-04-30 17:28:15 | 2023-10-08 01:22:41 |
-| [machine](https://pkg.go.dev/github.com/whitaker-io/machine) | 135 | 13 | 4 | Machine is a workflow/pipeline library for processing data | 2020-10-13 04:24:19 | 2023-09-19 11:12:30 |
-| [stream](https://github.com/youthlin/stream) | 83 | 11 | 1 | Go Stream, like Java 8 Stream. | 2020-11-12 03:52:50 | 2023-09-08 09:02:34 |
+| [go-streams](https://pkg.go.dev/github.com/reugn/go-streams) | 1,601 | 139 | 24 | A lightweight stream processing library for Go | 2019-04-30 17:28:15 | 2023-12-03 12:32:08 |
+| [machine](https://pkg.go.dev/github.com/whitaker-io/machine) | 139 | 13 | 1 | Machine is a workflow/pipeline library for processing data | 2020-10-13 04:24:19 | 2023-11-19 00:17:09 |
+| [stream](https://github.com/youthlin/stream) | 84 | 11 | 1 | Go Stream, like Java 8 Stream. | 2020-11-12 03:52:50 | 2023-11-02 15:01:37 |
 </details>
 
 ### Template Engines
@@ -2113,14 +2113,14 @@ Libraries and tools for templating and lexing.
 ### Testing - Fuzzing and delta-debugging, reducing, shrinking
 
 
-<sup>*Last Update: 2023-11-28 21:14:57*</sup>
+<sup>*Last Update: 2023-12-05 20:35:02*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [go-fuzz](https://github.com/dvyukov/go-fuzz) | 4,662 | 318 | 57 | Randomized testing for Go | 2015-04-15 13:07:50 | 2023-11-28 08:56:07 |
-| [gofuzz](https://github.com/google/gofuzz) | 1,466 | 162 | 12 | Fuzz testing for go. | 2014-07-31 16:21:29 | 2023-11-24 19:14:58 |
+| [go-fuzz](https://github.com/dvyukov/go-fuzz) | 4,667 | 318 | 57 | Randomized testing for Go | 2015-04-15 13:07:50 | 2023-12-02 15:22:13 |
+| [gofuzz](https://github.com/google/gofuzz) | 1,467 | 162 | 12 | Fuzz testing for go. | 2014-07-31 16:21:29 | 2023-11-30 02:03:19 |
 | [tavor](https://github.com/zimmski/tavor) | 241 | 10 | 53 | A generic fuzzing and delta-debugging framework | 2014-05-18 14:59:14 | 2023-09-16 01:42:01 |
 </details>
 
