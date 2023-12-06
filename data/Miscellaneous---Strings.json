@@ -1,7 +1,7 @@
 {
 	"name": "Miscellaneous - Strings",
 	"index_last_check": 0,
-	"last_update": 1698281618,
+	"last_update": 1701871672,
 	"libraries": [
 		{
 			"id": 28851913,
@@ -10,11 +10,11 @@
 			"html_url": "https://github.com/huandu/xstrings",
 			"homepage": "",
 			"created_at": "2015-01-06T07:25:26Z",
-			"updated_at": "2023-10-25T05:34:34Z",
+			"updated_at": "2023-12-03T12:25:59Z",
 			"svn_url": "https://github.com/huandu/xstrings",
-			"stargazers_count": 1256,
-			"watchers_count": 1256,
-			"forks_count": 106,
+			"stargazers_count": 1262,
+			"watchers_count": 1262,
+			"forks_count": 109,
 			"open_issues_count": 0
 		},
 		{
@@ -24,7 +24,7 @@
 			"html_url": "https://github.com/ozgio/strutil",
 			"homepage": "https://pkg.go.dev/github.com/gobeam/Stringy?tab=doc",
 			"created_at": "2018-08-16T06:56:15Z",
-			"updated_at": "2023-09-27T08:53:39Z",
+			"updated_at": "2023-11-28T09:25:07Z",
 			"svn_url": "https://github.com/ozgio/strutil",
 			"stargazers_count": 197,
 			"watchers_count": 197,

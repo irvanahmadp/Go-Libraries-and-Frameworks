@@ -1,7 +1,7 @@
 {
 	"name": "Generation and Generics",
 	"index_last_check": 0,
-	"last_update": 1696859279,
+	"last_update": 1701871663,
 	"libraries": [
 		{
 			"id": 15300997,
@@ -10,11 +10,11 @@
 			"html_url": "https://github.com/ahmetb/go-linq",
 			"homepage": "https://godoc.org/github.com/ahmetb/go-linq",
 			"created_at": "2013-12-19T03:05:00Z",
-			"updated_at": "2023-10-09T06:39:58Z",
+			"updated_at": "2023-12-02T13:41:39Z",
 			"svn_url": "https://github.com/ahmetb/go-linq",
-			"stargazers_count": 3363,
-			"watchers_count": 3363,
-			"forks_count": 268,
+			"stargazers_count": 3384,
+			"watchers_count": 3384,
+			"forks_count": 280,
 			"open_issues_count": 11
 		},
 		{
@@ -24,11 +24,11 @@
 			"html_url": "https://github.com/dave/jennifer",
 			"homepage": "",
 			"created_at": "2016-12-04T20:57:38Z",
-			"updated_at": "2023-10-06T20:56:53Z",
+			"updated_at": "2023-12-05T23:01:39Z",
 			"svn_url": "https://github.com/dave/jennifer",
-			"stargazers_count": 3030,
-			"watchers_count": 3030,
-			"forks_count": 157,
+			"stargazers_count": 3080,
+			"watchers_count": 3080,
+			"forks_count": 158,
 			"open_issues_count": 16
 		},
 		{
@@ -38,11 +38,11 @@
 			"html_url": "https://github.com/clipperhouse/gen",
 			"homepage": "http://clipperhouse.com/gen/overview/",
 			"created_at": "2013-10-13T20:26:36Z",
-			"updated_at": "2023-09-26T09:36:39Z",
+			"updated_at": "2023-12-04T22:16:26Z",
 			"svn_url": "https://github.com/clipperhouse/gen",
-			"stargazers_count": 1429,
-			"watchers_count": 1429,
-			"forks_count": 88,
+			"stargazers_count": 1427,
+			"watchers_count": 1427,
+			"forks_count": 90,
 			"open_issues_count": 32
 		},
 		{
@@ -52,10 +52,10 @@
 			"html_url": "https://github.com/awalterschulze/goderive",
 			"homepage": "",
 			"created_at": "2017-02-10T21:46:49Z",
-			"updated_at": "2023-10-07T13:09:28Z",
+			"updated_at": "2023-12-04T05:17:10Z",
 			"svn_url": "https://github.com/awalterschulze/goderive",
-			"stargazers_count": 1130,
-			"watchers_count": 1130,
+			"stargazers_count": 1135,
+			"watchers_count": 1135,
 			"forks_count": 44,
 			"open_issues_count": 19
 		},
@@ -66,12 +66,12 @@
 			"html_url": "https://github.com/hexdigest/gowrap",
 			"homepage": "",
 			"created_at": "2018-09-15T09:20:42Z",
-			"updated_at": "2023-10-06T15:35:57Z",
+			"updated_at": "2023-12-02T05:29:22Z",
 			"svn_url": "https://github.com/hexdigest/gowrap",
-			"stargazers_count": 804,
-			"watchers_count": 804,
-			"forks_count": 76,
-			"open_issues_count": 12
+			"stargazers_count": 820,
+			"watchers_count": 820,
+			"forks_count": 77,
+			"open_issues_count": 13
 		},
 		{
 			"id": 99968554,
@@ -80,12 +80,12 @@
 			"html_url": "https://github.com/abice/go-enum",
 			"homepage": "",
 			"created_at": "2017-08-10T22:07:31Z",
-			"updated_at": "2023-10-09T10:52:32Z",
+			"updated_at": "2023-12-04T12:15:54Z",
 			"svn_url": "https://github.com/abice/go-enum",
-			"stargazers_count": 562,
-			"watchers_count": 562,
-			"forks_count": 53,
-			"open_issues_count": 8
+			"stargazers_count": 579,
+			"watchers_count": 579,
+			"forks_count": 54,
+			"open_issues_count": 9
 		},
 		{
 			"id": 47477512,
@@ -98,7 +98,7 @@
 			"svn_url": "https://github.com/rjeczalik/interfaces",
 			"stargazers_count": 403,
 			"watchers_count": 403,
-			"forks_count": 32,
+			"forks_count": 31,
 			"open_issues_count": 13
 		},
 		{
@@ -108,10 +108,10 @@
 			"html_url": "https://github.com/ungerik/pkgreflect",
 			"homepage": "",
 			"created_at": "2012-09-03T07:53:00Z",
-			"updated_at": "2023-07-23T14:47:37Z",
+			"updated_at": "2023-10-22T14:44:20Z",
 			"svn_url": "https://github.com/ungerik/pkgreflect",
-			"stargazers_count": 104,
-			"watchers_count": 104,
+			"stargazers_count": 105,
+			"watchers_count": 105,
 			"forks_count": 16,
 			"open_issues_count": 0
 		},
@@ -122,10 +122,10 @@
 			"html_url": "https://github.com/wzshiming/gotype",
 			"homepage": "",
 			"created_at": "2017-12-05T04:09:47Z",
-			"updated_at": "2023-09-01T06:06:52Z",
+			"updated_at": "2023-11-10T03:15:31Z",
 			"svn_url": "https://github.com/wzshiming/gotype",
-			"stargazers_count": 56,
-			"watchers_count": 56,
+			"stargazers_count": 57,
+			"watchers_count": 57,
 			"forks_count": 9,
 			"open_issues_count": 1
 		},
@@ -150,10 +150,10 @@
 			"html_url": "https://github.com/senselogic/GENERIS",
 			"homepage": "",
 			"created_at": "2019-03-10T19:33:31Z",
-			"updated_at": "2023-09-09T17:22:35Z",
+			"updated_at": "2023-10-22T07:37:08Z",
 			"svn_url": "https://github.com/senselogic/GENERIS",
-			"stargazers_count": 42,
-			"watchers_count": 42,
+			"stargazers_count": 43,
+			"watchers_count": 43,
 			"forks_count": 1,
 			"open_issues_count": 0
 		},
@@ -169,7 +169,7 @@
 			"stargazers_count": 26,
 			"watchers_count": 26,
 			"forks_count": 3,
-			"open_issues_count": 0
+			"open_issues_count": 1
 		},
 		{
 			"id": 233877277,
