@@ -1,8 +1,8 @@
 {
-	"last_update": 1701871674,
+	"last_update": 1701960472,
 	"rate_limit": 60,
 	"rate_limit_remaining": 0,
-	"rate_limit_reset": 1701875238,
+	"rate_limit_reset": 1701964049,
 	"categories": [
 		{
 			"name": "Audio and Music",
@@ -122,7 +122,7 @@
 		{
 			"name": "Error Handling",
 			"description": "Libraries for handling errors.",
-			"last_update": 1697205916
+			"last_update": 1701960467
 		},
 		{
 			"name": "File Handling",
@@ -187,7 +187,7 @@
 		{
 			"name": "IoT (Internet of Things)",
 			"description": "Libraries for programming devices of the IoT.",
-			"last_update": 1696859288
+			"last_update": 1701960449
 		},
 		{
 			"name": "JSON",
@@ -207,7 +207,7 @@
 		{
 			"name": "Machine Learning",
 			"description": "Libraries for Machine Learning.",
-			"last_update": 1697034999
+			"last_update": 1701960451
 		},
 		{
 			"name": "Messaging",
@@ -382,7 +382,7 @@
 		{
 			"name": "Version Control",
 			"description": "Libraries for version control.",
-			"last_update": 1696859295
+			"last_update": 1701960449
 		},
 		{
 			"name": "Video",
