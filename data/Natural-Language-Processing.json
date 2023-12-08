@@ -1,7 +1,7 @@
 {
 	"name": "Natural Language Processing",
 	"index_last_check": 0,
-	"last_update": 1697117899,
+	"last_update": 1702041985,
 	"libraries": [
 		{
 			"id": 82319669,
@@ -10,11 +10,11 @@
 			"html_url": "https://github.com/jdkato/prose",
 			"homepage": "",
 			"created_at": "2017-02-17T17:08:22Z",
-			"updated_at": "2023-10-04T20:33:16Z",
+			"updated_at": "2023-12-04T07:15:52Z",
 			"svn_url": "https://github.com/jdkato/prose",
-			"stargazers_count": 3019,
-			"watchers_count": 3019,
-			"forks_count": 159,
+			"stargazers_count": 3022,
+			"watchers_count": 3022,
+			"forks_count": 162,
 			"open_issues_count": 21
 		},
 		{
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/nicksnyder/go-i18n",
 			"homepage": "",
 			"created_at": "2012-01-14T21:44:37Z",
-			"updated_at": "2023-10-12T07:57:07Z",
+			"updated_at": "2023-12-08T11:21:57Z",
 			"svn_url": "https://github.com/nicksnyder/go-i18n",
-			"stargazers_count": 2530,
-			"watchers_count": 2530,
-			"forks_count": 295,
-			"open_issues_count": 21
+			"stargazers_count": 2597,
+			"watchers_count": 2597,
+			"forks_count": 314,
+			"open_issues_count": 20
 		},
 		{
 			"id": 95233790,
@@ -38,12 +38,12 @@
 			"html_url": "https://github.com/go-ego/gse",
 			"homepage": "",
 			"created_at": "2017-06-23T15:42:35Z",
-			"updated_at": "2023-10-12T01:38:37Z",
+			"updated_at": "2023-12-08T10:48:28Z",
 			"svn_url": "https://github.com/go-ego/gse",
-			"stargazers_count": 2322,
-			"watchers_count": 2322,
-			"forks_count": 205,
-			"open_issues_count": 10
+			"stargazers_count": 2377,
+			"watchers_count": 2377,
+			"forks_count": 208,
+			"open_issues_count": 12
 		},
 		{
 			"id": 42340004,
@@ -52,12 +52,12 @@
 			"html_url": "https://github.com/yanyiwu/gojieba",
 			"homepage": "",
 			"created_at": "2015-09-12T01:30:44Z",
-			"updated_at": "2023-10-11T08:29:34Z",
+			"updated_at": "2023-12-08T03:10:56Z",
 			"svn_url": "https://github.com/yanyiwu/gojieba",
-			"stargazers_count": 2223,
-			"watchers_count": 2223,
-			"forks_count": 324,
-			"open_issues_count": 59
+			"stargazers_count": 2260,
+			"watchers_count": 2260,
+			"forks_count": 336,
+			"open_issues_count": 60
 		},
 		{
 			"id": 231973037,
@@ -66,12 +66,12 @@
 			"html_url": "https://github.com/nlpodyssey/spago",
 			"homepage": "",
 			"created_at": "2020-01-05T20:39:29Z",
-			"updated_at": "2023-10-09T16:23:12Z",
+			"updated_at": "2023-12-06T17:02:14Z",
 			"svn_url": "https://github.com/nlpodyssey/spago",
-			"stargazers_count": 1578,
-			"watchers_count": 1578,
-			"forks_count": 81,
-			"open_issues_count": 13
+			"stargazers_count": 1668,
+			"watchers_count": 1668,
+			"forks_count": 84,
+			"open_issues_count": 12
 		},
 		{
 			"id": 26397419,
@@ -80,12 +80,12 @@
 			"html_url": "https://github.com/mozillazg/go-pinyin",
 			"homepage": "https://godoc.org/github.com/mozillazg/go-pinyin",
 			"created_at": "2014-11-09T14:04:33Z",
-			"updated_at": "2023-10-12T08:41:35Z",
+			"updated_at": "2023-12-06T08:25:52Z",
 			"svn_url": "https://github.com/mozillazg/go-pinyin",
-			"stargazers_count": 1474,
-			"watchers_count": 1474,
-			"forks_count": 225,
-			"open_issues_count": 14
+			"stargazers_count": 1509,
+			"watchers_count": 1509,
+			"forks_count": 235,
+			"open_issues_count": 15
 		},
 		{
 			"id": 77456467,
@@ -94,12 +94,12 @@
 			"html_url": "https://github.com/olebedev/when",
 			"homepage": "",
 			"created_at": "2016-12-27T13:11:46Z",
-			"updated_at": "2023-10-10T01:49:56Z",
+			"updated_at": "2023-12-05T06:02:29Z",
 			"svn_url": "https://github.com/olebedev/when",
-			"stargazers_count": 1292,
-			"watchers_count": 1292,
-			"forks_count": 83,
-			"open_issues_count": 18
+			"stargazers_count": 1301,
+			"watchers_count": 1301,
+			"forks_count": 84,
+			"open_issues_count": 17
 		},
 		{
 			"id": 21228174,
@@ -108,12 +108,12 @@
 			"html_url": "https://github.com/ikawaha/kagome",
 			"homepage": "",
 			"created_at": "2014-06-26T04:38:13Z",
-			"updated_at": "2023-10-04T22:16:23Z",
+			"updated_at": "2023-12-04T18:13:55Z",
 			"svn_url": "https://github.com/ikawaha/kagome",
-			"stargazers_count": 754,
-			"watchers_count": 754,
-			"forks_count": 48,
-			"open_issues_count": 5
+			"stargazers_count": 763,
+			"watchers_count": 763,
+			"forks_count": 50,
+			"open_issues_count": 4
 		},
 		{
 			"id": 82584355,
@@ -122,10 +122,10 @@
 			"html_url": "https://github.com/abadojack/whatlanggo",
 			"homepage": "",
 			"created_at": "2017-02-20T17:32:01Z",
-			"updated_at": "2023-09-22T06:06:10Z",
+			"updated_at": "2023-12-06T14:31:25Z",
 			"svn_url": "https://github.com/abadojack/whatlanggo",
-			"stargazers_count": 595,
-			"watchers_count": 595,
+			"stargazers_count": 600,
+			"watchers_count": 600,
 			"forks_count": 62,
 			"open_issues_count": 12
 		},
@@ -136,10 +136,10 @@
 			"html_url": "https://github.com/james-bowman/nlp",
 			"homepage": "",
 			"created_at": "2017-03-15T08:28:05Z",
-			"updated_at": "2023-09-12T00:43:16Z",
+			"updated_at": "2023-12-01T14:00:00Z",
 			"svn_url": "https://github.com/james-bowman/nlp",
-			"stargazers_count": 418,
-			"watchers_count": 418,
+			"stargazers_count": 422,
+			"watchers_count": 422,
 			"forks_count": 46,
 			"open_issues_count": 5
 		},
@@ -150,12 +150,12 @@
 			"html_url": "https://github.com/neurosnap/sentences",
 			"homepage": "https://sentences-231000.appspot.com/",
 			"created_at": "2015-08-07T01:08:20Z",
-			"updated_at": "2023-10-02T14:24:51Z",
+			"updated_at": "2023-12-06T15:52:37Z",
 			"svn_url": "https://github.com/neurosnap/sentences",
-			"stargazers_count": 384,
-			"watchers_count": 384,
+			"stargazers_count": 395,
+			"watchers_count": 395,
 			"forks_count": 36,
-			"open_issues_count": 4
+			"open_issues_count": 5
 		},
 		{
 			"id": 79992041,
@@ -164,10 +164,10 @@
 			"html_url": "https://github.com/shixzie/nlp",
 			"homepage": "",
 			"created_at": "2017-01-25T07:19:03Z",
-			"updated_at": "2023-08-27T20:19:47Z",
+			"updated_at": "2023-11-24T19:27:48Z",
 			"svn_url": "https://github.com/shixzie/nlp",
-			"stargazers_count": 383,
-			"watchers_count": 383,
+			"stargazers_count": 386,
+			"watchers_count": 386,
 			"forks_count": 35,
 			"open_issues_count": 3
 		},
@@ -178,10 +178,10 @@
 			"html_url": "https://github.com/rylans/getlang",
 			"homepage": "",
 			"created_at": "2018-03-01T21:27:30Z",
-			"updated_at": "2023-09-28T14:06:27Z",
+			"updated_at": "2023-11-24T12:02:46Z",
 			"svn_url": "https://github.com/rylans/getlang",
-			"stargazers_count": 160,
-			"watchers_count": 160,
+			"stargazers_count": 161,
+			"watchers_count": 161,
 			"forks_count": 21,
 			"open_issues_count": 4
 		},
@@ -192,11 +192,11 @@
 			"html_url": "https://github.com/mozillazg/go-unidecode",
 			"homepage": "https://godoc.org/github.com/mozillazg/go-unidecode",
 			"created_at": "2016-07-08T13:15:10Z",
-			"updated_at": "2023-09-25T01:17:16Z",
+			"updated_at": "2023-12-06T06:12:47Z",
 			"svn_url": "https://github.com/mozillazg/go-unidecode",
-			"stargazers_count": 112,
-			"watchers_count": 112,
-			"forks_count": 19,
+			"stargazers_count": 115,
+			"watchers_count": 115,
+			"forks_count": 20,
 			"open_issues_count": 5
 		},
 		{
@@ -206,10 +206,10 @@
 			"html_url": "https://github.com/afjoseph/RAKE.Go",
 			"homepage": "",
 			"created_at": "2016-12-17T13:36:25Z",
-			"updated_at": "2023-09-16T06:00:24Z",
+			"updated_at": "2023-11-17T03:41:26Z",
 			"svn_url": "https://github.com/afjoseph/RAKE.Go",
-			"stargazers_count": 101,
-			"watchers_count": 101,
+			"stargazers_count": 104,
+			"watchers_count": 104,
 			"forks_count": 18,
 			"open_issues_count": 4
 		},
@@ -228,6 +228,20 @@
 			"open_issues_count": 0
 		},
 		{
+			"id": 25317859,
+			"name": "segment",
+			"description": "A Go library for performing Unicode Text Segmentation as described in Unicode Standard Annex #29",
+			"html_url": "https://github.com/blevesearch/segment",
+			"homepage": "",
+			"created_at": "2014-10-16T19:24:26Z",
+			"updated_at": "2023-12-07T11:02:37Z",
+			"svn_url": "https://github.com/blevesearch/segment",
+			"stargazers_count": 81,
+			"watchers_count": 81,
+			"forks_count": 16,
+			"open_issues_count": 5
+		},
+		{
 			"id": 4191874,
 			"name": "gounidecode",
 			"description": "Unicode transliterator for #golang",
@@ -240,20 +254,6 @@
 			"watchers_count": 79,
 			"forks_count": 21,
 			"open_issues_count": 2
-		},
-		{
-			"id": 25317859,
-			"name": "segment",
-			"description": "A Go library for performing Unicode Text Segmentation as described in Unicode Standard Annex #29",
-			"html_url": "https://github.com/blevesearch/segment",
-			"homepage": "",
-			"created_at": "2014-10-16T19:24:26Z",
-			"updated_at": "2023-09-29T18:29:26Z",
-			"svn_url": "https://github.com/blevesearch/segment",
-			"stargazers_count": 78,
-			"watchers_count": 78,
-			"forks_count": 16,
-			"open_issues_count": 5
 		},
 		{
 			"id": 2446083,
@@ -294,7 +294,7 @@
 			"svn_url": "https://github.com/bojanz/address",
 			"stargazers_count": 69,
 			"watchers_count": 69,
-			"forks_count": 2,
+			"forks_count": 3,
 			"open_issues_count": 0
 		},
 		{
@@ -318,12 +318,12 @@
 			"html_url": "https://github.com/m1/go-localize",
 			"homepage": "",
 			"created_at": "2019-12-23T12:02:51Z",
-			"updated_at": "2023-09-07T09:19:06Z",
+			"updated_at": "2023-11-10T16:57:11Z",
 			"svn_url": "https://github.com/m1/go-localize",
-			"stargazers_count": 54,
-			"watchers_count": 54,
-			"forks_count": 10,
-			"open_issues_count": 1
+			"stargazers_count": 55,
+			"watchers_count": 55,
+			"forks_count": 11,
+			"open_issues_count": 3
 		},
 		{
 			"id": 29912299,
@@ -332,10 +332,10 @@
 			"html_url": "https://github.com/danieldk/go2vec",
 			"homepage": "https://godoc.org/github.com/mozillazg/go-unidecode",
 			"created_at": "2015-01-27T12:02:04Z",
-			"updated_at": "2023-09-19T14:26:50Z",
+			"updated_at": "2023-10-19T10:32:39Z",
 			"svn_url": "https://github.com/danieldk/go2vec",
-			"stargazers_count": 51,
-			"watchers_count": 51,
+			"stargazers_count": 50,
+			"watchers_count": 50,
 			"forks_count": 5,
 			"open_issues_count": 0
 		},
@@ -374,7 +374,7 @@
 			"html_url": "https://github.com/striker2000/petrovich",
 			"homepage": "",
 			"created_at": "2016-12-26T22:50:38Z",
-			"updated_at": "2023-07-12T14:23:24Z",
+			"updated_at": "2023-11-29T23:24:24Z",
 			"svn_url": "https://github.com/striker2000/petrovich",
 			"stargazers_count": 44,
 			"watchers_count": 44,
@@ -388,10 +388,10 @@
 			"html_url": "https://github.com/mehanizm/iuliia-go",
 			"homepage": "",
 			"created_at": "2020-04-27T09:29:40Z",
-			"updated_at": "2023-09-08T18:06:37Z",
+			"updated_at": "2023-12-04T06:20:51Z",
 			"svn_url": "https://github.com/mehanizm/iuliia-go",
-			"stargazers_count": 39,
-			"watchers_count": 39,
+			"stargazers_count": 41,
+			"watchers_count": 41,
 			"forks_count": 6,
 			"open_issues_count": 1
 		},
@@ -402,10 +402,10 @@
 			"html_url": "https://github.com/jonreiter/govader",
 			"homepage": "",
 			"created_at": "2020-01-19T10:06:15Z",
-			"updated_at": "2023-10-05T11:32:44Z",
+			"updated_at": "2023-11-07T14:47:59Z",
 			"svn_url": "https://github.com/jonreiter/govader",
-			"stargazers_count": 37,
-			"watchers_count": 37,
+			"stargazers_count": 38,
+			"watchers_count": 38,
 			"forks_count": 7,
 			"open_issues_count": 1
 		},
@@ -430,7 +430,7 @@
 			"html_url": "https://github.com/alexsergivan/transliterator",
 			"homepage": "",
 			"created_at": "2020-04-17T14:19:55Z",
-			"updated_at": "2023-08-13T23:32:28Z",
+			"updated_at": "2023-11-14T11:31:22Z",
 			"svn_url": "https://github.com/alexsergivan/transliterator",
 			"stargazers_count": 36,
 			"watchers_count": 36,
@@ -444,10 +444,10 @@
 			"html_url": "https://github.com/dveselov/mystem",
 			"homepage": "",
 			"created_at": "2016-08-30T14:55:39Z",
-			"updated_at": "2023-10-06T08:42:52Z",
+			"updated_at": "2023-11-29T11:44:58Z",
 			"svn_url": "https://github.com/dveselov/mystem",
-			"stargazers_count": 31,
-			"watchers_count": 31,
+			"stargazers_count": 30,
+			"watchers_count": 30,
 			"forks_count": 8,
 			"open_issues_count": 0
 		},
