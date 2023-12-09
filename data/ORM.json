@@ -1,7 +1,7 @@
 {
 	"name": "ORM",
 	"index_last_check": 0,
-	"last_update": 1697205910,
+	"last_update": 1702123044,
 	"libraries": [
 		{
 			"id": 13855476,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/go-gorm/gorm",
 			"homepage": "https://gorm.io",
 			"created_at": "2013-10-25T08:31:38Z",
-			"updated_at": "2023-10-11T10:14:55Z",
+			"updated_at": "2023-12-09T11:44:19Z",
 			"svn_url": "https://github.com/go-gorm/gorm",
-			"stargazers_count": 33788,
-			"watchers_count": 33788,
-			"forks_count": 3743,
-			"open_issues_count": 255
+			"stargazers_count": 34257,
+			"watchers_count": 34257,
+			"forks_count": 3814,
+			"open_issues_count": 283
 		},
 		{
 			"id": 191655189,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/ent/ent",
 			"homepage": "https://entgo.io",
 			"created_at": "2019-06-12T22:53:55Z",
-			"updated_at": "2023-10-11T09:20:58Z",
+			"updated_at": "2023-12-09T08:25:18Z",
 			"svn_url": "https://github.com/ent/ent",
-			"stargazers_count": 14165,
-			"watchers_count": 14165,
-			"forks_count": 876,
-			"open_issues_count": 369
+			"stargazers_count": 14348,
+			"watchers_count": 14348,
+			"forks_count": 902,
+			"open_issues_count": 383
 		},
 		{
 			"id": 52193726,
@@ -38,12 +38,12 @@
 			"html_url": "https://github.com/volatiletech/sqlboiler",
 			"homepage": "",
 			"created_at": "2016-02-21T06:18:25Z",
-			"updated_at": "2023-10-10T19:48:56Z",
+			"updated_at": "2023-12-08T18:26:21Z",
 			"svn_url": "https://github.com/volatiletech/sqlboiler",
-			"stargazers_count": 6049,
-			"watchers_count": 6049,
-			"forks_count": 553,
-			"open_issues_count": 90
+			"stargazers_count": 6159,
+			"watchers_count": 6159,
+			"forks_count": 560,
+			"open_issues_count": 96
 		},
 		{
 			"id": 9646845,
@@ -52,12 +52,12 @@
 			"html_url": "https://github.com/go-pg/pg",
 			"homepage": "https://pg.uptrace.dev/",
 			"created_at": "2013-04-24T12:31:41Z",
-			"updated_at": "2023-10-11T09:55:23Z",
+			"updated_at": "2023-12-09T05:03:27Z",
 			"svn_url": "https://github.com/go-pg/pg",
-			"stargazers_count": 5482,
-			"watchers_count": 5482,
-			"forks_count": 403,
-			"open_issues_count": 116
+			"stargazers_count": 5496,
+			"watchers_count": 5496,
+			"forks_count": 405,
+			"open_issues_count": 115
 		},
 		{
 			"id": 3104806,
@@ -66,11 +66,11 @@
 			"html_url": "https://github.com/go-gorp/gorp",
 			"homepage": "",
 			"created_at": "2012-01-04T19:50:09Z",
-			"updated_at": "2023-10-11T05:00:49Z",
+			"updated_at": "2023-12-08T19:48:58Z",
 			"svn_url": "https://github.com/go-gorp/gorp",
-			"stargazers_count": 3688,
-			"watchers_count": 3688,
-			"forks_count": 400,
+			"stargazers_count": 3698,
+			"watchers_count": 3698,
+			"forks_count": 414,
 			"open_issues_count": 146
 		},
 		{
@@ -80,12 +80,12 @@
 			"html_url": "https://github.com/upper/db",
 			"homepage": "https://upper.io/",
 			"created_at": "2013-10-23T02:04:36Z",
-			"updated_at": "2023-10-07T18:59:39Z",
+			"updated_at": "2023-12-08T03:25:18Z",
 			"svn_url": "https://github.com/upper/db",
-			"stargazers_count": 3387,
-			"watchers_count": 3387,
-			"forks_count": 238,
-			"open_issues_count": 153
+			"stargazers_count": 3411,
+			"watchers_count": 3411,
+			"forks_count": 241,
+			"open_issues_count": 152
 		},
 		{
 			"id": 185033017,
@@ -94,11 +94,11 @@
 			"html_url": "https://github.com/xxjwxc/gormt",
 			"homepage": "https://xxjwxc.github.io/post/gormt/",
 			"created_at": "2019-05-05T13:10:26Z",
-			"updated_at": "2023-10-11T02:32:46Z",
+			"updated_at": "2023-12-09T04:45:06Z",
 			"svn_url": "https://github.com/xxjwxc/gormt",
-			"stargazers_count": 2255,
-			"watchers_count": 2255,
-			"forks_count": 360,
+			"stargazers_count": 2276,
+			"watchers_count": 2276,
+			"forks_count": 373,
 			"open_issues_count": 57
 		},
 		{
@@ -108,10 +108,10 @@
 			"html_url": "https://github.com/go-reform/reform",
 			"homepage": "https://gopkg.in/reform.v1",
 			"created_at": "2016-02-25T09:41:09Z",
-			"updated_at": "2023-10-04T11:14:14Z",
+			"updated_at": "2023-11-26T08:39:04Z",
 			"svn_url": "https://github.com/go-reform/reform",
-			"stargazers_count": 1422,
-			"watchers_count": 1422,
+			"stargazers_count": 1425,
+			"watchers_count": 1425,
 			"forks_count": 73,
 			"open_issues_count": 86
 		},
@@ -122,12 +122,12 @@
 			"html_url": "https://github.com/gobuffalo/pop",
 			"homepage": "",
 			"created_at": "2018-02-07T21:13:46Z",
-			"updated_at": "2023-10-11T11:40:53Z",
+			"updated_at": "2023-12-06T18:39:37Z",
 			"svn_url": "https://github.com/gobuffalo/pop",
-			"stargazers_count": 1380,
-			"watchers_count": 1380,
-			"forks_count": 246,
-			"open_issues_count": 99
+			"stargazers_count": 1391,
+			"watchers_count": 1391,
+			"forks_count": 248,
+			"open_issues_count": 95
 		},
 		{
 			"id": 115539456,
@@ -136,12 +136,12 @@
 			"html_url": "https://github.com/huandu/go-sqlbuilder",
 			"homepage": "https://pkg.go.dev/github.com/huandu/go-sqlbuilder",
 			"created_at": "2017-12-27T16:37:48Z",
-			"updated_at": "2023-10-11T12:28:18Z",
+			"updated_at": "2023-12-08T13:58:56Z",
 			"svn_url": "https://github.com/huandu/go-sqlbuilder",
-			"stargazers_count": 1105,
-			"watchers_count": 1105,
-			"forks_count": 99,
-			"open_issues_count": 8
+			"stargazers_count": 1131,
+			"watchers_count": 1131,
+			"forks_count": 103,
+			"open_issues_count": 5
 		},
 		{
 			"id": 102281899,
@@ -150,10 +150,10 @@
 			"html_url": "https://github.com/jirfag/go-queryset",
 			"homepage": "",
 			"created_at": "2017-09-03T17:29:30Z",
-			"updated_at": "2023-10-10T13:23:11Z",
+			"updated_at": "2023-12-05T13:40:07Z",
 			"svn_url": "https://github.com/jirfag/go-queryset",
-			"stargazers_count": 710,
-			"watchers_count": 710,
+			"stargazers_count": 715,
+			"watchers_count": 715,
 			"forks_count": 72,
 			"open_issues_count": 20
 		},
@@ -164,11 +164,11 @@
 			"html_url": "https://github.com/go-rel/rel",
 			"homepage": "https://go-rel.github.io/",
 			"created_at": "2019-10-06T07:08:01Z",
-			"updated_at": "2023-10-06T18:45:10Z",
+			"updated_at": "2023-12-04T02:24:56Z",
 			"svn_url": "https://github.com/go-rel/rel",
-			"stargazers_count": 680,
-			"watchers_count": 680,
-			"forks_count": 57,
+			"stargazers_count": 694,
+			"watchers_count": 694,
+			"forks_count": 59,
 			"open_issues_count": 26
 		},
 		{
@@ -178,11 +178,11 @@
 			"html_url": "https://github.com/astaxie/beego",
 			"homepage": "beego.me",
 			"created_at": "2020-12-13T14:58:50Z",
-			"updated_at": "2023-10-10T03:56:56Z",
+			"updated_at": "2023-12-08T22:51:53Z",
 			"svn_url": "https://github.com/astaxie/beego",
-			"stargazers_count": 665,
-			"watchers_count": 665,
-			"forks_count": 174,
+			"stargazers_count": 682,
+			"watchers_count": 682,
+			"forks_count": 177,
 			"open_issues_count": 0
 		},
 		{
@@ -192,10 +192,10 @@
 			"html_url": "https://github.com/coocood/qbs",
 			"homepage": "",
 			"created_at": "2013-02-02T05:40:59Z",
-			"updated_at": "2023-09-22T18:58:20Z",
+			"updated_at": "2023-10-28T10:53:34Z",
 			"svn_url": "https://github.com/coocood/qbs",
-			"stargazers_count": 547,
-			"watchers_count": 547,
+			"stargazers_count": 546,
+			"watchers_count": 546,
 			"forks_count": 101,
 			"open_issues_count": 10
 		},
@@ -206,10 +206,10 @@
 			"html_url": "https://github.com/albrow/zoom",
 			"homepage": "",
 			"created_at": "2013-07-17T00:32:34Z",
-			"updated_at": "2023-10-08T05:35:13Z",
+			"updated_at": "2023-10-19T17:09:17Z",
 			"svn_url": "https://github.com/albrow/zoom",
-			"stargazers_count": 303,
-			"watchers_count": 303,
+			"stargazers_count": 304,
+			"watchers_count": 304,
 			"forks_count": 28,
 			"open_issues_count": 2
 		},
@@ -220,11 +220,11 @@
 			"html_url": "https://github.com/rushteam/gosql",
 			"homepage": "",
 			"created_at": "2020-04-27T09:16:29Z",
-			"updated_at": "2023-09-25T03:42:03Z",
+			"updated_at": "2023-11-24T02:27:31Z",
 			"svn_url": "https://github.com/rushteam/gosql",
-			"stargazers_count": 176,
-			"watchers_count": 176,
-			"forks_count": 22,
+			"stargazers_count": 175,
+			"watchers_count": 175,
+			"forks_count": 23,
 			"open_issues_count": 6
 		},
 		{
@@ -276,10 +276,10 @@
 			"html_url": "https://github.com/marlow/marlow",
 			"homepage": "",
 			"created_at": "2020-08-11T13:34:00Z",
-			"updated_at": "2023-09-25T03:44:44Z",
+			"updated_at": "2023-10-27T20:13:41Z",
 			"svn_url": "https://github.com/marlow/marlow",
-			"stargazers_count": 15,
-			"watchers_count": 15,
+			"stargazers_count": 14,
+			"watchers_count": 14,
 			"forks_count": 3,
 			"open_issues_count": 0
 		},

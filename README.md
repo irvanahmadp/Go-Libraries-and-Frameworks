@@ -497,19 +497,19 @@ Generic datastructures and algorithms in Go.
 ### Database - Database tools
 
 
-<sup>*Last Update: 2023-12-08 20:26:42*</sup>
+<sup>*Last Update: 2023-12-09 18:57:36*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [vitess](http://vitess.io) | 16,881 | 2,012 | 821 | Vitess is a database clustering system for horizontal scaling of MySQL. | 2013-06-27 21:20:28 | 2023-10-13 11:40:46 |
+| [vitess](http://vitess.io) | 17,159 | 2,024 | 827 | Vitess is a database clustering system for horizontal scaling of MySQL. | 2013-06-27 21:20:28 | 2023-12-09 10:17:46 |
 | [pgweb](https://sosedoff.github.io/pgweb) | 8,124 | 703 | 13 | Cross-platform client for PostgreSQL databases | 2014-10-09 01:41:32 | 2023-12-08 12:39:23 |
 | [kingshard](https://github.com/flike/kingshard) | 6,278 | 1,222 | 166 | A high-performance MySQL proxy | 2015-07-04 02:22:32 | 2023-12-06 10:48:17 |
 | [orchestrator](https://github.com/openark/orchestrator) | 5,244 | 930 | 413 | MySQL replication topology management and HA | 2016-11-30 13:44:24 | 2023-12-08 12:52:08 |
 | [go-mysql](https://github.com/go-mysql-org/go-mysql) | 4,286 | 1,001 | 192 | a powerful mysql toolset with Go | 2014-02-21 01:56:45 | 2023-12-07 01:05:59 |
 | [go-mysql-elasticsearch](https://github.com/go-mysql-org/go-mysql-elasticsearch) | 4,024 | 840 | 211 | Sync MySQL data into elasticsearch  | 2015-01-15 09:54:18 | 2023-12-08 06:07:28 |
-| [prest](https://prestd.com) | 3,912 | 278 | 126 | PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new | 2016-11-22 05:17:05 | 2023-10-09 06:30:26 |
+| [prest](https://prestd.com) | 3,978 | 278 | 124 | PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new | 2016-11-22 05:17:05 | 2023-12-08 15:58:59 |
 | [chproxy](https://www.chproxy.org/) | 1,159 | 245 | 36 | Open-Source ClickHouse http proxy and load balancer | 2017-09-18 13:09:23 | 2023-12-07 10:44:13 |
 | [pg_timetable](https://www.cybertec-postgresql.com/en/products/pg_timetable/) | 962 | 64 | 0 | pg_timetable: Advanced scheduling for PostgreSQL | 2018-12-19 10:19:51 | 2023-12-03 13:44:11 |
 | [clickhouse-bulk](https://github.com/nikepan/clickhouse-bulk) | 445 | 86 | 25 | Collects many small inserts to ClickHouse and send in big inserts | 2017-04-29 10:38:41 | 2023-12-06 10:30:10 |
@@ -948,22 +948,22 @@ Packages for accounting and finance.
 ### Forms
 Libraries for working with forms.
 
-<sup>*Last Update: 2023-10-23 20:28:51*</sup>
+<sup>*Last Update: 2023-12-09 18:57:50*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [nosurf](http://godoc.org/github.com/justinas/nosurf) | 1,448 | 142 | 13 | CSRF protection middleware for Go. | 2013-08-22 17:47:34 | 2023-10-23 09:03:24 |
-| [csrf](https://gorilla.github.io) | 932 | 153 | 1 | Package gorilla/csrf provides Cross Site Request Forgery (CSRF) prevention middleware for Go web applications & services 🔒 | 2015-08-03 00:35:16 | 2023-10-23 01:44:15 |
-| [binding](http://mholt.github.io/binding) | 796 | 84 | 8 | Reflectionless data binding for Go's net/http (not actively maintained) | 2014-05-20 23:35:14 | 2023-10-13 16:12:40 |
-| [form](https://github.com/go-playground/form) | 637 | 38 | 9 | :steam_locomotive: Decodes url.Values into Go value(s) and Encodes Go value(s) into url.Values. Dual Array and Full map support. | 2016-05-26 13:26:40 | 2023-10-22 14:50:54 |
-| [conform](https://github.com/leebenson/conform) | 312 | 37 | 5 | Trims, sanitizes & scrubs data based on struct tags (go, golang) | 2016-01-05 18:00:06 | 2023-10-19 03:22:22 |
+| [nosurf](http://godoc.org/github.com/justinas/nosurf) | 1,458 | 152 | 13 | CSRF protection middleware for Go. | 2013-08-22 17:47:34 | 2023-12-06 06:12:04 |
+| [csrf](https://gorilla.github.io) | 951 | 155 | 4 | Package gorilla/csrf provides Cross Site Request Forgery (CSRF) prevention middleware for Go web applications & services 🔒 | 2015-08-03 00:35:16 | 2023-12-03 18:08:29 |
+| [binding](http://mholt.github.io/binding) | 796 | 84 | 8 | Reflectionless data binding for Go's net/http (not actively maintained) | 2014-05-20 23:35:14 | 2023-11-29 20:49:06 |
+| [form](https://github.com/go-playground/form) | 651 | 38 | 9 | :steam_locomotive: Decodes url.Values into Go value(s) and Encodes Go value(s) into url.Values. Dual Array and Full map support. | 2016-05-26 13:26:40 | 2023-12-09 04:11:00 |
+| [conform](https://github.com/leebenson/conform) | 312 | 38 | 5 | Trims, sanitizes & scrubs data based on struct tags (go, golang) | 2016-01-05 18:00:06 | 2023-10-19 03:22:22 |
 | [formam](https://github.com/monoculum/formam) | 182 | 17 | 2 | a package for decode form's values into struct in Go | 2014-10-25 00:23:30 | 2023-10-18 14:05:13 |
 | [forms](https://github.com/albrow/forms) | 133 | 24 | 2 | A lightweight go library for parsing form data or json from an http.Request. | 2014-08-07 16:11:30 | 2023-10-12 17:02:12 |
 | [qs](https://github.com/sonh/qs) | 68 | 4 | 0 | Go module for encoding structs into URL query parameters | 2020-10-02 09:50:35 | 2023-10-18 09:53:48 |
 | [bind](https://github.com/robfig/bind) | 30 | 6 | 0 |  | 2014-08-06 00:13:10 | 2023-10-12 21:12:33 |
-| [queryparam](https://github.com/TomWright/queryparam) | 18 | 5 | 0 | Go package to easily convert a URL's query parameters/values into usable struct values of the correct types. | 2018-06-14 10:23:05 | 2023-10-18 09:53:58 |
+| [queryparam](https://github.com/TomWright/queryparam) | 19 | 5 | 0 | Go package to easily convert a URL's query parameters/values into usable struct values of the correct types. | 2018-06-14 10:23:05 | 2023-10-29 08:49:21 |
 </details>
 
 ### Functional
@@ -1758,32 +1758,32 @@ Libraries for making HTTP requests.
 ### ORM
 Libraries that implement Object-Relational Mapping or datamapping techniques.
 
-<sup>*Last Update: 2023-10-13 21:05:10*</sup>
+<sup>*Last Update: 2023-12-09 18:57:24*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [gorm](https://gorm.io) | 33,788 | 3,743 | 255 | The fantastic ORM library for Golang, aims to be developer friendly | 2013-10-25 08:31:38 | 2023-10-11 10:14:55 |
-| [ent](https://entgo.io) | 14,165 | 876 | 369 | An entity framework for Go | 2019-06-12 22:53:55 | 2023-10-11 09:20:58 |
-| [sqlboiler](https://github.com/volatiletech/sqlboiler) | 6,049 | 553 | 90 | Generate a Go ORM tailored to your database schema. | 2016-02-21 06:18:25 | 2023-10-10 19:48:56 |
-| [pg](https://pg.uptrace.dev/) | 5,482 | 403 | 116 | Golang ORM with focus on PostgreSQL features and performance | 2013-04-24 12:31:41 | 2023-10-11 09:55:23 |
-| [gorp](https://github.com/go-gorp/gorp) | 3,688 | 400 | 146 | Go Relational Persistence - an ORM-ish library for Go | 2012-01-04 19:50:09 | 2023-10-11 05:00:49 |
-| [db](https://upper.io/) | 3,387 | 238 | 153 | Data access layer for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features. | 2013-10-23 02:04:36 | 2023-10-07 18:59:39 |
-| [gormt](https://xxjwxc.github.io/post/gormt/) | 2,255 | 360 | 57 | database to golang struct | 2019-05-05 13:10:26 | 2023-10-11 02:32:46 |
-| [reform](https://gopkg.in/reform.v1) | 1,422 | 73 | 86 | A better ORM for Go, based on non-empty interfaces and code generation. | 2016-02-25 09:41:09 | 2023-10-04 11:14:14 |
-| [pop](https://github.com/gobuffalo/pop) | 1,380 | 246 | 99 | A Tasty Treat For All Your Database Needs | 2018-02-07 21:13:46 | 2023-10-11 11:40:53 |
-| [go-sqlbuilder](https://pkg.go.dev/github.com/huandu/go-sqlbuilder) | 1,105 | 99 | 8 | A flexible and powerful SQL string builder library plus a zero-config ORM. | 2017-12-27 16:37:48 | 2023-10-11 12:28:18 |
-| [go-queryset](https://github.com/jirfag/go-queryset) | 710 | 72 | 20 | 100% type-safe ORM for Go (Golang) with code generation and MySQL, PostgreSQL, Sqlite3, SQL Server support. GORM under the hood. | 2017-09-03 17:29:30 | 2023-10-10 13:23:11 |
-| [rel](https://go-rel.github.io/) | 680 | 57 | 26 | :gem: Modern ORM for Golang - Testable, Extendable and Crafted Into a Clean and Elegant API | 2019-10-06 07:08:01 | 2023-10-06 18:45:10 |
-| [beego](beego.me) | 665 | 174 | 0 | beego is an open-source, high-performance web framework for the Go programming language. | 2020-12-13 14:58:50 | 2023-10-10 03:56:56 |
-| [qbs](https://github.com/coocood/qbs) | 547 | 101 | 10 | QBS stands for Query By Struct. A Go ORM. | 2013-02-02 05:40:59 | 2023-09-22 18:58:20 |
-| [zoom](https://github.com/albrow/zoom) | 303 | 28 | 2 | A blazing-fast datastore and querying engine for Go built on Redis. | 2013-07-17 00:32:34 | 2023-10-08 05:35:13 |
-| [gosql](https://github.com/rushteam/gosql) | 176 | 22 | 6 | golang orm and sql builder | 2020-04-27 09:16:29 | 2023-09-25 03:42:03 |
+| [gorm](https://gorm.io) | 34,257 | 3,814 | 283 | The fantastic ORM library for Golang, aims to be developer friendly | 2013-10-25 08:31:38 | 2023-12-09 11:44:19 |
+| [ent](https://entgo.io) | 14,348 | 902 | 383 | An entity framework for Go | 2019-06-12 22:53:55 | 2023-12-09 08:25:18 |
+| [sqlboiler](https://github.com/volatiletech/sqlboiler) | 6,159 | 560 | 96 | Generate a Go ORM tailored to your database schema. | 2016-02-21 06:18:25 | 2023-12-08 18:26:21 |
+| [pg](https://pg.uptrace.dev/) | 5,496 | 405 | 115 | Golang ORM with focus on PostgreSQL features and performance | 2013-04-24 12:31:41 | 2023-12-09 05:03:27 |
+| [gorp](https://github.com/go-gorp/gorp) | 3,698 | 414 | 146 | Go Relational Persistence - an ORM-ish library for Go | 2012-01-04 19:50:09 | 2023-12-08 19:48:58 |
+| [db](https://upper.io/) | 3,411 | 241 | 152 | Data access layer for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features. | 2013-10-23 02:04:36 | 2023-12-08 03:25:18 |
+| [gormt](https://xxjwxc.github.io/post/gormt/) | 2,276 | 373 | 57 | database to golang struct | 2019-05-05 13:10:26 | 2023-12-09 04:45:06 |
+| [reform](https://gopkg.in/reform.v1) | 1,425 | 73 | 86 | A better ORM for Go, based on non-empty interfaces and code generation. | 2016-02-25 09:41:09 | 2023-11-26 08:39:04 |
+| [pop](https://github.com/gobuffalo/pop) | 1,391 | 248 | 95 | A Tasty Treat For All Your Database Needs | 2018-02-07 21:13:46 | 2023-12-06 18:39:37 |
+| [go-sqlbuilder](https://pkg.go.dev/github.com/huandu/go-sqlbuilder) | 1,131 | 103 | 5 | A flexible and powerful SQL string builder library plus a zero-config ORM. | 2017-12-27 16:37:48 | 2023-12-08 13:58:56 |
+| [go-queryset](https://github.com/jirfag/go-queryset) | 715 | 72 | 20 | 100% type-safe ORM for Go (Golang) with code generation and MySQL, PostgreSQL, Sqlite3, SQL Server support. GORM under the hood. | 2017-09-03 17:29:30 | 2023-12-05 13:40:07 |
+| [rel](https://go-rel.github.io/) | 694 | 59 | 26 | :gem: Modern ORM for Golang - Testable, Extendable and Crafted Into a Clean and Elegant API | 2019-10-06 07:08:01 | 2023-12-04 02:24:56 |
+| [beego](beego.me) | 682 | 177 | 0 | beego is an open-source, high-performance web framework for the Go programming language. | 2020-12-13 14:58:50 | 2023-12-08 22:51:53 |
+| [qbs](https://github.com/coocood/qbs) | 546 | 101 | 10 | QBS stands for Query By Struct. A Go ORM. | 2013-02-02 05:40:59 | 2023-10-28 10:53:34 |
+| [zoom](https://github.com/albrow/zoom) | 304 | 28 | 2 | A blazing-fast datastore and querying engine for Go built on Redis. | 2013-07-17 00:32:34 | 2023-10-19 17:09:17 |
+| [gosql](https://github.com/rushteam/gosql) | 175 | 23 | 6 | golang orm and sql builder | 2020-04-27 09:16:29 | 2023-11-24 02:27:31 |
 | [grimoire](https://fs02.github.io/grimoire) | 160 | 18 | 0 | Database access layer for golang | 2018-03-05 16:52:20 | 2023-09-25 03:44:37 |
 | [go-store](https://github.com/gosuri/go-store) | 112 | 9 | 1 | A simple and fast Redis backed key-value store library for Go | 2015-03-22 12:07:29 | 2023-09-25 03:42:25 |
 | [go-firestorm](https://github.com/jschoedt/go-firestorm) | 47 | 8 | 0 | Simple Go ORM for Google/Firebase Cloud Firestore | 2018-12-04 14:53:53 | 2023-09-25 03:41:53 |
-| [marlow](https://github.com/marlow/marlow) | 15 | 3 | 0 | persistence layer code generation for golang | 2020-08-11 13:34:00 | 2023-09-25 03:44:44 |
+| [marlow](https://github.com/marlow/marlow) | 14 | 3 | 0 | persistence layer code generation for golang | 2020-08-11 13:34:00 | 2023-10-27 20:13:41 |
 | [lore](https://github.com/abrahambotros/lore) | 14 | 3 | 0 | Light Object-Relational Environment (LORE) provides a simple and lightweight pseudo-ORM/pseudo-struct-mapping environment for Go | 2017-04-29 03:57:15 | 2023-09-25 08:03:17 |
 </details>
 
@@ -1986,28 +1986,28 @@ Libraries that are used to help make your application more secure.
 ### Serialization
 Libraries and tools for binary serialization.
 
-<sup>*Last Update: 2023-10-13 21:05:23*</sup>
+<sup>*Last Update: 2023-12-09 18:57:37*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [go](http://jsoniter.com/migrate-from-go-std.html) | 12,653 | 1,056 | 246 | A high-performance 100% compatible drop-in replacement of "encoding/json" | 2016-11-30 00:30:24 | 2023-10-13 13:36:48 |
-| [protobuf](https://github.com/golang/protobuf) | 9,285 | 1,633 | 92 | Go support for Google's protocol buffers | 2014-11-23 23:07:23 | 2023-10-13 02:06:10 |
-| [mapstructure](https://github.com/mitchellh/mapstructure) | 7,176 | 663 | 76 | Go library for decoding generic map values into native Go structures and vice versa. | 2013-05-20 05:24:34 | 2023-10-13 08:40:20 |
-| [protobuf](https://github.com/gogo/protobuf) | 5,598 | 822 | 234 | [Deprecated] Protocol Buffers for Go with Gadgets | 2014-12-03 11:27:10 | 2023-10-12 09:52:31 |
-| [go](https://github.com/ugorji/go) | 1,772 | 355 | 10 | idiomatic codec and rpc lib for msgpack, cbor, json, etc. msgpack.org[Go] | 2013-05-30 02:13:13 | 2023-10-12 03:25:22 |
-| [csvutil](https://github.com/jszwec/csvutil) | 833 | 59 | 0 | csvutil provides fast and idiomatic mapping between CSV and Go (golang) values. | 2017-10-30 04:09:48 | 2023-10-04 22:00:21 |
-| [colfer](https://github.com/pascaldekloe/colfer) | 719 | 54 | 10 | binary serialization format | 2015-09-05 16:42:41 | 2023-10-11 07:44:51 |
-| [cbor](https://github.com/fxamacker/cbor) | 604 | 54 | 11 | CBOR codec (RFC 8949) with CBOR tags, Go struct tags (toarray, keyasint, omitempty), float64/32/16, big.Int, and fuzz tested billions of execs.  | 2019-05-15 21:22:15 | 2023-10-12 13:03:44 |
+| [go](http://jsoniter.com/migrate-from-go-std.html) | 12,766 | 1,069 | 248 | A high-performance 100% compatible drop-in replacement of "encoding/json" | 2016-11-30 00:30:24 | 2023-12-09 06:33:04 |
+| [protobuf](https://github.com/golang/protobuf) | 9,375 | 1,646 | 96 | Go support for Google's protocol buffers | 2014-11-23 23:07:23 | 2023-12-09 04:42:59 |
+| [mapstructure](https://github.com/mitchellh/mapstructure) | 7,316 | 684 | 84 | Go library for decoding generic map values into native Go structures and vice versa. | 2013-05-20 05:24:34 | 2023-12-09 05:07:18 |
+| [protobuf](https://github.com/gogo/protobuf) | 5,608 | 829 | 236 | [Deprecated] Protocol Buffers for Go with Gadgets | 2014-12-03 11:27:10 | 2023-12-09 08:55:42 |
+| [go](https://github.com/ugorji/go) | 1,784 | 365 | 1 | idiomatic codec and rpc lib for msgpack, cbor, json, etc. msgpack.org[Go] | 2013-05-30 02:13:13 | 2023-12-04 16:33:22 |
+| [csvutil](https://github.com/jszwec/csvutil) | 844 | 58 | 0 | csvutil provides fast and idiomatic mapping between CSV and Go (golang) values. | 2017-10-30 04:09:48 | 2023-12-06 00:15:22 |
+| [colfer](https://github.com/pascaldekloe/colfer) | 724 | 56 | 9 | binary serialization format | 2015-09-05 16:42:41 | 2023-12-09 11:57:25 |
+| [cbor](https://github.com/fxamacker/cbor) | 619 | 57 | 18 | CBOR codec (RFC 8949) with CBOR tags, Go struct tags (toarray, keyasint, omitempty), float64/32/16, big.Int, and fuzz tested billions of execs.  | 2019-05-15 21:22:15 | 2023-12-04 20:32:56 |
 | [go-capnproto](https://github.com/glycerine/go-capnproto) | 288 | 21 | 1 | Cap'n Proto library and parser for go. This is go-capnproto-1.0, and does not have rpc. See https://github.com/zombiezen/go-capnproto2 for 2.0 which has rpc and capabilities. | 2013-11-07 20:28:12 | 2023-09-08 16:43:17 |
-| [php_session_decoder](https://github.com/yvasiyarov/php_session_decoder) | 159 | 45 | 3 | PHP session encoder/decoder written in Go | 2012-12-23 14:04:25 | 2023-08-14 14:05:46 |
-| [structomap](https://godoc.org/github.com/danhper/structomap) | 140 | 11 | 0 | Easily and dynamically generate maps from Go static structures | 2015-05-13 08:54:11 | 2023-06-15 13:58:04 |
-| [binstruct](https://github.com/ghostiam/binstruct) | 77 | 19 | 0 | Golang binary decoder for mapping data into the structure | 2018-10-23 15:42:22 | 2023-10-08 17:36:29 |
+| [php_session_decoder](https://github.com/yvasiyarov/php_session_decoder) | 160 | 45 | 3 | PHP session encoder/decoder written in Go | 2012-12-23 14:04:25 | 2023-11-21 14:53:20 |
+| [structomap](https://godoc.org/github.com/danhper/structomap) | 143 | 11 | 0 | Easily and dynamically generate maps from Go static structures | 2015-05-13 08:54:11 | 2023-11-10 03:46:41 |
+| [binstruct](https://github.com/ghostiam/binstruct) | 80 | 19 | 0 | Golang binary decoder for mapping data into the structure | 2018-10-23 15:42:22 | 2023-11-27 01:03:46 |
 | [bambam](https://github.com/glycerine/bambam) | 67 | 12 | 3 | auto-generate capnproto schema from your golang source files. Depends on go-capnproto-1.0 at https://github.com/glycerine/go-capnproto | 2014-09-17 14:39:12 | 2023-09-08 16:50:41 |
 | [asn1](https://github.com/Logicalis/asn1) | 53 | 27 | 6 | Asn.1 BER and DER encoding library for golang. | 2016-02-29 13:00:25 | 2023-01-28 18:49:45 |
 | [bel](https://github.com/csweichel/bel) | 35 | 9 | 4 | Generate TypeScript interfaces from Go structs/interfaces - useful for JSON RPC | 2019-02-20 20:48:24 | 2023-06-16 22:34:38 |
-| [fwencoder](https://github.com/o1egl/fwencoder) | 26 | 10 | 1 | Fixed width file parser (encoder/decoder) in GO (golang) | 2017-12-25 12:55:29 | 2023-08-22 02:17:43 |
+| [fwencoder](https://github.com/o1egl/fwencoder) | 26 | 10 | 1 | Fixed width file parser (encoder/decoder) in GO (golang) | 2017-12-25 12:55:29 | 2023-11-27 01:03:26 |
 | [elastic](https://github.com/epiclabs-io/elastic) | 23 | 4 | 1 | Converts go types no matter what | 2020-02-25 19:55:00 | 2023-09-29 08:28:04 |
 | [pletter](https://github.com/vimeda/pletter) | 19 | 3 | 9 | A standard way to wrap a proto message | 2019-07-09 14:02:08 | 2023-08-22 11:20:27 |
 | [fixedwidth](https://github.com/huydang284/fixedwidth) | 9 | 2 | 0 | A Go package for encode/decode fixed-width data | 2019-08-11 03:42:24 | 2023-10-01 22:40:50 |

@@ -1,7 +1,7 @@
 {
 	"name": "Forms",
 	"index_last_check": 0,
-	"last_update": 1698067731,
+	"last_update": 1702123070,
 	"libraries": [
 		{
 			"id": 12303687,
@@ -10,11 +10,11 @@
 			"html_url": "https://github.com/justinas/nosurf",
 			"homepage": "http://godoc.org/github.com/justinas/nosurf",
 			"created_at": "2013-08-22T17:47:34Z",
-			"updated_at": "2023-10-23T09:03:24Z",
+			"updated_at": "2023-12-06T06:12:04Z",
 			"svn_url": "https://github.com/justinas/nosurf",
-			"stargazers_count": 1448,
-			"watchers_count": 1448,
-			"forks_count": 142,
+			"stargazers_count": 1458,
+			"watchers_count": 1458,
+			"forks_count": 152,
 			"open_issues_count": 13
 		},
 		{
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/gorilla/csrf",
 			"homepage": "https://gorilla.github.io",
 			"created_at": "2015-08-03T00:35:16Z",
-			"updated_at": "2023-10-23T01:44:15Z",
+			"updated_at": "2023-12-03T18:08:29Z",
 			"svn_url": "https://github.com/gorilla/csrf",
-			"stargazers_count": 932,
-			"watchers_count": 932,
-			"forks_count": 153,
-			"open_issues_count": 1
+			"stargazers_count": 951,
+			"watchers_count": 951,
+			"forks_count": 155,
+			"open_issues_count": 4
 		},
 		{
 			"id": 20001290,
@@ -38,7 +38,7 @@
 			"html_url": "https://github.com/mholt/binding",
 			"homepage": "http://mholt.github.io/binding",
 			"created_at": "2014-05-20T23:35:14Z",
-			"updated_at": "2023-10-13T16:12:40Z",
+			"updated_at": "2023-11-29T20:49:06Z",
 			"svn_url": "https://github.com/mholt/binding",
 			"stargazers_count": 796,
 			"watchers_count": 796,
@@ -52,10 +52,10 @@
 			"html_url": "https://github.com/go-playground/form",
 			"homepage": "",
 			"created_at": "2016-05-26T13:26:40Z",
-			"updated_at": "2023-10-22T14:50:54Z",
+			"updated_at": "2023-12-09T04:11:00Z",
 			"svn_url": "https://github.com/go-playground/form",
-			"stargazers_count": 637,
-			"watchers_count": 637,
+			"stargazers_count": 651,
+			"watchers_count": 651,
 			"forks_count": 38,
 			"open_issues_count": 9
 		},
@@ -70,7 +70,7 @@
 			"svn_url": "https://github.com/leebenson/conform",
 			"stargazers_count": 312,
 			"watchers_count": 312,
-			"forks_count": 37,
+			"forks_count": 38,
 			"open_issues_count": 5
 		},
 		{
@@ -136,10 +136,10 @@
 			"html_url": "https://github.com/TomWright/queryparam",
 			"homepage": "",
 			"created_at": "2018-06-14T10:23:05Z",
-			"updated_at": "2023-10-18T09:53:58Z",
+			"updated_at": "2023-10-29T08:49:21Z",
 			"svn_url": "https://github.com/TomWright/queryparam",
-			"stargazers_count": 18,
-			"watchers_count": 18,
+			"stargazers_count": 19,
+			"watchers_count": 19,
 			"forks_count": 5,
 			"open_issues_count": 0
 		}
