@@ -1,7 +1,7 @@
 {
 	"name": "Financial",
 	"index_last_check": 0,
-	"last_update": 1698158249,
+	"last_update": 1702217560,
 	"libraries": [
 		{
 			"id": 31333618,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/shopspring/decimal",
 			"homepage": "",
 			"created_at": "2015-02-25T20:12:57Z",
-			"updated_at": "2023-10-23T11:09:00Z",
+			"updated_at": "2023-12-10T10:45:03Z",
 			"svn_url": "https://github.com/shopspring/decimal",
-			"stargazers_count": 5414,
-			"watchers_count": 5414,
-			"forks_count": 587,
-			"open_issues_count": 122
+			"stargazers_count": 5516,
+			"watchers_count": 5516,
+			"forks_count": 606,
+			"open_issues_count": 125
 		},
 		{
 			"id": 85599716,
@@ -24,11 +24,11 @@
 			"html_url": "https://github.com/Rhymond/go-money",
 			"homepage": "",
 			"created_at": "2017-03-20T16:23:54Z",
-			"updated_at": "2023-10-24T13:31:48Z",
+			"updated_at": "2023-12-09T19:03:42Z",
 			"svn_url": "https://github.com/Rhymond/go-money",
-			"stargazers_count": 1393,
-			"watchers_count": 1393,
-			"forks_count": 135,
+			"stargazers_count": 1422,
+			"watchers_count": 1422,
+			"forks_count": 138,
 			"open_issues_count": 28
 		},
 		{
@@ -38,11 +38,11 @@
 			"html_url": "https://github.com/leekchan/accounting",
 			"homepage": "",
 			"created_at": "2015-08-10T13:23:56Z",
-			"updated_at": "2023-10-20T14:41:20Z",
+			"updated_at": "2023-12-10T03:05:18Z",
 			"svn_url": "https://github.com/leekchan/accounting",
-			"stargazers_count": 837,
-			"watchers_count": 837,
-			"forks_count": 71,
+			"stargazers_count": 842,
+			"watchers_count": 842,
+			"forks_count": 73,
 			"open_issues_count": 13
 		},
 		{
@@ -52,12 +52,12 @@
 			"html_url": "https://github.com/sdcoffey/techan",
 			"homepage": "https://godoc.org/github.com/sdcoffey/techan",
 			"created_at": "2017-03-08T03:04:08Z",
-			"updated_at": "2023-10-17T09:03:15Z",
+			"updated_at": "2023-12-10T14:07:21Z",
 			"svn_url": "https://github.com/sdcoffey/techan",
-			"stargazers_count": 751,
-			"watchers_count": 751,
-			"forks_count": 134,
-			"open_issues_count": 20
+			"stargazers_count": 760,
+			"watchers_count": 760,
+			"forks_count": 137,
+			"open_issues_count": 21
 		},
 		{
 			"id": 52696227,
@@ -80,12 +80,12 @@
 			"html_url": "https://github.com/bojanz/currency",
 			"homepage": "https://pkg.go.dev/github.com/bojanz/currency",
 			"created_at": "2020-04-16T15:34:39Z",
-			"updated_at": "2023-10-23T14:01:42Z",
+			"updated_at": "2023-12-10T00:09:36Z",
 			"svn_url": "https://github.com/bojanz/currency",
-			"stargazers_count": 438,
-			"watchers_count": 438,
-			"forks_count": 34,
-			"open_issues_count": 4
+			"stargazers_count": 457,
+			"watchers_count": 457,
+			"forks_count": 37,
+			"open_issues_count": 1
 		},
 		{
 			"id": 130894888,
@@ -94,11 +94,11 @@
 			"html_url": "https://github.com/i25959341/orderbook",
 			"homepage": "",
 			"created_at": "2018-04-24T18:05:26Z",
-			"updated_at": "2023-10-23T13:10:45Z",
+			"updated_at": "2023-12-10T06:34:45Z",
 			"svn_url": "https://github.com/i25959341/orderbook",
-			"stargazers_count": 367,
-			"watchers_count": 367,
-			"forks_count": 130,
+			"stargazers_count": 374,
+			"watchers_count": 374,
+			"forks_count": 134,
 			"open_issues_count": 5
 		},
 		{
@@ -108,12 +108,26 @@
 			"html_url": "https://github.com/alpeb/go-finance",
 			"homepage": "",
 			"created_at": "2017-06-01T15:58:33Z",
-			"updated_at": "2023-09-30T04:51:19Z",
+			"updated_at": "2023-12-09T19:26:38Z",
 			"svn_url": "https://github.com/alpeb/go-finance",
-			"stargazers_count": 156,
-			"watchers_count": 156,
+			"stargazers_count": 159,
+			"watchers_count": 159,
 			"forks_count": 24,
 			"open_issues_count": 0
+		},
+		{
+			"id": 221559204,
+			"name": "sleet",
+			"description": "Payment abstraction library - one interface for multiple payment processors ( inspired by Ruby's ActiveMerchant )",
+			"html_url": "https://github.com/BoltApp/sleet",
+			"homepage": "",
+			"created_at": "2019-11-13T21:56:58Z",
+			"updated_at": "2023-12-09T19:38:11Z",
+			"svn_url": "https://github.com/BoltApp/sleet",
+			"stargazers_count": 128,
+			"watchers_count": 128,
+			"forks_count": 20,
+			"open_issues_count": 10
 		},
 		{
 			"id": 106560493,
@@ -130,30 +144,16 @@
 			"open_issues_count": 0
 		},
 		{
-			"id": 221559204,
-			"name": "sleet",
-			"description": "Payment abstraction library - one interface for multiple payment processors ( inspired by Ruby's ActiveMerchant )",
-			"html_url": "https://github.com/BoltApp/sleet",
-			"homepage": "",
-			"created_at": "2019-11-13T21:56:58Z",
-			"updated_at": "2023-10-14T06:57:17Z",
-			"svn_url": "https://github.com/BoltApp/sleet",
-			"stargazers_count": 126,
-			"watchers_count": 126,
-			"forks_count": 20,
-			"open_issues_count": 10
-		},
-		{
 			"id": 45782564,
 			"name": "ofxgo",
 			"description": "Golang library for querying and parsing OFX",
 			"html_url": "https://github.com/aclindsa/ofxgo",
 			"homepage": "",
 			"created_at": "2015-11-08T13:56:53Z",
-			"updated_at": "2023-10-12T16:13:33Z",
+			"updated_at": "2023-11-16T23:27:27Z",
 			"svn_url": "https://github.com/aclindsa/ofxgo",
-			"stargazers_count": 124,
-			"watchers_count": 124,
+			"stargazers_count": 125,
+			"watchers_count": 125,
 			"forks_count": 26,
 			"open_issues_count": 0
 		},
@@ -164,11 +164,11 @@
 			"html_url": "https://github.com/dannyvankooten/vat",
 			"homepage": "",
 			"created_at": "2016-06-18T16:10:09Z",
-			"updated_at": "2023-10-14T06:57:09Z",
+			"updated_at": "2023-11-21T10:42:58Z",
 			"svn_url": "https://github.com/dannyvankooten/vat",
-			"stargazers_count": 104,
-			"watchers_count": 104,
-			"forks_count": 15,
+			"stargazers_count": 106,
+			"watchers_count": 106,
+			"forks_count": 16,
 			"open_issues_count": 3
 		},
 		{
@@ -178,11 +178,11 @@
 			"html_url": "https://github.com/m1/go-finnhub",
 			"homepage": "",
 			"created_at": "2020-01-13T20:47:13Z",
-			"updated_at": "2023-10-17T11:19:33Z",
+			"updated_at": "2023-12-08T08:24:00Z",
 			"svn_url": "https://github.com/m1/go-finnhub",
-			"stargazers_count": 81,
-			"watchers_count": 81,
-			"forks_count": 16,
+			"stargazers_count": 84,
+			"watchers_count": 84,
+			"forks_count": 17,
 			"open_issues_count": 0
 		},
 		{
@@ -192,10 +192,10 @@
 			"html_url": "https://github.com/bnkamalesh/currency",
 			"homepage": "",
 			"created_at": "2017-05-09T06:06:38Z",
-			"updated_at": "2023-09-30T04:50:31Z",
+			"updated_at": "2023-10-25T22:21:23Z",
 			"svn_url": "https://github.com/bnkamalesh/currency",
-			"stargazers_count": 55,
-			"watchers_count": 55,
+			"stargazers_count": 56,
+			"watchers_count": 56,
 			"forks_count": 8,
 			"open_issues_count": 0
 		},
@@ -220,12 +220,12 @@
 			"html_url": "https://github.com/pieterclaerhout/go-finance",
 			"homepage": "https://www.yellowduck.be",
 			"created_at": "2019-09-30T06:49:07Z",
-			"updated_at": "2023-10-14T06:55:31Z",
+			"updated_at": "2023-12-09T19:29:51Z",
 			"svn_url": "https://github.com/pieterclaerhout/go-finance",
-			"stargazers_count": 16,
-			"watchers_count": 16,
+			"stargazers_count": 23,
+			"watchers_count": 23,
 			"forks_count": 5,
-			"open_issues_count": 0
+			"open_issues_count": 1
 		}
 	]
 }

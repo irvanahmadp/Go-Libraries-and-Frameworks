@@ -1,7 +1,7 @@
 {
 	"name": "Forms",
 	"index_last_check": 0,
-	"last_update": 1702123070,
+	"last_update": 1702217542,
 	"libraries": [
 		{
 			"id": 12303687,
@@ -24,10 +24,10 @@
 			"html_url": "https://github.com/gorilla/csrf",
 			"homepage": "https://gorilla.github.io",
 			"created_at": "2015-08-03T00:35:16Z",
-			"updated_at": "2023-12-03T18:08:29Z",
+			"updated_at": "2023-12-09T19:40:58Z",
 			"svn_url": "https://github.com/gorilla/csrf",
-			"stargazers_count": 951,
-			"watchers_count": 951,
+			"stargazers_count": 952,
+			"watchers_count": 952,
 			"forks_count": 155,
 			"open_issues_count": 4
 		},

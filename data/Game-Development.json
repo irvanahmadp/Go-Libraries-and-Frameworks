@@ -1,7 +1,7 @@
 {
 	"name": "Game Development",
 	"index_last_check": 0,
-	"last_update": 1698067722,
+	"last_update": 1702217524,
 	"libraries": [
 		{
 			"id": 10721619,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/hajimehoshi/ebiten",
 			"homepage": "https://ebitengine.org",
 			"created_at": "2013-06-16T15:13:01Z",
-			"updated_at": "2023-10-23T11:05:00Z",
+			"updated_at": "2023-12-10T12:53:39Z",
 			"svn_url": "https://github.com/hajimehoshi/ebiten",
-			"stargazers_count": 8929,
-			"watchers_count": 8929,
-			"forks_count": 595,
-			"open_issues_count": 245
+			"stargazers_count": 9171,
+			"watchers_count": 9171,
+			"forks_count": 611,
+			"open_issues_count": 253
 		},
 		{
 			"id": 22603527,
@@ -24,11 +24,11 @@
 			"html_url": "https://github.com/name5566/leaf",
 			"homepage": "",
 			"created_at": "2014-08-04T12:40:08Z",
-			"updated_at": "2023-10-23T11:07:24Z",
+			"updated_at": "2023-12-08T14:21:34Z",
 			"svn_url": "https://github.com/name5566/leaf",
-			"stargazers_count": 5001,
-			"watchers_count": 5001,
-			"forks_count": 1313,
+			"stargazers_count": 5027,
+			"watchers_count": 5027,
+			"forks_count": 1328,
 			"open_issues_count": 21
 		},
 		{
@@ -38,12 +38,12 @@
 			"html_url": "https://github.com/faiface/pixel",
 			"homepage": "",
 			"created_at": "2016-11-19T11:15:34Z",
-			"updated_at": "2023-10-23T10:19:20Z",
+			"updated_at": "2023-12-10T04:08:22Z",
 			"svn_url": "https://github.com/faiface/pixel",
-			"stargazers_count": 4323,
-			"watchers_count": 4323,
-			"forks_count": 247,
-			"open_issues_count": 45
+			"stargazers_count": 4355,
+			"watchers_count": 4355,
+			"forks_count": 248,
+			"open_issues_count": 46
 		},
 		{
 			"id": 99078544,
@@ -52,12 +52,12 @@
 			"html_url": "https://github.com/lonng/nano",
 			"homepage": "",
 			"created_at": "2017-08-02T06:05:14Z",
-			"updated_at": "2023-10-22T14:26:16Z",
+			"updated_at": "2023-12-07T07:32:43Z",
 			"svn_url": "https://github.com/lonng/nano",
-			"stargazers_count": 2506,
-			"watchers_count": 2506,
-			"forks_count": 406,
-			"open_issues_count": 26
+			"stargazers_count": 2557,
+			"watchers_count": 2557,
+			"forks_count": 411,
+			"open_issues_count": 27
 		},
 		{
 			"id": 84232188,
@@ -66,12 +66,12 @@
 			"html_url": "https://github.com/g3n/engine",
 			"homepage": "https://discord.gg/NfaeVr8zDg",
 			"created_at": "2017-03-07T18:25:09Z",
-			"updated_at": "2023-10-23T04:21:23Z",
+			"updated_at": "2023-12-08T16:59:48Z",
 			"svn_url": "https://github.com/g3n/engine",
-			"stargazers_count": 2448,
-			"watchers_count": 2448,
-			"forks_count": 252,
-			"open_issues_count": 39
+			"stargazers_count": 2520,
+			"watchers_count": 2520,
+			"forks_count": 261,
+			"open_issues_count": 44
 		},
 		{
 			"id": 93255352,
@@ -80,12 +80,12 @@
 			"html_url": "https://github.com/xiaonanln/goworld",
 			"homepage": "",
 			"created_at": "2017-06-03T15:02:46Z",
-			"updated_at": "2023-10-22T14:37:47Z",
+			"updated_at": "2023-12-08T07:04:40Z",
 			"svn_url": "https://github.com/xiaonanln/goworld",
-			"stargazers_count": 2412,
-			"watchers_count": 2412,
-			"forks_count": 472,
-			"open_issues_count": 26
+			"stargazers_count": 2435,
+			"watchers_count": 2435,
+			"forks_count": 476,
+			"open_issues_count": 27
 		},
 		{
 			"id": 10509683,
@@ -94,12 +94,12 @@
 			"html_url": "https://github.com/veandco/go-sdl2",
 			"homepage": "https://godoc.org/github.com/veandco/go-sdl2",
 			"created_at": "2013-06-05T18:30:03Z",
-			"updated_at": "2023-10-23T11:04:58Z",
+			"updated_at": "2023-12-10T01:15:20Z",
 			"svn_url": "https://github.com/veandco/go-sdl2",
-			"stargazers_count": 2036,
-			"watchers_count": 2036,
-			"forks_count": 256,
-			"open_issues_count": 77
+			"stargazers_count": 2056,
+			"watchers_count": 2056,
+			"forks_count": 267,
+			"open_issues_count": 79
 		},
 		{
 			"id": 125911051,
@@ -108,12 +108,12 @@
 			"html_url": "https://github.com/topfreegames/pitaya",
 			"homepage": "",
 			"created_at": "2018-03-19T19:40:36Z",
-			"updated_at": "2023-10-22T14:26:53Z",
+			"updated_at": "2023-12-08T06:15:14Z",
 			"svn_url": "https://github.com/topfreegames/pitaya",
-			"stargazers_count": 1987,
-			"watchers_count": 1987,
-			"forks_count": 417,
-			"open_issues_count": 40
+			"stargazers_count": 2033,
+			"watchers_count": 2033,
+			"forks_count": 427,
+			"open_issues_count": 49
 		},
 		{
 			"id": 26521386,
@@ -122,12 +122,12 @@
 			"html_url": "https://github.com/EngoEngine/engo",
 			"homepage": "https://engoengine.github.io",
 			"created_at": "2014-11-12T05:50:03Z",
-			"updated_at": "2023-10-23T11:08:09Z",
+			"updated_at": "2023-12-05T08:40:39Z",
 			"svn_url": "https://github.com/EngoEngine/engo",
-			"stargazers_count": 1654,
-			"watchers_count": 1654,
+			"stargazers_count": 1661,
+			"watchers_count": 1661,
 			"forks_count": 135,
-			"open_issues_count": 49
+			"open_issues_count": 50
 		},
 		{
 			"id": 97327962,
@@ -136,12 +136,12 @@
 			"html_url": "https://github.com/oakmound/oak",
 			"homepage": "",
 			"created_at": "2017-07-15T16:24:27Z",
-			"updated_at": "2023-10-16T08:51:15Z",
+			"updated_at": "2023-12-07T05:13:17Z",
 			"svn_url": "https://github.com/oakmound/oak",
-			"stargazers_count": 1455,
-			"watchers_count": 1455,
-			"forks_count": 81,
-			"open_issues_count": 15
+			"stargazers_count": 1462,
+			"watchers_count": 1462,
+			"forks_count": 85,
+			"open_issues_count": 17
 		},
 		{
 			"id": 36133658,
@@ -150,11 +150,11 @@
 			"html_url": "https://github.com/JoelOtter/termloop",
 			"homepage": "",
 			"created_at": "2015-05-23T17:12:34Z",
-			"updated_at": "2023-10-23T11:09:52Z",
+			"updated_at": "2023-12-05T18:06:59Z",
 			"svn_url": "https://github.com/JoelOtter/termloop",
-			"stargazers_count": 1368,
-			"watchers_count": 1368,
-			"forks_count": 87,
+			"stargazers_count": 1373,
+			"watchers_count": 1373,
+			"forks_count": 86,
 			"open_issues_count": 5
 		},
 		{
@@ -164,11 +164,11 @@
 			"html_url": "https://github.com/xtaci/gonet",
 			"homepage": "",
 			"created_at": "2013-04-11T02:18:23Z",
-			"updated_at": "2023-10-21T01:01:14Z",
+			"updated_at": "2023-11-29T09:03:12Z",
 			"svn_url": "https://github.com/xtaci/gonet",
-			"stargazers_count": 1238,
-			"watchers_count": 1238,
-			"forks_count": 339,
+			"stargazers_count": 1239,
+			"watchers_count": 1239,
+			"forks_count": 347,
 			"open_issues_count": 0
 		},
 		{
@@ -178,12 +178,12 @@
 			"html_url": "https://github.com/gen2brain/raylib-go",
 			"homepage": "",
 			"created_at": "2017-01-27T08:31:45Z",
-			"updated_at": "2023-10-23T09:02:32Z",
+			"updated_at": "2023-12-09T18:55:16Z",
 			"svn_url": "https://github.com/gen2brain/raylib-go",
-			"stargazers_count": 1091,
-			"watchers_count": 1091,
-			"forks_count": 122,
-			"open_issues_count": 6
+			"stargazers_count": 1142,
+			"watchers_count": 1142,
+			"forks_count": 123,
+			"open_issues_count": 2
 		},
 		{
 			"id": 52764959,
@@ -192,11 +192,11 @@
 			"html_url": "https://github.com/azul3d/engine",
 			"homepage": "https://azul3d.org",
 			"created_at": "2016-02-29T04:54:44Z",
-			"updated_at": "2023-10-23T11:13:20Z",
+			"updated_at": "2023-12-06T03:51:57Z",
 			"svn_url": "https://github.com/azul3d/engine",
-			"stargazers_count": 594,
-			"watchers_count": 594,
-			"forks_count": 56,
+			"stargazers_count": 592,
+			"watchers_count": 592,
+			"forks_count": 57,
 			"open_issues_count": 82
 		},
 		{
@@ -206,7 +206,7 @@
 			"html_url": "https://github.com/beefsack/go-astar",
 			"homepage": "https://discord.gg/NfaeVr8zDg",
 			"created_at": "2014-05-28T02:00:03Z",
-			"updated_at": "2023-10-19T07:25:08Z",
+			"updated_at": "2023-11-27T07:14:46Z",
 			"svn_url": "https://github.com/beefsack/go-astar",
 			"stargazers_count": 566,
 			"watchers_count": 566,
@@ -220,11 +220,11 @@
 			"html_url": "https://github.com/ungerik/go3d",
 			"homepage": "",
 			"created_at": "2011-06-27T13:02:26Z",
-			"updated_at": "2023-10-16T08:51:17Z",
+			"updated_at": "2023-11-23T08:20:18Z",
 			"svn_url": "https://github.com/ungerik/go3d",
-			"stargazers_count": 283,
-			"watchers_count": 283,
-			"forks_count": 47,
+			"stargazers_count": 285,
+			"watchers_count": 285,
+			"forks_count": 48,
 			"open_issues_count": 2
 		},
 		{
@@ -234,11 +234,11 @@
 			"html_url": "https://github.com/kelindar/tile",
 			"homepage": "",
 			"created_at": "2020-08-19T13:23:18Z",
-			"updated_at": "2023-10-20T06:04:54Z",
+			"updated_at": "2023-11-28T00:17:52Z",
 			"svn_url": "https://github.com/kelindar/tile",
-			"stargazers_count": 124,
-			"watchers_count": 124,
-			"forks_count": 14,
+			"stargazers_count": 130,
+			"watchers_count": 130,
+			"forks_count": 15,
 			"open_issues_count": 2
 		},
 		{
@@ -246,9 +246,9 @@
 			"name": "prototype",
 			"description": "Simple 2D game prototyping framework.",
 			"html_url": "https://github.com/gonutz/prototype",
-			"homepage": "",
+			"homepage": "https://pkg.go.dev/github.com/gonutz/prototype/draw",
 			"created_at": "2015-03-04T09:24:39Z",
-			"updated_at": "2023-10-16T08:51:12Z",
+			"updated_at": "2023-11-20T13:01:18Z",
 			"svn_url": "https://github.com/gonutz/prototype",
 			"stargazers_count": 83,
 			"watchers_count": 83,
