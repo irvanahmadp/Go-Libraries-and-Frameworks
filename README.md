@@ -664,24 +664,24 @@ libraries for building and using SQL
 ### Database Drivers - Relational Databases
 
 
-<sup>*Last Update: 2023-10-25 09:11:32*</sup>
+<sup>*Last Update: 2023-12-11 19:37:10*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [mysql](https://pkg.go.dev/github.com/go-sql-driver/mysql) | 13,752 | 2,360 | 71 | Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package | 2012-12-09 20:33:55 | 2023-10-24 22:15:20 |
-| [pq](https://pkg.go.dev/github.com/lib/pq) | 8,374 | 942 | 302 | Pure Go Postgres driver for database/sql | 2012-03-12 18:50:22 | 2023-10-24 20:16:07 |
-| [pgx](https://github.com/jackc/pgx) | 8,362 | 772 | 128 | PostgreSQL driver and toolkit for Go | 2013-03-30 19:06:26 | 2023-10-25 01:28:18 |
-| [go-sqlite3](http://mattn.github.io/go-sqlite3) | 6,963 | 1,094 | 138 | sqlite3 driver for go using database/sql | 2011-11-11 12:36:50 | 2023-10-24 14:02:56 |
-| [go-mssqldb](https://github.com/denisenkom/go-mssqldb) | 1,765 | 493 | 166 | Microsoft SQL server driver written in go language | 2013-12-16 00:10:47 | 2023-10-23 09:24:42 |
-| [go-oci8](https://mattn.kaoriya.net/) | 612 | 215 | 19 | Oracle driver for Go using database/sql | 2012-02-29 12:19:16 | 2023-10-23 03:50:35 |
-| [godror](https://github.com/godror/godror) | 466 | 97 | 5 | GO DRiver for ORacle DB | 2019-11-21 21:23:17 | 2023-10-20 07:55:43 |
-| [sqinn-go](https://github.com/cvilsmeier/sqinn-go) | 331 | 14 | 0 | Golang SQLite without cgo | 2020-06-06 20:37:12 | 2023-10-24 11:44:49 |
-| [firebirdsql](https://github.com/nakagami/firebirdsql) | 204 | 56 | 12 | Firebird RDBMS sql driver for Go (golang) | 2013-08-27 13:09:14 | 2023-10-03 19:26:03 |
-| [go-adodb](http://mattn.kaoriya.net/) | 133 | 36 | 19 | Microsoft ActiveX Object DataBase driver for go that using exp/sql | 2011-11-14 04:32:50 | 2023-07-17 08:49:24 |
+| [mysql](https://pkg.go.dev/github.com/go-sql-driver/mysql) | 13,886 | 2,380 | 73 | Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package | 2012-12-09 20:33:55 | 2023-12-11 10:01:49 |
+| [pgx](https://github.com/jackc/pgx) | 8,647 | 784 | 142 | PostgreSQL driver and toolkit for Go | 2013-03-30 19:06:26 | 2023-12-11 10:52:48 |
+| [pq](https://pkg.go.dev/github.com/lib/pq) | 8,468 | 954 | 307 | Pure Go Postgres driver for database/sql | 2012-03-12 18:50:22 | 2023-12-11 09:22:22 |
+| [go-sqlite3](http://mattn.github.io/go-sqlite3) | 7,056 | 1,107 | 137 | sqlite3 driver for go using database/sql | 2011-11-11 12:36:50 | 2023-12-11 08:24:32 |
+| [go-mssqldb](https://github.com/denisenkom/go-mssqldb) | 1,775 | 502 | 166 | Microsoft SQL server driver written in go language | 2013-12-16 00:10:47 | 2023-12-11 06:17:39 |
+| [go-oci8](https://mattn.kaoriya.net/) | 618 | 216 | 20 | Oracle driver for Go using database/sql | 2012-02-29 12:19:16 | 2023-11-27 08:32:17 |
+| [godror](https://github.com/godror/godror) | 471 | 96 | 5 | GO DRiver for ORacle DB | 2019-11-21 21:23:17 | 2023-12-07 16:34:21 |
+| [sqinn-go](https://github.com/cvilsmeier/sqinn-go) | 348 | 15 | 0 | Golang SQLite without cgo | 2020-06-06 20:37:12 | 2023-12-08 05:44:58 |
+| [firebirdsql](https://github.com/nakagami/firebirdsql) | 209 | 57 | 12 | Firebird RDBMS sql driver for Go (golang) | 2013-08-27 13:09:14 | 2023-12-02 08:52:49 |
+| [go-adodb](http://mattn.kaoriya.net/) | 132 | 36 | 19 | Microsoft ActiveX Object DataBase driver for go that using exp/sql | 2011-11-14 04:32:50 | 2023-11-17 15:16:34 |
+| [calcite-avatica-go](https://github.com/apache/calcite-avatica-go) | 110 | 37 | 0 | Mirror of Apache Calcite - Avatica Go SQL Driver | 2017-08-08 07:00:08 | 2023-12-06 10:38:25 |
 | [gofreetds](https://github.com/minus5/gofreetds) | 109 | 48 | 18 | Go Sql Server database driver. | 2012-12-06 17:29:26 | 2023-05-24 11:51:09 |
-| [calcite-avatica-go](https://github.com/apache/calcite-avatica-go) | 109 | 34 | 0 | Mirror of Apache Calcite - Avatica Go SQL Driver | 2017-08-08 07:00:08 | 2023-07-25 14:10:44 |
 | [bgc](https://github.com/viant/bgc) | 20 | 8 | 0 | Datastore Connectivity for BigQuery in go | 2016-06-13 20:24:26 | 2023-04-23 05:10:45 |
 | [pig](https://github.com/alexeyco/pig) | 15 | 3 | 0 | Simple pgx wrapper to execute and scan query results | 2021-04-15 15:33:23 | 2023-10-12 23:00:33 |
 </details>
@@ -708,31 +708,31 @@ libraries for building and using SQL
 ### Date and Time
 Libraries for working with dates and times.
 
-<sup>*Last Update: 2023-10-24 21:37:35*</sup>
+<sup>*Last Update: 2023-12-11 19:37:02*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [now](https://github.com/jinzhu/now) | 4,261 | 233 | 13 | Now is a time toolkit for golang | 2013-11-18 10:55:30 | 2023-10-23 11:05:48 |
-| [dateparse](https://github.com/araddon/dateparse) | 1,919 | 154 | 59 | GoLang Parse many date strings without knowing format in advance. | 2014-04-21 02:55:48 | 2023-10-23 11:06:42 |
-| [carbon](https://github.com/uniplaces/carbon) | 766 | 55 | 2 | Carbon for Golang, an extension for Time | 2016-08-03 10:55:52 | 2023-08-30 09:59:00 |
-| [durafmt](https://github.com/hako/durafmt) | 469 | 51 | 10 | :clock8:  Better time duration formatting in Go!  | 2016-05-20 21:49:33 | 2023-09-24 04:58:09 |
+| [now](https://github.com/jinzhu/now) | 4,287 | 235 | 13 | Now is a time toolkit for golang | 2013-11-18 10:55:30 | 2023-12-11 06:17:38 |
+| [dateparse](https://github.com/araddon/dateparse) | 1,939 | 156 | 59 | GoLang Parse many date strings without knowing format in advance. | 2014-04-21 02:55:48 | 2023-12-11 10:21:16 |
+| [carbon](https://github.com/uniplaces/carbon) | 768 | 55 | 2 | Carbon for Golang, an extension for Time | 2016-08-03 10:55:52 | 2023-12-02 19:03:43 |
+| [durafmt](https://github.com/hako/durafmt) | 475 | 51 | 10 | :clock8:  Better time duration formatting in Go!  | 2016-05-20 21:49:33 | 2023-12-06 18:08:27 |
 | [timeutil](https://github.com/leekchan/timeutil) | 194 | 15 | 2 | timeutil - useful extensions (Timedelta, Strftime, ...) to the golang's time package | 2015-08-02 01:32:06 | 2023-08-22 11:02:40 |
-| [gostradamus](https://github.com/bykof/gostradamus) | 191 | 6 | 3 | Gostradamus: Better DateTimes for Go 🕰️ | 2020-04-07 12:29:21 | 2023-10-17 23:17:39 |
-| [go-persian-calendar](https://pkg.go.dev/github.com/yaa110/go-persian-calendar) | 172 | 22 | 5 | The implementation of Persian (Solar Hijri) Calendar in Go | 2016-01-31 18:40:23 | 2023-10-16 20:59:46 |
+| [gostradamus](https://github.com/bykof/gostradamus) | 192 | 6 | 3 | Gostradamus: Better DateTimes for Go 🕰️ | 2020-04-07 12:29:21 | 2023-11-12 14:53:58 |
+| [go-persian-calendar](https://pkg.go.dev/github.com/yaa110/go-persian-calendar) | 175 | 22 | 5 | The implementation of Persian (Solar Hijri) Calendar in Go | 2016-01-31 18:40:23 | 2023-12-10 11:10:21 |
 | [iso8601](https://github.com/relvacode/iso8601) | 132 | 15 | 2 | A fast ISO8601 date parser for Go | 2017-04-25 15:54:18 | 2023-10-06 09:59:45 |
-| [date](https://godoc.org/github.com/rickb777/date) | 116 | 22 | 4 | A Go package for working with dates | 2015-11-23 22:58:07 | 2023-10-02 14:58:33 |
+| [date](https://godoc.org/github.com/rickb777/date) | 117 | 22 | 0 | A Go package for working with dates | 2015-11-23 22:58:07 | 2023-11-02 05:48:18 |
+| [go-str2duration](https://pkg.go.dev/github.com/yaa110/go-persian-calendar) | 85 | 6 | 1 | Convert string to duration in golang | 2020-02-02 06:04:07 | 2023-12-07 09:52:24 |
 | [timespan](https://github.com/SaidinWoT/timespan) | 82 | 12 | 3 | Golang package to manipulate time intervals. | 2014-10-07 03:57:02 | 2022-09-26 09:53:23 |
-| [go-str2duration](https://pkg.go.dev/github.com/yaa110/go-persian-calendar) | 82 | 7 | 1 | Convert string to duration in golang | 2020-02-02 06:04:07 | 2023-10-12 08:43:43 |
-| [go-sunrise](https://pkg.go.dev/github.com/yaa110/go-persian-calendar) | 77 | 13 | 1 | Go package for calculating the sunrise and sunset times for a given location | 2017-06-15 20:49:41 | 2023-09-26 00:19:37 |
-| [feiertage](https://github.com/wlbr/feiertage) | 44 | 8 | 1 | Gesetzliche Feiertage und mehr in Deutschland und Österreich (Bank holidays/public holidays in Austria and Germany) | 2015-11-04 14:19:27 | 2023-09-26 19:47:15 |
+| [go-sunrise](https://pkg.go.dev/github.com/yaa110/go-persian-calendar) | 79 | 13 | 1 | Go package for calculating the sunrise and sunset times for a given location | 2017-06-15 20:49:41 | 2023-11-14 15:25:10 |
+| [feiertage](https://github.com/wlbr/feiertage) | 45 | 8 | 1 | Gesetzliche Feiertage und mehr in Deutschland und Österreich (Bank holidays/public holidays in Austria and Germany) | 2015-11-04 14:19:27 | 2023-11-06 10:05:26 |
 | [kair](https://github.com/GuilhermeCaruso/kair) | 25 | 6 | 0 | :clock1: Date and Time - Golang Formatting Library | 2018-10-03 15:44:07 | 2023-02-03 00:57:40 |
 | [cronrange](https://github.com/1set/cronrange) | 18 | 7 | 2 | time range expression in cron style | 2019-11-10 01:30:45 | 2022-09-26 09:52:51 |
 | [nulltime](https://github.com/kirillDanshin/nulltime) | 14 | 4 | 0 | Now is a time toolkit for golang | 2016-03-06 01:44:58 | 2023-04-02 02:05:30 |
 | [tuesday](https://godoc.org/github.com/osteele/tuesday) | 12 | 3 | 1 | Ruby-compatible strftime for golang | 2017-08-10 20:46:26 | 2022-09-26 09:53:28 |
 | [strftime](https://github.com/awoodbeck/strftime) | 12 | 5 | 0 | C99-compatible strftime formatter for use with Go time.Time instances. | 2018-02-10 00:35:46 | 2023-02-10 14:32:27 |
-| [go-week](https://github.com/stoewer/go-week) | 8 | 8 | 2 | A Go package to work with ISO 8601 week dates | 2018-02-23 07:02:37 | 2022-09-26 09:53:08 |
+| [go-week](https://github.com/stoewer/go-week) | 9 | 8 | 2 | A Go package to work with ISO 8601 week dates | 2018-02-23 07:02:37 | 2023-11-10 03:06:21 |
 </details>
 
 ### Distributed Systems
