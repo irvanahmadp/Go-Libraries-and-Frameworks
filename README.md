@@ -581,32 +581,32 @@ Generic datastructures and algorithms in Go.
 ### Database - SQL query builder
 libraries for building and using SQL
 
-<sup>*Last Update: 2023-10-28 18:30:04*</sup>
+<sup>*Last Update: 2023-12-13 19:34:12*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [squirrel](https://github.com/Masterminds/squirrel) | 6,136 | 442 | 79 | Fluent SQL generation for golang | 2014-01-18 05:29:58 | 2023-10-28 05:21:37 |
+| [squirrel](https://github.com/Masterminds/squirrel) | 6,242 | 442 | 80 | Fluent SQL generation for golang | 2014-01-18 05:29:58 | 2023-12-13 05:41:20 |
 | [xo](https://github.com/xo/xo) | 3,466 | 309 | 43 | Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server | 2016-02-05 10:22:20 | 2023-10-27 21:56:23 |
-| [goqu](http://doug-martin.github.io/goqu/) | 2,028 | 208 | 111 | SQL builder and query library for golang | 2015-02-21 01:06:00 | 2023-10-27 14:46:34 |
-| [jet](https://github.com/go-jet/jet) | 1,625 | 93 | 31 | Type safe SQL builder with code generation and automatic query result data mapping | 2019-03-02 11:06:23 | 2023-10-27 17:07:09 |
-| [gendry](https://github.com/didi/gendry) | 1,535 | 189 | 16 | a golang library for sql builder | 2017-12-01 08:15:43 | 2023-10-27 06:40:56 |
-| [dotsql](https://github.com/qustavo/dotsql) | 684 | 52 | 9 | A Golang library for using SQL. | 2014-11-20 12:14:39 | 2023-10-21 03:21:24 |
-| [ozzo-dbx](https://github.com/go-ozzo/ozzo-dbx) | 613 | 77 | 41 | A Go (golang) package that enhances the standard database/sql package by providing powerful data retrieval methods as well as DB-agnostic query building capabilities. | 2015-12-10 22:39:26 | 2023-10-27 19:44:28 |
-| [dbq](https://github.com/rocketlaunchr/dbq) | 386 | 23 | 1 | Zero boilerplate database operations for Go | 2019-07-11 02:17:33 | 2023-09-21 17:26:13 |
-| [sqlingo](https://github.com/lqs/sqlingo) | 345 | 29 | 3 | 💥 A lightweight DSL & ORM which helps you to write SQL in Go. | 2018-11-18 14:11:03 | 2023-10-25 13:38:43 |
-| [sqrl](https://github.com/elgris/sqrl) | 263 | 37 | 7 | Fluent SQL generation for golang | 2014-06-25 10:03:06 | 2023-10-25 13:05:11 |
-| [go-structured-query](https://bokwoon95.github.io/sq/) | 193 | 11 | 2 | Type safe SQL query builder and struct mapper for Go | 2020-05-30 14:07:30 | 2023-10-03 10:10:16 |
-| [sqlf](https://github.com/leporo/sqlf) | 132 | 12 | 3 | Fast SQL query builder for Go | 2019-07-20 07:03:27 | 2023-10-03 19:13:49 |
-| [buildsqlx](https://github.com/arthurkushman/buildsqlx) | 128 | 14 | 9 | Go database query builder library for PostgreSQL | 2019-08-18 08:18:21 | 2023-10-17 16:09:20 |
-| [go-hasql](https://golang.yandex) | 114 | 13 | 5 | Go library for accessing multi-host SQL database installations | 2020-08-19 09:56:00 | 2023-10-18 21:23:02 |
-| [igor](https://github.com/galeone/igor) | 113 | 5 | 0 | igor is an abstraction layer for PostgreSQL with a gorm like syntax. | 2016-03-10 14:45:08 | 2023-09-20 21:07:08 |
-| [godbal](https://github.com/xujiajun/godbal) | 58 | 29 | 0 | Database Abstraction Layer (dbal) for Go. Support SQL builder and get result easily  (now only support mysql) | 2018-02-28 05:47:42 | 2023-04-20 07:44:51 |
-| [gosql](https://twharmon.gitbook.io/gosql/) | 30 | 2 | 0 | SQL query builder for Go | 2020-01-08 17:13:09 | 2023-10-03 22:53:09 |
-| [qry](https://github.com/HnH/qry) | 29 | 4 | 1 | Write your SQL queries in raw files with all benefits of modern IDEs, use them in an easy way inside your application with all the profit of compile time constants | 2019-08-20 09:01:00 | 2023-05-01 07:58:57 |
+| [goqu](http://doug-martin.github.io/goqu/) | 2,081 | 220 | 114 | SQL builder and query library for golang | 2015-02-21 01:06:00 | 2023-12-12 16:13:31 |
+| [jet](https://github.com/go-jet/jet) | 1,723 | 100 | 36 | Type safe SQL builder with code generation and automatic query result data mapping | 2019-03-02 11:06:23 | 2023-12-13 01:36:11 |
+| [gendry](https://github.com/didi/gendry) | 1,549 | 189 | 16 | a golang library for sql builder | 2017-12-01 08:15:43 | 2023-12-13 08:44:00 |
+| [dotsql](https://github.com/qustavo/dotsql) | 692 | 52 | 8 | A Golang library for using SQL. | 2014-11-20 12:14:39 | 2023-12-12 15:38:51 |
+| [ozzo-dbx](https://github.com/go-ozzo/ozzo-dbx) | 614 | 76 | 41 | A Go (golang) package that enhances the standard database/sql package by providing powerful data retrieval methods as well as DB-agnostic query building capabilities. | 2015-12-10 22:39:26 | 2023-11-30 07:01:18 |
+| [dbq](https://github.com/rocketlaunchr/dbq) | 387 | 22 | 1 | Zero boilerplate database operations for Go | 2019-07-11 02:17:33 | 2023-11-29 14:27:31 |
+| [sqlingo](https://github.com/lqs/sqlingo) | 352 | 29 | 3 | 💥 A lightweight DSL & ORM which helps you to write SQL in Go. | 2018-11-18 14:11:03 | 2023-11-23 12:04:20 |
+| [sqrl](https://github.com/elgris/sqrl) | 267 | 37 | 7 | Fluent SQL generation for golang | 2014-06-25 10:03:06 | 2023-12-08 07:49:47 |
+| [go-structured-query](https://bokwoon95.github.io/sq/) | 195 | 11 | 2 | Type safe SQL query builder and struct mapper for Go | 2020-05-30 14:07:30 | 2023-12-04 23:16:41 |
+| [sqlf](https://github.com/leporo/sqlf) | 134 | 12 | 3 | Fast SQL query builder for Go | 2019-07-20 07:03:27 | 2023-11-04 20:59:03 |
+| [buildsqlx](https://github.com/arthurkushman/buildsqlx) | 132 | 15 | 8 | Go database query builder library for PostgreSQL | 2019-08-18 08:18:21 | 2023-11-29 10:06:31 |
+| [go-hasql](https://golang.yandex) | 118 | 14 | 5 | Go library for accessing multi-host SQL database installations | 2020-08-19 09:56:00 | 2023-12-07 13:01:08 |
+| [igor](https://github.com/galeone/igor) | 115 | 4 | 0 | igor is an abstraction layer for PostgreSQL with a gorm like syntax. | 2016-03-10 14:45:08 | 2023-12-05 22:22:35 |
+| [godbal](https://github.com/xujiajun/godbal) | 59 | 29 | 0 | Database Abstraction Layer (dbal) for Go. Support SQL builder and get result easily  (now only support mysql) | 2018-02-28 05:47:42 | 2023-10-31 11:12:59 |
+| [gosql](https://twharmon.gitbook.io/gosql/) | 29 | 2 | 0 | SQL query builder for Go | 2020-01-08 17:13:09 | 2023-11-10 09:18:48 |
+| [qry](https://github.com/HnH/qry) | 29 | 5 | 1 | Write your SQL queries in raw files with all benefits of modern IDEs, use them in an easy way inside your application with all the profit of compile time constants | 2019-08-20 09:01:00 | 2023-05-01 07:58:57 |
 | [mpath-go](https://github.com/spacetab-io/mpath-go) | 13 | 2 | 0 | Golang package for MPTT (Modified Preorder Tree Traversal) - materialized path realisation. | 2020-01-09 15:04:45 | 2023-09-28 07:48:10 |
-| [ormlite](https://github.com/pupizoid/ormlite) | 12 | 4 | 0 | Lightweight package containing some ORM-like features and helpers for sqlite databases. | 2018-06-28 13:42:09 | 2023-10-18 14:14:54 |
+| [ormlite](https://github.com/pupizoid/ormlite) | 12 | 3 | 0 | Lightweight package containing some ORM-like features and helpers for sqlite databases. | 2018-06-28 13:42:09 | 2023-10-18 14:14:54 |
 </details>
 
 ### Database Drivers - Multiple Backends.
@@ -627,26 +627,26 @@ libraries for building and using SQL
 ### Database Drivers - NoSQL Databases
 
 
-<sup>*Last Update: 2023-10-25 09:11:51*</sup>
+<sup>*Last Update: 2023-12-13 19:33:49*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [go-redis](https://redis.uptrace.dev) | 18,173 | 2,190 | 258 | Redis Go client | 2012-07-25 13:01:39 | 2023-10-25 01:46:30 |
-| [redigo](https://github.com/gomodule/redigo) | 9,623 | 1,309 | 17 | Go client for Redis | 2012-04-14 04:31:58 | 2023-10-24 08:01:09 |
-| [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) | 7,680 | 920 | 15 | The Official Golang driver for MongoDB | 2017-02-08 17:18:02 | 2023-10-24 07:36:59 |
-| [gocql](http://gocql.github.io/) | 2,465 | 628 | 174 | Package gocql implements a fast and robust Cassandra client for the Go programming language. | 2012-08-26 15:42:42 | 2023-10-24 14:50:05 |
-| [mgo](https://github.com/globalsign/mgo) | 1,960 | 239 | 68 | The MongoDB driver for Go | 2017-04-13 11:14:04 | 2023-09-30 19:22:35 |
-| [gomemcache](https://github.com/bradfitz/gomemcache) | 1,645 | 475 | 45 | Go Memcached client library #golang | 2011-06-28 19:29:12 | 2023-10-17 04:32:27 |
-| [rethinkdb-go](https://github.com/rethinkdb/rethinkdb-go) | 1,639 | 220 | 20 | Go language driver for RethinkDB | 2013-09-12 13:56:27 | 2023-10-14 12:00:34 |
-| [qmgo](https://github.com/qiniu/qmgo) | 1,197 | 143 | 38 | Qmgo - The Go driver for MongoDB. It‘s based on official mongo-go-driver but easier to use like Mgo. | 2020-08-04 09:06:00 | 2023-10-20 09:02:28 |
-| [mgm](https://github.com/Kamva/mgm) | 688 | 64 | 10 | Mongo Go Models (mgm) is a fast and simple MongoDB ODM for Go (based on official Mongo Go Driver) | 2019-12-27 14:40:51 | 2023-10-24 22:48:42 |
-| [redeo](https://github.com/bsm/redeo) | 431 | 38 | 2 | High-performance framework for building redis-protocol compatible TCP servers/services | 2014-03-06 08:46:18 | 2023-10-23 11:06:24 |
-| [aerospike-client-go](https://github.com/aerospike/aerospike-client-go) | 414 | 224 | 33 | Aerospike Client Go  | 2014-07-26 02:56:21 | 2023-10-18 21:47:12 |
+| [go-redis](https://redis.uptrace.dev) | 18,459 | 2,222 | 237 | Redis Go client | 2012-07-25 13:01:39 | 2023-12-13 10:05:08 |
+| [redigo](https://github.com/gomodule/redigo) | 9,656 | 1,318 | 17 | Go client for Redis | 2012-04-14 04:31:58 | 2023-12-13 08:59:33 |
+| [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) | 7,735 | 936 | 9 | The Official Golang driver for MongoDB | 2017-02-08 17:18:02 | 2023-12-13 10:01:30 |
+| [gocql](http://gocql.github.io/) | 2,477 | 630 | 176 | Package gocql implements a fast and robust Cassandra client for the Go programming language. | 2012-08-26 15:42:42 | 2023-12-11 06:41:03 |
+| [mgo](https://github.com/globalsign/mgo) | 1,959 | 240 | 67 | The MongoDB driver for Go | 2017-04-13 11:14:04 | 2023-12-09 13:56:33 |
+| [gomemcache](https://github.com/bradfitz/gomemcache) | 1,652 | 489 | 45 | Go Memcached client library #golang | 2011-06-28 19:29:12 | 2023-12-11 06:17:16 |
+| [rethinkdb-go](https://github.com/rethinkdb/rethinkdb-go) | 1,643 | 228 | 20 | Go language driver for RethinkDB | 2013-09-12 13:56:27 | 2023-11-26 09:51:09 |
+| [qmgo](https://github.com/qiniu/qmgo) | 1,222 | 146 | 41 | Qmgo - The Go driver for MongoDB. It‘s based on official mongo-go-driver but easier to use like Mgo. | 2020-08-04 09:06:00 | 2023-12-12 06:58:12 |
+| [mgm](https://github.com/Kamva/mgm) | 704 | 64 | 13 | Mongo Go Models (mgm) is a fast and simple MongoDB ODM for Go (based on official Mongo Go Driver) | 2019-12-27 14:40:51 | 2023-12-13 06:21:30 |
+| [redeo](https://github.com/bsm/redeo) | 429 | 39 | 2 | High-performance framework for building redis-protocol compatible TCP servers/services | 2014-03-06 08:46:18 | 2023-11-24 19:13:55 |
+| [aerospike-client-go](https://github.com/aerospike/aerospike-client-go) | 416 | 226 | 38 | Aerospike Client Go  | 2014-07-26 02:56:21 | 2023-12-12 17:29:50 |
 | [neoism](https://github.com/jmcvetta/neoism) | 389 | 57 | 14 | Neo4j client for Golang | 2012-07-12 07:42:33 | 2023-06-24 09:03:09 |
-| [gocb](http://blog.couchbase.com/2015/september/go-sdk-1.0-ga) | 350 | 103 | 1 | The Couchbase Go SDK | 2015-01-15 20:01:32 | 2023-10-10 20:06:40 |
-| [go-rejson](https://github.com/nitishm/go-rejson) | 332 | 49 | 15 | Golang client for redislabs' ReJSON module with support for multilple redis clients (redigo, go-redis) | 2018-04-23 00:51:05 | 2023-10-19 17:06:38 |
+| [gocb](http://blog.couchbase.com/2015/september/go-sdk-1.0-ga) | 352 | 104 | 0 | The Couchbase Go SDK | 2015-01-15 20:01:32 | 2023-12-09 20:43:23 |
+| [go-rejson](https://github.com/nitishm/go-rejson) | 331 | 50 | 15 | Golang client for redislabs' ReJSON module with support for multilple redis clients (redigo, go-redis) | 2018-04-23 00:51:05 | 2023-10-29 12:00:02 |
 | [go-couchbase](https://godoc.org/github.com/couchbase/go-couchbase) | 319 | 92 | 41 | Couchbase client in Go | 2012-01-19 22:52:08 | 2023-09-22 10:35:34 |
 | [godis](https://github.com/piaohao/godis) | 109 | 17 | 0 | redis client implement by golang, inspired by jedis. | 2019-06-14 03:14:22 | 2023-08-28 08:58:28 |
 | [Neo4j-GO](https://github.com/davemeehan/Neo4j-GO) | 76 | 19 | 0 | Neo4j REST Client in golang | 2011-06-04 16:08:35 | 2023-07-27 20:01:33 |
@@ -656,7 +656,7 @@ libraries for building and using SQL
 | [goriak](https://godoc.org/gopkg.in/zegl/goriak.v3) | 30 | 6 | 5 | goriak - Go language driver for Riak KV | 2016-10-05 16:48:17 | 2023-04-04 10:04:44 |
 | [neo4j](https://github.com/cihangir/neo4j) | 27 | 9 | 8 | Neo4j Rest API Client for Go lang | 2013-05-18 08:54:01 | 2022-11-09 17:49:55 |
 | [xredis](https://github.com/shomali11/xredis) | 19 | 6 | 0 | Go Redis Client | 2017-06-14 00:19:26 | 2022-09-26 09:47:39 |
-| [gocosmos](https://github.com/btnguyen2k/gocosmos) | 18 | 7 | 1 | Go database/sql driver for Azure Cosmos DB SQL API | 2020-12-06 07:03:43 | 2023-08-11 06:38:44 |
+| [gocosmos](https://github.com/btnguyen2k/gocosmos) | 19 | 7 | 1 | Go database/sql driver for Azure Cosmos DB SQL API | 2020-12-06 07:03:43 | 2023-12-05 12:52:21 |
 | [godscache](https://github.com/defcronyke/godscache) | 11 | 2 | 0 | An unofficial Google Cloud Platform Go Datastore wrapper that adds caching using memcached. For App Engine Flexible, Compute Engine, Kubernetes Engine, and more. | 2018-05-08 20:19:39 | 2022-09-26 09:47:05 |
 | [asc](https://github.com/viant/asc) | 9 | 3 | 0 | Datastore Connectivity for Aerospike for go | 2016-06-13 20:22:31 | 2022-09-26 09:46:41 |
 </details>
@@ -796,14 +796,14 @@ Packages that help with building Distributed Systems.
 ### Dynamic DNS
 Tools for updating dynamic DNS records.
 
-<sup>*Last Update: 2023-12-10 21:13:08*</sup>
+<sup>*Last Update: 2023-12-13 19:34:11*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [godns](https://xiaozhou.net/godns-project-2014-05-18.html) | 1,377 | 255 | 15 | A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go. | 2014-05-11 11:49:17 | 2023-12-08 16:33:31 |
-| [ddns](https://github.com/skibish/ddns) | 238 | 22 | 1 | Personal DDNS client with Digital Ocean Networking DNS as backend. | 2017-03-13 21:02:27 | 2023-11-18 20:18:38 |
+| [godns](https://xiaozhou.net/godns-project-2014-05-18.html) | 1,380 | 255 | 15 | A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go. | 2014-05-11 11:49:17 | 2023-12-13 10:23:20 |
+| [ddns](https://github.com/skibish/ddns) | 239 | 22 | 1 | Personal DDNS client with Digital Ocean Networking DNS as backend. | 2017-03-13 21:02:27 | 2023-12-12 03:19:03 |
 </details>
 
 ### Email
@@ -1078,21 +1078,21 @@ Tools to enhance the language with features like generics via code generation.
 ### Geographic
 Geographic tools and servers
 
-<sup>*Last Update: 2023-10-25 09:12:10*</sup>
+<sup>*Last Update: 2023-12-13 19:34:07*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [tile38](https://tile38.com) | 8,733 | 545 | 137 | Real-time Geospatial and Geofencing | 2016-03-04 23:07:44 | 2023-10-24 15:21:25 |
-| [geo](https://github.com/golang/geo) | 1,577 | 225 | 22 | S2 geometry library in Go | 2014-12-03 23:02:15 | 2023-10-24 17:43:23 |
-| [mbtileserver](https://github.com/consbio/mbtileserver) | 547 | 89 | 14 | Basic Go server for mbtiles | 2014-11-01 04:12:14 | 2023-10-24 13:31:31 |
-| [osm](https://github.com/paulmach/osm) | 306 | 42 | 3 | General purpose library for reading, writing and working with OpenStreetMap data | 2016-02-02 00:59:03 | 2023-10-23 11:12:55 |
-| [wgs84](https://github.com/wroge/wgs84) | 102 | 11 | 3 | A zero-dependency Go package for coordinate transformations. | 2019-06-08 17:17:59 | 2023-10-19 16:43:41 |
-| [geoserver](https://github.com/hishamkaram/geoserver) | 84 | 22 | 4 | geoserver is a Go library for manipulating a GeoServer instance via the GeoServer REST API. | 2018-03-26 21:36:49 | 2023-08-15 19:42:24 |
+| [tile38](https://tile38.com) | 8,773 | 551 | 133 | Real-time Geospatial and Geofencing | 2016-03-04 23:07:44 | 2023-12-12 22:39:16 |
+| [geo](https://github.com/golang/geo) | 1,598 | 231 | 22 | S2 geometry library in Go | 2014-12-03 23:02:15 | 2023-12-09 19:51:34 |
+| [mbtileserver](https://github.com/consbio/mbtileserver) | 563 | 90 | 14 | Basic Go server for mbtiles | 2014-11-01 04:12:14 | 2023-12-13 09:13:28 |
+| [osm](https://github.com/paulmach/osm) | 310 | 43 | 4 | General purpose library for reading, writing and working with OpenStreetMap data | 2016-02-02 00:59:03 | 2023-12-12 18:24:31 |
+| [wgs84](https://github.com/wroge/wgs84) | 107 | 12 | 4 | A zero-dependency Go package for coordinate transformations. | 2019-06-08 17:17:59 | 2023-12-09 19:53:01 |
+| [geoserver](https://github.com/hishamkaram/geoserver) | 85 | 22 | 4 | geoserver is a Go library for manipulating a GeoServer instance via the GeoServer REST API. | 2018-03-26 21:36:49 | 2023-11-02 02:42:49 |
 | [gismanager](https://github.com/hishamkaram/gismanager) | 50 | 10 | 1 | Publish Your GIS Data(Vector Data) to PostGIS and Geoserver | 2018-09-29 12:51:37 | 2023-04-14 15:44:10 |
-| [pbf](https://github.com/maguro/pbf) | 45 | 7 | 3 | OpenStreetMap PBF golang parser | 2017-09-18 23:13:18 | 2023-07-11 01:28:45 |
-| [s2-geojson](https://github.com/pantrif/s2-geojson) | 25 | 9 | 2 | Draw a polygon on the map or paste a geoJSON and explore how the s2.RegionCoverer covers it with S2 cells depending on the min and max levels | 2020-03-27 09:47:32 | 2023-08-01 17:36:42 |
+| [pbf](https://github.com/maguro/pbf) | 46 | 7 | 3 | OpenStreetMap PBF golang parser | 2017-09-18 23:13:18 | 2023-11-24 22:56:40 |
+| [s2-geojson](https://github.com/pantrif/s2-geojson) | 26 | 9 | 2 | Draw a polygon on the map or paste a geoJSON and explore how the s2.RegionCoverer covers it with S2 cells depending on the min and max levels | 2020-03-27 09:47:32 | 2023-12-09 19:51:12 |
 </details>
 
 ### Go Compilers

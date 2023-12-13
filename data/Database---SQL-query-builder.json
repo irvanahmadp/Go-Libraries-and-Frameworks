@@ -1,7 +1,7 @@
 {
 	"name": "Database - SQL query builder",
-	"index_last_check": 0,
-	"last_update": 1698492604,
+	"index_last_check": 18,
+	"last_update": 1702470852,
 	"libraries": [
 		{
 			"id": 16019737,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/Masterminds/squirrel",
 			"homepage": "",
 			"created_at": "2014-01-18T05:29:58Z",
-			"updated_at": "2023-10-28T05:21:37Z",
+			"updated_at": "2023-12-13T05:41:20Z",
 			"svn_url": "https://github.com/Masterminds/squirrel",
-			"stargazers_count": 6136,
-			"watchers_count": 6136,
+			"stargazers_count": 6242,
+			"watchers_count": 6242,
 			"forks_count": 442,
-			"open_issues_count": 79
+			"open_issues_count": 80
 		},
 		{
 			"id": 51139948,
@@ -38,12 +38,12 @@
 			"html_url": "https://github.com/doug-martin/goqu",
 			"homepage": "http://doug-martin.github.io/goqu/",
 			"created_at": "2015-02-21T01:06:00Z",
-			"updated_at": "2023-10-27T14:46:34Z",
+			"updated_at": "2023-12-12T16:13:31Z",
 			"svn_url": "https://github.com/doug-martin/goqu",
-			"stargazers_count": 2028,
-			"watchers_count": 2028,
-			"forks_count": 208,
-			"open_issues_count": 111
+			"stargazers_count": 2081,
+			"watchers_count": 2081,
+			"forks_count": 220,
+			"open_issues_count": 114
 		},
 		{
 			"id": 173437670,
@@ -52,12 +52,12 @@
 			"html_url": "https://github.com/go-jet/jet",
 			"homepage": "",
 			"created_at": "2019-03-02T11:06:23Z",
-			"updated_at": "2023-10-27T17:07:09Z",
+			"updated_at": "2023-12-13T01:36:11Z",
 			"svn_url": "https://github.com/go-jet/jet",
-			"stargazers_count": 1625,
-			"watchers_count": 1625,
-			"forks_count": 93,
-			"open_issues_count": 31
+			"stargazers_count": 1723,
+			"watchers_count": 1723,
+			"forks_count": 100,
+			"open_issues_count": 36
 		},
 		{
 			"id": 112713415,
@@ -66,10 +66,10 @@
 			"html_url": "https://github.com/didi/gendry",
 			"homepage": "",
 			"created_at": "2017-12-01T08:15:43Z",
-			"updated_at": "2023-10-27T06:40:56Z",
+			"updated_at": "2023-12-13T08:44:00Z",
 			"svn_url": "https://github.com/didi/gendry",
-			"stargazers_count": 1535,
-			"watchers_count": 1535,
+			"stargazers_count": 1549,
+			"watchers_count": 1549,
 			"forks_count": 189,
 			"open_issues_count": 16
 		},
@@ -80,12 +80,12 @@
 			"html_url": "https://github.com/qustavo/dotsql",
 			"homepage": "",
 			"created_at": "2014-11-20T12:14:39Z",
-			"updated_at": "2023-10-21T03:21:24Z",
+			"updated_at": "2023-12-12T15:38:51Z",
 			"svn_url": "https://github.com/qustavo/dotsql",
-			"stargazers_count": 684,
-			"watchers_count": 684,
+			"stargazers_count": 692,
+			"watchers_count": 692,
 			"forks_count": 52,
-			"open_issues_count": 9
+			"open_issues_count": 8
 		},
 		{
 			"id": 47791533,
@@ -94,11 +94,11 @@
 			"html_url": "https://github.com/go-ozzo/ozzo-dbx",
 			"homepage": "",
 			"created_at": "2015-12-10T22:39:26Z",
-			"updated_at": "2023-10-27T19:44:28Z",
+			"updated_at": "2023-11-30T07:01:18Z",
 			"svn_url": "https://github.com/go-ozzo/ozzo-dbx",
-			"stargazers_count": 613,
-			"watchers_count": 613,
-			"forks_count": 77,
+			"stargazers_count": 614,
+			"watchers_count": 614,
+			"forks_count": 76,
 			"open_issues_count": 41
 		},
 		{
@@ -108,11 +108,11 @@
 			"html_url": "https://github.com/rocketlaunchr/dbq",
 			"homepage": "",
 			"created_at": "2019-07-11T02:17:33Z",
-			"updated_at": "2023-09-21T17:26:13Z",
+			"updated_at": "2023-11-29T14:27:31Z",
 			"svn_url": "https://github.com/rocketlaunchr/dbq",
-			"stargazers_count": 386,
-			"watchers_count": 386,
-			"forks_count": 23,
+			"stargazers_count": 387,
+			"watchers_count": 387,
+			"forks_count": 22,
 			"open_issues_count": 1
 		},
 		{
@@ -122,10 +122,10 @@
 			"html_url": "https://github.com/lqs/sqlingo",
 			"homepage": "",
 			"created_at": "2018-11-18T14:11:03Z",
-			"updated_at": "2023-10-25T13:38:43Z",
+			"updated_at": "2023-11-23T12:04:20Z",
 			"svn_url": "https://github.com/lqs/sqlingo",
-			"stargazers_count": 345,
-			"watchers_count": 345,
+			"stargazers_count": 352,
+			"watchers_count": 352,
 			"forks_count": 29,
 			"open_issues_count": 3
 		},
@@ -136,10 +136,10 @@
 			"html_url": "https://github.com/elgris/sqrl",
 			"homepage": "",
 			"created_at": "2014-06-25T10:03:06Z",
-			"updated_at": "2023-10-25T13:05:11Z",
+			"updated_at": "2023-12-08T07:49:47Z",
 			"svn_url": "https://github.com/elgris/sqrl",
-			"stargazers_count": 263,
-			"watchers_count": 263,
+			"stargazers_count": 267,
+			"watchers_count": 267,
 			"forks_count": 37,
 			"open_issues_count": 7
 		},
@@ -150,10 +150,10 @@
 			"html_url": "https://github.com/bokwoon95/go-structured-query",
 			"homepage": "https://bokwoon95.github.io/sq/",
 			"created_at": "2020-05-30T14:07:30Z",
-			"updated_at": "2023-10-03T10:10:16Z",
+			"updated_at": "2023-12-04T23:16:41Z",
 			"svn_url": "https://github.com/bokwoon95/go-structured-query",
-			"stargazers_count": 193,
-			"watchers_count": 193,
+			"stargazers_count": 195,
+			"watchers_count": 195,
 			"forks_count": 11,
 			"open_issues_count": 2
 		},
@@ -164,10 +164,10 @@
 			"html_url": "https://github.com/leporo/sqlf",
 			"homepage": "",
 			"created_at": "2019-07-20T07:03:27Z",
-			"updated_at": "2023-10-03T19:13:49Z",
+			"updated_at": "2023-11-04T20:59:03Z",
 			"svn_url": "https://github.com/leporo/sqlf",
-			"stargazers_count": 132,
-			"watchers_count": 132,
+			"stargazers_count": 134,
+			"watchers_count": 134,
 			"forks_count": 12,
 			"open_issues_count": 3
 		},
@@ -178,12 +178,12 @@
 			"html_url": "https://github.com/arthurkushman/buildsqlx",
 			"homepage": "",
 			"created_at": "2019-08-18T08:18:21Z",
-			"updated_at": "2023-10-17T16:09:20Z",
+			"updated_at": "2023-11-29T10:06:31Z",
 			"svn_url": "https://github.com/arthurkushman/buildsqlx",
-			"stargazers_count": 128,
-			"watchers_count": 128,
-			"forks_count": 14,
-			"open_issues_count": 9
+			"stargazers_count": 132,
+			"watchers_count": 132,
+			"forks_count": 15,
+			"open_issues_count": 8
 		},
 		{
 			"id": 288695567,
@@ -192,11 +192,11 @@
 			"html_url": "https://github.com/yandex/go-hasql",
 			"homepage": "https://golang.yandex",
 			"created_at": "2020-08-19T09:56:00Z",
-			"updated_at": "2023-10-18T21:23:02Z",
+			"updated_at": "2023-12-07T13:01:08Z",
 			"svn_url": "https://github.com/yandex/go-hasql",
-			"stargazers_count": 114,
-			"watchers_count": 114,
-			"forks_count": 13,
+			"stargazers_count": 118,
+			"watchers_count": 118,
+			"forks_count": 14,
 			"open_issues_count": 5
 		},
 		{
@@ -206,11 +206,11 @@
 			"html_url": "https://github.com/galeone/igor",
 			"homepage": "",
 			"created_at": "2016-03-10T14:45:08Z",
-			"updated_at": "2023-09-20T21:07:08Z",
+			"updated_at": "2023-12-05T22:22:35Z",
 			"svn_url": "https://github.com/galeone/igor",
-			"stargazers_count": 113,
-			"watchers_count": 113,
-			"forks_count": 5,
+			"stargazers_count": 115,
+			"watchers_count": 115,
+			"forks_count": 4,
 			"open_issues_count": 0
 		},
 		{
@@ -220,10 +220,10 @@
 			"html_url": "https://github.com/xujiajun/godbal",
 			"homepage": "",
 			"created_at": "2018-02-28T05:47:42Z",
-			"updated_at": "2023-04-20T07:44:51Z",
+			"updated_at": "2023-10-31T11:12:59Z",
 			"svn_url": "https://github.com/xujiajun/godbal",
-			"stargazers_count": 58,
-			"watchers_count": 58,
+			"stargazers_count": 59,
+			"watchers_count": 59,
 			"forks_count": 29,
 			"open_issues_count": 0
 		},
@@ -234,10 +234,10 @@
 			"html_url": "https://github.com/twharmon/gosql",
 			"homepage": "https://twharmon.gitbook.io/gosql/",
 			"created_at": "2020-01-08T17:13:09Z",
-			"updated_at": "2023-10-03T22:53:09Z",
+			"updated_at": "2023-11-10T09:18:48Z",
 			"svn_url": "https://github.com/twharmon/gosql",
-			"stargazers_count": 30,
-			"watchers_count": 30,
+			"stargazers_count": 29,
+			"watchers_count": 29,
 			"forks_count": 2,
 			"open_issues_count": 0
 		},
@@ -252,7 +252,7 @@
 			"svn_url": "https://github.com/HnH/qry",
 			"stargazers_count": 29,
 			"watchers_count": 29,
-			"forks_count": 4,
+			"forks_count": 5,
 			"open_issues_count": 1
 		},
 		{
@@ -280,7 +280,7 @@
 			"svn_url": "https://github.com/pupizoid/ormlite",
 			"stargazers_count": 12,
 			"watchers_count": 12,
-			"forks_count": 4,
+			"forks_count": 3,
 			"open_issues_count": 0
 		}
 	]

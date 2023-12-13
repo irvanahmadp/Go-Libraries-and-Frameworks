@@ -1,7 +1,7 @@
 {
 	"name": "Database Drivers - NoSQL Databases",
 	"index_last_check": 0,
-	"last_update": 1698199911,
+	"last_update": 1702470829,
 	"libraries": [
 		{
 			"id": 5179099,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/redis/go-redis",
 			"homepage": "https://redis.uptrace.dev",
 			"created_at": "2012-07-25T13:01:39Z",
-			"updated_at": "2023-10-25T01:46:30Z",
+			"updated_at": "2023-12-13T10:05:08Z",
 			"svn_url": "https://github.com/redis/go-redis",
-			"stargazers_count": 18173,
-			"watchers_count": 18173,
-			"forks_count": 2190,
-			"open_issues_count": 258
+			"stargazers_count": 18459,
+			"watchers_count": 18459,
+			"forks_count": 2222,
+			"open_issues_count": 237
 		},
 		{
 			"id": 4022652,
@@ -24,11 +24,11 @@
 			"html_url": "https://github.com/gomodule/redigo",
 			"homepage": "",
 			"created_at": "2012-04-14T04:31:58Z",
-			"updated_at": "2023-10-24T08:01:09Z",
+			"updated_at": "2023-12-13T08:59:33Z",
 			"svn_url": "https://github.com/gomodule/redigo",
-			"stargazers_count": 9623,
-			"watchers_count": 9623,
-			"forks_count": 1309,
+			"stargazers_count": 9656,
+			"watchers_count": 9656,
+			"forks_count": 1318,
 			"open_issues_count": 17
 		},
 		{
@@ -38,12 +38,12 @@
 			"html_url": "https://github.com/mongodb/mongo-go-driver",
 			"homepage": "",
 			"created_at": "2017-02-08T17:18:02Z",
-			"updated_at": "2023-10-24T07:36:59Z",
+			"updated_at": "2023-12-13T10:01:30Z",
 			"svn_url": "https://github.com/mongodb/mongo-go-driver",
-			"stargazers_count": 7680,
-			"watchers_count": 7680,
-			"forks_count": 920,
-			"open_issues_count": 15
+			"stargazers_count": 7735,
+			"watchers_count": 7735,
+			"forks_count": 936,
+			"open_issues_count": 9
 		},
 		{
 			"id": 5561238,
@@ -52,12 +52,12 @@
 			"html_url": "https://github.com/gocql/gocql",
 			"homepage": "http://gocql.github.io/",
 			"created_at": "2012-08-26T15:42:42Z",
-			"updated_at": "2023-10-24T14:50:05Z",
+			"updated_at": "2023-12-11T06:41:03Z",
 			"svn_url": "https://github.com/gocql/gocql",
-			"stargazers_count": 2465,
-			"watchers_count": 2465,
-			"forks_count": 628,
-			"open_issues_count": 174
+			"stargazers_count": 2477,
+			"watchers_count": 2477,
+			"forks_count": 630,
+			"open_issues_count": 176
 		},
 		{
 			"id": 88156832,
@@ -66,12 +66,12 @@
 			"html_url": "https://github.com/globalsign/mgo",
 			"homepage": "",
 			"created_at": "2017-04-13T11:14:04Z",
-			"updated_at": "2023-09-30T19:22:35Z",
+			"updated_at": "2023-12-09T13:56:33Z",
 			"svn_url": "https://github.com/globalsign/mgo",
-			"stargazers_count": 1960,
-			"watchers_count": 1960,
-			"forks_count": 239,
-			"open_issues_count": 68
+			"stargazers_count": 1959,
+			"watchers_count": 1959,
+			"forks_count": 240,
+			"open_issues_count": 67
 		},
 		{
 			"id": 1968362,
@@ -80,11 +80,11 @@
 			"html_url": "https://github.com/bradfitz/gomemcache",
 			"homepage": "",
 			"created_at": "2011-06-28T19:29:12Z",
-			"updated_at": "2023-10-17T04:32:27Z",
+			"updated_at": "2023-12-11T06:17:16Z",
 			"svn_url": "https://github.com/bradfitz/gomemcache",
-			"stargazers_count": 1645,
-			"watchers_count": 1645,
-			"forks_count": 475,
+			"stargazers_count": 1652,
+			"watchers_count": 1652,
+			"forks_count": 489,
 			"open_issues_count": 45
 		},
 		{
@@ -94,11 +94,11 @@
 			"html_url": "https://github.com/rethinkdb/rethinkdb-go",
 			"homepage": "",
 			"created_at": "2013-09-12T13:56:27Z",
-			"updated_at": "2023-10-14T12:00:34Z",
+			"updated_at": "2023-11-26T09:51:09Z",
 			"svn_url": "https://github.com/rethinkdb/rethinkdb-go",
-			"stargazers_count": 1639,
-			"watchers_count": 1639,
-			"forks_count": 220,
+			"stargazers_count": 1643,
+			"watchers_count": 1643,
+			"forks_count": 228,
 			"open_issues_count": 20
 		},
 		{
@@ -108,12 +108,12 @@
 			"html_url": "https://github.com/qiniu/qmgo",
 			"homepage": "",
 			"created_at": "2020-08-04T09:06:00Z",
-			"updated_at": "2023-10-20T09:02:28Z",
+			"updated_at": "2023-12-12T06:58:12Z",
 			"svn_url": "https://github.com/qiniu/qmgo",
-			"stargazers_count": 1197,
-			"watchers_count": 1197,
-			"forks_count": 143,
-			"open_issues_count": 38
+			"stargazers_count": 1222,
+			"watchers_count": 1222,
+			"forks_count": 146,
+			"open_issues_count": 41
 		},
 		{
 			"id": 230460014,
@@ -122,12 +122,12 @@
 			"html_url": "https://github.com/Kamva/mgm",
 			"homepage": "",
 			"created_at": "2019-12-27T14:40:51Z",
-			"updated_at": "2023-10-24T22:48:42Z",
+			"updated_at": "2023-12-13T06:21:30Z",
 			"svn_url": "https://github.com/Kamva/mgm",
-			"stargazers_count": 688,
-			"watchers_count": 688,
+			"stargazers_count": 704,
+			"watchers_count": 704,
 			"forks_count": 64,
-			"open_issues_count": 10
+			"open_issues_count": 13
 		},
 		{
 			"id": 17471482,
@@ -136,11 +136,11 @@
 			"html_url": "https://github.com/bsm/redeo",
 			"homepage": "",
 			"created_at": "2014-03-06T08:46:18Z",
-			"updated_at": "2023-10-23T11:06:24Z",
+			"updated_at": "2023-11-24T19:13:55Z",
 			"svn_url": "https://github.com/bsm/redeo",
-			"stargazers_count": 431,
-			"watchers_count": 431,
-			"forks_count": 38,
+			"stargazers_count": 429,
+			"watchers_count": 429,
+			"forks_count": 39,
 			"open_issues_count": 2
 		},
 		{
@@ -150,12 +150,12 @@
 			"html_url": "https://github.com/aerospike/aerospike-client-go",
 			"homepage": "",
 			"created_at": "2014-07-26T02:56:21Z",
-			"updated_at": "2023-10-18T21:47:12Z",
+			"updated_at": "2023-12-12T17:29:50Z",
 			"svn_url": "https://github.com/aerospike/aerospike-client-go",
-			"stargazers_count": 414,
-			"watchers_count": 414,
-			"forks_count": 224,
-			"open_issues_count": 33
+			"stargazers_count": 416,
+			"watchers_count": 416,
+			"forks_count": 226,
+			"open_issues_count": 38
 		},
 		{
 			"id": 5000397,
@@ -178,12 +178,12 @@
 			"html_url": "https://github.com/couchbase/gocb",
 			"homepage": "http://blog.couchbase.com/2015/september/go-sdk-1.0-ga",
 			"created_at": "2015-01-15T20:01:32Z",
-			"updated_at": "2023-10-10T20:06:40Z",
+			"updated_at": "2023-12-09T20:43:23Z",
 			"svn_url": "https://github.com/couchbase/gocb",
-			"stargazers_count": 350,
-			"watchers_count": 350,
-			"forks_count": 103,
-			"open_issues_count": 1
+			"stargazers_count": 352,
+			"watchers_count": 352,
+			"forks_count": 104,
+			"open_issues_count": 0
 		},
 		{
 			"id": 130621116,
@@ -192,11 +192,11 @@
 			"html_url": "https://github.com/nitishm/go-rejson",
 			"homepage": "",
 			"created_at": "2018-04-23T00:51:05Z",
-			"updated_at": "2023-10-19T17:06:38Z",
+			"updated_at": "2023-10-29T12:00:02Z",
 			"svn_url": "https://github.com/nitishm/go-rejson",
-			"stargazers_count": 332,
-			"watchers_count": 332,
-			"forks_count": 49,
+			"stargazers_count": 331,
+			"watchers_count": 331,
+			"forks_count": 50,
 			"open_issues_count": 15
 		},
 		{
@@ -332,10 +332,10 @@
 			"html_url": "https://github.com/btnguyen2k/gocosmos",
 			"homepage": "",
 			"created_at": "2020-12-06T07:03:43Z",
-			"updated_at": "2023-08-11T06:38:44Z",
+			"updated_at": "2023-12-05T12:52:21Z",
 			"svn_url": "https://github.com/btnguyen2k/gocosmos",
-			"stargazers_count": 18,
-			"watchers_count": 18,
+			"stargazers_count": 19,
+			"watchers_count": 19,
 			"forks_count": 7,
 			"open_issues_count": 1
 		},
