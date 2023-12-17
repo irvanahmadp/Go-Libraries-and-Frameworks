@@ -1,7 +1,7 @@
 {
 	"name": "Performance",
-	"index_last_check": 0,
-	"last_update": 1700443227,
+	"index_last_check": 3,
+	"last_update": 1702822456,
 	"libraries": [
 		{
 			"id": 56342508,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/jaegertracing/jaeger",
 			"homepage": "https://www.jaegertracing.io/",
 			"created_at": "2016-04-15T18:49:02Z",
-			"updated_at": "2023-11-13T14:46:00Z",
+			"updated_at": "2023-12-17T13:02:55Z",
 			"svn_url": "https://github.com/jaegertracing/jaeger",
-			"stargazers_count": 18612,
-			"watchers_count": 18612,
-			"forks_count": 2283,
-			"open_issues_count": 353
+			"stargazers_count": 18770,
+			"watchers_count": 18770,
+			"forks_count": 2295,
+			"open_issues_count": 351
 		},
 		{
 			"id": 243394576,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/pixie-io/pixie",
 			"homepage": "https://px.dev",
 			"created_at": "2020-02-27T00:22:45Z",
-			"updated_at": "2023-11-13T13:07:37Z",
+			"updated_at": "2023-12-17T06:42:26Z",
 			"svn_url": "https://github.com/pixie-io/pixie",
-			"stargazers_count": 4972,
-			"watchers_count": 4972,
+			"stargazers_count": 5024,
+			"watchers_count": 5024,
 			"forks_count": 388,
-			"open_issues_count": 231
+			"open_issues_count": 244
 		},
 		{
 			"id": 287403351,
@@ -38,12 +38,12 @@
 			"html_url": "https://github.com/arl/statsviz",
 			"homepage": "",
 			"created_at": "2020-08-14T00:00:41Z",
-			"updated_at": "2023-11-13T14:49:11Z",
+			"updated_at": "2023-12-16T15:03:54Z",
 			"svn_url": "https://github.com/arl/statsviz",
-			"stargazers_count": 2992,
-			"watchers_count": 2992,
-			"forks_count": 108,
-			"open_issues_count": 5
+			"stargazers_count": 3019,
+			"watchers_count": 3019,
+			"forks_count": 110,
+			"open_issues_count": 6
 		},
 		{
 			"id": 25555486,
@@ -52,11 +52,11 @@
 			"html_url": "https://github.com/pkg/profile",
 			"homepage": "https://px.dev",
 			"created_at": "2014-10-22T01:35:18Z",
-			"updated_at": "2023-11-09T01:22:11Z",
+			"updated_at": "2023-12-16T18:13:06Z",
 			"svn_url": "https://github.com/pkg/profile",
-			"stargazers_count": 1912,
-			"watchers_count": 1912,
-			"forks_count": 166,
+			"stargazers_count": 1922,
+			"watchers_count": 1922,
+			"forks_count": 167,
 			"open_issues_count": 9
 		},
 		{
