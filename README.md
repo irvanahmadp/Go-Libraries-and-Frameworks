@@ -1098,15 +1098,15 @@ Geographic tools and servers
 ### Go Compilers
 Tools for compiling Go to other languages.
 
-<sup>*Last Update: 2023-11-20 08:20:31*</sup>
+<sup>*Last Update: 2023-12-18 21:43:08*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [gopherjs](https://github.com/gopherjs/gopherjs) | 12,183 | 617 | 189 | A compiler from Go to JavaScript for running Go code in a browser | 2013-08-27 22:23:58 | 2023-11-19 09:49:25 |
-| [tardisgo](http://tardisgo.github.io) | 429 | 33 | 5 | Golang->Haxe->CPP/CSharp/Java/JavaScript transpiler   | 2014-01-08 11:07:33 | 2023-10-26 19:49:15 |
-| [c4go](https://github.com/Konstantin8105/c4go) | 343 | 38 | 25 | Transpiling C code to Go code | 2018-03-28 06:24:57 | 2023-11-13 14:28:57 |
+| [gopherjs](https://github.com/gopherjs/gopherjs) | 12,217 | 616 | 191 | A compiler from Go to JavaScript for running Go code in a browser | 2013-08-27 22:23:58 | 2023-12-17 23:39:47 |
+| [tardisgo](http://tardisgo.github.io) | 428 | 33 | 5 | Golang->Haxe->CPP/CSharp/Java/JavaScript transpiler   | 2014-01-08 11:07:33 | 2023-12-09 18:57:18 |
+| [c4go](https://github.com/Konstantin8105/c4go) | 343 | 38 | 25 | Transpiling C code to Go code | 2018-03-28 06:24:57 | 2023-12-08 07:15:18 |
 | [f4go](https://github.com/Konstantin8105/f4go) | 40 | 10 | 7 | Transpiling fortran code to golang code | 2018-07-08 17:05:43 | 2023-11-08 17:06:55 |
 </details>
 
@@ -1843,7 +1843,7 @@ Unofficial libraries for package and dependency management
 ### Performance
 
 
-<sup>*Last Update: 2023-12-17 21:14:16*</sup>
+<sup>*Last Update: 2023-12-18 21:43:07*</sup>
 <details>
   <summary>Show Table</summary>
 
@@ -2229,63 +2229,63 @@ Libraries and tools for templating and lexing.
 ### Text Processing - Specific Formats
 
 
-<sup>*Last Update: 2023-10-29 20:09:49*</sup>
+<sup>*Last Update: 2023-12-18 21:42:42*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [colly](https://go-colly.org/) | 20,975 | 1,667 | 173 | Elegant Scraper and Crawler Framework for Golang | 2017-09-29 14:08:49 | 2023-10-29 11:12:07 |
-| [goquery](https://godoc.org/astuart.co/goq) | 13,073 | 954 | 3 | A little like that j-thing, only in Go. | 2012-08-29 02:14:59 | 2023-10-29 12:49:34 |
-| [sh](https://pkg.go.dev/mvdan.cc/sh/v3) | 6,253 | 324 | 95 | A shell parser, formatter, and interpreter with bash support; includes shfmt | 2016-01-16 08:39:09 | 2023-10-28 03:28:06 |
-| [blackfriday](https://github.com/russross/blackfriday) | 5,243 | 636 | 216 | Blackfriday: a markdown processor for Go | 2011-05-27 22:28:58 | 2023-10-29 12:57:20 |
-| [toml](https://github.com/BurntSushi/toml) | 4,309 | 529 | 9 | TOML parser for Golang with reflection. | 2013-02-26 05:05:48 | 2023-10-28 09:58:51 |
-| [go-humanize](https://pkg.go.dev/github.com/dustin/go-humanize) | 3,813 | 262 | 41 | Go Humans! (formatters for units to human friendly sizes) | 2012-01-13 03:48:55 | 2023-10-26 12:59:11 |
-| [bluemonday](https://github.com/microcosm-cc/bluemonday) | 2,827 | 196 | 19 | bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS | 2013-11-20 22:15:49 | 2023-10-27 14:09:20 |
-| [gofeed](https://github.com/mmcdole/gofeed) | 2,280 | 236 | 43 | Parse RSS, Atom and JSON feeds in Go | 2016-01-23 02:44:34 | 2023-10-29 11:04:05 |
-| [go-toml](https://github.com/pelletier/go-toml) | 1,505 | 241 | 20 | Go library for the TOML file format | 2013-02-24 17:45:51 | 2023-10-29 09:47:53 |
-| [inject](https://godoc.org/github.com/facebookgo/inject) | 1,400 | 139 | 9 | Package inject provides a reflect based injector. | 2013-10-21 01:51:46 | 2023-10-21 08:00:33 |
-| [slug](https://pkg.go.dev/mvdan.cc/sh/v3) | 1,023 | 100 | 11 | URL-friendly slugify with multiple languages support. | 2014-03-31 06:24:51 | 2023-10-28 22:34:41 |
-| [commonregex](https://github.com/mingrammer/commonregex) | 867 | 66 | 2 | 🍫 A collection of common regular expressions for Go | 2017-03-23 14:33:18 | 2023-10-21 16:39:53 |
-| [htmlquery](https://github.com/antchfx/xpath) | 641 | 96 | 11 | htmlquery is golang XPath package for HTML query. | 2017-12-05 01:08:41 | 2023-10-25 07:02:08 |
-| [html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) | 620 | 100 | 17 | ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules. | 2018-05-15 13:26:26 | 2023-10-29 08:55:20 |
-| [dataflowkit](https://dataflowkit.com) | 620 | 79 | 4 | Extract structured data from web sites. Web sites scraping.   | 2017-02-09 15:08:15 | 2023-10-29 11:12:04 |
-| [omniparser](https://github.com/jf-tech/omniparser) | 597 | 46 | 1 | omniparser: a native Golang ETL streaming parser and transform library for CSV, JSON, XML, EDI, text, etc. | 2020-08-16 22:22:21 | 2023-10-24 19:02:36 |
-| [mxj](https://github.com/clbanning/mxj) | 582 | 108 | 3 | Decode / encode XML to/from map[string]interface{} (or JSON); extract values with dot-notation paths and wildcards.  Replaces x2j and j2x packages. | 2014-02-03 13:39:16 | 2023-10-25 00:41:31 |
-| [go-runewidth](https://github.com/mattn/go-runewidth) | 552 | 88 | 14 | wcwidth for golang | 2013-06-21 04:56:50 | 2023-10-27 15:06:41 |
-| [gographviz](https://github.com/awalterschulze/gographviz) | 530 | 76 | 8 | Parses the Graphviz DOT language in golang | 2015-03-14 18:27:00 | 2023-10-29 11:24:58 |
-| [gommon](https://github.com/labstack/gommon) | 509 | 129 | 15 | Common packages for Go | 2015-03-12 22:35:57 | 2023-10-26 17:27:43 |
-| [gotext](https://github.com/zhshch2002/gospider) | 401 | 54 | 6 | Go (Golang) GNU gettext utilities package  | 2016-06-19 20:14:43 | 2023-10-27 18:04:13 |
-| [goq](https://godoc.org/astuart.co/goq) | 247 | 18 | 1 | A declarative struct-tag-based HTML unmarshaling or scraping package for Go built on top of the goquery library | 2017-02-20 02:54:40 | 2023-10-09 09:59:18 |
+| [colly](https://go-colly.org/) | 21,332 | 1,681 | 176 | Elegant Scraper and Crawler Framework for Golang | 2017-09-29 14:08:49 | 2023-12-18 09:00:21 |
+| [goquery](https://godoc.org/astuart.co/goq) | 13,205 | 966 | 4 | A little like that j-thing, only in Go. | 2012-08-29 02:14:59 | 2023-12-18 06:50:05 |
+| [sh](https://pkg.go.dev/mvdan.cc/sh/v3) | 6,375 | 328 | 97 | A shell parser, formatter, and interpreter with bash support; includes shfmt | 2016-01-16 08:39:09 | 2023-12-18 01:20:26 |
+| [blackfriday](https://github.com/russross/blackfriday) | 5,271 | 638 | 217 | Blackfriday: a markdown processor for Go | 2011-05-27 22:28:58 | 2023-12-18 14:25:39 |
+| [toml](https://github.com/BurntSushi/toml) | 4,342 | 530 | 9 | TOML parser for Golang with reflection. | 2013-02-26 05:05:48 | 2023-12-17 21:09:08 |
+| [go-humanize](https://pkg.go.dev/github.com/dustin/go-humanize) | 3,876 | 272 | 41 | Go Humans! (formatters for units to human friendly sizes) | 2012-01-13 03:48:55 | 2023-12-17 19:20:34 |
+| [bluemonday](https://github.com/microcosm-cc/bluemonday) | 2,863 | 202 | 24 | bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS | 2013-11-20 22:15:49 | 2023-12-18 14:26:26 |
+| [gofeed](https://github.com/mmcdole/gofeed) | 2,311 | 238 | 43 | Parse RSS, Atom and JSON feeds in Go | 2016-01-23 02:44:34 | 2023-12-18 14:00:41 |
+| [go-toml](https://github.com/pelletier/go-toml) | 1,528 | 246 | 24 | Go library for the TOML file format | 2013-02-24 17:45:51 | 2023-12-13 07:58:26 |
+| [inject](https://godoc.org/github.com/facebookgo/inject) | 1,401 | 139 | 9 | Package inject provides a reflect based injector. | 2013-10-21 01:51:46 | 2023-12-18 03:37:53 |
+| [slug](https://pkg.go.dev/mvdan.cc/sh/v3) | 1,037 | 101 | 12 | URL-friendly slugify with multiple languages support. | 2014-03-31 06:24:51 | 2023-12-17 17:20:33 |
+| [commonregex](https://github.com/mingrammer/commonregex) | 870 | 66 | 2 | 🍫 A collection of common regular expressions for Go | 2017-03-23 14:33:18 | 2023-12-18 08:08:02 |
+| [htmlquery](https://github.com/antchfx/xpath) | 655 | 103 | 11 | htmlquery is golang XPath package for HTML query. | 2017-12-05 01:08:41 | 2023-12-07 15:00:56 |
+| [html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) | 638 | 109 | 17 | ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules. | 2018-05-15 13:26:26 | 2023-12-18 09:51:54 |
+| [dataflowkit](https://dataflowkit.com) | 623 | 80 | 4 | Extract structured data from web sites. Web sites scraping.   | 2017-02-09 15:08:15 | 2023-12-06 14:36:34 |
+| [omniparser](https://github.com/jf-tech/omniparser) | 601 | 48 | 1 | omniparser: a native Golang ETL streaming parser and transform library for CSV, JSON, XML, EDI, text, etc. | 2020-08-16 22:22:21 | 2023-12-09 23:34:32 |
+| [mxj](https://github.com/clbanning/mxj) | 589 | 110 | 3 | Decode / encode XML to/from map[string]interface{} (or JSON); extract values with dot-notation paths and wildcards.  Replaces x2j and j2x packages. | 2014-02-03 13:39:16 | 2023-12-18 02:11:21 |
+| [go-runewidth](https://github.com/mattn/go-runewidth) | 562 | 89 | 14 | wcwidth for golang | 2013-06-21 04:56:50 | 2023-12-16 23:35:01 |
+| [gographviz](https://github.com/awalterschulze/gographviz) | 533 | 76 | 8 | Parses the Graphviz DOT language in golang | 2015-03-14 18:27:00 | 2023-12-11 07:25:44 |
+| [gommon](https://github.com/labstack/gommon) | 511 | 131 | 13 | Common packages for Go | 2015-03-12 22:35:57 | 2023-11-23 07:02:16 |
+| [gotext](https://github.com/zhshch2002/gospider) | 407 | 55 | 7 | Go (Golang) GNU gettext utilities package  | 2016-06-19 20:14:43 | 2023-12-18 03:00:29 |
+| [goq](https://godoc.org/astuart.co/goq) | 247 | 18 | 1 | A declarative struct-tag-based HTML unmarshaling or scraping package for Go built on top of the goquery library | 2017-02-20 02:54:40 | 2023-11-27 01:03:11 |
 | [goribot](https://github.com/zhshch2002/gospider) | 210 | 30 | 1 | [Crawler/Scraper for Golang]🕷A lightweight distributed friendly Golang crawler framework.一个轻量的分布式友好的 Golang 爬虫框架。 | 2019-09-08 10:39:47 | 2023-10-29 10:35:53 |
-| [go-nmea](https://github.com/adrianmo/go-nmea) | 202 | 71 | 2 | A NMEA parser library in pure Go | 2015-07-22 08:55:54 | 2023-09-23 11:03:36 |
-| [github_flavored_markdown](https://github.com/shurcooL/github_flavored_markdown) | 156 | 42 | 11 | GitHub Flavored Markdown renderer with fenced code block highlighting, clickable header anchor links. | 2015-05-16 04:09:07 | 2023-10-27 08:09:49 |
+| [go-nmea](https://github.com/adrianmo/go-nmea) | 202 | 71 | 2 | A NMEA parser library in pure Go | 2015-07-22 08:55:54 | 2023-11-17 20:12:10 |
+| [github_flavored_markdown](https://github.com/shurcooL/github_flavored_markdown) | 155 | 42 | 11 | GitHub Flavored Markdown renderer with fenced code block highlighting, clickable header anchor links. | 2015-05-16 04:09:07 | 2023-11-17 06:25:17 |
 | [podcast](https://github.com/eduncan911/podcast) | 125 | 32 | 5 | iTunes and RSS 2.0 Podcast Generator in Golang | 2017-02-02 12:45:04 | 2023-08-30 03:07:41 |
 | [editorconfig-core-go](https://godoc.org/github.com/hscells/doi) | 125 | 37 | 5 | EditorConfig Core written in Go | 2016-07-05 03:50:41 | 2023-10-18 14:18:01 |
-| [sdp](https://github.com/gortc/sdp) | 111 | 36 | 5 | RFC 4566 SDP implementation in go | 2016-05-13 14:35:11 | 2023-08-23 04:34:58 |
-| [go-zero-width](https://github.com/trubitsyn/go-zero-width) | 110 | 9 | 0 | Zero-width character detection and removal for Go | 2018-06-18 13:55:09 | 2023-06-21 00:37:29 |
-| [pagser](https://github.com/foolin/pagser) | 91 | 7 | 6 | Pagser is a simple, extensible, configurable parse and deserialize html page to struct based on goquery and struct tags for golang crawler | 2020-04-19 09:22:00 | 2023-10-08 21:11:28 |
-| [go-vcard](https://github.com/pelletier/go-toml) | 90 | 34 | 4 | A Go library to parse and format vCard | 2017-03-21 08:30:36 | 2023-09-18 13:22:07 |
+| [sdp](https://github.com/gortc/sdp) | 112 | 35 | 5 | RFC 4566 SDP implementation in go | 2016-05-13 14:35:11 | 2023-11-27 01:02:56 |
+| [go-zero-width](https://github.com/trubitsyn/go-zero-width) | 111 | 9 | 0 | Zero-width character detection and removal for Go | 2018-06-18 13:55:09 | 2023-11-09 22:25:15 |
+| [go-vcard](https://github.com/pelletier/go-toml) | 94 | 33 | 4 | A Go library to parse and format vCard | 2017-03-21 08:30:36 | 2023-12-08 18:07:00 |
+| [pagser](https://github.com/foolin/pagser) | 93 | 7 | 6 | Pagser is a simple, extensible, configurable parse and deserialize html page to struct based on goquery and struct tags for golang crawler | 2020-04-19 09:22:00 | 2023-12-09 20:35:41 |
 | [go-slugify](https://godoc.org/github.com/mozillazg/go-slugify) | 88 | 8 | 1 | Pretty Slug. | 2016-07-16 11:55:15 | 2023-09-25 01:16:07 |
 | [goregen](https://godoc.org/github.com/zach-klippenstein/goregen) | 88 | 20 | 6 | randexp for Go. | 2014-12-27 00:19:39 | 2023-10-11 11:37:23 |
-| [align](https://github.com/Guitarbum722/align) | 82 | 7 | 0 | A general purpose application and library for aligning text. | 2017-04-29 23:22:22 | 2023-10-03 05:04:35 |
-| [did](https://w3c-ccg.github.io/did-spec) | 78 | 21 | 7 | A golang package to work with Decentralized Identifiers (DIDs)  | 2018-11-02 17:49:14 | 2023-10-27 01:37:35 |
-| [go-fixedwidth](http://godoc.org/github.com/ianlopshire/go-fixedwidth) | 78 | 29 | 6 | Encoding and decoding for fixed-width formatted data | 2017-11-15 21:05:44 | 2023-10-03 05:04:52 |
+| [align](https://github.com/Guitarbum722/align) | 83 | 7 | 0 | A general purpose application and library for aligning text. | 2017-04-29 23:22:22 | 2023-11-12 23:58:46 |
+| [did](https://w3c-ccg.github.io/did-spec) | 79 | 21 | 7 | A golang package to work with Decentralized Identifiers (DIDs)  | 2018-11-02 17:49:14 | 2023-12-14 07:36:41 |
+| [go-fixedwidth](http://godoc.org/github.com/ianlopshire/go-fixedwidth) | 78 | 30 | 6 | Encoding and decoding for fixed-width formatted data | 2017-11-15 21:05:44 | 2023-10-03 05:04:52 |
 | [genex](https://namegrep.com/) | 75 | 8 | 0 | Genex package for Go | 2015-03-09 19:24:16 | 2023-09-13 11:58:03 |
 | [allot](https://github.com/sbstjn/allot) | 58 | 8 | 3 | Parse placeholder and wildcard text commands | 2016-10-16 15:49:08 | 2023-08-05 11:57:10 |
+| [go-wildcard](https://github.com/IGLOU-EU/go-wildcard) | 58 | 9 | 7 | 🚀 Fast and light wildcard pattern matching. | 2021-03-28 16:31:41 | 2023-12-16 07:35:06 |
 | [guesslanguage](https://github.com/zhshch2002/gospider) | 57 | 5 | 1 | Guess the natural language of a text in Go | 2014-12-16 10:58:47 | 2023-06-22 20:18:49 |
-| [go-wildcard](https://github.com/IGLOU-EU/go-wildcard) | 53 | 9 | 7 | 🚀 Fast and light wildcard pattern matching. | 2021-03-28 16:31:41 | 2023-10-09 21:05:48 |
 | [gonameparts](https://github.com/polera/gonameparts) | 38 | 5 | 2 | Takes a full name and splits it into individual name parts | 2015-05-17 05:20:17 | 2022-09-27 09:35:04 |
-| [normalize](https://github.com/avito-tech/normalize) | 36 | 2 | 0 | Decode / encode XML to/from map[string]interface{} (or JSON); extract values with dot-notation paths and wildcards.  Replaces x2j and j2x packages. | 2021-03-22 09:25:14 | 2023-07-12 15:06:11 |
+| [normalize](https://github.com/avito-tech/normalize) | 37 | 2 | 0 | Decode / encode XML to/from map[string]interface{} (or JSON); extract values with dot-notation paths and wildcards.  Replaces x2j and j2x packages. | 2021-03-22 09:25:14 | 2023-11-17 03:50:31 |
 | [slugify](https://pkg.go.dev/mvdan.cc/sh/v3) | 32 | 4 | 0 | A Go slugify application that handles string | 2015-04-13 01:54:30 | 2022-09-27 08:50:57 |
 | [codetree](https://github.com/aerogo/codetree) | 23 | 5 | 0 | :evergreen_tree: Parses indented code and returns a tree structure. | 2016-11-26 02:50:38 | 2023-09-04 20:53:44 |
-| [enca](https://godoc.org/github.com/hscells/doi) | 15 | 5 | 0 | Minimal cgo bindings for libenca | 2014-12-17 04:55:16 | 2023-02-16 20:00:49 |
+| [enca](https://godoc.org/github.com/hscells/doi) | 16 | 5 | 0 | Minimal cgo bindings for libenca | 2014-12-17 04:55:16 | 2023-11-01 21:11:39 |
 | [gout](https://github.com/drewstinnett/gout) | 13 | 2 | 0 | Output go objects in standard formats, such as YAML, JSON, etc | 2021-04-08 20:48:17 | 2023-10-20 10:05:59 |
 | [syndfeed](https://github.com/zhengchun/syndfeed) | 11 | 4 | 0 | A syndication feed parser for Atom 1.0 and RSS 2.0 in Go | 2017-04-07 09:30:55 | 2023-04-10 10:05:42 |
 | [ltsv](https://github.com/Wing924/ltsv) | 8 | 1 | 0 | High performance LTSV (Labeled Tab Separeted Value) reader for Go. | 2019-05-12 06:11:04 | 2022-09-27 09:35:07 |
 | [encoding](https://github.com/ake-persson/encoding) | 8 | 2 | 1 | Go package provides a generic interface to encoders and decoders | 2018-04-06 20:48:00 | 2022-09-27 09:34:51 |
 | [doi](https://godoc.org/github.com/hscells/doi) | 8 | 2 | 0 | Parse and check doi objects in go. | 2017-08-02 05:58:01 | 2023-06-28 15:19:43 |
-| [bbConvert](https://github.com/CalebQ42/bbConvert) | 7 | 3 | 0 | Converter from BBCode to HTML | 2016-04-15 14:35:38 | 2022-09-27 09:33:08 |
+| [bbConvert](https://github.com/CalebQ42/bbConvert) | 7 | 3 | 0 | Converter from BBCode to HTML | 2016-04-15 14:35:38 | 2023-10-31 04:17:47 |
 </details>
 
 ### Text Processing - Utility
