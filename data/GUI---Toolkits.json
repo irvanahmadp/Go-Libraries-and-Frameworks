@@ -1,7 +1,7 @@
 {
 	"name": "GUI - Toolkits",
 	"index_last_check": 0,
-	"last_update": 1698974274,
+	"last_update": 1702952338,
 	"libraries": [
 		{
 			"id": 120227732,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/fyne-io/fyne",
 			"homepage": "https://fyne.io/",
 			"created_at": "2018-02-04T22:07:16Z",
-			"updated_at": "2023-11-03T00:41:02Z",
+			"updated_at": "2023-12-19T02:01:29Z",
 			"svn_url": "https://github.com/fyne-io/fyne",
-			"stargazers_count": 21712,
-			"watchers_count": 21712,
-			"forks_count": 1260,
-			"open_issues_count": 596
+			"stargazers_count": 22046,
+			"watchers_count": 22046,
+			"forks_count": 1287,
+			"open_issues_count": 617
 		},
 		{
 			"id": 161951219,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/wailsapp/wails",
 			"homepage": "https://wails.io",
 			"created_at": "2018-12-15T23:14:06Z",
-			"updated_at": "2023-11-03T00:12:38Z",
+			"updated_at": "2023-12-19T02:02:08Z",
 			"svn_url": "https://github.com/wailsapp/wails",
-			"stargazers_count": 18708,
-			"watchers_count": 18708,
-			"forks_count": 935,
-			"open_issues_count": 193
+			"stargazers_count": 19763,
+			"watchers_count": 19763,
+			"forks_count": 998,
+			"open_issues_count": 218
 		},
 		{
 			"id": 100781035,
@@ -38,12 +38,12 @@
 			"html_url": "https://github.com/webview/webview",
 			"homepage": "https://webview.dev",
 			"created_at": "2017-08-19T08:26:00Z",
-			"updated_at": "2023-11-02T22:16:14Z",
+			"updated_at": "2023-12-18T12:37:16Z",
 			"svn_url": "https://github.com/webview/webview",
-			"stargazers_count": 11605,
-			"watchers_count": 11605,
-			"forks_count": 928,
-			"open_issues_count": 206
+			"stargazers_count": 11698,
+			"watchers_count": 11698,
+			"forks_count": 936,
+			"open_issues_count": 210
 		},
 		{
 			"id": 26836182,
@@ -52,12 +52,12 @@
 			"html_url": "https://github.com/therecipe/qt",
 			"homepage": "",
 			"created_at": "2014-11-19T00:03:08Z",
-			"updated_at": "2023-11-02T06:56:53Z",
+			"updated_at": "2023-12-18T17:32:30Z",
 			"svn_url": "https://github.com/therecipe/qt",
-			"stargazers_count": 9998,
-			"watchers_count": 9998,
-			"forks_count": 737,
-			"open_issues_count": 369
+			"stargazers_count": 10055,
+			"watchers_count": 10055,
+			"forks_count": 744,
+			"open_issues_count": 371
 		},
 		{
 			"id": 16930617,
@@ -66,11 +66,11 @@
 			"html_url": "https://github.com/andlabs/ui",
 			"homepage": "",
 			"created_at": "2014-02-17T23:44:00Z",
-			"updated_at": "2023-11-01T15:11:38Z",
+			"updated_at": "2023-12-18T02:10:10Z",
 			"svn_url": "https://github.com/andlabs/ui",
-			"stargazers_count": 8294,
-			"watchers_count": 8294,
-			"forks_count": 790,
+			"stargazers_count": 8307,
+			"watchers_count": 8307,
+			"forks_count": 796,
 			"open_issues_count": 124
 		},
 		{
@@ -80,12 +80,12 @@
 			"html_url": "https://github.com/maxence-charriere/go-app",
 			"homepage": "https://go-app.dev",
 			"created_at": "2016-10-12T00:31:33Z",
-			"updated_at": "2023-11-02T05:59:39Z",
+			"updated_at": "2023-12-18T05:12:39Z",
 			"svn_url": "https://github.com/maxence-charriere/go-app",
-			"stargazers_count": 7378,
-			"watchers_count": 7378,
-			"forks_count": 391,
-			"open_issues_count": 118
+			"stargazers_count": 7457,
+			"watchers_count": 7457,
+			"forks_count": 397,
+			"open_issues_count": 119
 		},
 		{
 			"id": 914796,
@@ -94,11 +94,11 @@
 			"html_url": "https://github.com/lxn/walk",
 			"homepage": "",
 			"created_at": "2010-09-16T08:11:49Z",
-			"updated_at": "2023-10-31T20:31:51Z",
+			"updated_at": "2023-12-17T14:51:43Z",
 			"svn_url": "https://github.com/lxn/walk",
-			"stargazers_count": 6568,
-			"watchers_count": 6568,
-			"forks_count": 915,
+			"stargazers_count": 6623,
+			"watchers_count": 6623,
+			"forks_count": 925,
 			"open_issues_count": 346
 		},
 		{
@@ -108,12 +108,12 @@
 			"html_url": "https://github.com/asticode/go-astilectron",
 			"homepage": "",
 			"created_at": "2017-04-22T07:59:15Z",
-			"updated_at": "2023-11-02T19:08:46Z",
+			"updated_at": "2023-12-15T16:50:22Z",
 			"svn_url": "https://github.com/asticode/go-astilectron",
-			"stargazers_count": 4849,
-			"watchers_count": 4849,
-			"forks_count": 384,
-			"open_issues_count": 53
+			"stargazers_count": 4873,
+			"watchers_count": 4873,
+			"forks_count": 390,
+			"open_issues_count": 54
 		},
 		{
 			"id": 44316518,
@@ -122,11 +122,11 @@
 			"html_url": "https://github.com/sciter-sdk/go-sciter",
 			"homepage": "https://sciter.com",
 			"created_at": "2015-10-15T12:41:06Z",
-			"updated_at": "2023-10-29T16:18:43Z",
+			"updated_at": "2023-12-15T01:28:30Z",
 			"svn_url": "https://github.com/sciter-sdk/go-sciter",
-			"stargazers_count": 2543,
-			"watchers_count": 2543,
-			"forks_count": 301,
+			"stargazers_count": 2549,
+			"watchers_count": 2549,
+			"forks_count": 305,
 			"open_issues_count": 95
 		},
 		{
@@ -136,11 +136,11 @@
 			"html_url": "https://github.com/mattn/go-gtk",
 			"homepage": "http://mattn.github.com/go-gtk",
 			"created_at": "2009-11-26T16:58:53Z",
-			"updated_at": "2023-10-30T02:50:00Z",
+			"updated_at": "2023-12-17T08:31:37Z",
 			"svn_url": "https://github.com/mattn/go-gtk",
-			"stargazers_count": 2017,
-			"watchers_count": 2017,
-			"forks_count": 291,
+			"stargazers_count": 2033,
+			"watchers_count": 2033,
+			"forks_count": 299,
 			"open_issues_count": 73
 		},
 		{
@@ -150,12 +150,12 @@
 			"html_url": "https://github.com/gotk3/gotk3",
 			"homepage": "",
 			"created_at": "2015-08-13T13:09:46Z",
-			"updated_at": "2023-11-01T09:42:00Z",
+			"updated_at": "2023-12-18T16:34:13Z",
 			"svn_url": "https://github.com/gotk3/gotk3",
-			"stargazers_count": 1965,
-			"watchers_count": 1965,
-			"forks_count": 269,
-			"open_issues_count": 104
+			"stargazers_count": 1975,
+			"watchers_count": 1975,
+			"forks_count": 279,
+			"open_issues_count": 107
 		},
 		{
 			"id": 86594955,
@@ -164,10 +164,10 @@
 			"html_url": "https://github.com/dtylman/gowd",
 			"homepage": "",
 			"created_at": "2017-03-29T14:50:53Z",
-			"updated_at": "2023-10-25T17:09:32Z",
+			"updated_at": "2023-12-17T15:08:41Z",
 			"svn_url": "https://github.com/dtylman/gowd",
-			"stargazers_count": 411,
-			"watchers_count": 411,
+			"stargazers_count": 416,
+			"watchers_count": 416,
 			"forks_count": 42,
 			"open_issues_count": 7
 		}
