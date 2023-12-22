@@ -1,7 +1,7 @@
 {
 	"name": "Data Structures",
-	"index_last_check": 53,
-	"last_update": 1703169669,
+	"index_last_check": 0,
+	"last_update": 1703256655,
 	"libraries": [
 		{
 			"id": 31660590,
@@ -66,11 +66,11 @@
 			"html_url": "https://github.com/RoaringBitmap/roaring",
 			"homepage": "http://roaringbitmap.org/",
 			"created_at": "2014-07-10T20:14:34Z",
-			"updated_at": "2023-10-30T09:49:51Z",
+			"updated_at": "2023-12-22T09:07:39Z",
 			"svn_url": "https://github.com/RoaringBitmap/roaring",
-			"stargazers_count": 2183,
-			"watchers_count": 2183,
-			"forks_count": 248,
+			"stargazers_count": 2222,
+			"watchers_count": 2222,
+			"forks_count": 258,
 			"open_issues_count": 67
 		},
 		{
@@ -80,12 +80,12 @@
 			"html_url": "https://github.com/bits-and-blooms/bloom",
 			"homepage": "",
 			"created_at": "2011-05-21T14:18:41Z",
-			"updated_at": "2023-11-01T21:47:34Z",
+			"updated_at": "2023-12-22T02:55:13Z",
 			"svn_url": "https://github.com/bits-and-blooms/bloom",
-			"stargazers_count": 2117,
-			"watchers_count": 2117,
-			"forks_count": 265,
-			"open_issues_count": 8
+			"stargazers_count": 2173,
+			"watchers_count": 2173,
+			"forks_count": 269,
+			"open_issues_count": 9
 		},
 		{
 			"id": 212965919,
@@ -178,12 +178,12 @@
 			"html_url": "https://github.com/jellydator/ttlcache",
 			"homepage": "",
 			"created_at": "2014-12-13T01:55:40Z",
-			"updated_at": "2023-10-31T13:57:05Z",
+			"updated_at": "2023-12-21T16:37:09Z",
 			"svn_url": "https://github.com/jellydator/ttlcache",
-			"stargazers_count": 755,
-			"watchers_count": 755,
-			"forks_count": 109,
-			"open_issues_count": 8
+			"stargazers_count": 777,
+			"watchers_count": 777,
+			"forks_count": 110,
+			"open_issues_count": 6
 		},
 		{
 			"id": 119665158,
@@ -206,11 +206,11 @@
 			"html_url": "https://github.com/derekparker/trie",
 			"homepage": "",
 			"created_at": "2014-03-06T22:01:49Z",
-			"updated_at": "2023-10-26T11:45:18Z",
+			"updated_at": "2023-12-16T09:07:57Z",
 			"svn_url": "https://github.com/derekparker/trie",
-			"stargazers_count": 703,
-			"watchers_count": 703,
-			"forks_count": 111,
+			"stargazers_count": 717,
+			"watchers_count": 717,
+			"forks_count": 112,
 			"open_issues_count": 13
 		},
 		{
@@ -346,11 +346,11 @@
 			"html_url": "https://github.com/MauriceGit/skiplist",
 			"homepage": "",
 			"created_at": "2018-06-23T16:01:51Z",
-			"updated_at": "2023-10-26T08:11:48Z",
+			"updated_at": "2023-12-08T09:02:12Z",
 			"svn_url": "https://github.com/MauriceGit/skiplist",
-			"stargazers_count": 263,
-			"watchers_count": 263,
-			"forks_count": 37,
+			"stargazers_count": 264,
+			"watchers_count": 264,
+			"forks_count": 38,
 			"open_issues_count": 5
 		},
 		{
@@ -560,7 +560,7 @@
 			"svn_url": "https://github.com/gansidui/skiplist",
 			"stargazers_count": 83,
 			"watchers_count": 83,
-			"forks_count": 23,
+			"forks_count": 24,
 			"open_issues_count": 1
 		},
 		{
@@ -630,8 +630,8 @@
 			"svn_url": "https://github.com/zekroTJA/timedmap",
 			"stargazers_count": 66,
 			"watchers_count": 66,
-			"forks_count": 9,
-			"open_issues_count": 1
+			"forks_count": 10,
+			"open_issues_count": 0
 		},
 		{
 			"id": 166048649,
