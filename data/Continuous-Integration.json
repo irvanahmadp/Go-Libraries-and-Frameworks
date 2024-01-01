@@ -1,7 +1,7 @@
 {
 	"name": "Continuous Integration",
-	"index_last_check": 0,
-	"last_update": 1699707170,
+	"index_last_check": 5,
+	"last_update": 1704117866,
 	"libraries": [
 		{
 			"id": 16607898,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/harness/gitness",
 			"homepage": "https://gitness.com",
 			"created_at": "2014-02-07T07:54:44Z",
-			"updated_at": "2023-11-08T15:42:21Z",
+			"updated_at": "2024-01-01T13:51:55Z",
 			"svn_url": "https://github.com/harness/gitness",
-			"stargazers_count": 30471,
-			"watchers_count": 30471,
-			"forks_count": 2759,
-			"open_issues_count": 126
+			"stargazers_count": 30912,
+			"watchers_count": 30912,
+			"forks_count": 2784,
+			"open_issues_count": 111
 		},
 		{
 			"id": 70572539,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/ovh/cds",
 			"homepage": "https://ovh.github.io/cds/",
 			"created_at": "2016-10-11T08:28:23Z",
-			"updated_at": "2023-11-07T12:43:32Z",
+			"updated_at": "2023-12-30T15:09:10Z",
 			"svn_url": "https://github.com/ovh/cds",
-			"stargazers_count": 4322,
-			"watchers_count": 4322,
-			"forks_count": 409,
-			"open_issues_count": 143
+			"stargazers_count": 4353,
+			"watchers_count": 4353,
+			"forks_count": 415,
+			"open_issues_count": 147
 		},
 		{
 			"id": 9495505,
@@ -38,10 +38,10 @@
 			"html_url": "https://github.com/mattn/goveralls",
 			"homepage": "",
 			"created_at": "2013-04-17T10:58:40Z",
-			"updated_at": "2023-10-03T22:37:20Z",
+			"updated_at": "2023-12-29T08:56:56Z",
 			"svn_url": "https://github.com/mattn/goveralls",
-			"stargazers_count": 767,
-			"watchers_count": 767,
+			"stargazers_count": 770,
+			"watchers_count": 770,
 			"forks_count": 140,
 			"open_issues_count": 17
 		},
@@ -70,7 +70,7 @@
 			"svn_url": "https://github.com/duck8823/duci",
 			"stargazers_count": 74,
 			"watchers_count": 74,
-			"forks_count": 5,
+			"forks_count": 4,
 			"open_issues_count": 10
 		},
 		{
@@ -80,10 +80,10 @@
 			"html_url": "https://github.com/nikogura/gomason",
 			"homepage": "",
 			"created_at": "2017-11-18T00:59:11Z",
-			"updated_at": "2023-10-11T06:43:54Z",
+			"updated_at": "2023-12-08T07:56:04Z",
 			"svn_url": "https://github.com/nikogura/gomason",
-			"stargazers_count": 59,
-			"watchers_count": 59,
+			"stargazers_count": 60,
+			"watchers_count": 60,
 			"forks_count": 9,
 			"open_issues_count": 4
 		},

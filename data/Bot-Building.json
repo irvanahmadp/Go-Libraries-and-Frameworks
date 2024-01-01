@@ -1,7 +1,7 @@
 {
 	"name": "Bot Building",
 	"index_last_check": 0,
-	"last_update": 1698974285,
+	"last_update": 1704117841,
 	"libraries": [
 		{
 			"id": 38029983,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/go-telegram-bot-api/telegram-bot-api",
 			"homepage": "https://go-telegram-bot-api.dev",
 			"created_at": "2015-06-25T05:33:57Z",
-			"updated_at": "2023-11-02T08:49:16Z",
+			"updated_at": "2023-12-31T19:56:20Z",
 			"svn_url": "https://github.com/go-telegram-bot-api/telegram-bot-api",
-			"stargazers_count": 5047,
-			"watchers_count": 5047,
-			"forks_count": 774,
-			"open_issues_count": 115
+			"stargazers_count": 5188,
+			"watchers_count": 5188,
+			"forks_count": 798,
+			"open_issues_count": 116
 		},
 		{
 			"id": 136217503,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/olivia-ai/olivia",
 			"homepage": "https://olivia-ai.org",
 			"created_at": "2018-06-05T18:19:31Z",
-			"updated_at": "2023-11-02T07:23:19Z",
+			"updated_at": "2023-12-31T14:58:35Z",
 			"svn_url": "https://github.com/olivia-ai/olivia",
-			"stargazers_count": 3612,
-			"watchers_count": 3612,
-			"forks_count": 357,
-			"open_issues_count": 28
+			"stargazers_count": 3634,
+			"watchers_count": 3634,
+			"forks_count": 359,
+			"open_issues_count": 29
 		},
 		{
 			"id": 38069477,
@@ -38,12 +38,12 @@
 			"html_url": "https://github.com/tucnak/telebot",
 			"homepage": "",
 			"created_at": "2015-06-25T19:27:50Z",
-			"updated_at": "2023-11-02T19:04:37Z",
+			"updated_at": "2023-12-30T23:30:53Z",
 			"svn_url": "https://github.com/tucnak/telebot",
-			"stargazers_count": 3314,
-			"watchers_count": 3314,
-			"forks_count": 401,
-			"open_issues_count": 49
+			"stargazers_count": 3428,
+			"watchers_count": 3428,
+			"forks_count": 406,
+			"open_issues_count": 25
 		},
 		{
 			"id": 144078031,
@@ -52,11 +52,11 @@
 			"html_url": "https://github.com/stellar/kelp",
 			"homepage": "https://kelpbot.io",
 			"created_at": "2018-08-08T23:31:18Z",
-			"updated_at": "2023-11-02T07:34:35Z",
+			"updated_at": "2023-12-29T08:24:05Z",
 			"svn_url": "https://github.com/stellar/kelp",
-			"stargazers_count": 1030,
-			"watchers_count": 1030,
-			"forks_count": 239,
+			"stargazers_count": 1043,
+			"watchers_count": 1043,
+			"forks_count": 241,
 			"open_issues_count": 176
 		},
 		{
@@ -66,11 +66,11 @@
 			"html_url": "https://github.com/saniales/golang-crypto-trading-bot",
 			"homepage": "",
 			"created_at": "2017-05-14T22:11:41Z",
-			"updated_at": "2023-11-02T15:20:50Z",
+			"updated_at": "2023-12-29T07:50:39Z",
 			"svn_url": "https://github.com/saniales/golang-crypto-trading-bot",
-			"stargazers_count": 943,
-			"watchers_count": 943,
-			"forks_count": 239,
+			"stargazers_count": 966,
+			"watchers_count": 966,
+			"forks_count": 245,
 			"open_issues_count": 6
 		},
 		{
@@ -80,12 +80,12 @@
 			"html_url": "https://github.com/shomali11/slacker",
 			"homepage": "",
 			"created_at": "2017-05-20T01:41:20Z",
-			"updated_at": "2023-10-30T02:27:36Z",
+			"updated_at": "2023-12-18T09:54:26Z",
 			"svn_url": "https://github.com/shomali11/slacker",
-			"stargazers_count": 805,
-			"watchers_count": 805,
-			"forks_count": 122,
-			"open_issues_count": 7
+			"stargazers_count": 810,
+			"watchers_count": 810,
+			"forks_count": 123,
+			"open_issues_count": 0
 		},
 		{
 			"id": 42946991,
@@ -94,11 +94,11 @@
 			"html_url": "https://github.com/go-chat-bot/bot",
 			"homepage": "",
 			"created_at": "2015-09-22T16:41:13Z",
-			"updated_at": "2023-11-02T02:19:13Z",
+			"updated_at": "2024-01-01T12:23:58Z",
 			"svn_url": "https://github.com/go-chat-bot/bot",
-			"stargazers_count": 801,
-			"watchers_count": 801,
-			"forks_count": 214,
+			"stargazers_count": 807,
+			"watchers_count": 807,
+			"forks_count": 215,
 			"open_issues_count": 15
 		},
 		{
@@ -108,10 +108,10 @@
 			"html_url": "https://github.com/go-joe/joe",
 			"homepage": "https://joe-bot.net",
 			"created_at": "2019-03-03T11:19:18Z",
-			"updated_at": "2023-11-01T11:31:04Z",
+			"updated_at": "2023-12-20T03:39:07Z",
 			"svn_url": "https://github.com/go-joe/joe",
-			"stargazers_count": 468,
-			"watchers_count": 468,
+			"stargazers_count": 469,
+			"watchers_count": 469,
 			"forks_count": 26,
 			"open_issues_count": 6
 		},
@@ -122,12 +122,12 @@
 			"html_url": "https://github.com/yanzay/tbot",
 			"homepage": "https://yanzay.github.io/tbot-doc/",
 			"created_at": "2015-09-11T16:19:25Z",
-			"updated_at": "2023-10-26T23:18:19Z",
+			"updated_at": "2023-12-05T18:02:11Z",
 			"svn_url": "https://github.com/yanzay/tbot",
-			"stargazers_count": 342,
-			"watchers_count": 342,
-			"forks_count": 53,
-			"open_issues_count": 1
+			"stargazers_count": 343,
+			"watchers_count": 343,
+			"forks_count": 54,
+			"open_issues_count": 2
 		},
 		{
 			"id": 85999605,
@@ -136,11 +136,11 @@
 			"html_url": "https://github.com/gempir/go-twitch-irc",
 			"homepage": "",
 			"created_at": "2017-03-23T21:31:35Z",
-			"updated_at": "2023-10-29T12:15:25Z",
+			"updated_at": "2023-12-30T04:35:11Z",
 			"svn_url": "https://github.com/gempir/go-twitch-irc",
-			"stargazers_count": 309,
-			"watchers_count": 309,
-			"forks_count": 55,
+			"stargazers_count": 318,
+			"watchers_count": 318,
+			"forks_count": 56,
 			"open_issues_count": 7
 		},
 		{
@@ -150,12 +150,12 @@
 			"html_url": "https://github.com/NicoNex/echotron",
 			"homepage": "https://t.me/s/echotronnews",
 			"created_at": "2019-07-22T17:31:49Z",
-			"updated_at": "2023-11-01T04:54:18Z",
+			"updated_at": "2023-12-21T09:35:40Z",
 			"svn_url": "https://github.com/NicoNex/echotron",
-			"stargazers_count": 284,
-			"watchers_count": 284,
+			"stargazers_count": 298,
+			"watchers_count": 298,
 			"forks_count": 21,
-			"open_issues_count": 0
+			"open_issues_count": 1
 		},
 		{
 			"id": 72982532,
@@ -164,11 +164,11 @@
 			"html_url": "https://github.com/oklahomer/go-sarah",
 			"homepage": "https://pkg.go.dev/github.com/oklahomer/go-sarah/v4",
 			"created_at": "2016-11-06T10:04:43Z",
-			"updated_at": "2023-11-01T14:48:25Z",
+			"updated_at": "2023-11-12T10:24:34Z",
 			"svn_url": "https://github.com/oklahomer/go-sarah",
-			"stargazers_count": 260,
-			"watchers_count": 260,
-			"forks_count": 17,
+			"stargazers_count": 259,
+			"watchers_count": 259,
+			"forks_count": 16,
 			"open_issues_count": 0
 		},
 		{
@@ -186,32 +186,32 @@
 			"open_issues_count": 12
 		},
 		{
-			"id": 68359729,
-			"name": "hanu",
-			"description": "Golang Framework for writing Slack bots",
-			"html_url": "https://github.com/sbstjn/hanu",
-			"homepage": "https://sbstjn.com/host-golang-slackbot-on-heroku-with-hanu.html",
-			"created_at": "2016-09-16T07:10:42Z",
-			"updated_at": "2023-10-24T00:43:33Z",
-			"svn_url": "https://github.com/sbstjn/hanu",
-			"stargazers_count": 150,
-			"watchers_count": 150,
-			"forks_count": 24,
-			"open_issues_count": 3
-		},
-		{
 			"id": 197727583,
 			"name": "slack-bot",
 			"description": "Ready to use Slack bot for lazy developers: start Jenkins jobs, watch Jira tickets, watch pull requests with AI support...",
 			"html_url": "https://github.com/innogames/slack-bot",
 			"homepage": "",
 			"created_at": "2019-07-19T07:49:06Z",
-			"updated_at": "2023-10-05T02:19:16Z",
+			"updated_at": "2023-12-27T08:53:46Z",
 			"svn_url": "https://github.com/innogames/slack-bot",
-			"stargazers_count": 149,
-			"watchers_count": 149,
-			"forks_count": 44,
-			"open_issues_count": 8
+			"stargazers_count": 158,
+			"watchers_count": 158,
+			"forks_count": 46,
+			"open_issues_count": 6
+		},
+		{
+			"id": 68359729,
+			"name": "hanu",
+			"description": "Golang Framework for writing Slack bots",
+			"html_url": "https://github.com/sbstjn/hanu",
+			"homepage": "https://sbstjn.com/host-golang-slackbot-on-heroku-with-hanu.html",
+			"created_at": "2016-09-16T07:10:42Z",
+			"updated_at": "2023-12-03T06:19:14Z",
+			"svn_url": "https://github.com/sbstjn/hanu",
+			"stargazers_count": 150,
+			"watchers_count": 150,
+			"forks_count": 24,
+			"open_issues_count": 3
 		},
 		{
 			"id": 76157510,
@@ -220,12 +220,26 @@
 			"html_url": "https://github.com/olebedev/go-tgbot",
 			"homepage": "",
 			"created_at": "2016-12-11T06:06:32Z",
-			"updated_at": "2023-10-19T10:27:28Z",
+			"updated_at": "2023-12-26T14:05:04Z",
 			"svn_url": "https://github.com/olebedev/go-tgbot",
-			"stargazers_count": 119,
-			"watchers_count": 119,
+			"stargazers_count": 117,
+			"watchers_count": 117,
 			"forks_count": 4,
 			"open_issues_count": 2
+		},
+		{
+			"id": 114780542,
+			"name": "ephemeral-roles",
+			"description": "A Discord bot for managing ephemeral roles based upon voice channel member presence.",
+			"html_url": "https://github.com/ewohltman/ephemeral-roles",
+			"homepage": "",
+			"created_at": "2017-12-19T15:20:30Z",
+			"updated_at": "2023-11-22T10:35:18Z",
+			"svn_url": "https://github.com/ewohltman/ephemeral-roles",
+			"stargazers_count": 83,
+			"watchers_count": 83,
+			"forks_count": 10,
+			"open_issues_count": 6
 		},
 		{
 			"id": 46615496,
@@ -240,20 +254,6 @@
 			"watchers_count": 81,
 			"forks_count": 15,
 			"open_issues_count": 2
-		},
-		{
-			"id": 114780542,
-			"name": "ephemeral-roles",
-			"description": "A Discord bot for managing ephemeral roles based upon voice channel member presence.",
-			"html_url": "https://github.com/ewohltman/ephemeral-roles",
-			"homepage": "",
-			"created_at": "2017-12-19T15:20:30Z",
-			"updated_at": "2023-09-25T20:00:44Z",
-			"svn_url": "https://github.com/ewohltman/ephemeral-roles",
-			"stargazers_count": 81,
-			"watchers_count": 81,
-			"forks_count": 10,
-			"open_issues_count": 6
 		},
 		{
 			"id": 44722940,
@@ -276,10 +276,10 @@
 			"html_url": "https://github.com/nikepan/govkbot",
 			"homepage": "",
 			"created_at": "2016-07-11T22:09:54Z",
-			"updated_at": "2023-10-24T12:10:37Z",
+			"updated_at": "2023-11-30T11:22:04Z",
 			"svn_url": "https://github.com/nikepan/govkbot",
-			"stargazers_count": 45,
-			"watchers_count": 45,
+			"stargazers_count": 46,
+			"watchers_count": 46,
 			"forks_count": 6,
 			"open_issues_count": 1
 		},
