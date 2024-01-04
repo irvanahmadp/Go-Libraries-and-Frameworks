@@ -1,7 +1,7 @@
 {
 	"name": "Utilities",
-	"index_last_check": 114,
-	"last_update": 1704245348,
+	"index_last_check": 0,
+	"last_update": 1704380032,
 	"libraries": [
 		{
 			"id": 13807606,
@@ -52,12 +52,12 @@
 			"html_url": "https://github.com/jmoiron/sqlx",
 			"homepage": "http://jmoiron.github.io/sqlx/",
 			"created_at": "2013-01-28T19:40:00Z",
-			"updated_at": "2023-11-08T13:38:53Z",
+			"updated_at": "2024-01-03T19:15:23Z",
 			"svn_url": "https://github.com/jmoiron/sqlx",
-			"stargazers_count": 14553,
-			"watchers_count": 14553,
-			"forks_count": 1051,
-			"open_issues_count": 342
+			"stargazers_count": 14793,
+			"watchers_count": 14793,
+			"forks_count": 1059,
+			"open_issues_count": 346
 		},
 		{
 			"id": 77071454,
@@ -80,10 +80,10 @@
 			"html_url": "https://github.com/asciimoo/wuzz",
 			"homepage": "",
 			"created_at": "2017-01-30T21:22:00Z",
-			"updated_at": "2023-11-07T20:00:20Z",
+			"updated_at": "2024-01-03T14:14:31Z",
 			"svn_url": "https://github.com/asciimoo/wuzz",
-			"stargazers_count": 10392,
-			"watchers_count": 10392,
+			"stargazers_count": 10415,
+			"watchers_count": 10415,
 			"forks_count": 434,
 			"open_issues_count": 47
 		},
@@ -94,12 +94,12 @@
 			"html_url": "https://github.com/xo/usql",
 			"homepage": "",
 			"created_at": "2017-03-02T13:03:21Z",
-			"updated_at": "2023-11-08T06:22:44Z",
+			"updated_at": "2024-01-04T14:52:36Z",
 			"svn_url": "https://github.com/xo/usql",
-			"stargazers_count": 8285,
-			"watchers_count": 8285,
-			"forks_count": 336,
-			"open_issues_count": 71
+			"stargazers_count": 8386,
+			"watchers_count": 8386,
+			"forks_count": 335,
+			"open_issues_count": 69
 		},
 		{
 			"id": 20553267,
@@ -248,11 +248,11 @@
 			"html_url": "https://github.com/briandowns/spinner",
 			"homepage": "",
 			"created_at": "2014-12-13T00:36:19Z",
-			"updated_at": "2023-11-07T12:38:47Z",
+			"updated_at": "2024-01-03T11:15:13Z",
 			"svn_url": "https://github.com/briandowns/spinner",
-			"stargazers_count": 2177,
-			"watchers_count": 2177,
-			"forks_count": 131,
+			"stargazers_count": 2207,
+			"watchers_count": 2207,
+			"forks_count": 132,
 			"open_issues_count": 13
 		},
 		{
@@ -262,11 +262,11 @@
 			"html_url": "https://github.com/asdine/storm",
 			"homepage": "",
 			"created_at": "2016-01-10T12:55:59Z",
-			"updated_at": "2023-11-06T09:40:44Z",
+			"updated_at": "2024-01-03T14:13:12Z",
 			"svn_url": "https://github.com/asdine/storm",
-			"stargazers_count": 2010,
-			"watchers_count": 2010,
-			"forks_count": 139,
+			"stargazers_count": 2019,
+			"watchers_count": 2019,
+			"forks_count": 141,
 			"open_issues_count": 64
 		},
 		{
@@ -340,6 +340,20 @@
 			"open_issues_count": 72
 		},
 		{
+			"id": 276623678,
+			"name": "scany",
+			"description": "Library for scanning data from a database into Go structs and more",
+			"html_url": "https://github.com/georgysavva/scany",
+			"homepage": "",
+			"created_at": "2020-07-02T11:02:58Z",
+			"updated_at": "2024-01-04T09:03:26Z",
+			"svn_url": "https://github.com/georgysavva/scany",
+			"stargazers_count": 1095,
+			"watchers_count": 1095,
+			"forks_count": 58,
+			"open_issues_count": 4
+		},
+		{
 			"id": 21960219,
 			"name": "circuitbreaker",
 			"description": "Circuit Breakers in Go",
@@ -352,20 +366,6 @@
 			"watchers_count": 1094,
 			"forks_count": 154,
 			"open_issues_count": 20
-		},
-		{
-			"id": 276623678,
-			"name": "scany",
-			"description": "Library for scanning data from a database into Go structs and more",
-			"html_url": "https://github.com/georgysavva/scany",
-			"homepage": "",
-			"created_at": "2020-07-02T11:02:58Z",
-			"updated_at": "2023-11-07T00:07:42Z",
-			"svn_url": "https://github.com/georgysavva/scany",
-			"stargazers_count": 1065,
-			"watchers_count": 1065,
-			"forks_count": 58,
-			"open_issues_count": 4
 		},
 		{
 			"id": 247263781,
@@ -536,6 +536,20 @@
 			"open_issues_count": 0
 		},
 		{
+			"id": 112260492,
+			"name": "scan",
+			"description": "Tiny lib to scan SQL rows directly to structs, slices, and primitive types",
+			"html_url": "https://github.com/blockloop/scan",
+			"homepage": "",
+			"created_at": "2017-11-27T23:22:18Z",
+			"updated_at": "2024-01-03T23:27:23Z",
+			"svn_url": "https://github.com/blockloop/scan",
+			"stargazers_count": 477,
+			"watchers_count": 477,
+			"forks_count": 30,
+			"open_issues_count": 0
+		},
+		{
 			"id": 124531976,
 			"name": "gubrak",
 			"description": "⚙️ Golang functional utility library with syntactic sugar. It's like lodash, but for Go",
@@ -547,20 +561,6 @@
 			"stargazers_count": 469,
 			"watchers_count": 469,
 			"forks_count": 39,
-			"open_issues_count": 0
-		},
-		{
-			"id": 112260492,
-			"name": "scan",
-			"description": "Tiny lib to scan SQL rows directly to structs, slices, and primitive types",
-			"html_url": "https://github.com/blockloop/scan",
-			"homepage": "",
-			"created_at": "2017-11-27T23:22:18Z",
-			"updated_at": "2023-10-30T14:39:03Z",
-			"svn_url": "https://github.com/blockloop/scan",
-			"stargazers_count": 460,
-			"watchers_count": 460,
-			"forks_count": 30,
 			"open_issues_count": 0
 		},
 		{
@@ -654,10 +654,10 @@
 			"html_url": "https://github.com/syntaqx/serve",
 			"homepage": "https://syntaqx-serve.herokuapp.com/",
 			"created_at": "2019-01-10T23:31:52Z",
-			"updated_at": "2023-10-31T00:04:12Z",
+			"updated_at": "2024-01-02T17:37:18Z",
 			"svn_url": "https://github.com/syntaqx/serve",
-			"stargazers_count": 312,
-			"watchers_count": 312,
+			"stargazers_count": 320,
+			"watchers_count": 320,
 			"forks_count": 20,
 			"open_issues_count": 7
 		},
@@ -668,10 +668,10 @@
 			"html_url": "https://github.com/shomali11/util",
 			"homepage": "",
 			"created_at": "2017-05-24T00:21:29Z",
-			"updated_at": "2023-11-07T19:18:10Z",
+			"updated_at": "2023-12-14T22:58:44Z",
 			"svn_url": "https://github.com/shomali11/util",
-			"stargazers_count": 280,
-			"watchers_count": 280,
+			"stargazers_count": 281,
+			"watchers_count": 281,
 			"forks_count": 40,
 			"open_issues_count": 1
 		},
@@ -766,10 +766,10 @@
 			"html_url": "https://github.com/viant/toolbox",
 			"homepage": "",
 			"created_at": "2016-06-13T19:33:35Z",
-			"updated_at": "2023-08-28T01:56:38Z",
+			"updated_at": "2023-12-15T10:53:37Z",
 			"svn_url": "https://github.com/viant/toolbox",
-			"stargazers_count": 193,
-			"watchers_count": 193,
+			"stargazers_count": 194,
+			"watchers_count": 194,
 			"forks_count": 29,
 			"open_issues_count": 4
 		},
@@ -850,10 +850,10 @@
 			"html_url": "https://github.com/VividCortex/robustly",
 			"homepage": "",
 			"created_at": "2013-07-08T13:27:10Z",
-			"updated_at": "2023-10-05T13:34:37Z",
+			"updated_at": "2023-12-23T07:30:53Z",
 			"svn_url": "https://github.com/VividCortex/robustly",
-			"stargazers_count": 156,
-			"watchers_count": 156,
+			"stargazers_count": 157,
+			"watchers_count": 157,
 			"forks_count": 8,
 			"open_issues_count": 1
 		},
@@ -990,10 +990,10 @@
 			"html_url": "https://github.com/jfcg/sorty",
 			"homepage": "",
 			"created_at": "2019-02-18T21:05:45Z",
-			"updated_at": "2023-09-20T09:34:54Z",
+			"updated_at": "2023-12-20T16:17:08Z",
 			"svn_url": "https://github.com/jfcg/sorty",
-			"stargazers_count": 123,
-			"watchers_count": 123,
+			"stargazers_count": 124,
+			"watchers_count": 124,
 			"forks_count": 5,
 			"open_issues_count": 0
 		},
@@ -1050,7 +1050,7 @@
 			"svn_url": "https://github.com/monmohan/xferspdy",
 			"stargazers_count": 99,
 			"watchers_count": 99,
-			"forks_count": 12,
+			"forks_count": 13,
 			"open_issues_count": 3
 		},
 		{
@@ -1298,10 +1298,10 @@
 			"html_url": "https://github.com/ztrue/shutdown",
 			"homepage": "",
 			"created_at": "2018-11-17T17:56:03Z",
-			"updated_at": "2023-10-29T02:43:43Z",
+			"updated_at": "2023-12-14T02:34:24Z",
 			"svn_url": "https://github.com/ztrue/shutdown",
-			"stargazers_count": 52,
-			"watchers_count": 52,
+			"stargazers_count": 55,
+			"watchers_count": 55,
 			"forks_count": 7,
 			"open_issues_count": 0
 		},
@@ -1348,20 +1348,6 @@
 			"open_issues_count": 10
 		},
 		{
-			"id": 93875831,
-			"name": "retry-go",
-			"description": "Retrying made simple and easy for golang :repeat: ",
-			"html_url": "https://github.com/rafaeljesus/retry-go",
-			"homepage": "",
-			"created_at": "2017-06-09T16:07:37Z",
-			"updated_at": "2023-08-07T15:40:30Z",
-			"svn_url": "https://github.com/rafaeljesus/retry-go",
-			"stargazers_count": 48,
-			"watchers_count": 48,
-			"forks_count": 6,
-			"open_issues_count": 2
-		},
-		{
 			"id": 32166015,
 			"name": "goback",
 			"description": "Golang simple exponential backoff package.",
@@ -1374,6 +1360,20 @@
 			"watchers_count": 48,
 			"forks_count": 9,
 			"open_issues_count": 6
+		},
+		{
+			"id": 93875831,
+			"name": "retry-go",
+			"description": "Retrying made simple and easy for golang :repeat: ",
+			"html_url": "https://github.com/rafaeljesus/retry-go",
+			"homepage": "",
+			"created_at": "2017-06-09T16:07:37Z",
+			"updated_at": "2023-11-15T21:04:04Z",
+			"svn_url": "https://github.com/rafaeljesus/retry-go",
+			"stargazers_count": 47,
+			"watchers_count": 47,
+			"forks_count": 6,
+			"open_issues_count": 2
 		},
 		{
 			"id": 94195174,
@@ -1628,6 +1628,20 @@
 			"open_issues_count": 1
 		},
 		{
+			"id": 101477714,
+			"name": "structs",
+			"description": "Golang struct operations.",
+			"html_url": "https://github.com/PumpkinSeed/structs",
+			"homepage": "",
+			"created_at": "2017-08-26T09:59:00Z",
+			"updated_at": "2023-12-29T08:01:20Z",
+			"svn_url": "https://github.com/PumpkinSeed/structs",
+			"stargazers_count": 24,
+			"watchers_count": 24,
+			"forks_count": 3,
+			"open_issues_count": 0
+		},
+		{
 			"id": 230120857,
 			"name": "ptr",
 			"description": "Contains functions for simplified creation of pointers from constants of basic types",
@@ -1640,20 +1654,6 @@
 			"watchers_count": 23,
 			"forks_count": 4,
 			"open_issues_count": 1
-		},
-		{
-			"id": 101477714,
-			"name": "structs",
-			"description": "Golang struct operations.",
-			"html_url": "https://github.com/PumpkinSeed/structs",
-			"homepage": "",
-			"created_at": "2017-08-26T09:59:00Z",
-			"updated_at": "2023-05-14T16:06:11Z",
-			"svn_url": "https://github.com/PumpkinSeed/structs",
-			"stargazers_count": 22,
-			"watchers_count": 22,
-			"forks_count": 3,
-			"open_issues_count": 0
 		},
 		{
 			"id": 190779574,
