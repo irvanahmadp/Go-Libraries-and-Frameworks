@@ -689,18 +689,18 @@ libraries for building and using SQL
 ### Database Drivers - Search and Analytic Databases
 
 
-<sup>*Last Update: 2023-11-18 20:15:35*</sup>
+<sup>*Last Update: 2024-01-05 08:07:34*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [bleve](https://github.com/blevesearch/bleve) | 9,340 | 695 | 303 | A modern text indexing library for go | 2014-04-17 21:02:18 | 2023-11-18 08:59:22 |
-| [elastic](https://olivere.github.io/elastic/) | 7,254 | 1,204 | 106 | Deprecated: Use the official Elasticsearch client for Go at https://github.com/elastic/go-elasticsearch | 2012-12-06 17:15:33 | 2023-11-17 04:00:32 |
-| [riot](https://github.com/go-ego/riot) | 6,095 | 483 | 50 | Go Open Source, Distributed, Simple and efficient Search Engine; Warning: This is V1 and beta version, because of big memory consume, and the V2 will be rewrite all code. | 2017-06-21 14:17:59 | 2023-11-16 09:34:19 |
-| [go-elasticsearch](https://github.com/elastic/go-elasticsearch#go-elasticsearch) | 5,246 | 610 | 48 | The official Go client for Elasticsearch | 2017-03-27 17:56:15 | 2023-11-18 09:57:49 |
-| [elasticsql](https://github.com/cch123/elasticsql) | 1,108 | 195 | 10 | convert sql to elasticsearch DSL in golang(go) | 2016-08-24 07:29:43 | 2023-11-13 02:56:51 |
-| [elastigo](https://github.com/mattbaird/elastigo) | 949 | 254 | 70 | A Go (golang) based Elasticsearch client library. | 2012-10-12 04:19:59 | 2023-11-10 15:47:05 |
+| [bleve](https://github.com/blevesearch/bleve) | 9,414 | 703 | 301 | A modern text indexing library for go | 2014-04-17 21:02:18 | 2024-01-04 19:38:34 |
+| [elastic](https://olivere.github.io/elastic/) | 7,261 | 1,204 | 108 | Deprecated: Use the official Elasticsearch client for Go at https://github.com/elastic/go-elasticsearch | 2012-12-06 17:15:33 | 2024-01-04 22:50:36 |
+| [riot](https://github.com/go-ego/riot) | 6,096 | 484 | 50 | Go Open Source, Distributed, Simple and efficient Search Engine; Warning: This is V1 and beta version, because of big memory consume, and the V2 will be rewrite all code. | 2017-06-21 14:17:59 | 2024-01-04 16:15:06 |
+| [go-elasticsearch](https://github.com/elastic/go-elasticsearch#go-elasticsearch) | 5,314 | 616 | 46 | The official Go client for Elasticsearch | 2017-03-27 17:56:15 | 2024-01-04 16:12:42 |
+| [elasticsql](https://github.com/cch123/elasticsql) | 1,121 | 196 | 10 | convert sql to elasticsearch DSL in golang(go) | 2016-08-24 07:29:43 | 2024-01-03 05:38:44 |
+| [elastigo](https://github.com/mattbaird/elastigo) | 948 | 253 | 70 | A Go (golang) based Elasticsearch client library. | 2012-10-12 04:19:59 | 2023-12-11 06:17:24 |
 | [skizze](https://github.com/seiflotfy/skizze) | 88 | 9 | 0 | A probabilistic data structure service and storage | 2016-01-17 12:10:40 | 2023-05-24 04:56:57 |
 | [goes](http://godoc.org/github.com/belogik/goes) | 30 | 14 | 0 | A library to interact with Elasticsearch in Go! | 2015-12-28 18:52:03 | 2023-09-28 14:15:37 |
 </details>
@@ -1166,52 +1166,52 @@ Tools for managing and working with Goroutines.
 ### Images
 Libraries for manipulating images.
 
-<sup>*Last Update: 2023-11-09 08:25:03*</sup>
+<sup>*Last Update: 2024-01-05 08:06:52*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [gocv](https://gocv.io) | 5,849 | 867 | 289 | Go package for computer vision using OpenCV 4 and beyond. | 2017-09-18 21:54:17 | 2023-11-08 14:24:45 |
-| [imaginary](https://fly.io/docs/app-guides/run-a-global-image-service/) | 5,153 | 440 | 118 | Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing | 2015-03-04 18:51:40 | 2023-11-08 17:34:46 |
-| [imaging](https://github.com/disintegration/imaging) | 4,878 | 402 | 28 | Imaging is a simple image processing package for Go | 2012-12-06 20:21:21 | 2023-11-08 00:36:08 |
-| [gg](https://godoc.org/github.com/fogleman/gg) | 4,130 | 391 | 88 | Go Graphics - 2D rendering in Go with a simple API. | 2016-02-18 21:05:08 | 2023-11-09 00:49:32 |
-| [bild](https://github.com/anthonynsimon/bild) | 3,853 | 265 | 19 | Image processing algorithms in pure Go | 2016-08-01 15:54:29 | 2023-11-07 08:53:09 |
-| [ln](https://godoc.org/github.com/fogleman/ln/ln) | 3,206 | 129 | 12 | 3D line art engine. | 2016-01-10 04:28:10 | 2023-11-07 21:48:44 |
-| [resize](https://github.com/nfnt/resize) | 2,970 | 318 | 12 | Pure golang image resizing  | 2012-08-02 19:48:26 | 2023-11-07 07:57:52 |
-| [bimg](https://pkg.go.dev/github.com/h2non/bimg?tab=doc) | 2,404 | 341 | 164 | Go package for fast high-level image processing powered by libvips C library | 2015-03-17 14:14:02 | 2023-11-06 23:52:45 |
-| [pt](http://bit.ly/1E7rSoi) | 2,055 | 121 | 9 | A path tracer written in Go. | 2015-01-23 19:39:29 | 2023-10-24 14:35:47 |
-| [svgo](https://github.com/ajstarks/svgo) | 2,053 | 172 | 12 | Go Language Library for SVG generation | 2010-03-05 23:24:10 | 2023-11-07 12:33:39 |
-| [picfit](http://bit.ly/1E7rSoi) | 1,909 | 172 | 12 | An image resizing server written in Go | 2014-12-06 17:30:45 | 2023-11-08 23:33:39 |
-| [smartcrop](https://github.com/muesli/smartcrop) | 1,764 | 114 | 8 | smartcrop finds good image crops for arbitrary crop sizes | 2014-04-07 22:40:03 | 2023-11-07 10:17:32 |
-| [gift](https://godoc.org/github.com/fogleman/gg) | 1,684 | 170 | 4 | Go Image Filtering Toolkit | 2014-07-12 18:47:40 | 2023-11-08 13:51:16 |
-| [imagick](https://godoc.org/github.com/gographics/imagick/imagick) | 1,635 | 178 | 4 | Go binding to ImageMagick's MagickWand C API | 2013-04-30 17:31:48 | 2023-11-02 01:56:09 |
-| [canvas](https://github.com/tdewolff/canvas) | 1,352 | 85 | 10 | Cairo in Go: vector to raster, SVG, PDF, EPS, WASM, OpenGL, Gio, etc. | 2017-05-20 18:10:51 | 2023-11-05 13:30:35 |
-| [go-opencv](https://github.com/go-opencv/go-opencv) | 1,310 | 230 | 45 | Go bindings for OpenCV / 2.x API in gocv / 1.x API in opencv | 2013-12-09 09:43:26 | 2023-10-18 12:47:55 |
-| [geopattern](https://github.com/pravj/geopattern) | 1,251 | 72 | 3 | :triangular_ruler: Create beautiful generative image patterns from a string in golang. | 2014-10-22 17:26:30 | 2023-11-07 12:38:32 |
-| [stegify](https://github.com/DimitarPetrov/stegify) | 1,135 | 118 | 0 | 🔍 Go tool for LSB steganography, capable of hiding any file within an image. | 2018-11-29 16:45:58 | 2023-11-04 16:22:49 |
-| [govips](https://github.com/davidbyttow/govips) | 1,009 | 226 | 41 | A lightning fast image processing and resizing library for Go | 2016-12-25 04:32:56 | 2023-11-07 20:46:12 |
-| [image2ascii](https://github.com/qeesung/image2ascii) | 801 | 70 | 9 | :foggy: Convert image to ASCII | 2018-10-20 05:06:25 | 2023-11-07 22:24:13 |
-| [goimagehash](https://github.com/corona10/goimagehash) | 649 | 65 | 10 | Go Perceptual image hashing package | 2017-07-28 17:15:58 | 2023-11-08 00:34:30 |
-| [draft](https://github.com/lucasepe/draft) | 575 | 29 | 0 | Generate High Level Cloud Architecture diagrams using YAML syntax. | 2020-06-05 16:11:40 | 2023-10-20 08:56:13 |
-| [govatar](https://github.com/o1egl/govatar) | 572 | 44 | 1 | Avatar generation library for GO language | 2016-01-18 12:12:28 | 2023-10-30 10:54:51 |
-| [mort](https://github.com/aldor007/mort) | 486 | 23 | 6 | Storage and image processing server written in Go | 2017-11-19 13:37:58 | 2023-10-25 13:59:17 |
-| [go-nude](https://github.com/koyachi/go-nude) | 394 | 48 | 3 | Nudity detection with Go. | 2014-05-02 08:32:29 | 2023-10-26 11:14:18 |
-| [steganography](https://github.com/auyer/steganography) | 270 | 41 | 0 | Pure Golang Library that allows LSB steganography on images using ZERO dependencies | 2018-05-21 17:27:36 | 2023-11-07 15:57:44 |
-| [darkroom](https://www.gojek.io/darkroom/) | 221 | 41 | 10 | Cairo in Go: vector to raster, SVG, PDF, EPS, WASM, OpenGL, Gio, etc. | 2019-07-01 10:17:08 | 2023-11-07 12:51:53 |
-| [gltf](https://www.khronos.org/gltf/) | 215 | 31 | 7 | :eyeglasses: Go library for encoding glTF 2.0 files | 2019-01-15 17:43:54 | 2023-11-01 19:30:26 |
+| [gocv](https://gocv.io) | 5,953 | 880 | 299 | Go package for computer vision using OpenCV 4 and beyond. | 2017-09-18 21:54:17 | 2024-01-04 15:49:09 |
+| [imaginary](https://fly.io/docs/app-guides/run-a-global-image-service/) | 5,207 | 442 | 117 | Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing | 2015-03-04 18:51:40 | 2024-01-04 15:59:08 |
+| [imaging](https://github.com/disintegration/imaging) | 4,954 | 407 | 28 | Imaging is a simple image processing package for Go | 2012-12-06 20:21:21 | 2024-01-04 16:01:00 |
+| [gg](https://godoc.org/github.com/fogleman/gg) | 4,184 | 398 | 91 | Go Graphics - 2D rendering in Go with a simple API. | 2016-02-18 21:05:08 | 2024-01-04 23:22:42 |
+| [bild](https://github.com/anthonynsimon/bild) | 3,878 | 269 | 20 | Image processing algorithms in pure Go | 2016-08-01 15:54:29 | 2024-01-04 23:23:57 |
+| [ln](https://godoc.org/github.com/fogleman/ln/ln) | 3,218 | 132 | 12 | 3D line art engine. | 2016-01-10 04:28:10 | 2024-01-04 16:02:40 |
+| [resize](https://github.com/nfnt/resize) | 2,986 | 320 | 12 | Pure golang image resizing  | 2012-08-02 19:48:26 | 2024-01-04 00:41:09 |
+| [bimg](https://pkg.go.dev/github.com/h2non/bimg?tab=doc) | 2,450 | 342 | 170 | Go package for fast high-level image processing powered by libvips C library | 2015-03-17 14:14:02 | 2024-01-04 15:59:17 |
+| [svgo](https://github.com/ajstarks/svgo) | 2,067 | 171 | 12 | Go Language Library for SVG generation | 2010-03-05 23:24:10 | 2024-01-02 20:30:27 |
+| [pt](http://bit.ly/1E7rSoi) | 2,060 | 121 | 9 | A path tracer written in Go. | 2015-01-23 19:39:29 | 2024-01-04 15:58:47 |
+| [picfit](http://bit.ly/1E7rSoi) | 1,943 | 174 | 14 | An image resizing server written in Go | 2014-12-06 17:30:45 | 2024-01-02 16:51:00 |
+| [smartcrop](https://github.com/muesli/smartcrop) | 1,778 | 114 | 8 | smartcrop finds good image crops for arbitrary crop sizes | 2014-04-07 22:40:03 | 2024-01-04 15:56:34 |
+| [gift](https://godoc.org/github.com/fogleman/gg) | 1,702 | 175 | 4 | Go Image Filtering Toolkit | 2014-07-12 18:47:40 | 2024-01-03 17:04:49 |
+| [imagick](https://godoc.org/github.com/gographics/imagick/imagick) | 1,655 | 180 | 4 | Go binding to ImageMagick's MagickWand C API | 2013-04-30 17:31:48 | 2024-01-04 19:30:39 |
+| [canvas](https://github.com/tdewolff/canvas) | 1,377 | 87 | 10 | Cairo in Go: vector to raster, SVG, PDF, EPS, WASM, OpenGL, Gio, etc. | 2017-05-20 18:10:51 | 2024-01-04 16:14:13 |
+| [go-opencv](https://github.com/go-opencv/go-opencv) | 1,312 | 235 | 45 | Go bindings for OpenCV / 2.x API in gocv / 1.x API in opencv | 2013-12-09 09:43:26 | 2023-12-31 04:34:16 |
+| [geopattern](https://github.com/pravj/geopattern) | 1,259 | 71 | 3 | :triangular_ruler: Create beautiful generative image patterns from a string in golang. | 2014-10-22 17:26:30 | 2023-12-29 06:21:33 |
+| [stegify](https://github.com/DimitarPetrov/stegify) | 1,147 | 117 | 0 | 🔍 Go tool for LSB steganography, capable of hiding any file within an image. | 2018-11-29 16:45:58 | 2024-01-04 16:28:31 |
+| [govips](https://github.com/davidbyttow/govips) | 1,058 | 227 | 40 | A lightning fast image processing and resizing library for Go | 2016-12-25 04:32:56 | 2024-01-04 16:10:02 |
+| [image2ascii](https://github.com/qeesung/image2ascii) | 819 | 73 | 9 | :foggy: Convert image to ASCII | 2018-10-20 05:06:25 | 2024-01-04 23:12:34 |
+| [goimagehash](https://github.com/corona10/goimagehash) | 667 | 66 | 10 | Go Perceptual image hashing package | 2017-07-28 17:15:58 | 2024-01-02 08:35:37 |
+| [govatar](https://github.com/o1egl/govatar) | 574 | 45 | 1 | Avatar generation library for GO language | 2016-01-18 12:12:28 | 2024-01-04 00:13:24 |
+| [draft](https://github.com/lucasepe/draft) | 572 | 29 | 0 | Generate High Level Cloud Architecture diagrams using YAML syntax. | 2020-06-05 16:11:40 | 2024-01-04 16:46:44 |
+| [mort](https://github.com/aldor007/mort) | 493 | 23 | 6 | Storage and image processing server written in Go | 2017-11-19 13:37:58 | 2024-01-04 16:18:46 |
+| [go-nude](https://github.com/koyachi/go-nude) | 395 | 48 | 3 | Nudity detection with Go. | 2014-05-02 08:32:29 | 2023-11-12 15:27:45 |
+| [steganography](https://github.com/auyer/steganography) | 278 | 40 | 0 | Pure Golang Library that allows LSB steganography on images using ZERO dependencies | 2018-05-21 17:27:36 | 2023-12-31 03:25:52 |
+| [darkroom](https://www.gojek.io/darkroom/) | 225 | 41 | 10 | Cairo in Go: vector to raster, SVG, PDF, EPS, WASM, OpenGL, Gio, etc. | 2019-07-01 10:17:08 | 2023-12-31 03:22:08 |
+| [gltf](https://www.khronos.org/gltf/) | 221 | 31 | 7 | :eyeglasses: Go library for encoding glTF 2.0 files | 2019-01-15 17:43:54 | 2023-12-25 07:33:05 |
+| [mergi](http://mergi.io/) | 214 | 28 | 2 | go library for image programming (merge, crop, resize, watermark, animate, ease, transit) | 2018-09-24 03:40:47 | 2023-12-29 14:53:12 |
 | [rez](https://github.com/bamiaux/rez) | 209 | 19 | 1 | Image resizing in pure Go and SIMD | 2014-01-16 21:16:15 | 2023-09-08 16:44:49 |
-| [mergi](http://mergi.io/) | 209 | 28 | 2 | go library for image programming (merge, crop, resize, watermark, animate, ease, transit) | 2018-09-24 03:40:47 | 2023-10-07 06:30:38 |
-| [img](hawx.me/code/img) | 149 | 12 | 3 | A selection of image manipulation tools | 2012-07-28 19:57:47 | 2023-09-08 16:34:31 |
-| [go-cairo](https://github.com/ungerik/go-cairo) | 135 | 32 | 1 | Go binding for the cairo graphics library | 2012-08-22 18:27:01 | 2023-06-12 04:35:46 |
-| [cameron](https://pkg.go.dev/github.com/aofei/cameron) | 107 | 11 | 1 | An avatar generator for Go. | 2018-05-05 22:13:11 | 2023-10-17 20:38:01 |
-| [gridder](https://github.com/shomali11/gridder) | 66 | 13 | 0 | A Grid based 2D Graphics library | 2020-04-10 00:13:10 | 2023-10-15 18:10:47 |
-| [webp-server](https://github.com/mehdipourfar/webp-server) | 65 | 14 | 0 | Simple and minimal image server capable of storing, resizing, converting and caching images. | 2020-11-22 12:03:12 | 2023-09-25 15:35:52 |
+| [img](hawx.me/code/img) | 151 | 12 | 4 | A selection of image manipulation tools | 2012-07-28 19:57:47 | 2023-12-17 22:42:02 |
+| [go-cairo](https://github.com/ungerik/go-cairo) | 136 | 32 | 1 | Go binding for the cairo graphics library | 2012-08-22 18:27:01 | 2023-12-14 15:47:00 |
+| [cameron](https://pkg.go.dev/github.com/aofei/cameron) | 109 | 11 | 1 | An avatar generator for Go. | 2018-05-05 22:13:11 | 2023-12-24 21:20:08 |
+| [gridder](https://github.com/shomali11/gridder) | 69 | 13 | 0 | A Grid based 2D Graphics library | 2020-04-10 00:13:10 | 2023-12-29 14:51:59 |
+| [webp-server](https://github.com/mehdipourfar/webp-server) | 66 | 14 | 0 | Simple and minimal image server capable of storing, resizing, converting and caching images. | 2020-11-22 12:03:12 | 2023-12-07 06:53:45 |
 | [go-gd](https://github.com/bolknote/go-gd) | 59 | 16 | 1 | Go bingings for GD (http://www.boutell.com/gd/) | 2011-05-12 06:33:54 | 2023-07-24 15:27:31 |
 | [goimghdr](https://github.com/corona10/goimghdr) | 40 | 4 | 0 | The imghdr module determines the type of image contained in a file for go | 2018-02-25 09:34:44 | 2023-09-08 17:37:10 |
-| [tga](https://github.com/ftrvxmtrx/tga) | 34 | 12 | 1 | Go package for decoding and encoding TARGA image format | 2012-10-08 01:09:20 | 2023-11-04 10:51:31 |
+| [tga](https://github.com/ftrvxmtrx/tga) | 34 | 13 | 1 | Go package for decoding and encoding TARGA image format | 2012-10-08 01:09:20 | 2023-11-04 10:51:31 |
 | [go-webcolors](https://github.com/jyotiska/go-webcolors) | 27 | 6 | 0 | Port of webcolors library from Python to Go | 2014-04-24 14:41:22 | 2022-09-26 10:43:31 |
-| [mpo](https://donatstudios.com/MPO-to-JPEG-Stereo) | 11 | 4 | 1 | JPEG-MPO Decoder / Converter Library and CLI Tool | 2015-04-14 22:37:59 | 2023-03-19 20:42:57 |
+| [mpo](https://donatstudios.com/MPO-to-JPEG-Stereo) | 12 | 4 | 1 | JPEG-MPO Decoder / Converter Library and CLI Tool | 2015-04-14 22:37:59 | 2023-11-27 01:02:42 |
 </details>
 
 ### IoT (Internet of Things)
@@ -2586,23 +2586,23 @@ General utilities and tools to make your life easier.
 ### Validation
 Libraries for validation.
 
-<sup>*Last Update: 2023-11-17 07:59:53*</sup>
+<sup>*Last Update: 2024-01-05 08:07:28*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [validator](https://github.com/go-playground/validator) | 14,435 | 1,228 | 256 | :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving | 2015-02-12 16:32:22 | 2023-11-16 19:19:54 |
-| [govalidator](https://github.com/asaskevich/govalidator) | 5,833 | 592 | 167 | [Go] Package of validators and sanitizers for strings, numerics, slices and structs | 2014-06-20 10:45:23 | 2023-11-15 11:13:47 |
-| [ozzo-validation](https://github.com/go-ozzo/ozzo-validation) | 3,400 | 215 | 48 | An idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags. | 2016-06-22 03:47:43 | 2023-11-15 06:32:59 |
-| [govalidator](https://github.com/thedevsaddam/govalidator) | 1,253 | 120 | 43 | Validate Golang request data with simple rules. Highly inspired by Laravel's request validation. | 2017-09-13 16:42:20 | 2023-11-13 06:24:48 |
-| [validate](https://gookit.github.io/validate/) | 959 | 113 | 26 | ⚔ Go package for data validation and filtering. support Map, Struct, Form data. Go通用的数据验证与过滤库，使用简单，内置大部分常用验证、过滤器，支持自定义验证器、自定义消息、字段翻译。 | 2018-07-16 08:23:49 | 2023-11-09 14:17:00 |
-| [checkdigit](https://github.com/osamingo/checkdigit) | 103 | 7 | 1 | Provide check digit algorithms and calculators written in Go | 2019-04-05 09:46:36 | 2023-10-07 14:03:27 |
-| [validate](https://gookit.github.io/validate/) | 91 | 21 | 0 | This package provides a framework for writing validations for Go applications. | 2018-02-10 18:25:55 | 2023-10-26 20:45:24 |
-| [jio](https://github.com/faceair/jio) | 91 | 11 | 1 | jio is a json schema validator similar to joi | 2018-10-28 11:02:45 | 2023-10-10 22:40:50 |
+| [validator](https://github.com/go-playground/validator) | 14,768 | 1,235 | 261 | :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving | 2015-02-12 16:32:22 | 2024-01-04 15:58:57 |
+| [govalidator](https://github.com/asaskevich/govalidator) | 5,872 | 597 | 168 | [Go] Package of validators and sanitizers for strings, numerics, slices and structs | 2014-06-20 10:45:23 | 2024-01-04 22:33:14 |
+| [ozzo-validation](https://github.com/go-ozzo/ozzo-validation) | 3,456 | 215 | 49 | An idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags. | 2016-06-22 03:47:43 | 2024-01-04 22:33:11 |
+| [govalidator](https://github.com/thedevsaddam/govalidator) | 1,257 | 122 | 43 | Validate Golang request data with simple rules. Highly inspired by Laravel's request validation. | 2017-09-13 16:42:20 | 2024-01-03 21:35:16 |
+| [validate](https://gookit.github.io/validate/) | 973 | 114 | 25 | ⚔ Go package for data validation and filtering. support Map, Struct, Form data. Go通用的数据验证与过滤库，使用简单，内置大部分常用验证、过滤器，支持自定义验证器、自定义消息、字段翻译。 | 2018-07-16 08:23:49 | 2024-01-04 10:16:11 |
+| [checkdigit](https://github.com/osamingo/checkdigit) | 106 | 7 | 1 | Provide check digit algorithms and calculators written in Go | 2019-04-05 09:46:36 | 2023-12-25 11:34:15 |
+| [jio](https://github.com/faceair/jio) | 93 | 11 | 1 | jio is a json schema validator similar to joi | 2018-10-28 11:02:45 | 2024-01-04 05:06:37 |
+| [validate](https://gookit.github.io/validate/) | 91 | 21 | 0 | This package provides a framework for writing validations for Go applications. | 2018-02-10 18:25:55 | 2023-12-18 17:14:36 |
 | [terraform-validator](https://github.com/thazelart/terraform-validator) | 80 | 9 | 1 | A norms and conventions validator for Terraform | 2019-05-29 11:37:15 | 2023-09-29 13:16:57 |
 | [gody](https://pkg.go.dev/github.com/guiferpa/gody) | 65 | 5 | 1 | :balloon: A lightweight struct validator for Go | 2018-11-01 21:08:16 | 2023-10-15 21:45:58 |
-| [govalid](https://github.com/twharmon/govalid) | 35 | 6 | 1 | Struct validation using tags | 2019-02-17 23:25:43 | 2023-09-27 03:51:47 |
+| [govalid](https://github.com/twharmon/govalid) | 36 | 6 | 1 | Struct validation using tags | 2019-02-17 23:25:43 | 2023-12-25 18:37:20 |
 </details>
 
 ### Version Control
