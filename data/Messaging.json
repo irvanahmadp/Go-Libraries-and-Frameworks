@@ -1,7 +1,7 @@
 {
 	"name": "Messaging",
 	"index_last_check": 0,
-	"last_update": 1699707143,
+	"last_update": 1704545380,
 	"libraries": [
 		{
 			"id": 11206255,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/IBM/sarama",
 			"homepage": "",
 			"created_at": "2013-07-05T18:52:38Z",
-			"updated_at": "2023-11-11T07:56:00Z",
+			"updated_at": "2024-01-05T14:46:15Z",
 			"svn_url": "https://github.com/IBM/sarama",
-			"stargazers_count": 10510,
-			"watchers_count": 10510,
-			"forks_count": 1752,
-			"open_issues_count": 180
+			"stargazers_count": 10678,
+			"watchers_count": 10678,
+			"forks_count": 1760,
+			"open_issues_count": 150
 		},
 		{
 			"id": 221849341,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/hibiken/asynq",
 			"homepage": "",
 			"created_at": "2019-11-15T05:17:55Z",
-			"updated_at": "2023-11-11T12:04:33Z",
+			"updated_at": "2024-01-06T08:53:31Z",
 			"svn_url": "https://github.com/hibiken/asynq",
-			"stargazers_count": 7508,
-			"watchers_count": 7508,
-			"forks_count": 580,
-			"open_issues_count": 178
+			"stargazers_count": 7952,
+			"watchers_count": 7952,
+			"forks_count": 608,
+			"open_issues_count": 179
 		},
 		{
 			"id": 33208063,
@@ -38,12 +38,12 @@
 			"html_url": "https://github.com/centrifugal/centrifugo",
 			"homepage": "https://centrifugal.dev",
 			"created_at": "2015-03-31T20:26:49Z",
-			"updated_at": "2023-11-10T17:51:09Z",
+			"updated_at": "2024-01-05T20:51:05Z",
 			"svn_url": "https://github.com/centrifugal/centrifugo",
-			"stargazers_count": 7488,
-			"watchers_count": 7488,
-			"forks_count": 553,
-			"open_issues_count": 10
+			"stargazers_count": 7590,
+			"watchers_count": 7590,
+			"forks_count": 562,
+			"open_issues_count": 15
 		},
 		{
 			"id": 54453471,
@@ -52,12 +52,12 @@
 			"html_url": "https://github.com/appleboy/gorush",
 			"homepage": "",
 			"created_at": "2016-03-22T07:15:20Z",
-			"updated_at": "2023-11-11T12:10:37Z",
+			"updated_at": "2024-01-05T09:17:16Z",
 			"svn_url": "https://github.com/appleboy/gorush",
-			"stargazers_count": 7354,
-			"watchers_count": 7354,
-			"forks_count": 864,
-			"open_issues_count": 49
+			"stargazers_count": 7426,
+			"watchers_count": 7426,
+			"forks_count": 868,
+			"open_issues_count": 51
 		},
 		{
 			"id": 33452903,
@@ -66,12 +66,12 @@
 			"html_url": "https://github.com/RichardKnop/machinery",
 			"homepage": "",
 			"created_at": "2015-04-05T19:46:34Z",
-			"updated_at": "2023-11-11T12:25:09Z",
+			"updated_at": "2024-01-05T16:21:12Z",
 			"svn_url": "https://github.com/RichardKnop/machinery",
-			"stargazers_count": 7078,
-			"watchers_count": 7078,
-			"forks_count": 885,
-			"open_issues_count": 225
+			"stargazers_count": 7138,
+			"watchers_count": 7138,
+			"forks_count": 884,
+			"open_issues_count": 224
 		},
 		{
 			"id": 54435102,
@@ -80,12 +80,12 @@
 			"html_url": "https://github.com/benthosdev/benthos",
 			"homepage": "https://www.benthos.dev",
 			"created_at": "2016-03-22T01:18:48Z",
-			"updated_at": "2023-11-11T12:29:17Z",
+			"updated_at": "2024-01-06T12:10:53Z",
 			"svn_url": "https://github.com/benthosdev/benthos",
-			"stargazers_count": 6782,
-			"watchers_count": 6782,
-			"forks_count": 662,
-			"open_issues_count": 401
+			"stargazers_count": 6957,
+			"watchers_count": 6957,
+			"forks_count": 681,
+			"open_issues_count": 434
 		},
 		{
 			"id": 11388110,
@@ -94,12 +94,12 @@
 			"html_url": "https://github.com/googollee/go-socket.io",
 			"homepage": "",
 			"created_at": "2013-07-13T13:04:38Z",
-			"updated_at": "2023-11-10T14:27:46Z",
+			"updated_at": "2024-01-05T23:14:30Z",
 			"svn_url": "https://github.com/googollee/go-socket.io",
-			"stargazers_count": 5385,
-			"watchers_count": 5385,
-			"forks_count": 859,
-			"open_issues_count": 123
+			"stargazers_count": 5435,
+			"watchers_count": 5435,
+			"forks_count": 865,
+			"open_issues_count": 127
 		},
 		{
 			"id": 5425992,
@@ -108,12 +108,12 @@
 			"html_url": "https://github.com/nats-io/nats.go",
 			"homepage": "https://nats.io",
 			"created_at": "2012-08-15T12:54:59Z",
-			"updated_at": "2023-11-11T11:42:54Z",
+			"updated_at": "2024-01-06T08:18:01Z",
 			"svn_url": "https://github.com/nats-io/nats.go",
-			"stargazers_count": 4861,
-			"watchers_count": 4861,
-			"forks_count": 672,
-			"open_issues_count": 122
+			"stargazers_count": 4940,
+			"watchers_count": 4940,
+			"forks_count": 684,
+			"open_issues_count": 130
 		},
 		{
 			"id": 63196359,
@@ -122,12 +122,12 @@
 			"html_url": "https://github.com/confluentinc/confluent-kafka-go",
 			"homepage": "",
 			"created_at": "2016-07-12T22:23:34Z",
-			"updated_at": "2023-11-11T08:38:58Z",
+			"updated_at": "2024-01-06T11:01:20Z",
 			"svn_url": "https://github.com/confluentinc/confluent-kafka-go",
-			"stargazers_count": 4204,
-			"watchers_count": 4204,
-			"forks_count": 653,
-			"open_issues_count": 232
+			"stargazers_count": 4271,
+			"watchers_count": 4271,
+			"forks_count": 659,
+			"open_issues_count": 247
 		},
 		{
 			"id": 140949512,
@@ -136,12 +136,12 @@
 			"html_url": "https://github.com/dunglas/mercure",
 			"homepage": "https://mercure.rocks",
 			"created_at": "2018-07-14T13:47:14Z",
-			"updated_at": "2023-11-11T10:25:32Z",
+			"updated_at": "2024-01-05T08:17:01Z",
 			"svn_url": "https://github.com/dunglas/mercure",
-			"stargazers_count": 3525,
-			"watchers_count": 3525,
-			"forks_count": 267,
-			"open_issues_count": 22
+			"stargazers_count": 3616,
+			"watchers_count": 3616,
+			"forks_count": 272,
+			"open_issues_count": 27
 		},
 		{
 			"id": 35573029,
@@ -150,12 +150,12 @@
 			"html_url": "https://github.com/olahol/melody",
 			"homepage": "",
 			"created_at": "2015-05-13T20:38:32Z",
-			"updated_at": "2023-11-10T08:45:40Z",
+			"updated_at": "2024-01-05T16:54:24Z",
 			"svn_url": "https://github.com/olahol/melody",
-			"stargazers_count": 3327,
-			"watchers_count": 3327,
-			"forks_count": 383,
-			"open_issues_count": 11
+			"stargazers_count": 3394,
+			"watchers_count": 3394,
+			"forks_count": 386,
+			"open_issues_count": 12
 		},
 		{
 			"id": 49032710,
@@ -164,12 +164,12 @@
 			"html_url": "https://github.com/sideshow/apns2",
 			"homepage": "",
 			"created_at": "2016-01-05T00:56:53Z",
-			"updated_at": "2023-11-11T03:23:42Z",
+			"updated_at": "2024-01-04T16:02:36Z",
 			"svn_url": "https://github.com/sideshow/apns2",
-			"stargazers_count": 2879,
-			"watchers_count": 2879,
-			"forks_count": 328,
-			"open_issues_count": 36
+			"stargazers_count": 2897,
+			"watchers_count": 2897,
+			"forks_count": 333,
+			"open_issues_count": 37
 		},
 		{
 			"id": 12448510,
@@ -178,11 +178,11 @@
 			"html_url": "https://github.com/nsqio/go-nsq",
 			"homepage": "",
 			"created_at": "2013-08-29T01:18:32Z",
-			"updated_at": "2023-11-11T05:11:21Z",
+			"updated_at": "2024-01-04T15:55:20Z",
 			"svn_url": "https://github.com/nsqio/go-nsq",
-			"stargazers_count": 2476,
-			"watchers_count": 2476,
-			"forks_count": 468,
+			"stargazers_count": 2496,
+			"watchers_count": 2496,
+			"forks_count": 473,
 			"open_issues_count": 26
 		},
 		{
@@ -192,11 +192,11 @@
 			"html_url": "https://github.com/Terry-Mao/gopush-cluster",
 			"homepage": "",
 			"created_at": "2013-12-27T08:56:10Z",
-			"updated_at": "2023-10-26T02:28:17Z",
+			"updated_at": "2024-01-02T22:20:04Z",
 			"svn_url": "https://github.com/Terry-Mao/gopush-cluster",
-			"stargazers_count": 2077,
-			"watchers_count": 2077,
-			"forks_count": 609,
+			"stargazers_count": 2078,
+			"watchers_count": 2078,
+			"forks_count": 608,
 			"open_issues_count": 5
 		},
 		{
@@ -206,12 +206,12 @@
 			"html_url": "https://github.com/asaskevich/EventBus",
 			"homepage": "",
 			"created_at": "2014-12-19T16:38:39Z",
-			"updated_at": "2023-11-08T07:27:43Z",
+			"updated_at": "2024-01-05T23:19:13Z",
 			"svn_url": "https://github.com/asaskevich/EventBus",
-			"stargazers_count": 1533,
-			"watchers_count": 1533,
-			"forks_count": 238,
-			"open_issues_count": 27
+			"stargazers_count": 1580,
+			"watchers_count": 1580,
+			"forks_count": 250,
+			"open_issues_count": 28
 		},
 		{
 			"id": 2287470,
@@ -220,10 +220,10 @@
 			"html_url": "https://github.com/uniqush/uniqush-push",
 			"homepage": "http://uniqush.org",
 			"created_at": "2011-08-29T08:42:37Z",
-			"updated_at": "2023-11-08T19:53:19Z",
+			"updated_at": "2023-12-30T15:42:24Z",
 			"svn_url": "https://github.com/uniqush/uniqush-push",
-			"stargazers_count": 1516,
-			"watchers_count": 1516,
+			"stargazers_count": 1520,
+			"watchers_count": 1520,
 			"forks_count": 205,
 			"open_issues_count": 73
 		},
@@ -234,12 +234,12 @@
 			"html_url": "https://github.com/Clivern/Beaver",
 			"homepage": "https://clivern.github.io/Beaver/",
 			"created_at": "2018-10-20T21:10:43Z",
-			"updated_at": "2023-11-06T00:23:23Z",
+			"updated_at": "2024-01-04T16:27:14Z",
 			"svn_url": "https://github.com/Clivern/Beaver",
-			"stargazers_count": 1475,
-			"watchers_count": 1475,
-			"forks_count": 82,
-			"open_issues_count": 10
+			"stargazers_count": 1490,
+			"watchers_count": 1490,
+			"forks_count": 83,
+			"open_issues_count": 15
 		},
 		{
 			"id": 13676683,
@@ -248,12 +248,12 @@
 			"html_url": "https://github.com/pebbe/zmq4",
 			"homepage": "http://uniqush.org",
 			"created_at": "2013-10-18T11:48:51Z",
-			"updated_at": "2023-11-08T09:17:07Z",
+			"updated_at": "2024-01-04T15:45:02Z",
 			"svn_url": "https://github.com/pebbe/zmq4",
-			"stargazers_count": 1089,
-			"watchers_count": 1089,
+			"stargazers_count": 1105,
+			"watchers_count": 1105,
 			"forks_count": 166,
-			"open_issues_count": 51
+			"open_issues_count": 52
 		},
 		{
 			"id": 37787279,
@@ -262,10 +262,10 @@
 			"html_url": "https://github.com/trivago/gollum",
 			"homepage": "http://gollum.readthedocs.org/en/latest/",
 			"created_at": "2015-06-20T21:51:20Z",
-			"updated_at": "2023-10-23T11:10:13Z",
+			"updated_at": "2024-01-04T16:00:18Z",
 			"svn_url": "https://github.com/trivago/gollum",
-			"stargazers_count": 934,
-			"watchers_count": 934,
+			"stargazers_count": 935,
+			"watchers_count": 935,
 			"forks_count": 80,
 			"open_issues_count": 22
 		},
@@ -276,12 +276,12 @@
 			"html_url": "https://github.com/godbus/dbus",
 			"homepage": "",
 			"created_at": "2014-03-27T19:07:41Z",
-			"updated_at": "2023-10-30T19:35:46Z",
+			"updated_at": "2024-01-03T09:40:53Z",
 			"svn_url": "https://github.com/godbus/dbus",
-			"stargazers_count": 896,
-			"watchers_count": 896,
-			"forks_count": 218,
-			"open_issues_count": 43
+			"stargazers_count": 908,
+			"watchers_count": 908,
+			"forks_count": 219,
+			"open_issues_count": 44
 		},
 		{
 			"id": 45363664,
@@ -290,11 +290,11 @@
 			"html_url": "https://github.com/jcuga/golongpoll",
 			"homepage": "",
 			"created_at": "2015-11-02T00:32:56Z",
-			"updated_at": "2023-11-09T07:43:36Z",
+			"updated_at": "2024-01-04T16:01:50Z",
 			"svn_url": "https://github.com/jcuga/golongpoll",
-			"stargazers_count": 640,
-			"watchers_count": 640,
-			"forks_count": 61,
+			"stargazers_count": 641,
+			"watchers_count": 641,
+			"forks_count": 62,
 			"open_issues_count": 0
 		},
 		{
@@ -304,10 +304,10 @@
 			"html_url": "https://github.com/nanomsg/mangos",
 			"homepage": "",
 			"created_at": "2018-10-12T17:35:46Z",
-			"updated_at": "2023-11-01T22:51:17Z",
+			"updated_at": "2024-01-04T16:27:02Z",
 			"svn_url": "https://github.com/nanomsg/mangos",
-			"stargazers_count": 610,
-			"watchers_count": 610,
+			"stargazers_count": 619,
+			"watchers_count": 619,
 			"forks_count": 75,
 			"open_issues_count": 26
 		},
@@ -318,10 +318,10 @@
 			"html_url": "https://github.com/olebedev/emitter",
 			"homepage": "",
 			"created_at": "2015-11-10T20:56:36Z",
-			"updated_at": "2023-11-09T07:42:15Z",
+			"updated_at": "2023-12-25T11:36:50Z",
 			"svn_url": "https://github.com/olebedev/emitter",
-			"stargazers_count": 483,
-			"watchers_count": 483,
+			"stargazers_count": 489,
+			"watchers_count": 489,
 			"forks_count": 35,
 			"open_issues_count": 4
 		},
@@ -332,11 +332,11 @@
 			"html_url": "https://github.com/desertbit/glue",
 			"homepage": "",
 			"created_at": "2015-06-07T10:21:15Z",
-			"updated_at": "2023-09-11T06:48:22Z",
+			"updated_at": "2023-11-26T12:19:13Z",
 			"svn_url": "https://github.com/desertbit/glue",
-			"stargazers_count": 408,
-			"watchers_count": 408,
-			"forks_count": 32,
+			"stargazers_count": 410,
+			"watchers_count": 410,
+			"forks_count": 33,
 			"open_issues_count": 5
 		},
 		{
@@ -346,10 +346,10 @@
 			"html_url": "https://github.com/cskr/pubsub",
 			"homepage": "",
 			"created_at": "2012-04-01T06:31:43Z",
-			"updated_at": "2023-10-28T14:04:10Z",
+			"updated_at": "2023-12-07T19:26:17Z",
 			"svn_url": "https://github.com/cskr/pubsub",
-			"stargazers_count": 391,
-			"watchers_count": 391,
+			"stargazers_count": 393,
+			"watchers_count": 393,
 			"forks_count": 65,
 			"open_issues_count": 2
 		},
@@ -360,11 +360,11 @@
 			"html_url": "https://github.com/mustafaturan/bus",
 			"homepage": "https://pkg.go.dev/github.com/mustafaturan/bus/v3?tab=doc",
 			"created_at": "2019-04-27T06:41:53Z",
-			"updated_at": "2023-10-26T11:19:18Z",
+			"updated_at": "2023-12-15T03:15:50Z",
 			"svn_url": "https://github.com/mustafaturan/bus",
-			"stargazers_count": 316,
-			"watchers_count": 316,
-			"forks_count": 21,
+			"stargazers_count": 320,
+			"watchers_count": 320,
+			"forks_count": 23,
 			"open_issues_count": 0
 		},
 		{
@@ -374,11 +374,11 @@
 			"html_url": "https://github.com/vardius/message-bus",
 			"homepage": "http://rafallorenz.com/message-bus",
 			"created_at": "2017-10-04T09:18:34Z",
-			"updated_at": "2023-10-26T02:05:31Z",
+			"updated_at": "2023-12-31T00:55:58Z",
 			"svn_url": "https://github.com/vardius/message-bus",
 			"stargazers_count": 261,
 			"watchers_count": 261,
-			"forks_count": 43,
+			"forks_count": 44,
 			"open_issues_count": 2
 		},
 		{
@@ -416,11 +416,11 @@
 			"html_url": "https://github.com/leandro-lugaresi/hub",
 			"homepage": "",
 			"created_at": "2018-04-13T23:47:13Z",
-			"updated_at": "2023-11-03T06:41:56Z",
+			"updated_at": "2023-12-25T04:12:09Z",
 			"svn_url": "https://github.com/leandro-lugaresi/hub",
-			"stargazers_count": 135,
-			"watchers_count": 135,
-			"forks_count": 17,
+			"stargazers_count": 139,
+			"watchers_count": 139,
+			"forks_count": 18,
 			"open_issues_count": 2
 		},
 		{
@@ -430,10 +430,10 @@
 			"html_url": "https://github.com/robinjoseph08/redisqueue",
 			"homepage": "https://godoc.org/github.com/robinjoseph08/redisqueue",
 			"created_at": "2019-07-07T04:36:54Z",
-			"updated_at": "2023-10-25T16:52:04Z",
+			"updated_at": "2024-01-03T23:03:06Z",
 			"svn_url": "https://github.com/robinjoseph08/redisqueue",
-			"stargazers_count": 114,
-			"watchers_count": 114,
+			"stargazers_count": 116,
+			"watchers_count": 116,
 			"forks_count": 50,
 			"open_issues_count": 7
 		},
@@ -472,7 +472,7 @@
 			"html_url": "https://github.com/cheshir/go-mq",
 			"homepage": "",
 			"created_at": "2017-06-19T16:16:30Z",
-			"updated_at": "2023-09-20T10:31:26Z",
+			"updated_at": "2023-12-20T14:15:58Z",
 			"svn_url": "https://github.com/cheshir/go-mq",
 			"stargazers_count": 88,
 			"watchers_count": 88,
@@ -486,11 +486,11 @@
 			"html_url": "https://github.com/appleboy/drone-line",
 			"homepage": "",
 			"created_at": "2016-09-13T05:21:44Z",
-			"updated_at": "2023-10-23T01:17:51Z",
+			"updated_at": "2023-12-19T17:35:31Z",
 			"svn_url": "https://github.com/appleboy/drone-line",
-			"stargazers_count": 78,
-			"watchers_count": 78,
-			"forks_count": 17,
+			"stargazers_count": 79,
+			"watchers_count": 79,
+			"forks_count": 18,
 			"open_issues_count": 2
 		},
 		{
@@ -556,10 +556,10 @@
 			"html_url": "https://github.com/jirenius/go-res",
 			"homepage": "",
 			"created_at": "2018-07-15T09:10:11Z",
-			"updated_at": "2023-06-17T06:55:57Z",
+			"updated_at": "2023-12-22T14:12:16Z",
 			"svn_url": "https://github.com/jirenius/go-res",
-			"stargazers_count": 63,
-			"watchers_count": 63,
+			"stargazers_count": 62,
+			"watchers_count": 62,
 			"forks_count": 8,
 			"open_issues_count": 8
 		},
@@ -626,10 +626,10 @@
 			"html_url": "https://github.com/alexsniffin/gosd",
 			"homepage": "",
 			"created_at": "2020-05-17T23:19:51Z",
-			"updated_at": "2023-08-09T21:06:16Z",
+			"updated_at": "2023-12-23T22:50:55Z",
 			"svn_url": "https://github.com/alexsniffin/gosd",
-			"stargazers_count": 21,
-			"watchers_count": 21,
+			"stargazers_count": 23,
+			"watchers_count": 23,
 			"forks_count": 5,
 			"open_issues_count": 0
 		},
