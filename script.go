@@ -16,7 +16,7 @@ import (
 	"golang.org/x/text/message"
 )
 
-//App struct
+// App struct
 type App struct {
 	LastUpdate         int64      `json:"last_update"`
 	RateLimit          int        `json:"rate_limit"`
@@ -25,19 +25,19 @@ type App struct {
 	Categories         []Category `json:"categories"`
 }
 
-//Category struct
+// Category struct
 type Category struct {
 	Name        string `json:"name"`
 	Description string `json:"description"`
 	LastUpdate  int64  `json:"last_update"`
 }
 
-//ListURL struct
+// ListURL struct
 type ListURL struct {
 	URLs []string `json:"URLs"`
 }
 
-//CategoryData struct
+// CategoryData struct
 type CategoryData struct {
 	Name           string    `json:"name"`
 	IndexLastCheck int       `json:"index_last_check"`
@@ -45,7 +45,7 @@ type CategoryData struct {
 	Libraries      []Library `json:"libraries"`
 }
 
-//Library struct
+// Library struct
 type Library struct {
 	ID          int       `json:"id"`
 	Name        string    `json:"name"`
@@ -292,7 +292,7 @@ func getCategoryMD(name string, description string, lastUpdate int64, libraries 
 	contentTable := "\n| [%s](%s) | %d | %d | %d | %s | %s | %s |"
 	for _, library := range libraries {
 		repoURL := library.HomePageURL
-		if library.HomePageURL == "" {
+		if repoURL == "" {
 			repoURL = library.RepoURL
 		}
 		repoCreated := library.CreatedAt.Format("2006-01-02 15:04:05")
