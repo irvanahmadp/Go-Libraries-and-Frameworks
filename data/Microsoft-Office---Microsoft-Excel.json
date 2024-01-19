@@ -1,7 +1,7 @@
 {
 	"name": "Microsoft Office - Microsoft Excel",
-	"index_last_check": 3,
-	"last_update": 1703080873,
+	"index_last_check": 0,
+	"last_update": 1705671723,
 	"libraries": [
 		{
 			"id": 66841911,
@@ -57,7 +57,7 @@
 			"stargazers_count": 170,
 			"watchers_count": 170,
 			"forks_count": 25,
-			"open_issues_count": 12
+			"open_issues_count": 13
 		},
 		{
 			"id": 84783303,

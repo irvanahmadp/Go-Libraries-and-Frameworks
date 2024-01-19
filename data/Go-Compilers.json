@@ -1,7 +1,7 @@
 {
 	"name": "Go Compilers",
 	"index_last_check": 0,
-	"last_update": 1705407766,
+	"last_update": 1705671723,
 	"libraries": [
 		{
 			"id": 12418999,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/gopherjs/gopherjs",
 			"homepage": "",
 			"created_at": "2013-08-27T22:23:58Z",
-			"updated_at": "2024-01-16T08:21:48Z",
+			"updated_at": "2024-01-19T10:54:48Z",
 			"svn_url": "https://github.com/gopherjs/gopherjs",
-			"stargazers_count": 12261,
-			"watchers_count": 12261,
+			"stargazers_count": 12268,
+			"watchers_count": 12268,
 			"forks_count": 617,
-			"open_issues_count": 191
+			"open_issues_count": 193
 		},
 		{
 			"id": 15733160,
