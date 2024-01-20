@@ -89,7 +89,7 @@ func main() {
 	saveFile("", appFileName, appDataJSON)
 
 	//update readme
-	readmeApp := getReadmeMD(categories)
+	readmeApp := generateReadmeMarkdown(categories)
 	saveFile("", "README.md", readmeApp)
 }
 
@@ -105,18 +105,15 @@ func getNowUnixTime() int64 {
 	return time.Now().Unix()
 }
 
-func getReadmeMD(categories []Category) []byte {
+func generateReadmeMarkdown(categories []Category) []byte {
 	header := "# Go Libraries and Frameworks\n"
-
 	header += "[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)\n"
 	header += "![Issues](https://img.shields.io/github/issues/IrvanAhmadP/Go-Libraries-and-Frameworks)\n"
 	header += "![License](https://img.shields.io/github/license/IrvanAhmadP/Go-Libraries-and-Frameworks)\n\n"
-
 	header += "List of Go frameworks, libraries and software inspired by [go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars).\n\n"
 	header += "List of frameworks and libraries from [awesome-go](https://github.com/avelino/awesome-go).\n\n"
-	readme := header
+	readme := header + "## Contents\n"
 
-	readme += "## Contents\n"
 	for _, category := range categories {
 		categoryURL := strings.ReplaceAll(category.Name, " ", "-")
 		categoryURL = strings.ReplaceAll(categoryURL, "(", "")
@@ -136,7 +133,7 @@ func getReadmeMD(categories []Category) []byte {
 		if categoryDataFile != nil {
 			err := json.Unmarshal(categoryDataFile, &categoryData)
 			if err != nil {
-				fmt.Println(err)
+				log.Println(err)
 			}
 
 			categoryContent := getCategoryMD(category.Name, category.Description, categoryData.LastUpdate, categoryData.Libraries)
@@ -240,7 +237,7 @@ func updateCategoryDataFile(categories []Category, appData *App) {
 						//jika sudah limit
 						categoryData.Libraries = repositories
 						categoryData.LastUpdate = nowUnixTime
-						saveCategoryDataJSON(categoryData, categoryDataFileName)
+						saveCategoryData(categoryData, categoryDataFileName)
 
 						panic("panic #5 : rate limit already 0")
 					}
@@ -250,7 +247,7 @@ func updateCategoryDataFile(categories []Category, appData *App) {
 			//jika belum limit
 			categoryData.Libraries = repositories
 			categoryData.LastUpdate = nowUnixTime
-			saveCategoryDataJSON(categoryData, categoryDataFileName)
+			saveCategoryData(categoryData, categoryDataFileName)
 
 			categories[indexCategory].LastUpdate = nowUnixTime
 
@@ -266,13 +263,13 @@ func updateCategoryDataFile(categories []Category, appData *App) {
 	}
 }
 
-func saveCategoryDataJSON(categoryData CategoryData, categoryDataFileName string) {
-	libraries := categoryData.Libraries
-	sort.Slice(libraries, func(i, j int) bool {
-		return libraries[i].Stargazers > libraries[j].Stargazers
+func saveCategoryData(categoryData CategoryData, fileName string) {
+	libs := categoryData.Libraries
+	sort.Slice(libs, func(i, j int) bool {
+		return libs[i].Stargazers > libs[j].Stargazers
 	})
-	categoryDataJSON, _ := json.MarshalIndent(categoryData, "", "\t")
-	saveFile("data", categoryDataFileName, categoryDataJSON)
+	dataJSON, _ := json.MarshalIndent(categoryData, "", "\t")
+	saveFile("data", fileName, dataJSON)
 }
 
 func getCategoryMD(name string, description string, lastUpdate int64, libraries []Library) string {
