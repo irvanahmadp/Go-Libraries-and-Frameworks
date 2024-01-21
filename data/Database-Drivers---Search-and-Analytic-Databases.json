@@ -1,7 +1,7 @@
 {
 	"name": "Database Drivers - Search and Analytic Databases",
 	"index_last_check": 0,
-	"last_update": 1704545451,
+	"last_update": 1705837976,
 	"libraries": [
 		{
 			"id": 18893367,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/blevesearch/bleve",
 			"homepage": "",
 			"created_at": "2014-04-17T21:02:18Z",
-			"updated_at": "2024-01-04T19:38:34Z",
+			"updated_at": "2024-01-21T06:19:31Z",
 			"svn_url": "https://github.com/blevesearch/bleve",
-			"stargazers_count": 9414,
-			"watchers_count": 9414,
-			"forks_count": 703,
-			"open_issues_count": 300
+			"stargazers_count": 9440,
+			"watchers_count": 9440,
+			"forks_count": 705,
+			"open_issues_count": 302
 		},
 		{
 			"id": 7039626,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/olivere/elastic",
 			"homepage": "https://olivere.github.io/elastic/",
 			"created_at": "2012-12-06T17:15:33Z",
-			"updated_at": "2024-01-05T15:04:42Z",
+			"updated_at": "2024-01-21T07:46:00Z",
 			"svn_url": "https://github.com/olivere/elastic",
-			"stargazers_count": 7264,
-			"watchers_count": 7264,
-			"forks_count": 1202,
-			"open_issues_count": 107
+			"stargazers_count": 7270,
+			"watchers_count": 7270,
+			"forks_count": 1203,
+			"open_issues_count": 108
 		},
 		{
 			"id": 95011980,
@@ -38,11 +38,11 @@
 			"html_url": "https://github.com/go-ego/riot",
 			"homepage": "",
 			"created_at": "2017-06-21T14:17:59Z",
-			"updated_at": "2024-01-04T16:15:06Z",
+			"updated_at": "2024-01-19T10:24:43Z",
 			"svn_url": "https://github.com/go-ego/riot",
-			"stargazers_count": 6096,
-			"watchers_count": 6096,
-			"forks_count": 484,
+			"stargazers_count": 6095,
+			"watchers_count": 6095,
+			"forks_count": 485,
 			"open_issues_count": 50
 		},
 		{
@@ -52,11 +52,11 @@
 			"html_url": "https://github.com/elastic/go-elasticsearch",
 			"homepage": "https://github.com/elastic/go-elasticsearch#go-elasticsearch",
 			"created_at": "2017-03-27T17:56:15Z",
-			"updated_at": "2024-01-06T03:25:47Z",
+			"updated_at": "2024-01-21T08:26:09Z",
 			"svn_url": "https://github.com/elastic/go-elasticsearch",
-			"stargazers_count": 5316,
-			"watchers_count": 5316,
-			"forks_count": 616,
+			"stargazers_count": 5336,
+			"watchers_count": 5336,
+			"forks_count": 620,
 			"open_issues_count": 46
 		},
 		{
@@ -66,10 +66,10 @@
 			"html_url": "https://github.com/cch123/elasticsql",
 			"homepage": "",
 			"created_at": "2016-08-24T07:29:43Z",
-			"updated_at": "2024-01-03T05:38:44Z",
+			"updated_at": "2024-01-21T11:25:46Z",
 			"svn_url": "https://github.com/cch123/elasticsql",
-			"stargazers_count": 1121,
-			"watchers_count": 1121,
+			"stargazers_count": 1129,
+			"watchers_count": 1129,
 			"forks_count": 196,
 			"open_issues_count": 10
 		},
