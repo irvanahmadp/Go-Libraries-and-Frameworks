@@ -1737,21 +1737,21 @@ Libraries for working with various layers of the network.
 ### Networking - HTTP Clients
 Libraries for making HTTP requests.
 
-<sup>*Last Update: 2023-11-20 08:20:21*</sup>
+<sup>*Last Update: 2024-01-23 20:48:06*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [resty](https://github.com/go-resty/resty) | 8,641 | 694 | 68 | Simple HTTP and REST client library for Go | 2015-08-28 17:48:47 | 2023-11-18 19:22:30 |
-| [heimdall](http://gojek.tech) | 2,513 | 248 | 47 | An enhanced HTTP client for Go | 2018-01-19 09:32:26 | 2023-11-16 05:50:42 |
-| [grequests](https://github.com/levigross/grequests) | 1,996 | 136 | 28 | A Go "clone" of the great and famous Requests library | 2015-06-11 16:41:48 | 2023-11-18 19:20:20 |
-| [sling](https://github.com/dghubble/sling) | 1,609 | 116 | 1 | A Go HTTP client library for creating and sending API requests | 2015-04-02 08:42:52 | 2023-11-18 19:23:26 |
-| [gentleman](https://pkg.go.dev/github.com/h2non/gentleman?tab=doc) | 1,025 | 56 | 23 | Plugin-driven, extensible HTTP client toolkit for Go | 2016-02-21 23:00:24 | 2023-11-18 17:57:13 |
-| [pester](https://github.com/sethgrid/pester) | 624 | 69 | 5 | Go (golang) http calls with retries and backoff  | 2015-05-20 13:50:49 | 2023-11-09 15:17:41 |
-| [request](https://pkg.go.dev/github.com/monaco-io/request?tab=doc) | 265 | 28 | 2 | go request, go http client | 2020-03-25 06:24:18 | 2023-11-18 19:21:13 |
-| [go-http-client](https://github.com/bozd4g/go-http-client) | 64 | 14 | 0 | An enhanced and lightweight http client for Golang | 2019-12-14 11:22:19 | 2023-11-15 15:36:04 |
-| [rq](https://github.com/ddo/rq) | 50 | 6 | 1 | A nicer interface for golang stdlib HTTP client | 2017-12-26 10:48:27 | 2023-09-13 09:20:49 |
+| [resty](https://github.com/go-resty/resty) | 8,928 | 708 | 72 | Simple HTTP and REST client library for Go | 2015-08-28 17:48:47 | 2024-01-23 09:28:39 |
+| [heimdall](http://gojek.tech) | 2,526 | 250 | 48 | An enhanced HTTP client for Go | 2018-01-19 09:32:26 | 2024-01-20 16:50:49 |
+| [grequests](https://github.com/levigross/grequests) | 2,015 | 138 | 27 | A Go "clone" of the great and famous Requests library | 2015-06-11 16:41:48 | 2024-01-22 15:40:50 |
+| [sling](https://github.com/dghubble/sling) | 1,617 | 117 | 0 | A Go HTTP client library for creating and sending API requests | 2015-04-02 08:42:52 | 2024-01-20 12:51:51 |
+| [gentleman](https://pkg.go.dev/github.com/h2non/gentleman?tab=doc) | 1,036 | 55 | 25 | Plugin-driven, extensible HTTP client toolkit for Go | 2016-02-21 23:00:24 | 2024-01-17 03:19:14 |
+| [pester](https://github.com/sethgrid/pester) | 627 | 70 | 6 | Go (golang) http calls with retries and backoff  | 2015-05-20 13:50:49 | 2024-01-23 02:29:31 |
+| [request](https://pkg.go.dev/github.com/monaco-io/request?tab=doc) | 273 | 29 | 2 | go request, go http client | 2020-03-25 06:24:18 | 2024-01-15 09:20:38 |
+| [go-http-client](https://github.com/bozd4g/go-http-client) | 66 | 14 | 0 | An enhanced and lightweight http client for Golang | 2019-12-14 11:22:19 | 2024-01-16 01:42:14 |
+| [rq](https://github.com/ddo/rq) | 51 | 6 | 1 | A nicer interface for golang stdlib HTTP client | 2017-12-26 10:48:27 | 2023-12-16 01:22:43 |
 | [httpretry](https://github.com/ybbus/httpretry) | 40 | 6 | 0 | Enriches the standard go http client with retry functionality. | 2020-02-05 10:17:42 | 2023-10-16 16:43:59 |
 </details>
 
@@ -2647,58 +2647,58 @@ Libraries for manipulating video.
 ### Web Frameworks
 Full stack web frameworks.
 
-<sup>*Last Update: 2023-11-18 20:14:56*</sup>
+<sup>*Last Update: 2024-01-23 20:47:36*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [gin](https://gin-gonic.com/) | 72,585 | 7,759 | 760 | Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. | 2014-06-16 23:57:25 | 2023-11-18 13:06:53 |
-| [fiber](https://gofiber.io) | 29,208 | 1,496 | 75 | ⚡️ Express inspired web framework written in Go | 2020-01-16 03:59:20 | 2023-11-18 11:56:23 |
-| [echo](https://echo.labstack.com) | 27,061 | 2,231 | 75 | High performance, minimalist Go web framework | 2015-03-01 17:43:01 | 2023-11-18 11:42:17 |
-| [revel](http://revel.github.io) | 13,001 | 1,416 | 99 | A high productivity, full-stack web framework for the Go language. | 2011-12-09 04:10:26 | 2023-11-18 00:20:40 |
-| [buffalo](http://gobuffalo.io) | 7,907 | 614 | 26 | Rapid Web Development w/ Go | 2014-10-22 17:35:14 | 2023-11-18 11:16:56 |
-| [goa](https://goa.design) | 5,334 | 600 | 9 | Design-based APIs and microservices in Go | 2014-12-05 07:17:53 | 2023-11-17 17:33:35 |
-| [gizmo](https://open.nytimes.com/introducing-gizmo-aa7ea463b208) | 3,740 | 237 | 33 | A Microservice Toolkit from The New York Times | 2015-12-15 18:09:36 | 2023-11-16 16:05:47 |
-| [go-json-rest](https://ant0ine.github.io/go-json-rest/) | 3,511 | 417 | 47 | A quick and easy way to setup a RESTful JSON API | 2013-02-19 03:15:45 | 2023-11-13 04:17:35 |
-| [macaron](https://go-macaron.com) | 3,437 | 291 | 6 | Package macaron is a high productive and modular web framework in Go. | 2014-07-10 03:13:30 | 2023-11-12 05:06:30 |
-| [utron](https://github.com/gernest/utron) | 2,221 | 166 | 8 | A lightweight MVC framework for Go(Golang) | 2015-09-16 07:55:54 | 2023-11-07 12:40:35 |
-| [goyave](https://goyave.dev) | 1,391 | 58 | 3 | 🍐 Elegant Golang REST API Framework (v5 preview available) | 2019-10-21 09:44:34 | 2023-11-14 09:24:44 |
-| [rest-layer]( http://rest-layer.io) | 1,232 | 116 | 36 | REST Layer, Go (golang) REST API framework | 2015-07-29 19:16:20 | 2023-11-16 09:01:41 |
-| [go-tigertonic](https://github.com/rcrowley/go-tigertonic) | 996 | 78 | 28 | A Go framework for building JSON web services inspired by Dropwizard | 2013-02-09 21:16:13 | 2023-08-16 03:14:43 |
-| [tango](https://github.com/lunny/tango) | 834 | 107 | 9 | This is only a mirror and Moved to https://gitea.com/lunny/tango | 2014-12-17 03:07:09 | 2023-09-23 18:40:09 |
-| [gearbox](https://gogearbox.com) | 726 | 57 | 3 | Gearbox :gear: is a web framework written in Go with a focus on high performance | 2020-04-25 01:28:37 | 2023-11-15 12:18:15 |
-| [aah](https://aahframework.org) | 685 | 39 | 19 | A secure, flexible, rapid Go web framework | 2016-06-27 04:47:45 | 2023-09-25 07:55:41 |
-| [beego](beego.me) | 678 | 177 | 0 | beego is an open-source, high-performance web framework for the Go programming language. | 2020-12-13 14:58:50 | 2023-11-17 13:30:45 |
-| [aero](https://github.com/aerogo/aero) | 544 | 39 | 4 | :bullettrain_side: High-performance web server for Go. | 2016-11-09 13:02:13 | 2023-10-26 07:10:23 |
-| [gongular](http://gondolaweb.com) | 502 | 19 | 8 | A different approach to Go web frameworks | 2016-06-22 11:52:42 | 2023-11-09 19:23:03 |
-| [flamingo-commerce](https://www.flamingo.me/flamingo-commerce.html) | 454 | 71 | 34 | Flexible E-Commerce Framework on top of Flamingo. Used to build E-Commerce "Portals" and connect it with the help of individual Adapters to other services.  | 2019-04-02 15:11:57 | 2023-11-11 21:31:38 |
-| [air](https://pkg.go.dev/github.com/aofei/air) | 437 | 43 | 8 | An ideally refined web framework for Go. | 2016-07-20 12:09:48 | 2023-11-06 01:01:18 |
-| [neo](http://ivpusic.github.io/neo/) | 418 | 43 | 6 | Go Web Framework | 2015-02-04 19:16:06 | 2023-05-19 20:43:33 |
-| [confetti](https://confetti-framework.github.io/docs/) | 410 | 18 | 1 | Confetti is a web application framework with an expressive, elegant syntax. This repository contains configuration files and is intended as a template for your codebase. Download these configuration files and include them in your git repository. | 2019-11-01 23:14:21 | 2023-11-14 03:02:30 |
-| [flamingo](http://www.flamingo.me) | 409 | 45 | 40 | Flamingo Framework and Core Library. Flamingo is a go based framework to build pluggable applications. Focus is on clean architecture, maintainability and operation readiness. | 2019-04-02 12:24:02 | 2023-11-10 06:50:17 |
-| [mango](http://github.com/paulbellamy/mango) | 372 | 40 | 9 | Mango is a modular web-application framework for Go, inspired by Rack, and PEP333. | 2011-05-25 07:26:46 | 2023-04-17 06:21:21 |
+| [gin](https://gin-gonic.com/) | 73,777 | 7,846 | 775 | Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. | 2014-06-16 23:57:25 | 2024-01-23 13:38:49 |
+| [fiber](https://gofiber.io) | 30,040 | 1,550 | 67 | ⚡️ Express inspired web framework written in Go | 2020-01-16 03:59:20 | 2024-01-23 13:34:01 |
+| [echo](https://echo.labstack.com) | 27,659 | 2,257 | 83 | High performance, minimalist Go web framework | 2015-03-01 17:43:01 | 2024-01-23 13:31:26 |
+| [revel](http://revel.github.io) | 13,045 | 1,415 | 100 | A high productivity, full-stack web framework for the Go language. | 2011-12-09 04:10:26 | 2024-01-22 15:45:00 |
+| [buffalo](http://gobuffalo.io) | 7,997 | 618 | 25 | Rapid Web Development w/ Go | 2014-10-22 17:35:14 | 2024-01-23 12:38:44 |
+| [goa](https://goa.design) | 5,387 | 601 | 11 | 🌟 Goa: Elevate Go API development! 🚀 Streamlined design, automatic code generation, and seamless HTTP/gRPC support. ✨ | 2014-12-05 07:17:53 | 2024-01-23 08:57:56 |
+| [gizmo](https://open.nytimes.com/introducing-gizmo-aa7ea463b208) | 3,749 | 237 | 33 | A Microservice Toolkit from The New York Times | 2015-12-15 18:09:36 | 2024-01-20 16:39:19 |
+| [go-json-rest](https://ant0ine.github.io/go-json-rest/) | 3,510 | 417 | 47 | A quick and easy way to setup a RESTful JSON API | 2013-02-19 03:15:45 | 2024-01-21 06:15:57 |
+| [macaron](https://go-macaron.com) | 3,451 | 292 | 6 | Package macaron is a high productive and modular web framework in Go. | 2014-07-10 03:13:30 | 2024-01-23 07:09:57 |
+| [utron](https://github.com/gernest/utron) | 2,220 | 166 | 8 | A lightweight MVC framework for Go(Golang) | 2015-09-16 07:55:54 | 2024-01-09 02:05:53 |
+| [goyave](https://goyave.dev) | 1,404 | 58 | 3 | 🍐 Elegant Golang REST API Framework (v5 preview available) | 2019-10-21 09:44:34 | 2024-01-23 11:00:08 |
+| [rest-layer]( http://rest-layer.io) | 1,240 | 117 | 36 | REST Layer, Go (golang) REST API framework | 2015-07-29 19:16:20 | 2024-01-18 02:40:29 |
+| [go-tigertonic](https://github.com/rcrowley/go-tigertonic) | 996 | 79 | 28 | A Go framework for building JSON web services inspired by Dropwizard | 2013-02-09 21:16:13 | 2023-12-26 18:19:37 |
+| [tango](https://github.com/lunny/tango) | 835 | 108 | 9 | This is only a mirror and Moved to https://gitea.com/lunny/tango | 2014-12-17 03:07:09 | 2024-01-05 15:05:03 |
+| [gearbox](https://gogearbox.com) | 734 | 56 | 3 | Gearbox :gear: is a web framework written in Go with a focus on high performance | 2020-04-25 01:28:37 | 2024-01-05 02:03:29 |
+| [beego](beego.me) | 691 | 178 | 0 | beego is an open-source, high-performance web framework for the Go programming language. | 2020-12-13 14:58:50 | 2024-01-19 10:22:15 |
+| [aah](https://aahframework.org) | 685 | 39 | 19 | A secure, flexible, rapid Go web framework | 2016-06-27 04:47:45 | 2024-01-03 14:13:51 |
+| [aero](https://github.com/aerogo/aero) | 555 | 38 | 4 | :bullettrain_side: High-performance web server for Go. | 2016-11-09 13:02:13 | 2024-01-12 14:10:24 |
+| [gongular](http://gondolaweb.com) | 501 | 19 | 8 | A different approach to Go web frameworks | 2016-06-22 11:52:42 | 2024-01-04 16:05:42 |
+| [flamingo-commerce](https://www.flamingo.me/flamingo-commerce.html) | 468 | 73 | 33 | Flexible E-Commerce Framework on top of Flamingo. Used to build E-Commerce "Portals" and connect it with the help of individual Adapters to other services.  | 2019-04-02 15:11:57 | 2024-01-21 08:50:36 |
+| [air](https://pkg.go.dev/github.com/aofei/air) | 436 | 44 | 8 | An ideally refined web framework for Go. | 2016-07-20 12:09:48 | 2024-01-13 14:15:21 |
+| [neo](http://ivpusic.github.io/neo/) | 418 | 43 | 6 | Go Web Framework | 2015-02-04 19:16:06 | 2024-01-13 20:23:37 |
+| [flamingo](http://www.flamingo.me) | 418 | 47 | 41 | Flamingo Framework and Core Library. Flamingo is a go based framework to build pluggable applications. Focus is on clean architecture, maintainability and operation readiness. | 2019-04-02 12:24:02 | 2024-01-22 14:23:47 |
+| [confetti](https://confetti-framework.github.io/docs/) | 414 | 18 | 1 | Confetti is a web application framework with an expressive, elegant syntax. This repository contains configuration files and is intended as a template for your codebase. Download these configuration files and include them in your git repository. | 2019-11-01 23:14:21 | 2024-01-21 18:38:36 |
+| [mango](http://github.com/paulbellamy/mango) | 373 | 40 | 9 | Mango is a modular web-application framework for Go, inspired by Rack, and PEP333. | 2011-05-25 07:26:46 | 2024-01-03 14:09:51 |
 | [gondola](http://gondolaweb.com) | 311 | 26 | 8 | The web framework for writing faster sites, faster | 2014-07-25 21:28:55 | 2023-09-25 21:25:20 |
-| [uadmin](https://uadmin.io) | 303 | 59 | 19 | The web framework for Golang | 2018-10-05 09:00:17 | 2023-11-04 19:24:28 |
-| [webgo](https://github.com/bnkamalesh/webgo) | 291 | 29 | 2 | A microframework to build web apps; with handler chaining, middleware support, and most of all; standard library compliant HTTP handlers(i.e. http.HandlerFunc). | 2015-12-16 07:35:02 | 2023-11-07 22:57:30 |
-| [ginrpc](https://xxjwxc.github.io/post/ginrpc/) | 283 | 34 | 11 | gin auto binding,grpc, and annotated route,gin 注解路由, grpc,自动参数绑定工具 | 2019-06-22 12:03:53 | 2023-11-09 06:37:04 |
-| [golf](https://golf.readme.io/) | 267 | 30 | 6 | :golf: The Golf web framework | 2015-11-18 15:10:14 | 2023-10-23 11:11:55 |
-| [hiboot](https://hiboot.netlify.app/) | 179 | 26 | 6 | hiboot is a high performance web and cli application framework with dependency injection support | 2018-03-16 11:21:46 | 2023-10-07 13:11:29 |
-| [appy](https://github.com/appist/appy) | 130 | 14 | 3 | An opinionated productive web framework that helps scaling business easier. | 2019-05-27 04:48:59 | 2023-10-23 16:48:39 |
+| [uadmin](https://uadmin.io) | 309 | 59 | 21 | The web framework for Golang | 2018-10-05 09:00:17 | 2024-01-15 10:27:59 |
+| [webgo](https://github.com/bnkamalesh/webgo) | 293 | 29 | 2 | A microframework to build web apps; with handler chaining, middleware support, and most of all; standard library compliant HTTP handlers(i.e. http.HandlerFunc). | 2015-12-16 07:35:02 | 2024-01-02 17:16:31 |
+| [ginrpc](https://xxjwxc.github.io/post/ginrpc/) | 286 | 34 | 11 | gin auto binding,grpc, and annotated route,gin 注解路由, grpc,自动参数绑定工具 | 2019-06-22 12:03:53 | 2023-12-29 21:06:09 |
+| [golf](https://golf.readme.io/) | 270 | 30 | 6 | :golf: The Golf web framework | 2015-11-18 15:10:14 | 2024-01-23 13:19:54 |
+| [hiboot](https://hiboot.netlify.app/) | 180 | 26 | 6 | hiboot is a high performance web and cli application framework with dependency injection support | 2018-03-16 11:21:46 | 2023-11-28 08:23:22 |
+| [appy](https://github.com/appist/appy) | 130 | 14 | 3 | An opinionated productive web framework that helps scaling business easier. | 2019-05-27 04:48:59 | 2024-01-12 14:46:45 |
 | [go-rest](http://go.pkgdoc.org/github.com/ungerik/go-rest) | 127 | 16 | 2 | A small and evil REST framework for Go | 2012-07-13 10:02:15 | 2023-03-07 16:06:33 |
-| [patron](https://github.com/beatlabs/patron) | 124 | 67 | 26 | Microservice framework following best cloud practices with a focus on productivity. | 2019-01-30 13:49:54 | 2023-07-24 11:12:32 |
-| [microservice](https://github.com/claygod/microservice) | 113 | 15 | 0 | This library provides a simple microservice framework based on clean architecture principles with a working example implemented. | 2016-12-15 09:07:04 | 2023-09-02 09:54:41 |
-| [rux](https://pkg.go.dev/github.com/gookit/rux?tab=doc) | 93 | 15 | 2 | ⚡ Rux is an simple and fast web framework. support route group, param route binding, middleware, compatible http.Handler interface. 简单且快速的 Go api/web 框架，支持路由分组，路由参数绑定，中间件，兼容 http.Handler 接口 | 2018-08-05 06:13:57 | 2023-10-20 21:08:01 |
-| [vox](https://aisk.github.io/vox/) | 80 | 7 | 8 | Simple and lightweight Go web framework inspired by koa | 2014-12-24 11:22:08 | 2023-11-07 12:38:50 |
+| [patron](https://github.com/beatlabs/patron) | 124 | 66 | 24 | Microservice framework following best cloud practices with a focus on productivity. | 2019-01-30 13:49:54 | 2023-07-24 11:12:32 |
+| [microservice](https://github.com/claygod/microservice) | 114 | 15 | 0 | This library provides a simple microservice framework based on clean architecture principles with a working example implemented. | 2016-12-15 09:07:04 | 2023-11-29 14:43:00 |
+| [rux](https://pkg.go.dev/github.com/gookit/rux?tab=doc) | 95 | 16 | 2 | ⚡ Rux is an simple and fast web framework. support route group, param route binding, middleware, compatible http.Handler interface. 简单且快速的 Go api/web 框架，支持路由分组，路由参数绑定，中间件，兼容 http.Handler 接口 | 2018-08-05 06:13:57 | 2024-01-13 13:45:08 |
+| [vox](https://aisk.github.io/vox/) | 82 | 7 | 8 | Simple and lightweight Go web framework inspired by koa | 2014-12-24 11:22:08 | 2024-01-12 17:59:38 |
 | [golax](https://github.com/fulldump/golax) | 75 | 7 | 6 | Golax, a go implementation for the Lax framework. | 2016-01-30 19:11:39 | 2023-09-27 21:43:32 |
 | [yarf](https://github.com/yarf-framework/yarf) | 67 | 8 | 2 | Yet Another REST Framework | 2015-09-02 13:56:47 | 2023-09-29 12:22:35 |
-| [fireball](https://github.com/ridgelines/fireball) | 59 | 6 | 1 | Go web framework with a natural feel | 2016-07-20 05:04:54 | 2022-11-09 19:23:48 |
+| [fireball](https://github.com/ridgelines/fireball) | 59 | 6 | 1 | Go web framework with a natural feel | 2016-07-20 05:04:54 | 2024-01-03 14:13:55 |
 | [goa](https://goa-go.github.io) | 49 | 5 | 0 | Goa is a  web framework based on middleware, like koa.js. | 2019-07-26 07:12:23 | 2023-06-06 18:44:28 |
-| [gotuna](https://gotuna.netlify.app) | 44 | 22 | 1 | GoTuna a lightweight web framework for Go with mux router, middlewares, user sessions, templates, embedded views, and static file server. | 2021-04-08 14:08:08 | 2023-10-16 18:48:15 |
-| [goweb](https://github.com/twharmon/goweb) | 35 | 6 | 1 | Lightweight web framework based on net/http. | 2019-05-07 21:04:43 | 2023-03-16 06:12:26 |
+| [gotuna](https://gotuna.netlify.app) | 47 | 22 | 1 | GoTuna a lightweight web framework for Go with mux router, middlewares, user sessions, templates, embedded views, and static file server. | 2021-04-08 14:08:08 | 2024-01-10 14:41:13 |
+| [goweb](https://github.com/twharmon/goweb) | 36 | 6 | 1 | Lightweight web framework based on net/http. | 2019-05-07 21:04:43 | 2023-12-01 15:45:39 |
 | [api](http://resoursea.com/) | 34 | 4 | 0 | A REST framework for quickly writing resource based services in Golang. | 2015-01-24 18:45:30 | 2023-10-31 20:04:47 |
 | [rex](https://github.com/goanywhere/rex) | 33 | 3 | 0 | Pleasures for Web in Golang | 2014-10-16 02:26:18 | 2022-09-27 10:03:38 |
-| [banjo](https://nsheremet.pw/banjo) | 21 | 7 | 4 | BANjO is a simple web framework written in Go (golang) | 2017-12-09 13:35:31 | 2023-03-16 01:57:53 |
+| [banjo](https://nsheremet.pw/banjo) | 22 | 7 | 4 | BANjO is a simple web framework written in Go (golang) | 2017-12-09 13:35:31 | 2024-01-17 11:25:26 |
 </details>
 
 ### Web Frameworks - Middlewares - Actual middlewares
