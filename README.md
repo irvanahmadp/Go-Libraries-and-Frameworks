@@ -1859,25 +1859,25 @@ Unofficial libraries for package and dependency management
 ### Query Language
 
 
-<sup>*Last Update: 2023-11-19 20:35:36*</sup>
+<sup>*Last Update: 2024-01-24 08:48:11*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [graphql](https://github.com/graphql-go/graphql) | 9,498 | 865 | 217 | An implementation of GraphQL for Go / Golang | 2015-07-19 12:25:43 | 2023-11-19 11:22:12 |
-| [gqlgen](https://gqlgen.com) | 9,301 | 1,133 | 258 | go generate based graphql server library | 2018-02-11 04:54:11 | 2023-11-19 12:31:57 |
-| [dasel](https://daseldocs.tomwright.me) | 4,617 | 116 | 32 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package. | 2020-09-22 10:33:56 | 2023-11-18 19:18:08 |
-| [graphql-go](https://github.com/graph-gophers/graphql-go) | 4,542 | 536 | 44 | GraphQL server with a focus on ease of use | 2016-10-18 13:57:24 | 2023-11-19 11:23:37 |
-| [gojsonq](https://github.com/thedevsaddam/gojsonq/wiki) | 2,112 | 187 | 26 | A simple Go package to Query over JSON/YAML/XML/CSV Data  | 2018-05-19 16:15:18 | 2023-11-16 23:12:13 |
-| [rql](https://github.com/a8m/rql) | 316 | 42 | 15 | Resource Query Language for REST | 2018-06-05 18:37:29 | 2023-11-07 02:20:26 |
-| [jsonql](https://github.com/elgs/jsonql) | 270 | 40 | 5 | JSON query expression library in Golang. | 2015-12-29 11:24:04 | 2023-10-04 08:55:56 |
+| [graphql](https://github.com/graphql-go/graphql) | 9,592 | 868 | 221 | An implementation of GraphQL for Go / Golang | 2015-07-19 12:25:43 | 2024-01-23 09:47:10 |
+| [gqlgen](https://gqlgen.com) | 9,427 | 1,153 | 269 | go generate based graphql server library | 2018-02-11 04:54:11 | 2024-01-23 15:49:42 |
+| [dasel](https://daseldocs.tomwright.me) | 4,710 | 116 | 28 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package. | 2020-09-22 10:33:56 | 2024-01-23 11:28:57 |
+| [graphql-go](https://github.com/graph-gophers/graphql-go) | 4,568 | 540 | 44 | GraphQL server with a focus on ease of use | 2016-10-18 13:57:24 | 2024-01-23 15:49:44 |
+| [gojsonq](https://github.com/thedevsaddam/gojsonq/wiki) | 2,130 | 186 | 26 | A simple Go package to Query over JSON/YAML/XML/CSV Data  | 2018-05-19 16:15:18 | 2024-01-20 20:43:59 |
+| [rql](https://github.com/a8m/rql) | 319 | 41 | 15 | Resource Query Language for REST | 2018-06-05 18:37:29 | 2024-01-07 01:18:11 |
+| [jsonql](https://github.com/elgs/jsonql) | 272 | 40 | 5 | JSON query expression library in Golang. | 2015-12-29 11:24:04 | 2024-01-16 01:41:19 |
 | [jsonslice](https://github.com/bhmj/jsonslice) | 79 | 8 | 3 | json slicer | 2018-05-02 00:33:15 | 2023-07-18 10:16:39 |
-| [rest-query-parser](https://github.com/timsolov/rest-query-parser) | 61 | 18 | 4 | Query Parser for REST | 2020-02-10 17:58:42 | 2023-11-12 09:30:23 |
+| [rest-query-parser](https://github.com/timsolov/rest-query-parser) | 63 | 19 | 3 | Query Parser for REST | 2020-02-10 17:58:42 | 2024-01-08 17:21:29 |
 | [graphql](https://github.com/tmc/graphql) | 57 | 7 | 3 | graphql parser + utilities | 2015-04-18 21:05:52 | 2023-08-01 19:59:34 |
-| [api-fu](https://github.com/ccbrown/api-fu) | 52 | 5 | 3 | A collection of Go packages for creating robust GraphQL APIs | 2019-07-30 05:18:43 | 2023-09-21 00:16:31 |
+| [api-fu](https://github.com/ccbrown/api-fu) | 53 | 5 | 3 | A collection of Go packages for creating robust GraphQL APIs | 2019-07-30 05:18:43 | 2024-01-09 14:59:10 |
 | [straf](https://github.com/ThundR67/straf) | 36 | 6 | 0 | Convert Golang Struct To GraphQL Object On The Fly | 2019-08-16 13:31:39 | 2023-10-19 21:15:40 |
-| [jsonpath](https://github.com/AsaiYusuke/jsonpath) | 19 | 3 | 1 | A query library for retrieving part of JSON based on JSONPath syntax. | 2020-11-29 05:37:26 | 2023-10-09 21:01:34 |
+| [jsonpath](https://github.com/AsaiYusuke/jsonpath) | 20 | 3 | 1 | A query library for retrieving part of JSON based on JSONPath syntax. | 2020-11-29 05:37:26 | 2023-12-13 08:27:28 |
 | [gws](https://github.com/Zaba505/gws) | 7 | 2 | 2 | A WebSocket client and server for GraphQL | 2020-06-08 19:51:36 | 2023-06-08 02:43:37 |
 </details>
 
@@ -2018,36 +2018,36 @@ Libraries and tools for binary serialization.
 ### Server Applications
 
 
-<sup>*Last Update: 2023-11-19 20:35:29*</sup>
+<sup>*Last Update: 2024-01-24 08:47:45*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [caddy](https://caddyserver.com) | 50,604 | 3,855 | 138 | Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS | 2015-01-13 19:45:03 | 2023-11-17 00:27:45 |
-| [etcd](https://etcd.io) | 44,906 | 9,571 | 258 | Distributed reliable key-value store for the most critical data of a distributed system | 2013-07-06 21:57:21 | 2023-11-16 23:24:49 |
-| [minio](https://min.io/download) | 41,655 | 4,998 | 53 | High Performance Object Storage for AI | 2015-01-14 19:23:58 | 2023-11-17 00:54:17 |
-| [consul](https://www.consul.io) | 27,282 | 4,425 | 1,263 | Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. | 2013-11-04 22:15:27 | 2023-11-17 00:55:23 |
-| [nsq](https://nsq.io) | 23,917 | 2,899 | 65 | A realtime distributed messaging platform | 2012-05-12 14:37:08 | 2023-11-17 00:12:46 |
-| [roadrunner](https://roadrunner.dev) | 7,455 | 399 | 48 | 🤯 High-performance PHP application server, process manager written in Go and powered with plugins | 2017-12-26 16:13:10 | 2023-11-16 22:52:03 |
-| [sftpgo](https://github.com/drakkan/sftpgo) | 7,072 | 604 | 19 | Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob | 2019-07-20 10:18:31 | 2023-11-16 19:16:49 |
-| [devd](https://github.com/cortesi/devd) | 3,363 | 150 | 25 |  A local webserver for developers | 2015-09-27 22:43:00 | 2023-11-13 01:13:20 |
-| [flipt](https://flipt.io) | 2,943 | 150 | 29 | An open source, self-hosted feature flag solution | 2016-11-05 00:09:07 | 2023-11-17 00:24:24 |
-| [fider](https://fider.io) | 2,453 | 583 | 48 | Open platform to collect and prioritize feedback | 2017-01-17 22:55:19 | 2023-11-15 02:31:35 |
-| [algernon](https://algernon.roboticoverlords.org) | 2,341 | 122 | 21 | Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support | 2015-03-10 11:25:30 | 2023-11-15 07:46:24 |
-| [flagr](https://openflagr.github.io/flagr) | 2,282 | 186 | 5 | Flagr is a feature flagging, A/B testing and dynamic configuration microservice | 2017-10-03 19:07:32 | 2023-11-15 02:46:47 |
-| [trickster](https://trickstercache.org) | 1,921 | 172 | 60 | Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator | 2018-03-29 20:31:44 | 2023-11-18 10:42:59 |
-| [discovery](https://github.com/bilibili/discovery) | 1,764 | 401 | 26 | A registry for resilient mid-tier load balancing and failover. | 2018-04-20 12:57:50 | 2023-11-15 05:47:58 |
-| [jackal](https://github.com/ortuman/jackal) | 1,439 | 133 | 22 | 💬 Instant messaging server for the Extensible Messaging and Presence Protocol (XMPP). | 2017-11-13 18:17:48 | 2023-11-03 11:58:13 |
-| [go-feature-flag](https://gofeatureflag.org) | 868 | 87 | 8 | GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ | 2020-12-11 13:19:17 | 2023-11-16 19:42:55 |
-| [dudeldu](https://github.com/krotik/dudeldu) | 142 | 17 | 0 | A simple SHOUTcast server. | 2016-09-07 19:11:04 | 2023-10-07 13:51:09 |
-| [go-proxy-cache](https://github.com/fabiocicerchia/go-proxy-cache) | 102 | 14 | 29 | Simple Reverse Proxy with Caching, written in Go, using Redis. | 2020-11-12 15:10:40 | 2023-10-12 20:54:31 |
-| [lets-proxy2](https://github.com/rekby/lets-proxy2) | 82 | 17 | 40 | Reverse proxy with automatically obtains TLS certificates from Let's Encrypt | 2019-04-12 05:39:43 | 2023-09-18 15:18:41 |
-| [cortex-tenant](https://github.com/blind-oracle/cortex-tenant) | 80 | 51 | 6 | Prometheus remote write proxy that adds Cortex/Mimir tenant ID based on metric labels | 2020-10-06 16:52:25 | 2023-11-15 14:15:19 |
-| [psql-streamer](https://github.com/blind-oracle/psql-streamer) | 53 | 13 | 2 | Stream database events from PostgreSQL to Kafka | 2019-04-28 21:55:31 | 2023-09-18 15:18:50 |
+| [caddy](https://caddyserver.com) | 51,770 | 3,938 | 138 | Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS | 2015-01-13 19:45:03 | 2024-01-24 01:02:24 |
+| [etcd](https://etcd.io) | 45,597 | 9,673 | 292 | Distributed reliable key-value store for the most critical data of a distributed system | 2013-07-06 21:57:21 | 2024-01-24 01:46:33 |
+| [minio](https://min.io/download) | 42,681 | 5,108 | 48 | The Object Store for AI Data Infrastructure | 2015-01-14 19:23:58 | 2024-01-23 20:32:45 |
+| [consul](https://www.consul.io) | 27,513 | 4,434 | 1,298 | Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. | 2013-11-04 22:15:27 | 2024-01-24 01:38:30 |
+| [nsq](https://nsq.io) | 24,301 | 2,920 | 62 | A realtime distributed messaging platform | 2012-05-12 14:37:08 | 2024-01-24 01:40:35 |
+| [roadrunner](https://roadrunner.dev) | 7,560 | 400 | 49 | 🤯 High-performance PHP application server, process manager written in Go and powered with plugins | 2017-12-26 16:13:10 | 2024-01-22 14:39:58 |
+| [sftpgo](https://github.com/drakkan/sftpgo) | 7,551 | 629 | 22 | Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob | 2019-07-20 10:18:31 | 2024-01-24 01:05:11 |
+| [devd](https://github.com/cortesi/devd) | 3,382 | 151 | 25 |  A local webserver for developers | 2015-09-27 22:43:00 | 2024-01-20 09:26:46 |
+| [flipt](https://flipt.io) | 3,138 | 163 | 27 | Enterprise-ready, GitOps enabled, CloudNative feature management solution | 2016-11-05 00:09:07 | 2024-01-24 00:00:43 |
+| [algernon](https://algernon.roboticoverlords.org) | 2,544 | 133 | 23 | Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support | 2015-03-10 11:25:30 | 2024-01-24 01:35:19 |
+| [fider](https://fider.io) | 2,506 | 589 | 55 | Open platform to collect and prioritize feedback | 2017-01-17 22:55:19 | 2024-01-23 03:35:28 |
+| [flagr](https://openflagr.github.io/flagr) | 2,317 | 189 | 1 | Flagr is a feature flagging, A/B testing and dynamic configuration microservice | 2017-10-03 19:07:32 | 2024-01-23 16:41:52 |
+| [trickster](https://trickstercache.org) | 1,932 | 174 | 50 | Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator | 2018-03-29 20:31:44 | 2024-01-22 21:56:39 |
+| [discovery](https://github.com/bilibili/discovery) | 1,763 | 401 | 27 | A registry for resilient mid-tier load balancing and failover. | 2018-04-20 12:57:50 | 2024-01-21 13:50:07 |
+| [jackal](https://github.com/ortuman/jackal) | 1,443 | 133 | 22 | 💬 Instant messaging server for the Extensible Messaging and Presence Protocol (XMPP). | 2017-11-13 18:17:48 | 2024-01-22 23:48:21 |
+| [go-feature-flag](https://gofeatureflag.org/) | 958 | 95 | 16 | GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ | 2020-12-11 13:19:17 | 2024-01-23 18:44:21 |
+| [dudeldu](https://github.com/krotik/dudeldu) | 144 | 17 | 0 | A simple SHOUTcast server. | 2016-09-07 19:11:04 | 2023-12-12 12:30:00 |
+| [go-proxy-cache](https://github.com/fabiocicerchia/go-proxy-cache) | 110 | 14 | 21 | Simple Reverse Proxy with Caching, written in Go, using Redis. | 2020-11-12 15:10:40 | 2024-01-20 19:47:27 |
+| [cortex-tenant](https://github.com/blind-oracle/cortex-tenant) | 86 | 53 | 7 | Prometheus remote write proxy that adds Cortex/Mimir tenant ID based on metric labels | 2020-10-06 16:52:25 | 2024-01-20 22:49:44 |
+| [lets-proxy2](https://github.com/rekby/lets-proxy2) | 84 | 17 | 40 | Reverse proxy with automatically obtains TLS certificates from Let's Encrypt | 2019-04-12 05:39:43 | 2024-01-13 06:56:04 |
+| [psql-streamer](https://github.com/blind-oracle/psql-streamer) | 56 | 13 | 2 | Stream database events from PostgreSQL to Kafka | 2019-04-28 21:55:31 | 2024-01-20 19:47:13 |
 | [nginx-prometheus](https://github.com/blind-oracle/nginx-prometheus) | 38 | 5 | 0 | Turn Nginx logs into Prometheus metrics | 2018-10-23 09:10:27 | 2023-09-18 15:18:48 |
-| [simple-jwt-provider](https://github.com/leberKleber/simple-jwt-provider) | 36 | 5 | 5 | Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob | 2019-12-18 12:48:14 | 2023-11-14 09:46:29 |
-| [protoxy](https://github.com/camgraff/protoxy) | 32 | 5 | 0 | A proxy server than converts JSON request bodies to protocol buffers | 2020-09-03 23:24:34 | 2023-09-28 09:34:44 |
+| [simple-jwt-provider](https://github.com/leberKleber/simple-jwt-provider) | 37 | 5 | 5 | Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob | 2019-12-18 12:48:14 | 2023-12-04 14:56:45 |
+| [protoxy](https://github.com/camgraff/protoxy) | 34 | 5 | 0 | A proxy server than converts JSON request bodies to protocol buffers | 2020-09-03 23:24:34 | 2024-01-08 11:48:38 |
 | [riemann-relay](https://github.com/blind-oracle/riemann-relay) | 2 | 2 | 0 | Service for relaying Riemann events to Riemann/Carbon destinations | 2019-04-23 14:17:12 | 2022-09-27 09:23:35 |
 </details>
 
@@ -2291,22 +2291,22 @@ Libraries and tools for templating and lexing.
 ### Text Processing - Utility
 
 
-<sup>*Last Update: 2023-11-19 20:35:30*</sup>
+<sup>*Last Update: 2024-01-24 08:48:03*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [xurls](https://tysug.net) | 1,087 | 115 | 2 | Extract urls from text | 2015-01-12 01:28:46 | 2023-11-16 15:32:57 |
-| [gotabulate](https://github.com/bndr/gotabulate) | 302 | 29 | 5 | Gotabulate - Easily pretty-print your tabular data with Go | 2014-08-21 07:44:28 | 2023-08-25 02:59:22 |
-| [radix](https://github.com/yourbasic/radix) | 186 | 11 | 0 | A fast string sorting algorithm (MSD radix sort) | 2017-06-09 14:38:58 | 2023-10-27 13:45:49 |
-| [regroup](https://github.com/oriser/regroup) | 136 | 12 | 2 | Match regex group into go struct using struct tags and automatic parsing | 2020-09-08 19:04:42 | 2023-10-19 20:20:55 |
+| [xurls](https://tysug.net) | 1,116 | 116 | 1 | Extract urls from text | 2015-01-12 01:28:46 | 2024-01-21 09:37:13 |
+| [gotabulate](https://github.com/bndr/gotabulate) | 307 | 30 | 5 | Gotabulate - Easily pretty-print your tabular data with Go | 2014-08-21 07:44:28 | 2024-01-02 02:52:00 |
+| [radix](https://github.com/yourbasic/radix) | 188 | 11 | 0 | A fast string sorting algorithm (MSD radix sort) | 2017-06-09 14:38:58 | 2024-01-18 18:55:18 |
+| [regroup](https://github.com/oriser/regroup) | 138 | 12 | 2 | Match regex group into go struct using struct tags and automatic parsing | 2020-09-08 19:04:42 | 2024-01-04 16:50:07 |
 | [gofuckyourself](https://github.com/JoshuaDoes/gofuckyourself) | 59 | 8 | 4 | A sanitization-based swear filter for Go. | 2018-09-09 00:07:26 | 2023-10-04 23:50:08 |
-| [parth](https://github.com/codemodus/parth) | 45 | 6 | 0 | Path parsing for segment unmarshaling and slicing. | 2015-04-06 22:53:59 | 2023-11-17 09:49:04 |
+| [parth](https://github.com/codemodus/parth) | 46 | 6 | 0 | Path parsing for segment unmarshaling and slicing. | 2015-04-06 22:53:59 | 2023-12-29 07:26:02 |
 | [xj2go](https://tysug.net) | 34 | 8 | 0 | Convert xml and json to go struct | 2017-09-19 13:20:57 | 2023-11-03 03:33:08 |
-| [tagify](https://www.zoomio.org/tagify) | 34 | 2 | 3 | Tagify produces a set of tags from a given source. Source can be either an HTML page, a Markdown document or a plain text. Supports English, Russian, Chinese, Hindi, Spanish, Arabic, Japanese, German, Hebrew, French and Korean languages. | 2018-03-20 10:30:11 | 2023-11-07 20:36:38 |
+| [tagify](https://www.zoomio.org/tagify) | 34 | 2 | 3 | Tagify produces a set of tags from a given source. Source can be either an HTML page, a Markdown document or a plain text. Supports English, Russian, Chinese, Hindi, Spanish, Arabic, Japanese, German, Hebrew, French and Korean languages. | 2018-03-20 10:30:11 | 2024-01-19 10:13:25 |
 | [kace](https://github.com/codemodus/kace) | 20 | 3 | 1 | Common case conversions covering common initialisms. | 2015-06-04 20:36:49 | 2023-08-01 23:38:06 |
-| [TySug](https://tysug.net) | 17 | 3 | 2 | A project around helping to prevent typing typos. TySug (Typo Suggestions) suggests alternative words with respect to keyboard layouts | 2018-06-05 19:46:29 | 2023-08-03 19:29:18 |
+| [TySug](https://tysug.net) | 17 | 3 | 2 | A project around helping to prevent typing typos. TySug (Typo Suggestions) suggests alternative words with respect to keyboard layouts | 2018-06-05 19:46:29 | 2024-01-17 08:28:02 |
 | [parseargs-go](https://github.com/txgruppi/parseargs-go) | 10 | 6 | 1 | A string argument parser that understands quotes and backslashes | 2016-02-24 00:53:38 | 2023-10-21 16:40:53 |
 | [textwrap](https://www.zoomio.org/tagify) | 5 | 4 | 1 | Port of Python's "textwrap" module to Go | 2019-07-26 17:57:55 | 2023-08-21 08:56:49 |
 </details>
