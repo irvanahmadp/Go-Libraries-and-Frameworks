@@ -1,7 +1,7 @@
 {
 	"name": "Database - Database schema migration",
 	"index_last_check": 0,
-	"last_update": 1700443210,
+	"last_update": 1706101788,
 	"libraries": [
 		{
 			"id": 118105436,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/golang-migrate/migrate",
 			"homepage": "",
 			"created_at": "2018-01-19T09:30:58Z",
-			"updated_at": "2023-11-19T18:42:55Z",
+			"updated_at": "2024-01-24T11:10:51Z",
 			"svn_url": "https://github.com/golang-migrate/migrate",
-			"stargazers_count": 12641,
-			"watchers_count": 12641,
-			"forks_count": 1254,
-			"open_issues_count": 311
+			"stargazers_count": 13289,
+			"watchers_count": 13289,
+			"forks_count": 1286,
+			"open_issues_count": 315
 		},
 		{
 			"id": 52555254,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/pressly/goose",
 			"homepage": "https://pressly.github.io/goose/",
 			"created_at": "2016-02-25T20:39:37Z",
-			"updated_at": "2023-11-20T01:11:54Z",
+			"updated_at": "2024-01-23T21:16:58Z",
 			"svn_url": "https://github.com/pressly/goose",
-			"stargazers_count": 4686,
-			"watchers_count": 4686,
-			"forks_count": 496,
-			"open_issues_count": 58
+			"stargazers_count": 5000,
+			"watchers_count": 5000,
+			"forks_count": 503,
+			"open_issues_count": 64
 		},
 		{
 			"id": 23823837,
@@ -38,11 +38,11 @@
 			"html_url": "https://github.com/rubenv/sql-migrate",
 			"homepage": "",
 			"created_at": "2014-09-09T07:31:41Z",
-			"updated_at": "2023-11-18T10:28:49Z",
+			"updated_at": "2024-01-24T12:38:15Z",
 			"svn_url": "https://github.com/rubenv/sql-migrate",
-			"stargazers_count": 2977,
-			"watchers_count": 2977,
-			"forks_count": 298,
+			"stargazers_count": 3034,
+			"watchers_count": 3034,
+			"forks_count": 301,
 			"open_issues_count": 86
 		},
 		{
@@ -52,12 +52,12 @@
 			"html_url": "https://github.com/gobuffalo/pop",
 			"homepage": "",
 			"created_at": "2018-02-07T21:13:46Z",
-			"updated_at": "2023-11-07T22:42:50Z",
+			"updated_at": "2024-01-24T12:25:12Z",
 			"svn_url": "https://github.com/gobuffalo/pop",
-			"stargazers_count": 1389,
-			"watchers_count": 1389,
+			"stargazers_count": 1391,
+			"watchers_count": 1391,
 			"forks_count": 247,
-			"open_issues_count": 96
+			"open_issues_count": 95
 		},
 		{
 			"id": 72486161,
@@ -66,11 +66,11 @@
 			"html_url": "https://github.com/skeema/skeema",
 			"homepage": "",
 			"created_at": "2016-10-31T23:18:56Z",
-			"updated_at": "2023-11-17T20:39:51Z",
+			"updated_at": "2024-01-24T11:07:32Z",
 			"svn_url": "https://github.com/skeema/skeema",
-			"stargazers_count": 1185,
-			"watchers_count": 1185,
-			"forks_count": 110,
+			"stargazers_count": 1207,
+			"watchers_count": 1207,
+			"forks_count": 111,
 			"open_issues_count": 19
 		},
 		{
@@ -80,12 +80,12 @@
 			"html_url": "https://github.com/go-gormigrate/gormigrate",
 			"homepage": "https://pkg.go.dev/github.com/go-gormigrate/gormigrate/v2",
 			"created_at": "2016-08-31T11:46:23Z",
-			"updated_at": "2023-11-19T20:05:38Z",
+			"updated_at": "2024-01-22T01:10:11Z",
 			"svn_url": "https://github.com/go-gormigrate/gormigrate",
-			"stargazers_count": 944,
-			"watchers_count": 944,
-			"forks_count": 91,
-			"open_issues_count": 13
+			"stargazers_count": 957,
+			"watchers_count": 957,
+			"forks_count": 94,
+			"open_issues_count": 14
 		},
 		{
 			"id": 169056015,
@@ -94,12 +94,12 @@
 			"html_url": "https://github.com/lopezator/migrator",
 			"homepage": "",
 			"created_at": "2019-02-04T09:40:01Z",
-			"updated_at": "2023-09-14T08:39:32Z",
+			"updated_at": "2024-01-22T13:01:10Z",
 			"svn_url": "https://github.com/lopezator/migrator",
-			"stargazers_count": 156,
-			"watchers_count": 156,
-			"forks_count": 17,
-			"open_issues_count": 6
+			"stargazers_count": 158,
+			"watchers_count": 158,
+			"forks_count": 18,
+			"open_issues_count": 7
 		},
 		{
 			"id": 55521819,
@@ -108,11 +108,11 @@
 			"html_url": "https://github.com/GuiaBolso/darwin",
 			"homepage": "",
 			"created_at": "2016-04-05T15:57:59Z",
-			"updated_at": "2023-11-10T10:08:06Z",
+			"updated_at": "2023-12-18T14:21:52Z",
 			"svn_url": "https://github.com/GuiaBolso/darwin",
-			"stargazers_count": 139,
-			"watchers_count": 139,
-			"forks_count": 36,
+			"stargazers_count": 140,
+			"watchers_count": 140,
+			"forks_count": 37,
 			"open_issues_count": 5
 		},
 		{
@@ -122,10 +122,10 @@
 			"html_url": "https://github.com/robinjoseph08/go-pg-migrations",
 			"homepage": "",
 			"created_at": "2018-08-11T07:00:13Z",
-			"updated_at": "2023-05-24T11:35:40Z",
+			"updated_at": "2024-01-08T01:51:54Z",
 			"svn_url": "https://github.com/robinjoseph08/go-pg-migrations",
-			"stargazers_count": 83,
-			"watchers_count": 83,
+			"stargazers_count": 84,
+			"watchers_count": 84,
 			"forks_count": 21,
 			"open_issues_count": 7
 		},
@@ -136,10 +136,10 @@
 			"html_url": "https://github.com/khezen/avro",
 			"homepage": "",
 			"created_at": "2019-04-07T12:22:46Z",
-			"updated_at": "2023-10-27T07:49:02Z",
+			"updated_at": "2023-12-26T03:15:31Z",
 			"svn_url": "https://github.com/khezen/avro",
-			"stargazers_count": 44,
-			"watchers_count": 44,
+			"stargazers_count": 45,
+			"watchers_count": 45,
 			"forks_count": 10,
 			"open_issues_count": 0
 		},
@@ -155,7 +155,7 @@
 			"stargazers_count": 30,
 			"watchers_count": 30,
 			"forks_count": 3,
-			"open_issues_count": 2
+			"open_issues_count": 3
 		},
 		{
 			"id": 48540048,
@@ -206,10 +206,10 @@
 			"html_url": "https://github.com/lawzava/go-pg-migrate",
 			"homepage": "https://pkg.go.dev/github.com/lawzava/go-pg-migrate",
 			"created_at": "2021-01-16T17:01:32Z",
-			"updated_at": "2023-07-19T20:05:03Z",
+			"updated_at": "2024-01-24T05:10:53Z",
 			"svn_url": "https://github.com/lawzava/go-pg-migrate",
-			"stargazers_count": 11,
-			"watchers_count": 11,
+			"stargazers_count": 10,
+			"watchers_count": 10,
 			"forks_count": 3,
 			"open_issues_count": 0
 		}

@@ -1,7 +1,7 @@
 {
 	"name": "Package Management - Official",
 	"index_last_check": 0,
-	"last_update": 1700443247,
+	"last_update": 1706101801,
 	"libraries": [
 		{
 			"id": 70202506,
@@ -10,11 +10,11 @@
 			"html_url": "https://github.com/golang/dep",
 			"homepage": "https://golang.github.io/dep/",
 			"created_at": "2016-10-07T00:04:51Z",
-			"updated_at": "2023-11-20T00:57:51Z",
+			"updated_at": "2024-01-22T15:35:24Z",
 			"svn_url": "https://github.com/golang/dep",
-			"stargazers_count": 12921,
-			"watchers_count": 12921,
-			"forks_count": 1135,
+			"stargazers_count": 12908,
+			"watchers_count": 12908,
+			"forks_count": 1132,
 			"open_issues_count": 0
 		}
 	]
