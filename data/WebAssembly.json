@@ -1,7 +1,7 @@
 {
 	"name": "WebAssembly",
 	"index_last_check": 0,
-	"last_update": 1700660137,
+	"last_update": 1706192739,
 	"libraries": [
 		{
 			"id": 136505169,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/tinygo-org/tinygo",
 			"homepage": "https://tinygo.org",
 			"created_at": "2018-06-07T16:39:19Z",
-			"updated_at": "2023-11-22T09:59:27Z",
+			"updated_at": "2024-01-25T11:54:20Z",
 			"svn_url": "https://github.com/tinygo-org/tinygo",
-			"stargazers_count": 13696,
-			"watchers_count": 13696,
-			"forks_count": 805,
-			"open_issues_count": 490
+			"stargazers_count": 13985,
+			"watchers_count": 13985,
+			"forks_count": 821,
+			"open_issues_count": 521
 		},
 		{
 			"id": 139271597,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/dennwc/dom",
 			"homepage": "",
 			"created_at": "2018-06-30T18:37:35Z",
-			"updated_at": "2023-10-31T12:58:11Z",
+			"updated_at": "2024-01-16T21:38:17Z",
 			"svn_url": "https://github.com/dennwc/dom",
-			"stargazers_count": 481,
-			"watchers_count": 481,
+			"stargazers_count": 483,
+			"watchers_count": 483,
 			"forks_count": 59,
-			"open_issues_count": 11
+			"open_issues_count": 10
 		},
 		{
 			"id": 185039321,
@@ -38,10 +38,10 @@
 			"html_url": "https://github.com/markfarnan/go-canvas",
 			"homepage": "",
 			"created_at": "2019-05-05T14:05:55Z",
-			"updated_at": "2023-11-08T16:11:30Z",
+			"updated_at": "2024-01-20T19:39:15Z",
 			"svn_url": "https://github.com/markfarnan/go-canvas",
-			"stargazers_count": 217,
-			"watchers_count": 217,
+			"stargazers_count": 220,
+			"watchers_count": 220,
 			"forks_count": 17,
 			"open_issues_count": 4
 		},
@@ -52,12 +52,12 @@
 			"html_url": "https://github.com/agnivade/wasmbrowsertest",
 			"homepage": "",
 			"created_at": "2018-07-14T18:42:24Z",
-			"updated_at": "2023-11-09T01:12:43Z",
+			"updated_at": "2024-01-23T00:29:28Z",
 			"svn_url": "https://github.com/agnivade/wasmbrowsertest",
-			"stargazers_count": 159,
-			"watchers_count": 159,
+			"stargazers_count": 166,
+			"watchers_count": 166,
 			"forks_count": 25,
-			"open_issues_count": 4
+			"open_issues_count": 3
 		},
 		{
 			"id": 169691861,
@@ -66,10 +66,10 @@
 			"html_url": "https://github.com/gowebapi/webapi",
 			"homepage": "",
 			"created_at": "2019-02-08T05:58:35Z",
-			"updated_at": "2023-11-17T02:15:42Z",
+			"updated_at": "2024-01-20T16:34:34Z",
 			"svn_url": "https://github.com/gowebapi/webapi",
-			"stargazers_count": 147,
-			"watchers_count": 147,
+			"stargazers_count": 151,
+			"watchers_count": 151,
 			"forks_count": 12,
 			"open_issues_count": 3
 		},
@@ -80,11 +80,11 @@
 			"html_url": "https://github.com/norunners/vert",
 			"homepage": "",
 			"created_at": "2018-03-25T17:26:47Z",
-			"updated_at": "2023-11-08T15:09:24Z",
+			"updated_at": "2024-01-10T05:35:55Z",
 			"svn_url": "https://github.com/norunners/vert",
-			"stargazers_count": 93,
-			"watchers_count": 93,
-			"forks_count": 13,
+			"stargazers_count": 96,
+			"watchers_count": 96,
+			"forks_count": 14,
 			"open_issues_count": 2
 		}
 	]

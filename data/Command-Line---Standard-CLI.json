@@ -1,7 +1,7 @@
 {
 	"name": "Command Line - Standard CLI",
 	"index_last_check": 0,
-	"last_update": 1700660110,
+	"last_update": 1706192721,
 	"libraries": [
 		{
 			"id": 12574344,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/spf13/cobra",
 			"homepage": "https://cobra.dev",
 			"created_at": "2013-09-03T20:40:26Z",
-			"updated_at": "2023-11-22T13:03:59Z",
+			"updated_at": "2024-01-25T13:08:05Z",
 			"svn_url": "https://github.com/spf13/cobra",
-			"stargazers_count": 34202,
-			"watchers_count": 34202,
-			"forks_count": 2806,
-			"open_issues_count": 242
+			"stargazers_count": 34943,
+			"watchers_count": 34943,
+			"forks_count": 2846,
+			"open_issues_count": 255
 		},
 		{
 			"id": 11393110,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/urfave/cli",
 			"homepage": "https://cli.urfave.org",
 			"created_at": "2013-07-13T19:32:06Z",
-			"updated_at": "2023-11-22T08:55:29Z",
+			"updated_at": "2024-01-25T07:06:00Z",
 			"svn_url": "https://github.com/urfave/cli",
-			"stargazers_count": 20966,
-			"watchers_count": 20966,
-			"forks_count": 1698,
-			"open_issues_count": 49
+			"stargazers_count": 21243,
+			"watchers_count": 21243,
+			"forks_count": 1704,
+			"open_issues_count": 36
 		},
 		{
 			"id": 19794451,
@@ -38,12 +38,12 @@
 			"html_url": "https://github.com/alecthomas/kingpin",
 			"homepage": "",
 			"created_at": "2014-05-14T20:09:04Z",
-			"updated_at": "2023-11-17T09:40:13Z",
+			"updated_at": "2024-01-25T07:14:38Z",
 			"svn_url": "https://github.com/alecthomas/kingpin",
-			"stargazers_count": 3386,
-			"watchers_count": 3386,
-			"forks_count": 275,
-			"open_issues_count": 24
+			"stargazers_count": 3405,
+			"watchers_count": 3405,
+			"forks_count": 274,
+			"open_issues_count": 26
 		},
 		{
 			"id": 86756976,
@@ -52,12 +52,12 @@
 			"html_url": "https://github.com/dnote/dnote",
 			"homepage": "https://www.getdnote.com",
 			"created_at": "2017-03-30T23:07:25Z",
-			"updated_at": "2023-11-21T15:16:09Z",
+			"updated_at": "2024-01-24T16:46:22Z",
 			"svn_url": "https://github.com/dnote/dnote",
-			"stargazers_count": 2601,
-			"watchers_count": 2601,
-			"forks_count": 113,
-			"open_issues_count": 55
+			"stargazers_count": 2629,
+			"watchers_count": 2629,
+			"forks_count": 116,
+			"open_issues_count": 58
 		},
 		{
 			"id": 5629366,
@@ -66,12 +66,12 @@
 			"html_url": "https://github.com/jessevdk/go-flags",
 			"homepage": "http://godoc.org/github.com/jessevdk/go-flags",
 			"created_at": "2012-08-31T13:57:58Z",
-			"updated_at": "2023-11-22T11:01:55Z",
+			"updated_at": "2024-01-25T05:32:21Z",
 			"svn_url": "https://github.com/jessevdk/go-flags",
-			"stargazers_count": 2465,
-			"watchers_count": 2465,
-			"forks_count": 321,
-			"open_issues_count": 56
+			"stargazers_count": 2483,
+			"watchers_count": 2483,
+			"forks_count": 323,
+			"open_issues_count": 57
 		},
 		{
 			"id": 12488845,
@@ -80,12 +80,12 @@
 			"html_url": "https://github.com/spf13/pflag",
 			"homepage": "https://ops.city",
 			"created_at": "2013-08-30T14:53:31Z",
-			"updated_at": "2023-11-20T21:02:54Z",
+			"updated_at": "2024-01-21T17:04:03Z",
 			"svn_url": "https://github.com/spf13/pflag",
-			"stargazers_count": 2223,
-			"watchers_count": 2223,
+			"stargazers_count": 2258,
+			"watchers_count": 2258,
 			"forks_count": 335,
-			"open_issues_count": 162
+			"open_issues_count": 165
 		},
 		{
 			"id": 45324348,
@@ -94,12 +94,12 @@
 			"html_url": "https://github.com/alexflint/go-arg",
 			"homepage": "",
 			"created_at": "2015-11-01T01:30:06Z",
-			"updated_at": "2023-11-21T20:21:58Z",
+			"updated_at": "2024-01-24T14:33:54Z",
 			"svn_url": "https://github.com/alexflint/go-arg",
-			"stargazers_count": 1746,
-			"watchers_count": 1746,
-			"forks_count": 94,
-			"open_issues_count": 27
+			"stargazers_count": 1808,
+			"watchers_count": 1808,
+			"forks_count": 96,
+			"open_issues_count": 28
 		},
 		{
 			"id": 14081448,
@@ -108,11 +108,11 @@
 			"html_url": "https://github.com/mitchellh/cli",
 			"homepage": "",
 			"created_at": "2013-11-03T06:47:54Z",
-			"updated_at": "2023-11-21T06:18:23Z",
+			"updated_at": "2024-01-24T14:08:04Z",
 			"svn_url": "https://github.com/mitchellh/cli",
-			"stargazers_count": 1692,
-			"watchers_count": 1692,
-			"forks_count": 124,
+			"stargazers_count": 1705,
+			"watchers_count": 1705,
+			"forks_count": 123,
 			"open_issues_count": 7
 		},
 		{
@@ -122,12 +122,12 @@
 			"html_url": "https://github.com/nanovms/ops",
 			"homepage": "https://ops.city",
 			"created_at": "2018-09-10T17:57:47Z",
-			"updated_at": "2023-11-20T18:56:14Z",
+			"updated_at": "2024-01-24T10:40:23Z",
 			"svn_url": "https://github.com/nanovms/ops",
-			"stargazers_count": 1140,
-			"watchers_count": 1140,
-			"forks_count": 124,
-			"open_issues_count": 144
+			"stargazers_count": 1151,
+			"watchers_count": 1151,
+			"forks_count": 127,
+			"open_issues_count": 141
 		},
 		{
 			"id": 5428536,
@@ -136,11 +136,11 @@
 			"html_url": "https://github.com/peterh/liner",
 			"homepage": "",
 			"created_at": "2012-08-15T16:34:55Z",
-			"updated_at": "2023-11-20T15:43:18Z",
+			"updated_at": "2024-01-24T09:31:30Z",
 			"svn_url": "https://github.com/peterh/liner",
-			"stargazers_count": 1012,
-			"watchers_count": 1012,
-			"forks_count": 135,
+			"stargazers_count": 1020,
+			"watchers_count": 1020,
+			"forks_count": 136,
 			"open_issues_count": 17
 		},
 		{
@@ -150,12 +150,12 @@
 			"html_url": "https://github.com/posener/complete",
 			"homepage": "",
 			"created_at": "2017-05-05T21:34:07Z",
-			"updated_at": "2023-11-17T12:01:22Z",
+			"updated_at": "2024-01-20T00:32:52Z",
 			"svn_url": "https://github.com/posener/complete",
-			"stargazers_count": 900,
-			"watchers_count": 900,
-			"forks_count": 113,
-			"open_issues_count": 26
+			"stargazers_count": 905,
+			"watchers_count": 905,
+			"forks_count": 114,
+			"open_issues_count": 25
 		},
 		{
 			"id": 28198414,
@@ -164,10 +164,10 @@
 			"html_url": "https://github.com/jawher/mow.cli",
 			"homepage": "",
 			"created_at": "2014-12-18T19:34:20Z",
-			"updated_at": "2023-11-22T09:25:46Z",
+			"updated_at": "2024-01-25T09:09:33Z",
 			"svn_url": "https://github.com/jawher/mow.cli",
-			"stargazers_count": 864,
-			"watchers_count": 864,
+			"stargazers_count": 868,
+			"watchers_count": 868,
 			"forks_count": 55,
 			"open_issues_count": 34
 		},
@@ -178,12 +178,12 @@
 			"html_url": "https://github.com/integrii/flaggy",
 			"homepage": "",
 			"created_at": "2018-03-05T05:55:05Z",
-			"updated_at": "2023-11-17T15:17:29Z",
+			"updated_at": "2024-01-04T16:21:12Z",
 			"svn_url": "https://github.com/integrii/flaggy",
-			"stargazers_count": 840,
-			"watchers_count": 840,
+			"stargazers_count": 842,
+			"watchers_count": 842,
 			"forks_count": 34,
-			"open_issues_count": 18
+			"open_issues_count": 19
 		},
 		{
 			"id": 52618352,
@@ -192,12 +192,12 @@
 			"html_url": "https://github.com/mkideal/cli",
 			"homepage": "",
 			"created_at": "2016-02-26T16:45:29Z",
-			"updated_at": "2023-11-21T10:00:59Z",
+			"updated_at": "2024-01-16T18:02:42Z",
 			"svn_url": "https://github.com/mkideal/cli",
-			"stargazers_count": 702,
-			"watchers_count": 702,
-			"forks_count": 45,
-			"open_issues_count": 3
+			"stargazers_count": 711,
+			"watchers_count": 711,
+			"forks_count": 43,
+			"open_issues_count": 4
 		},
 		{
 			"id": 111885079,
@@ -206,11 +206,11 @@
 			"html_url": "https://github.com/akamensky/argparse",
 			"homepage": "",
 			"created_at": "2017-11-24T06:42:20Z",
-			"updated_at": "2023-11-22T04:22:03Z",
+			"updated_at": "2024-01-23T00:52:02Z",
 			"svn_url": "https://github.com/akamensky/argparse",
-			"stargazers_count": 565,
-			"watchers_count": 565,
-			"forks_count": 57,
+			"stargazers_count": 579,
+			"watchers_count": 579,
+			"forks_count": 58,
 			"open_issues_count": 6
 		},
 		{
@@ -220,10 +220,10 @@
 			"html_url": "https://github.com/tucnak/climax",
 			"homepage": "http://git.io/climax",
 			"created_at": "2015-11-03T21:04:57Z",
-			"updated_at": "2023-11-06T22:35:52Z",
+			"updated_at": "2023-12-17T20:24:21Z",
 			"svn_url": "https://github.com/tucnak/climax",
-			"stargazers_count": 211,
-			"watchers_count": 211,
+			"stargazers_count": 214,
+			"watchers_count": 214,
 			"forks_count": 16,
 			"open_issues_count": 7
 		},
@@ -234,12 +234,12 @@
 			"html_url": "https://github.com/dixonwille/wmenu",
 			"homepage": "",
 			"created_at": "2016-04-20T13:09:44Z",
-			"updated_at": "2023-11-21T05:15:59Z",
+			"updated_at": "2024-01-24T04:30:54Z",
 			"svn_url": "https://github.com/dixonwille/wmenu",
-			"stargazers_count": 197,
-			"watchers_count": 197,
-			"forks_count": 23,
-			"open_issues_count": 1
+			"stargazers_count": 208,
+			"watchers_count": 208,
+			"forks_count": 24,
+			"open_issues_count": 2
 		},
 		{
 			"id": 125506740,
@@ -248,10 +248,10 @@
 			"html_url": "https://github.com/hidevopsio/hiboot",
 			"homepage": "https://hiboot.netlify.app/",
 			"created_at": "2018-03-16T11:21:46Z",
-			"updated_at": "2023-10-07T13:11:29Z",
+			"updated_at": "2023-11-28T08:23:22Z",
 			"svn_url": "https://github.com/hidevopsio/hiboot",
-			"stargazers_count": 179,
-			"watchers_count": 179,
+			"stargazers_count": 180,
+			"watchers_count": 180,
 			"forks_count": 26,
 			"open_issues_count": 6
 		},
@@ -262,7 +262,7 @@
 			"html_url": "https://github.com/jaffee/commandeer",
 			"homepage": "",
 			"created_at": "2017-10-12T02:51:05Z",
-			"updated_at": "2023-10-07T13:09:59Z",
+			"updated_at": "2024-01-18T05:26:57Z",
 			"svn_url": "https://github.com/jaffee/commandeer",
 			"stargazers_count": 172,
 			"watchers_count": 172,
@@ -276,10 +276,10 @@
 			"html_url": "https://github.com/leaanthony/clir",
 			"homepage": "",
 			"created_at": "2019-11-18T19:52:00Z",
-			"updated_at": "2023-11-02T12:30:17Z",
+			"updated_at": "2023-12-31T16:17:16Z",
 			"svn_url": "https://github.com/leaanthony/clir",
-			"stargazers_count": 160,
-			"watchers_count": 160,
+			"stargazers_count": 163,
+			"watchers_count": 163,
 			"forks_count": 15,
 			"open_issues_count": 6
 		},
@@ -304,10 +304,10 @@
 			"html_url": "https://github.com/liujianping/job",
 			"homepage": "",
 			"created_at": "2019-04-09T11:14:51Z",
-			"updated_at": "2023-11-09T12:09:32Z",
+			"updated_at": "2023-12-08T06:18:33Z",
 			"svn_url": "https://github.com/liujianping/job",
-			"stargazers_count": 134,
-			"watchers_count": 134,
+			"stargazers_count": 137,
+			"watchers_count": 137,
 			"forks_count": 12,
 			"open_issues_count": 1
 		},
@@ -326,6 +326,20 @@
 			"open_issues_count": 1
 		},
 		{
+			"id": 186799383,
+			"name": "cmdr",
+			"description": "POSIX-compliant command-line UI (CLI) parser and Hierarchical-configuration operations",
+			"html_url": "https://github.com/hedzr/cmdr",
+			"homepage": "https://hedzr.com/cmdr-docs/",
+			"created_at": "2019-05-15T09:58:02Z",
+			"updated_at": "2024-01-18T05:24:29Z",
+			"svn_url": "https://github.com/hedzr/cmdr",
+			"stargazers_count": 127,
+			"watchers_count": 127,
+			"forks_count": 9,
+			"open_issues_count": 1
+		},
+		{
 			"id": 36570417,
 			"name": "clif",
 			"description": "Another CLI framework for Go. It works on my machine.",
@@ -340,30 +354,16 @@
 			"open_issues_count": 3
 		},
 		{
-			"id": 186799383,
-			"name": "cmdr",
-			"description": "POSIX-compliant command-line UI (CLI) parser and Hierarchical-configuration operations",
-			"html_url": "https://github.com/hedzr/cmdr",
-			"homepage": "https://hedzr.com/cmdr-docs/",
-			"created_at": "2019-05-15T09:58:02Z",
-			"updated_at": "2023-10-15T01:50:47Z",
-			"svn_url": "https://github.com/hedzr/cmdr",
-			"stargazers_count": 124,
-			"watchers_count": 124,
-			"forks_count": 9,
-			"open_issues_count": 1
-		},
-		{
 			"id": 92344024,
 			"name": "cli",
 			"description": "Simple and complete API for building command line applications in Go",
 			"html_url": "https://github.com/teris-io/cli",
 			"homepage": "",
 			"created_at": "2017-05-24T23:07:07Z",
-			"updated_at": "2023-11-20T21:13:22Z",
+			"updated_at": "2024-01-19T02:35:38Z",
 			"svn_url": "https://github.com/teris-io/cli",
-			"stargazers_count": 122,
-			"watchers_count": 122,
+			"stargazers_count": 124,
+			"watchers_count": 124,
 			"forks_count": 8,
 			"open_issues_count": 2
 		},
@@ -378,7 +378,7 @@
 			"svn_url": "https://github.com/codingconcepts/env",
 			"stargazers_count": 107,
 			"watchers_count": 107,
-			"forks_count": 10,
+			"forks_count": 12,
 			"open_issues_count": 1
 		},
 		{
@@ -402,10 +402,10 @@
 			"html_url": "https://github.com/dixonwille/wlog",
 			"homepage": "",
 			"created_at": "2016-04-13T16:47:40Z",
-			"updated_at": "2023-11-18T05:49:23Z",
+			"updated_at": "2024-01-10T19:19:04Z",
 			"svn_url": "https://github.com/dixonwille/wlog",
-			"stargazers_count": 63,
-			"watchers_count": 63,
+			"stargazers_count": 64,
+			"watchers_count": 64,
 			"forks_count": 9,
 			"open_issues_count": 0
 		},
@@ -430,10 +430,10 @@
 			"html_url": "https://github.com/DavidGamba/go-getoptions",
 			"homepage": "",
 			"created_at": "2015-12-18T02:21:14Z",
-			"updated_at": "2023-11-09T09:55:26Z",
+			"updated_at": "2024-01-12T18:06:44Z",
 			"svn_url": "https://github.com/DavidGamba/go-getoptions",
-			"stargazers_count": 51,
-			"watchers_count": 51,
+			"stargazers_count": 53,
+			"watchers_count": 53,
 			"forks_count": 10,
 			"open_issues_count": 2
 		},
@@ -500,10 +500,10 @@
 			"html_url": "https://github.com/Zaba505/sand",
 			"homepage": "https://ops.city",
 			"created_at": "2018-11-18T22:44:41Z",
-			"updated_at": "2023-10-07T13:12:24Z",
+			"updated_at": "2023-12-15T07:40:03Z",
 			"svn_url": "https://github.com/Zaba505/sand",
-			"stargazers_count": 22,
-			"watchers_count": 22,
+			"stargazers_count": 24,
+			"watchers_count": 24,
 			"forks_count": 2,
 			"open_issues_count": 0
 		},

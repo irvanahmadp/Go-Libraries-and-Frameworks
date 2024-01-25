@@ -271,48 +271,48 @@ Libraries for building Console Applications and Console User Interfaces.
 ### Command Line - Standard CLI
 Libraries for building standard or basic Command Line applications.
 
-<sup>*Last Update: 2023-11-22 20:35:10*</sup>
+<sup>*Last Update: 2024-01-25 21:25:21*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [cobra](https://cobra.dev) | 34,202 | 2,806 | 242 | A Commander for modern Go CLI interactions | 2013-09-03 20:40:26 | 2023-11-22 13:03:59 |
-| [cli](https://cli.urfave.org) | 20,966 | 1,698 | 49 | A simple, fast, and fun package for building command line apps in Go | 2013-07-13 19:32:06 | 2023-11-22 08:55:29 |
-| [kingpin](https://github.com/alecthomas/kingpin) | 3,386 | 275 | 24 | CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser | 2014-05-14 20:09:04 | 2023-11-17 09:40:13 |
-| [dnote](https://www.getdnote.com) | 2,601 | 113 | 55 | A simple command line notebook for programmers | 2017-03-30 23:07:25 | 2023-11-21 15:16:09 |
-| [go-flags](http://godoc.org/github.com/jessevdk/go-flags) | 2,465 | 321 | 56 | go command line option parser | 2012-08-31 13:57:58 | 2023-11-22 11:01:55 |
-| [pflag](https://ops.city) | 2,223 | 335 | 162 | Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags. | 2013-08-30 14:53:31 | 2023-11-20 21:02:54 |
-| [go-arg](https://github.com/alexflint/go-arg) | 1,746 | 94 | 27 | Struct-based argument parsing in Go | 2015-11-01 01:30:06 | 2023-11-21 20:21:58 |
-| [cli](https://github.com/mitchellh/cli) | 1,692 | 124 | 7 | A Go library for implementing command-line interfaces. | 2013-11-03 06:47:54 | 2023-11-21 06:18:23 |
-| [ops](https://ops.city) | 1,140 | 124 | 144 | ops - build and run nanos unikernels | 2018-09-10 17:57:47 | 2023-11-20 18:56:14 |
-| [liner](https://github.com/peterh/liner) | 1,012 | 135 | 17 | Pure Go line editor with history, inspired by linenoise | 2012-08-15 16:34:55 | 2023-11-20 15:43:18 |
-| [complete](https://github.com/posener/complete) | 900 | 113 | 26 | bash completion written in go + bash completion for go command | 2017-05-05 21:34:07 | 2023-11-17 12:01:22 |
-| [mow.cli](https://github.com/jawher/mow.cli) | 864 | 55 | 34 | A versatile library for building CLI applications in Go | 2014-12-18 19:34:20 | 2023-11-22 09:25:46 |
-| [flaggy](https://github.com/integrii/flaggy) | 840 | 34 | 18 | Idiomatic Go input parsing with subcommands, positional values, and flags at any position. No required project or package layout and no external dependencies. | 2018-03-05 05:55:05 | 2023-11-17 15:17:29 |
-| [cli](https://github.com/mkideal/cli) | 702 | 45 | 3 | CLI - A package for building command line app with go | 2016-02-26 16:45:29 | 2023-11-21 10:00:59 |
-| [argparse](https://github.com/akamensky/argparse) | 565 | 57 | 6 | Argparse for golang. Just because `flag` sucks | 2017-11-24 06:42:20 | 2023-11-22 04:22:03 |
-| [climax](http://git.io/climax) | 211 | 16 | 7 | Climax is an alternative CLI with the human face | 2015-11-03 21:04:57 | 2023-11-06 22:35:52 |
-| [wmenu](https://github.com/dixonwille/wmenu) | 197 | 23 | 1 | An easy to use menu structure for cli applications that prompts users to make choices. | 2016-04-20 13:09:44 | 2023-11-21 05:15:59 |
-| [hiboot](https://hiboot.netlify.app/) | 179 | 26 | 6 | hiboot is a high performance web and cli application framework with dependency injection support | 2018-03-16 11:21:46 | 2023-10-07 13:11:29 |
-| [commandeer](https://github.com/jaffee/commandeer) | 172 | 16 | 5 | Automatically sets up command line flags based on struct fields and tags. | 2017-10-12 02:51:05 | 2023-10-07 13:09:59 |
-| [clir](https://github.com/leaanthony/clir) | 160 | 15 | 6 | A Simple and Clear CLI library. Dependency free. | 2019-11-18 19:52:00 | 2023-11-02 12:30:17 |
+| [cobra](https://cobra.dev) | 34,943 | 2,846 | 255 | A Commander for modern Go CLI interactions | 2013-09-03 20:40:26 | 2024-01-25 13:08:05 |
+| [cli](https://cli.urfave.org) | 21,243 | 1,704 | 36 | A simple, fast, and fun package for building command line apps in Go | 2013-07-13 19:32:06 | 2024-01-25 07:06:00 |
+| [kingpin](https://github.com/alecthomas/kingpin) | 3,405 | 274 | 26 | CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser | 2014-05-14 20:09:04 | 2024-01-25 07:14:38 |
+| [dnote](https://www.getdnote.com) | 2,629 | 116 | 58 | A simple command line notebook for programmers | 2017-03-30 23:07:25 | 2024-01-24 16:46:22 |
+| [go-flags](http://godoc.org/github.com/jessevdk/go-flags) | 2,483 | 323 | 57 | go command line option parser | 2012-08-31 13:57:58 | 2024-01-25 05:32:21 |
+| [pflag](https://ops.city) | 2,258 | 335 | 165 | Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags. | 2013-08-30 14:53:31 | 2024-01-21 17:04:03 |
+| [go-arg](https://github.com/alexflint/go-arg) | 1,808 | 96 | 28 | Struct-based argument parsing in Go | 2015-11-01 01:30:06 | 2024-01-24 14:33:54 |
+| [cli](https://github.com/mitchellh/cli) | 1,705 | 123 | 7 | A Go library for implementing command-line interfaces. | 2013-11-03 06:47:54 | 2024-01-24 14:08:04 |
+| [ops](https://ops.city) | 1,151 | 127 | 141 | ops - build and run nanos unikernels | 2018-09-10 17:57:47 | 2024-01-24 10:40:23 |
+| [liner](https://github.com/peterh/liner) | 1,020 | 136 | 17 | Pure Go line editor with history, inspired by linenoise | 2012-08-15 16:34:55 | 2024-01-24 09:31:30 |
+| [complete](https://github.com/posener/complete) | 905 | 114 | 25 | bash completion written in go + bash completion for go command | 2017-05-05 21:34:07 | 2024-01-20 00:32:52 |
+| [mow.cli](https://github.com/jawher/mow.cli) | 868 | 55 | 34 | A versatile library for building CLI applications in Go | 2014-12-18 19:34:20 | 2024-01-25 09:09:33 |
+| [flaggy](https://github.com/integrii/flaggy) | 842 | 34 | 19 | Idiomatic Go input parsing with subcommands, positional values, and flags at any position. No required project or package layout and no external dependencies. | 2018-03-05 05:55:05 | 2024-01-04 16:21:12 |
+| [cli](https://github.com/mkideal/cli) | 711 | 43 | 4 | CLI - A package for building command line app with go | 2016-02-26 16:45:29 | 2024-01-16 18:02:42 |
+| [argparse](https://github.com/akamensky/argparse) | 579 | 58 | 6 | Argparse for golang. Just because `flag` sucks | 2017-11-24 06:42:20 | 2024-01-23 00:52:02 |
+| [climax](http://git.io/climax) | 214 | 16 | 7 | Climax is an alternative CLI with the human face | 2015-11-03 21:04:57 | 2023-12-17 20:24:21 |
+| [wmenu](https://github.com/dixonwille/wmenu) | 208 | 24 | 2 | An easy to use menu structure for cli applications that prompts users to make choices. | 2016-04-20 13:09:44 | 2024-01-24 04:30:54 |
+| [hiboot](https://hiboot.netlify.app/) | 180 | 26 | 6 | hiboot is a high performance web and cli application framework with dependency injection support | 2018-03-16 11:21:46 | 2023-11-28 08:23:22 |
+| [commandeer](https://github.com/jaffee/commandeer) | 172 | 16 | 5 | Automatically sets up command line flags based on struct fields and tags. | 2017-10-12 02:51:05 | 2024-01-18 05:26:57 |
+| [clir](https://github.com/leaanthony/clir) | 163 | 15 | 6 | A Simple and Clear CLI library. Dependency free. | 2019-11-18 19:52:00 | 2023-12-31 16:17:16 |
 | [sflags](https://ops.city) | 148 | 36 | 10 | Generate flags by parsing structures | 2016-12-04 14:49:27 | 2023-11-13 19:38:15 |
-| [job](https://github.com/liujianping/job) | 134 | 12 | 1 | JOB, make your short-term command as a long-term job. 将命令行规划成任务的工具 | 2019-04-09 11:14:51 | 2023-11-09 12:09:32 |
+| [job](https://github.com/liujianping/job) | 137 | 12 | 1 | JOB, make your short-term command as a long-term job. 将命令行规划成任务的工具 | 2019-04-09 11:14:51 | 2023-12-08 06:18:33 |
 | [flag](https://github.com/cosiner/flag) | 129 | 7 | 1 | Flag is a simple but powerful command line option parsing library for Go support infinite level subcommand | 2016-10-05 16:49:41 | 2023-10-16 14:21:25 |
+| [cmdr](https://hedzr.com/cmdr-docs/) | 127 | 9 | 1 | POSIX-compliant command-line UI (CLI) parser and Hierarchical-configuration operations | 2019-05-15 09:58:02 | 2024-01-18 05:24:29 |
 | [clif](https://github.com/ukautz/clif) | 125 | 14 | 3 | Another CLI framework for Go. It works on my machine. | 2015-05-30 18:30:08 | 2023-10-07 13:13:10 |
-| [cmdr](https://hedzr.com/cmdr-docs/) | 124 | 9 | 1 | POSIX-compliant command-line UI (CLI) parser and Hierarchical-configuration operations | 2019-05-15 09:58:02 | 2023-10-15 01:50:47 |
-| [cli](https://github.com/teris-io/cli) | 122 | 8 | 2 | Simple and complete API for building command line applications in Go | 2017-05-24 23:07:07 | 2023-11-20 21:13:22 |
-| [env](https://github.com/codingconcepts/env) | 107 | 10 | 1 | Tag-based environment configuration for structs | 2017-06-14 20:01:55 | 2023-10-17 06:27:10 |
+| [cli](https://github.com/teris-io/cli) | 124 | 8 | 2 | Simple and complete API for building command line applications in Go | 2017-05-24 23:07:07 | 2024-01-19 02:35:38 |
+| [env](https://github.com/codingconcepts/env) | 107 | 12 | 1 | Tag-based environment configuration for structs | 2017-06-14 20:01:55 | 2023-10-17 06:27:10 |
 | [gocmd](https://github.com/devfacet/gocmd) | 66 | 5 | 1 | A Go library for building command line applications. | 2018-01-08 04:52:02 | 2023-10-07 13:11:01 |
-| [wlog](https://github.com/dixonwille/wlog) | 63 | 9 | 0 | A simple logging interface that supports cross-platform color and concurrency. | 2016-04-13 16:47:40 | 2023-11-18 05:49:23 |
+| [wlog](https://github.com/dixonwille/wlog) | 64 | 9 | 0 | A simple logging interface that supports cross-platform color and concurrency. | 2016-04-13 16:47:40 | 2024-01-10 19:19:04 |
 | [strumt](https://github.com/antham/strumt) | 57 | 5 | 1 | Strumt is a library to create prompt chain | 2017-06-19 19:33:16 | 2023-10-07 13:12:29 |
-| [go-getoptions](https://github.com/DavidGamba/go-getoptions) | 51 | 10 | 2 | Fully featured Go (golang) command line option parser with built-in auto-completion support. | 2015-12-18 02:21:14 | 2023-11-09 09:55:26 |
+| [go-getoptions](https://github.com/DavidGamba/go-getoptions) | 53 | 10 | 2 | Fully featured Go (golang) command line option parser with built-in auto-completion support. | 2015-12-18 02:21:14 | 2024-01-12 18:06:44 |
 | [flagvar](https://pkg.go.dev/github.com/sgreben/flagvar?tab=doc) | 43 | 4 | 2 | A collection of CLI argument types for the Go `flag` package. | 2018-05-18 18:45:16 | 2023-10-07 13:10:32 |
 | [cmd](https://github.com/posener/cmd) | 41 | 2 | 0 | The standard library flag package with its missing features | 2019-10-29 00:32:11 | 2023-11-03 12:57:19 |
 | [argv](https://github.com/cosiner/argv) | 39 | 7 | 0 | Argparse for golang. Just because `flag` sucks | 2017-01-22 10:37:21 | 2023-10-07 13:09:24 |
 | [go-commander](http://yitsushi.github.io/go-commander/) | 35 | 5 | 1 | Go library to simplify CLI workflow | 2016-10-10 10:09:41 | 2023-10-07 13:10:47 |
-| [sand](https://ops.city) | 22 | 2 | 0 | Package for creating interpreters | 2018-11-18 22:44:41 | 2023-10-07 13:12:24 |
+| [sand](https://ops.city) | 24 | 2 | 0 | Package for creating interpreters | 2018-11-18 22:44:41 | 2023-12-15 07:40:03 |
 | [ts](https://github.com/liujianping/ts) | 20 | 3 | 0 | timestamp convert & compare tool. 时间戳转换与对比工具 | 2019-06-25 10:21:13 | 2023-11-14 12:53:40 |
 </details>
 
@@ -612,16 +612,16 @@ libraries for building and using SQL
 ### Database Drivers - Multiple Backends.
 
 
-<sup>*Last Update: 2023-12-04 09:33:27*</sup>
+<sup>*Last Update: 2024-01-25 21:25:42*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [cayley](https://cayley.io) | 14,677 | 1,289 | 92 | An open-source graph database | 2014-06-05 18:49:41 | 2023-12-03 17:04:47 |
+| [cayley](https://cayley.io) | 14,710 | 1,293 | 93 | An open-source graph database | 2014-06-05 18:49:41 | 2024-01-25 05:33:56 |
 | [gokv](https://github.com/philippgille/gokv) | 596 | 65 | 35 | Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more) | 2018-10-08 18:55:22 | 2023-11-26 07:27:04 |
-| [cachego](https://github.com/faabiosr/cachego) | 323 | 22 | 0 | Golang Cache component - Multiple drivers | 2016-10-05 18:10:03 | 2023-12-01 07:32:51 |
-| [dsc](https://github.com/viant/dsc) | 27 | 10 | 2 | Datastore Connectivity in go | 2016-06-13 20:18:10 | 2023-07-27 16:52:56 |
+| [cachego](https://github.com/faabiosr/cachego) | 341 | 24 | 0 | Golang Cache component - Multiple drivers | 2016-10-05 18:10:03 | 2024-01-22 10:02:33 |
+| [dsc](https://github.com/viant/dsc) | 28 | 10 | 2 | Datastore Connectivity in go | 2016-06-13 20:18:10 | 2023-12-09 19:12:51 |
 </details>
 
 ### Database Drivers - NoSQL Databases
@@ -1277,22 +1277,22 @@ Libraries for working with JSON.
 ### Job Scheduler
 Libraries for scheduling jobs.
 
-<sup>*Last Update: 2023-11-20 08:20:37*</sup>
+<sup>*Last Update: 2024-01-25 21:25:13*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [gocron](https://github.com/go-co-op/gocron) | 4,262 | 295 | 14 | Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron | 2020-03-20 15:33:05 | 2023-11-19 18:51:20 |
-| [go-quartz](https://pkg.go.dev/github.com/reugn/go-quartz/quartz) | 1,552 | 83 | 8 | Minimalist and zero-dependency scheduling library for Go | 2019-04-14 18:57:51 | 2023-11-19 21:03:02 |
-| [gron](https://github.com/roylee0704/gron) | 996 | 65 | 9 | gron, Cron Jobs in Go. | 2016-06-04 08:02:22 | 2023-11-13 08:14:21 |
-| [jobrunner](https://github.com/bamzi/jobrunner) | 987 | 98 | 11 | Framework for performing work asynchronously, outside of the request flow | 2015-10-21 04:17:01 | 2023-11-17 09:40:15 |
-| [jobs](https://github.com/albrow/jobs) | 496 | 47 | 17 | A persistent and flexible background jobs library for go. | 2015-02-09 22:13:29 | 2023-11-12 19:08:09 |
-| [scheduler](https://github.com/carlescere/scheduler) | 435 | 54 | 8 | Job scheduling made easy. | 2015-02-03 17:10:23 | 2023-11-18 20:02:38 |
-| [go-cron](https://github.com/rk/go-cron) | 223 | 15 | 0 | A simple Cron library for go that can execute closures or functions at varying intervals, from once a second to once a year on a specific date and time. Primarily for web applications and long running daemons. | 2011-04-15 14:50:49 | 2023-11-15 13:50:44 |
-| [tasks](https://github.com/madflojo/tasks) | 205 | 22 | 2 | Package tasks is an easy to use in-process scheduler for recurring tasks in Go | 2019-12-24 18:26:18 | 2023-11-15 10:22:22 |
-| [clockwerk](https://github.com/onatm/clockwerk) | 140 | 14 | 0 | Job Scheduling Library | 2017-04-09 23:10:48 | 2023-10-17 16:14:24 |
-| [leprechaun](https://github.com/kilgaloon/leprechaun) | 100 | 13 | 12 | You had one job, or more then one, which can be done in steps | 2018-04-08 13:44:04 | 2023-10-20 19:32:59 |
+| [gocron](https://github.com/go-co-op/gocron) | 4,559 | 307 | 12 | Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron | 2020-03-20 15:33:05 | 2024-01-25 05:37:45 |
+| [go-quartz](https://pkg.go.dev/github.com/reugn/go-quartz/quartz) | 1,583 | 82 | 4 | Minimalist and zero-dependency scheduling library for Go | 2019-04-14 18:57:51 | 2024-01-24 14:46:06 |
+| [gron](https://github.com/roylee0704/gron) | 1,005 | 66 | 9 | gron, Cron Jobs in Go. | 2016-06-04 08:02:22 | 2024-01-25 01:25:53 |
+| [jobrunner](https://github.com/bamzi/jobrunner) | 999 | 98 | 11 | Framework for performing work asynchronously, outside of the request flow | 2015-10-21 04:17:01 | 2024-01-23 02:25:54 |
+| [jobs](https://github.com/albrow/jobs) | 494 | 47 | 17 | A persistent and flexible background jobs library for go. | 2015-02-09 22:13:29 | 2024-01-03 14:12:00 |
+| [scheduler](https://github.com/carlescere/scheduler) | 437 | 54 | 8 | Job scheduling made easy. | 2015-02-03 17:10:23 | 2024-01-16 23:34:02 |
+| [go-cron](https://github.com/rk/go-cron) | 222 | 15 | 0 | A simple Cron library for go that can execute closures or functions at varying intervals, from once a second to once a year on a specific date and time. Primarily for web applications and long running daemons. | 2011-04-15 14:50:49 | 2024-01-03 14:09:50 |
+| [tasks](https://github.com/madflojo/tasks) | 221 | 21 | 2 | Package tasks is an easy to use in-process scheduler for recurring tasks in Go | 2019-12-24 18:26:18 | 2024-01-25 02:06:02 |
+| [clockwerk](https://github.com/onatm/clockwerk) | 141 | 14 | 0 | Job Scheduling Library | 2017-04-09 23:10:48 | 2024-01-09 21:45:53 |
+| [leprechaun](https://github.com/kilgaloon/leprechaun) | 101 | 13 | 12 | You had one job, or more then one, which can be done in steps | 2018-04-08 13:44:04 | 2024-01-12 09:04:41 |
 | [clockwork](https://github.com/whiteShtef/clockwork) | 27 | 13 | 2 | Job Scheduling Library | 2020-02-21 01:25:57 | 2023-03-04 16:27:09 |
 | [cronticker](https://github.com/krayzpipes/cronticker) | 11 | 3 | 0 | Golang ticker that works with Cron scheduling. | 2020-11-28 20:59:38 | 2023-08-11 06:19:06 |
 </details>
@@ -2782,18 +2782,18 @@ Full stack web frameworks.
 ### WebAssembly
 
 
-<sup>*Last Update: 2023-11-22 20:35:37*</sup>
+<sup>*Last Update: 2024-01-25 21:25:39*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [tinygo](https://tinygo.org) | 13,696 | 805 | 490 | Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM. | 2018-06-07 16:39:19 | 2023-11-22 09:59:27 |
-| [dom](https://github.com/dennwc/dom) | 481 | 59 | 11 | DOM library for Go and WASM | 2018-06-30 18:37:35 | 2023-10-31 12:58:11 |
-| [go-canvas](https://github.com/markfarnan/go-canvas) | 217 | 17 | 4 | Library to use HTML5 Canvas  from Go-WASM, with all drawing within go code | 2019-05-05 14:05:55 | 2023-11-08 16:11:30 |
-| [wasmbrowsertest](https://github.com/agnivade/wasmbrowsertest) | 159 | 25 | 4 | Run WASM tests inside your browser | 2018-07-14 18:42:24 | 2023-11-09 01:12:43 |
-| [webapi](https://github.com/gowebapi/webapi) | 147 | 12 | 3 | Go Lang Web Assembly bindings for DOM, HTML etc | 2019-02-08 05:58:35 | 2023-11-17 02:15:42 |
-| [vert](https://github.com/norunners/vert) | 93 | 13 | 2 | WebAssembly interop between Go and JS values. | 2018-03-25 17:26:47 | 2023-11-08 15:09:24 |
+| [tinygo](https://tinygo.org) | 13,985 | 821 | 521 | Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM. | 2018-06-07 16:39:19 | 2024-01-25 11:54:20 |
+| [dom](https://github.com/dennwc/dom) | 483 | 59 | 10 | DOM library for Go and WASM | 2018-06-30 18:37:35 | 2024-01-16 21:38:17 |
+| [go-canvas](https://github.com/markfarnan/go-canvas) | 220 | 17 | 4 | Library to use HTML5 Canvas  from Go-WASM, with all drawing within go code | 2019-05-05 14:05:55 | 2024-01-20 19:39:15 |
+| [wasmbrowsertest](https://github.com/agnivade/wasmbrowsertest) | 166 | 25 | 3 | Run WASM tests inside your browser | 2018-07-14 18:42:24 | 2024-01-23 00:29:28 |
+| [webapi](https://github.com/gowebapi/webapi) | 151 | 12 | 3 | Go Lang Web Assembly bindings for DOM, HTML etc | 2019-02-08 05:58:35 | 2024-01-20 16:34:34 |
+| [vert](https://github.com/norunners/vert) | 96 | 14 | 2 | WebAssembly interop between Go and JS values. | 2018-03-25 17:26:47 | 2024-01-10 05:35:55 |
 </details>
 
 ### Windows
