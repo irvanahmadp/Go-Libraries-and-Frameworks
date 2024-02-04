@@ -1,7 +1,7 @@
 {
 	"name": "Dynamic DNS",
 	"index_last_check": 0,
-	"last_update": 1706101801,
+	"last_update": 1707046046,
 	"libraries": [
 		{
 			"id": 19664994,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/TimothyYe/godns",
 			"homepage": "https://timothyye.github.io/godns/",
 			"created_at": "2014-05-11T11:49:17Z",
-			"updated_at": "2024-01-24T12:25:15Z",
+			"updated_at": "2024-02-04T08:59:14Z",
 			"svn_url": "https://github.com/TimothyYe/godns",
-			"stargazers_count": 1393,
-			"watchers_count": 1393,
-			"forks_count": 259,
-			"open_issues_count": 14
+			"stargazers_count": 1398,
+			"watchers_count": 1398,
+			"forks_count": 258,
+			"open_issues_count": 13
 		},
 		{
 			"id": 84874313,
