@@ -1,7 +1,7 @@
 {
 	"name": "Miscellaneous - Project Layout",
 	"index_last_check": 0,
-	"last_update": 1702217581,
+	"last_update": 1707394636,
 	"libraries": [
 		{
 			"id": 102969245,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/golang-standards/project-layout",
 			"homepage": "",
 			"created_at": "2017-09-09T16:33:26Z",
-			"updated_at": "2023-12-10T13:14:02Z",
+			"updated_at": "2024-02-08T11:14:59Z",
 			"svn_url": "https://github.com/golang-standards/project-layout",
-			"stargazers_count": 43328,
-			"watchers_count": 43328,
-			"forks_count": 4781,
-			"open_issues_count": 96
+			"stargazers_count": 44446,
+			"watchers_count": 44446,
+			"forks_count": 4871,
+			"open_issues_count": 86
 		},
 		{
 			"id": 148784348,
@@ -24,11 +24,11 @@
 			"html_url": "https://github.com/sagikazarmark/modern-go-application",
 			"homepage": "",
 			"created_at": "2018-09-14T12:19:02Z",
-			"updated_at": "2023-12-05T08:39:41Z",
+			"updated_at": "2024-02-07T07:06:24Z",
 			"svn_url": "https://github.com/sagikazarmark/modern-go-application",
-			"stargazers_count": 1696,
-			"watchers_count": 1696,
-			"forks_count": 208,
+			"stargazers_count": 1749,
+			"watchers_count": 1749,
+			"forks_count": 214,
 			"open_issues_count": 22
 		},
 		{
@@ -38,12 +38,12 @@
 			"html_url": "https://github.com/lacion/cookiecutter-golang",
 			"homepage": "",
 			"created_at": "2016-12-18T18:22:26Z",
-			"updated_at": "2023-12-09T11:32:22Z",
+			"updated_at": "2024-02-06T06:46:54Z",
 			"svn_url": "https://github.com/lacion/cookiecutter-golang",
-			"stargazers_count": 643,
-			"watchers_count": 643,
-			"forks_count": 208,
-			"open_issues_count": 1
+			"stargazers_count": 656,
+			"watchers_count": 656,
+			"forks_count": 211,
+			"open_issues_count": 2
 		},
 		{
 			"id": 260322624,
@@ -52,12 +52,12 @@
 			"html_url": "https://github.com/golang-templates/seed",
 			"homepage": "",
 			"created_at": "2020-04-30T21:31:36Z",
-			"updated_at": "2023-12-05T21:42:55Z",
+			"updated_at": "2024-02-07T08:53:55Z",
 			"svn_url": "https://github.com/golang-templates/seed",
-			"stargazers_count": 409,
-			"watchers_count": 409,
+			"stargazers_count": 428,
+			"watchers_count": 428,
 			"forks_count": 46,
-			"open_issues_count": 1
+			"open_issues_count": 2
 		},
 		{
 			"id": 274937709,
@@ -66,11 +66,11 @@
 			"html_url": "https://github.com/Fs02/go-todo-backend",
 			"homepage": "",
 			"created_at": "2020-06-25T14:28:50Z",
-			"updated_at": "2023-12-07T23:22:19Z",
+			"updated_at": "2024-02-03T12:12:07Z",
 			"svn_url": "https://github.com/Fs02/go-todo-backend",
-			"stargazers_count": 269,
-			"watchers_count": 269,
-			"forks_count": 35,
+			"stargazers_count": 288,
+			"watchers_count": 288,
+			"forks_count": 34,
 			"open_issues_count": 0
 		},
 		{
@@ -80,11 +80,11 @@
 			"html_url": "https://github.com/catchplay/scaffold",
 			"homepage": "",
 			"created_at": "2018-12-11T10:36:03Z",
-			"updated_at": "2023-12-09T09:03:46Z",
+			"updated_at": "2024-02-05T16:23:56Z",
 			"svn_url": "https://github.com/catchplay/scaffold",
-			"stargazers_count": 146,
-			"watchers_count": 146,
-			"forks_count": 27,
+			"stargazers_count": 147,
+			"watchers_count": 147,
+			"forks_count": 28,
 			"open_issues_count": 2
 		},
 		{
@@ -94,11 +94,11 @@
 			"html_url": "https://github.com/zitryss/go-sample",
 			"homepage": "",
 			"created_at": "2019-01-24T23:41:46Z",
-			"updated_at": "2023-11-12T14:10:19Z",
+			"updated_at": "2024-01-27T22:43:30Z",
 			"svn_url": "https://github.com/zitryss/go-sample",
-			"stargazers_count": 123,
-			"watchers_count": 123,
-			"forks_count": 24,
+			"stargazers_count": 126,
+			"watchers_count": 126,
+			"forks_count": 25,
 			"open_issues_count": 0
 		},
 		{
@@ -108,10 +108,10 @@
 			"html_url": "https://github.com/wajox/gobase",
 			"homepage": "",
 			"created_at": "2020-12-15T16:54:20Z",
-			"updated_at": "2023-12-08T10:39:40Z",
+			"updated_at": "2023-12-22T06:17:06Z",
 			"svn_url": "https://github.com/wajox/gobase",
-			"stargazers_count": 50,
-			"watchers_count": 50,
+			"stargazers_count": 52,
+			"watchers_count": 52,
 			"forks_count": 6,
 			"open_issues_count": 0
 		},
@@ -122,10 +122,10 @@
 			"html_url": "https://github.com/insidieux/inizio",
 			"homepage": "",
 			"created_at": "2021-03-02T20:59:22Z",
-			"updated_at": "2023-11-13T12:15:11Z",
+			"updated_at": "2024-02-05T15:11:11Z",
 			"svn_url": "https://github.com/insidieux/inizio",
-			"stargazers_count": 17,
-			"watchers_count": 17,
+			"stargazers_count": 18,
+			"watchers_count": 18,
 			"forks_count": 2,
 			"open_issues_count": 0
 		}
