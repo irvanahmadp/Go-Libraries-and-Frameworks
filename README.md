@@ -984,18 +984,18 @@ Packages to support functional programming in Go.
 ### GUI - Interaction
 Libraries for building GUI Applications.
 
-<sup>*Last Update: 2023-12-10 21:13:05*</sup>
+<sup>*Last Update: 2024-02-11 21:38:17*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [robotgo](https://github.com/go-vgo/robotgo) | 8,866 | 872 | 146 | RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar | 2016-09-26 16:26:56 | 2023-12-10 13:14:42 |
-| [systray](https://github.com/getlantern/systray) | 2,968 | 393 | 98 | a cross platfrom Go library to place an icon and menu in the notification area | 2014-11-12 03:41:57 | 2023-12-10 01:19:20 |
-| [gosx-notifier](https://github.com/deckarep/gosx-notifier) | 581 | 51 | 10 | gosx-notifier is a Go framework for sending desktop notifications to OSX 10.8 or higher | 2013-11-25 06:35:16 | 2023-11-26 03:02:17 |
-| [trayhost](https://github.com/shurcooL/trayhost) | 246 | 19 | 9 | Cross-platform Go library to place an icon in the host operating system's taskbar. | 2014-04-25 04:02:30 | 2023-12-08 06:49:13 |
-| [mac-sleep-notifier](https://github.com/prashantgupta24/mac-sleep-notifier) | 29 | 6 | 0 | macOS Sleep/ Wake notifications in golang | 2019-03-30 00:43:23 | 2023-06-26 11:59:40 |
-| [activity-tracker](https://github.com/prashantgupta24/activity-tracker) | 24 | 9 | 2 | A library to notify about any (pluggable) activity on your machine, and let you take action as needed | 2019-03-12 21:16:44 | 2023-10-13 21:34:14 |
+| [robotgo](https://github.com/go-vgo/robotgo) | 9,051 | 887 | 153 | RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar | 2016-09-26 16:26:56 | 2024-02-11 01:05:25 |
+| [systray](https://github.com/getlantern/systray) | 3,042 | 409 | 98 | a cross platfrom Go library to place an icon and menu in the notification area | 2014-11-12 03:41:57 | 2024-02-10 07:27:00 |
+| [gosx-notifier](https://github.com/deckarep/gosx-notifier) | 583 | 51 | 10 | gosx-notifier is a Go framework for sending desktop notifications to OSX 10.8 or higher | 2013-11-25 06:35:16 | 2024-02-03 12:29:22 |
+| [trayhost](https://github.com/shurcooL/trayhost) | 247 | 19 | 9 | Cross-platform Go library to place an icon in the host operating system's taskbar. | 2014-04-25 04:02:30 | 2024-02-07 08:46:15 |
+| [mac-sleep-notifier](https://github.com/prashantgupta24/mac-sleep-notifier) | 30 | 6 | 0 | macOS Sleep/ Wake notifications in golang | 2019-03-30 00:43:23 | 2023-12-14 05:20:27 |
+| [activity-tracker](https://github.com/prashantgupta24/activity-tracker) | 26 | 9 | 2 | A library to notify about any (pluggable) activity on your machine, and let you take action as needed | 2019-03-12 21:16:44 | 2023-12-14 05:20:40 |
 | [go-appindicator](https://github.com/dawidd6/go-appindicator) | 19 | 7 | 1 | :traffic_light: Go bindings for libappindicator3 C library | 2019-05-04 13:38:53 | 2023-05-26 20:30:18 |
 </details>
 
@@ -1239,39 +1239,39 @@ Libraries for programming devices of the IoT.
 ### JSON
 Libraries for working with JSON.
 
-<sup>*Last Update: 2023-12-06 21:07:17*</sup>
+<sup>*Last Update: 2024-02-11 21:38:00*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [gjson](https://github.com/tidwall/gjson) | 13,098 | 866 | 71 | Get JSON values quickly - JSON parser for Go | 2016-08-11 03:08:47 | 2023-12-06 11:29:02 |
-| [json-to-go](https://mholt.github.io/json-to-go/) | 4,274 | 513 | 16 | Translates JSON into a Go type in your browser instantly (original) | 2014-01-21 18:11:13 | 2023-12-05 01:29:42 |
-| [gojson](https://github.com/ChimeraCoder/gojson) | 2,631 | 242 | 41 | Automatically generate Go (golang) struct definitions from example JSON | 2012-12-27 19:10:50 | 2023-12-02 21:10:11 |
-| [fastjson](https://github.com/valyala/fastjson) | 2,041 | 122 | 54 | Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection | 2018-05-28 21:41:47 | 2023-12-05 08:10:00 |
-| [jsondiff](https://pkg.go.dev/github.com/wI2L/jsondiff) | 358 | 33 | 0 | Compute the diff between two JSON documents as a series of RFC6902 (JSON Patch) operations | 2020-11-28 19:05:16 | 2023-12-04 13:18:49 |
-| [kazaam](https://github.com/qntfy/kazaam) | 269 | 54 | 23 | Arbitrary transformations of JSON in Golang | 2016-07-19 14:19:03 | 2023-11-21 10:52:08 |
-| [json-to-proto.github.io](https://json-to-proto.github.io) | 218 | 42 | 2 | convert JSON to Protocol Buffers online in your browser instantly | 2020-04-18 20:42:45 | 2023-12-03 01:46:33 |
-| [ajson](https://github.com/spyzhov/ajson) | 195 | 21 | 12 | Abstract JSON for Golang with JSONPath support  | 2019-03-07 20:47:38 | 2023-12-05 08:03:30 |
-| [gojq](https://godoc.org/github.com/nicklaw5/go-respond) | 190 | 23 | 1 | JSON query in Golang | 2015-12-30 09:02:13 | 2023-09-26 22:59:23 |
-| [jettison](https://pkg.go.dev/github.com/wI2L/jettison) | 165 | 11 | 2 | Highly configurable, fast JSON encoder for Go | 2019-08-30 13:28:03 | 2023-12-05 19:38:51 |
-| [json2go](https://m-zajac.github.io/json2go) | 124 | 17 | 1 | Create go type representation from json | 2017-06-10 23:55:07 | 2023-10-20 04:01:54 |
-| [gjo](https://github.com/skanehira/gjo) | 122 | 15 | 1 | Small utility to create JSON objects | 2019-02-23 01:54:21 | 2023-09-26 22:58:24 |
-| [jsongo](https://pkg.go.dev/github.com/wI2L/jsondiff) | 109 | 15 | 1 | Fluent API to make it easier to create Json objects. | 2015-08-07 23:23:17 | 2023-02-02 12:48:01 |
-| [jaydiff](https://github.com/yazgazan/jaydiff) | 102 | 8 | 1 | A JSON diff utility | 2017-04-24 16:05:35 | 2023-09-26 22:59:43 |
+| [gjson](https://github.com/tidwall/gjson) | 13,331 | 875 | 73 | Get JSON values quickly - JSON parser for Go | 2016-08-11 03:08:47 | 2024-02-11 13:00:30 |
+| [json-to-go](https://mholt.github.io/json-to-go/) | 4,323 | 521 | 17 | Translates JSON into a Go type in your browser instantly (original) | 2014-01-21 18:11:13 | 2024-02-10 08:03:43 |
+| [gojson](https://github.com/ChimeraCoder/gojson) | 2,636 | 242 | 41 | Automatically generate Go (golang) struct definitions from example JSON | 2012-12-27 19:10:50 | 2024-02-08 23:22:44 |
+| [fastjson](https://github.com/valyala/fastjson) | 2,104 | 125 | 54 | Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection | 2018-05-28 21:41:47 | 2024-02-08 10:44:00 |
+| [jsondiff](https://pkg.go.dev/github.com/wI2L/jsondiff) | 373 | 35 | 0 | Compute the diff between two JSON documents as a series of RFC6902 (JSON Patch) operations | 2020-11-28 19:05:16 | 2024-02-10 20:54:45 |
+| [kazaam](https://github.com/qntfy/kazaam) | 272 | 54 | 23 | Arbitrary transformations of JSON in Golang | 2016-07-19 14:19:03 | 2024-01-29 22:01:27 |
+| [json-to-proto.github.io](https://json-to-proto.github.io) | 229 | 42 | 2 | convert JSON to Protocol Buffers online in your browser instantly | 2020-04-18 20:42:45 | 2024-02-07 22:18:27 |
+| [ajson](https://github.com/spyzhov/ajson) | 205 | 21 | 12 | Abstract JSON for Golang with JSONPath support  | 2019-03-07 20:47:38 | 2024-02-07 21:19:17 |
+| [gojq](https://godoc.org/github.com/nicklaw5/go-respond) | 191 | 23 | 1 | JSON query in Golang | 2015-12-30 09:02:13 | 2024-01-16 01:40:29 |
+| [jettison](https://pkg.go.dev/github.com/wI2L/jettison) | 167 | 11 | 2 | Highly configurable, fast JSON encoder for Go | 2019-08-30 13:28:03 | 2024-01-23 23:22:55 |
+| [json2go](https://m-zajac.github.io/json2go) | 125 | 17 | 1 | Create go type representation from json | 2017-06-10 23:55:07 | 2024-01-16 01:39:17 |
+| [gjo](https://github.com/skanehira/gjo) | 123 | 15 | 1 | Small utility to create JSON objects | 2019-02-23 01:54:21 | 2024-02-09 22:36:05 |
+| [jsongo](https://pkg.go.dev/github.com/wI2L/jsondiff) | 109 | 15 | 1 | Fluent API to make it easier to create Json objects. | 2015-08-07 23:23:17 | 2023-12-22 22:09:12 |
+| [jaydiff](https://github.com/yazgazan/jaydiff) | 103 | 8 | 1 | A JSON diff utility | 2017-04-24 16:05:35 | 2023-12-09 06:24:03 |
 | [jsonf](https://pkg.go.dev/github.com/wI2L/jsondiff) | 65 | 11 | 0 | Console JSON formatter with query feature | 2015-05-25 04:53:32 | 2023-09-26 23:00:18 |
-| [go-respond](https://godoc.org/github.com/nicklaw5/go-respond) | 52 | 10 | 1 | A Go package for handling common HTTP JSON responses. | 2017-03-12 21:00:54 | 2023-09-26 22:59:02 |
+| [go-respond](https://godoc.org/github.com/nicklaw5/go-respond) | 53 | 10 | 1 | A Go package for handling common HTTP JSON responses. | 2017-03-12 21:00:54 | 2024-01-21 09:31:16 |
 | [mp](https://github.com/sanbornm/mp) | 47 | 8 | 1 | Simple Email Parser | 2014-06-15 21:14:39 | 2023-10-15 19:50:38 |
-| [ask](https://github.com/simonnilsson/ask) | 31 | 3 | 0 | A Go package that provides a simple way of accessing nested properties in maps and slices. | 2020-09-13 13:53:31 | 2023-11-11 07:32:35 |
-| [mapslice-json](https://github.com/ake-persson/mapslice-json) | 16 | 7 | 4 | Go MapSlice for ordered marshal/ unmarshal of maps in JSON | 2020-02-19 11:01:48 | 2023-09-26 23:01:11 |
+| [ask](https://github.com/simonnilsson/ask) | 33 | 3 | 0 | A Go package that provides a simple way of accessing nested properties in maps and slices. | 2020-09-13 13:53:31 | 2024-01-28 19:48:36 |
 | [dynjson](https://github.com/cocoonspace/dynjson) | 16 | 6 | 1 | Client-customizable JSON formats for dynamic APIs | 2020-05-06 07:10:02 | 2023-09-26 22:57:53 |
+| [mapslice-json](https://github.com/ake-persson/mapslice-json) | 16 | 7 | 4 | Go MapSlice for ordered marshal/ unmarshal of maps in JSON | 2020-02-19 11:01:48 | 2023-09-26 23:01:11 |
 | [go-jsonerror](https://github.com/ddymko/go-jsonerror) | 14 | 2 | 1 | Small package which wraps error responses to follow jsonapi.org | 2018-10-18 15:03:45 | 2023-09-26 22:58:50 |
-| [jsonhal](https://github.com/RichardKnop/jsonhal) | 14 | 7 | 1 | A simple Go package to make custom structs marshal into HAL compatible JSON responses. | 2016-01-15 11:38:40 | 2023-09-26 23:00:26 |
+| [jsonhal](https://github.com/RichardKnop/jsonhal) | 14 | 6 | 1 | A simple Go package to make custom structs marshal into HAL compatible JSON responses. | 2016-01-15 11:38:40 | 2023-09-26 23:00:26 |
 | [jsonapi-errors](https://github.com/AmuzaTkts/jsonapi-errors) | 14 | 3 | 0 | Go bindings based on the JSON API errors reference | 2016-07-08 10:08:58 | 2023-09-26 23:00:03 |
-| [epoch](https://github.com/vtopc/epoch) | 13 | 3 | 1 | Contains primitives for marshaling/unmarshaling Unix timestamp/epoch to/from built-in time.Time type in JSON | 2019-12-15 12:54:37 | 2023-09-26 22:58:05 |
+| [epoch](https://github.com/vtopc/epoch) | 13 | 3 | 3 | Contains primitives for marshaling/unmarshaling Unix timestamp/epoch to/from built-in time.Time type in JSON | 2019-12-15 12:54:37 | 2023-09-26 22:58:05 |
 | [jzon](https://github.com/zerosnake0/jzon) | 12 | 2 | 0 | A golang json library inspired by jsoniter | 2019-11-12 10:42:41 | 2023-11-27 01:04:09 |
+| [jsonic](https://github.com/sinhashubham95/jsonic) | 11 | 2 | 0 | All you need with JSON | 2021-01-09 06:21:59 | 2023-12-26 18:23:37 |
 | [ej](https://github.com/lucassscaravelli/ej) | 10 | 2 | 0 | Write and read JSON from different sources in one line | 2020-01-04 17:39:35 | 2023-09-26 22:57:59 |
-| [jsonic](https://github.com/sinhashubham95/jsonic) | 10 | 2 | 0 | All you need with JSON | 2021-01-09 06:21:59 | 2023-09-26 23:00:47 |
 </details>
 
 ### Job Scheduler
@@ -1496,18 +1496,18 @@ Libraries for working with Microsoft Excel.
 ### Miscellaneous - Dependency Injection
 Libraries for working with dependency injection.
 
-<sup>*Last Update: 2023-12-06 21:07:36*</sup>
+<sup>*Last Update: 2024-02-11 21:38:11*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [fx](https://uber-go.github.io/fx/) | 4,685 | 269 | 48 | A dependency injection based application framework for Go. | 2016-10-27 00:25:00 | 2023-12-05 12:37:51 |
-| [dig](https://go.uber.org/dig) | 3,499 | 202 | 25 | A reflection based dependency injection toolkit for Go. | 2017-03-21 23:55:50 | 2023-12-06 08:14:16 |
-| [container](https://github.com/golobby/container) | 507 | 33 | 4 | A lightweight yet powerful IoC dependency injection container for the Go programming language | 2019-09-23 16:12:50 | 2023-11-28 21:58:33 |
-| [di](https://pkg.go.dev/github.com/goioc/di/?tab=doc) | 310 | 14 | 1 | Simple and yet powerful Dependency Injection for Go | 2020-06-11 12:28:06 | 2023-11-16 13:09:21 |
-| [di](https://github.com/defval/di) | 210 | 11 | 0 | 🛠 A full-featured dependency injection container for go programming language. | 2020-02-03 19:06:39 | 2023-11-23 06:40:50 |
-| [dingo](https://github.com/i-love-flamingo/dingo) | 169 | 10 | 16 | Go Dependency Injection Framework | 2018-10-29 08:55:18 | 2023-12-05 23:25:32 |
+| [fx](https://uber-go.github.io/fx/) | 4,948 | 273 | 55 | A dependency injection based application framework for Go. | 2016-10-27 00:25:00 | 2024-02-11 14:14:09 |
+| [dig](https://go.uber.org/dig) | 3,588 | 207 | 26 | A reflection based dependency injection toolkit for Go. | 2017-03-21 23:55:50 | 2024-02-09 15:25:59 |
+| [container](https://github.com/golobby/container) | 519 | 34 | 5 | A lightweight yet powerful IoC dependency injection container for the Go programming language | 2019-09-23 16:12:50 | 2024-01-30 14:43:31 |
+| [di](https://pkg.go.dev/github.com/goioc/di/?tab=doc) | 316 | 14 | 1 | Simple and yet powerful Dependency Injection for Go | 2020-06-11 12:28:06 | 2024-02-04 07:27:52 |
+| [di](https://github.com/defval/di) | 218 | 13 | 3 | 🛠 A full-featured dependency injection container for go programming language. | 2020-02-03 19:06:39 | 2024-01-27 08:56:28 |
+| [dingo](https://github.com/i-love-flamingo/dingo) | 172 | 12 | 18 | Go Dependency Injection Framework | 2018-10-29 08:55:18 | 2024-02-10 18:19:30 |
 | [alice](https://godoc.org/github.com/magic003/alice) | 51 | 4 | 0 | An additive dependency injection container for Golang. | 2017-04-08 16:25:21 | 2023-04-15 14:24:55 |
 | [wire](https://github.com/Fs02/wire) | 38 | 8 | 1 | Strict Runtime Dependency Injection for Golang | 2018-07-05 10:42:24 | 2023-05-09 10:12:20 |
 | [linker](https://github.com/logrange/linker) | 35 | 6 | 0 | Dependency Injection and Inversion of Control package | 2018-12-04 23:56:34 | 2023-03-10 16:25:52 |
@@ -1884,24 +1884,24 @@ Unofficial libraries for package and dependency management
 ### Resource Embedding
 
 
-<sup>*Last Update: 2023-12-05 20:35:23*</sup>
+<sup>*Last Update: 2024-02-11 21:37:54*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [statik](https://github.com/rakyll/statik) | 3,676 | 260 | 40 | Embed files into a Go executable | 2014-02-04 14:54:51 | 2023-11-28 16:33:29 |
-| [packr](https://github.com/gobuffalo/packr) | 3,407 | 196 | 67 | The simple and easy way to embed static files into Go binaries. | 2017-03-15 22:24:53 | 2023-11-24 19:29:17 |
-| [go.rice](https://github.com/GeertJohan/go.rice) | 2,383 | 232 | 36 | go.rice is a Go package that makes working with resources such as html,js,css,images,templates, etc very easy. | 2013-10-23 21:29:34 | 2023-11-29 11:46:04 |
-| [vfsgen](https://github.com/shurcooL/vfsgen) | 979 | 85 | 32 | Takes an input http.FileSystem (likely at go generate time) and generates Go code that statically implements it. | 2015-05-18 13:03:02 | 2023-11-26 02:52:13 |
-| [esc](http://godoc.org/github.com/mjibson/esc) | 638 | 75 | 10 | A simple file embedder for Go | 2014-01-26 05:08:04 | 2023-12-01 08:52:44 |
-| [fileb0x](https://github.com/UnnoTed/fileb0x) | 630 | 53 | 15 | a better customizable tool to embed files in go; also update embedded files remotely without restarting the server | 2016-01-23 20:19:33 | 2023-11-25 04:24:39 |
+| [statik](https://github.com/rakyll/statik) | 3,701 | 259 | 40 | Embed files into a Go executable | 2014-02-04 14:54:51 | 2024-02-07 11:46:34 |
+| [packr](https://github.com/gobuffalo/packr) | 3,411 | 198 | 67 | The simple and easy way to embed static files into Go binaries. | 2017-03-15 22:24:53 | 2024-02-06 03:31:15 |
+| [go.rice](https://github.com/GeertJohan/go.rice) | 2,392 | 234 | 35 | go.rice is a Go package that makes working with resources such as html,js,css,images,templates, etc very easy. | 2013-10-23 21:29:34 | 2024-02-07 14:28:27 |
+| [vfsgen](https://github.com/shurcooL/vfsgen) | 981 | 86 | 32 | Takes an input http.FileSystem (likely at go generate time) and generates Go code that statically implements it. | 2015-05-18 13:03:02 | 2024-01-26 11:31:11 |
+| [esc](http://godoc.org/github.com/mjibson/esc) | 639 | 75 | 10 | A simple file embedder for Go | 2014-01-26 05:08:04 | 2024-02-08 06:55:49 |
+| [fileb0x](https://github.com/UnnoTed/fileb0x) | 632 | 53 | 15 | a better customizable tool to embed files in go; also update embedded files remotely without restarting the server | 2016-01-23 20:19:33 | 2024-01-23 07:43:40 |
 | [go-resources](https://github.com/omeid/go-resources) | 176 | 17 | 0 | Unfancy resources embedding for Go with out of box http.FileSystem support. | 2015-02-21 15:40:17 | 2023-08-04 05:19:16 |
 | [statics](https://github.com/go-playground/statics) | 67 | 7 | 0 | :file_folder: Embeds static resources into go files for single binary compilation + works with http.FileSystem + symlinks | 2015-10-07 11:49:52 | 2023-10-03 00:25:47 |
 | [templify](https://github.com/wlbr/templify) | 30 | 6 | 1 | A tool to be used with 'go generate' to embed external template files into Go code. | 2016-05-22 16:42:47 | 2023-07-26 06:48:09 |
-| [rebed](https://github.com/soypat/rebed) | 28 | 2 | 0 | Recreates directory and files from embedded filesystem using Go 1.16 embed.FS type. | 2021-02-17 18:19:49 | 2023-09-18 14:42:50 |
-| [debme](https://github.com/leaanthony/debme) | 27 | 6 | 1 | embed.FS wrapper providing additional functionality | 2021-04-16 00:25:13 | 2023-11-02 12:30:35 |
-| [mule](https://github.com/wlbr/mule) | 12 | 4 | 1 | mule is a tool to be used with 'go generate' to embed external resources files into Go code. | 2020-01-17 10:56:00 | 2022-09-27 09:06:14 |
+| [rebed](https://github.com/soypat/rebed) | 29 | 2 | 0 | Recreates directory and files from embedded filesystem using Go 1.16 embed.FS type. | 2021-02-17 18:19:49 | 2024-01-13 06:44:14 |
+| [debme](https://github.com/leaanthony/debme) | 28 | 7 | 1 | embed.FS wrapper providing additional functionality | 2021-04-16 00:25:13 | 2024-01-13 06:33:55 |
+| [mule](https://github.com/wlbr/mule) | 14 | 4 | 1 | mule is a tool to be used with 'go generate' to embed external resources files into Go code. | 2020-01-17 10:56:00 | 2023-12-31 23:42:00 |
 </details>
 
 ### Science and Data Analysis

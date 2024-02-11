@@ -1,7 +1,7 @@
 {
 	"name": "Miscellaneous - Dependency Injection",
 	"index_last_check": 0,
-	"last_update": 1701871656,
+	"last_update": 1707662291,
 	"libraries": [
 		{
 			"id": 72056048,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/uber-go/fx",
 			"homepage": "https://uber-go.github.io/fx/",
 			"created_at": "2016-10-27T00:25:00Z",
-			"updated_at": "2023-12-05T12:37:51Z",
+			"updated_at": "2024-02-11T14:14:09Z",
 			"svn_url": "https://github.com/uber-go/fx",
-			"stargazers_count": 4685,
-			"watchers_count": 4685,
-			"forks_count": 269,
-			"open_issues_count": 48
+			"stargazers_count": 4948,
+			"watchers_count": 4948,
+			"forks_count": 273,
+			"open_issues_count": 55
 		},
 		{
 			"id": 85765458,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/uber-go/dig",
 			"homepage": "https://go.uber.org/dig",
 			"created_at": "2017-03-21T23:55:50Z",
-			"updated_at": "2023-12-06T08:14:16Z",
+			"updated_at": "2024-02-09T15:25:59Z",
 			"svn_url": "https://github.com/uber-go/dig",
-			"stargazers_count": 3499,
-			"watchers_count": 3499,
-			"forks_count": 202,
-			"open_issues_count": 25
+			"stargazers_count": 3588,
+			"watchers_count": 3588,
+			"forks_count": 207,
+			"open_issues_count": 26
 		},
 		{
 			"id": 210399392,
@@ -38,12 +38,12 @@
 			"html_url": "https://github.com/golobby/container",
 			"homepage": "",
 			"created_at": "2019-09-23T16:12:50Z",
-			"updated_at": "2023-11-28T21:58:33Z",
+			"updated_at": "2024-01-30T14:43:31Z",
 			"svn_url": "https://github.com/golobby/container",
-			"stargazers_count": 507,
-			"watchers_count": 507,
-			"forks_count": 33,
-			"open_issues_count": 4
+			"stargazers_count": 519,
+			"watchers_count": 519,
+			"forks_count": 34,
+			"open_issues_count": 5
 		},
 		{
 			"id": 271540448,
@@ -52,10 +52,10 @@
 			"html_url": "https://github.com/goioc/di",
 			"homepage": "https://pkg.go.dev/github.com/goioc/di/?tab=doc",
 			"created_at": "2020-06-11T12:28:06Z",
-			"updated_at": "2023-11-16T13:09:21Z",
+			"updated_at": "2024-02-04T07:27:52Z",
 			"svn_url": "https://github.com/goioc/di",
-			"stargazers_count": 310,
-			"watchers_count": 310,
+			"stargazers_count": 316,
+			"watchers_count": 316,
 			"forks_count": 14,
 			"open_issues_count": 1
 		},
@@ -66,12 +66,12 @@
 			"html_url": "https://github.com/defval/di",
 			"homepage": "",
 			"created_at": "2020-02-03T19:06:39Z",
-			"updated_at": "2023-11-23T06:40:50Z",
+			"updated_at": "2024-01-27T08:56:28Z",
 			"svn_url": "https://github.com/defval/di",
-			"stargazers_count": 210,
-			"watchers_count": 210,
-			"forks_count": 11,
-			"open_issues_count": 0
+			"stargazers_count": 218,
+			"watchers_count": 218,
+			"forks_count": 13,
+			"open_issues_count": 3
 		},
 		{
 			"id": 155180696,
@@ -80,12 +80,12 @@
 			"html_url": "https://github.com/i-love-flamingo/dingo",
 			"homepage": "",
 			"created_at": "2018-10-29T08:55:18Z",
-			"updated_at": "2023-12-05T23:25:32Z",
+			"updated_at": "2024-02-10T18:19:30Z",
 			"svn_url": "https://github.com/i-love-flamingo/dingo",
-			"stargazers_count": 169,
-			"watchers_count": 169,
-			"forks_count": 10,
-			"open_issues_count": 16
+			"stargazers_count": 172,
+			"watchers_count": 172,
+			"forks_count": 12,
+			"open_issues_count": 18
 		},
 		{
 			"id": 87647629,
