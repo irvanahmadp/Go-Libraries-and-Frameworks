@@ -1,8 +1,8 @@
 {
-	"last_update": 1707662299,
+	"last_update": 1707748247,
 	"rate_limit": 60,
 	"rate_limit_remaining": 0,
-	"rate_limit_reset": 1707665874,
+	"rate_limit_reset": 1707751793,
 	"categories": [
 		{
 			"name": "Audio and Music",
@@ -122,7 +122,7 @@
 		{
 			"name": "Error Handling",
 			"description": "Libraries for handling errors.",
-			"last_update": 1701960467
+			"last_update": 1707748219
 		},
 		{
 			"name": "File Handling",
@@ -162,7 +162,7 @@
 		{
 			"name": "Generation and Generics",
 			"description": "Tools to enhance the language with features like generics via code generation.",
-			"last_update": 1701871663
+			"last_update": 1707748193
 		},
 		{
 			"name": "Geographic",
@@ -187,7 +187,7 @@
 		{
 			"name": "IoT (Internet of Things)",
 			"description": "Libraries for programming devices of the IoT.",
-			"last_update": 1701960449
+			"last_update": 1707748207
 		},
 		{
 			"name": "JSON",
