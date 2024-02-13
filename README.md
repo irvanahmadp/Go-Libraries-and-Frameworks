@@ -1362,48 +1362,48 @@ Libraries for generating and working with log files.
 ### Machine Learning
 Libraries for Machine Learning.
 
-<sup>*Last Update: 2023-12-07 21:47:31*</sup>
+<sup>*Last Update: 2024-02-13 22:27:06*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [golearn](https://github.com/sjwhitworth/golearn) | 9,063 | 1,263 | 83 | Machine Learning for Go | 2013-12-26 13:06:14 | 2023-12-07 12:24:58 |
-| [gorse](https://gorse.io) | 7,751 | 726 | 68 | Gorse open source recommender system engine | 2018-08-14 11:01:09 | 2023-12-07 13:28:22 |
-| [gorgonia](https://gorgonia.org/) | 5,178 | 455 | 105 | Gorgonia is a library that helps facilitate machine learning in Go. | 2016-09-14 23:19:43 | 2023-12-06 02:46:16 |
-| [gosseract](https://pkg.go.dev/github.com/otiai10/gosseract) | 2,323 | 303 | 22 | Go package for OCR (Optical Character Recognition), by using Tesseract C++ library | 2013-10-11 07:27:53 | 2023-12-07 08:19:38 |
-| [tfgo](https://pgaleone.eu/tensorflow/go/2017/05/29/understanding-tensorflow-using-go/) | 2,319 | 200 | 17 | Tensorflow + Go, the gopher way | 2017-05-23 13:27:39 | 2023-12-06 10:04:45 |
-| [goml](https://github.com/cdipaolo/goml) | 1,512 | 177 | 3 | On-line Machine Learning in Go (and so much more) | 2015-06-27 05:52:01 | 2023-11-29 14:04:14 |
-| [eaopt](https://pkg.go.dev/github.com/MaxHalford/eaopt) | 860 | 99 | 7 | :four_leaf_clover: Evolutionary optimization library for Go (genetic algorithm, partical swarm optimization, differential evolution) | 2016-01-31 00:04:52 | 2023-12-05 05:21:14 |
-| [bayesian](https://github.com/jbrukh/bayesian) | 775 | 128 | 8 | Naive Bayesian Classification for Golang. | 2011-11-23 04:17:00 | 2023-11-29 11:44:54 |
-| [CloudForest](https://github.com/ryanbressler/CloudForest) | 731 | 93 | 34 | Ensembles of decision trees in go/golang. | 2012-10-22 17:38:16 | 2023-12-06 08:04:16 |
-| [ocrserver](https://ocr-example.herokuapp.com/) | 623 | 136 | 1 | A simple OCR API server, seriously easy to be deployed by Docker, on Heroku as well | 2015-11-15 07:57:42 | 2023-12-07 10:59:36 |
-| [onnx-go](https://blog.owulveryck.info/2019/04/03/from-a-project-to-a-product-the-state-of-onnx-go.html) | 565 | 62 | 39 | onnx-go gives the ability to import a pre-trained neural network within Go without being linked to a framework or library. | 2018-08-28 07:39:20 | 2023-12-07 02:52:58 |
-| [gobrain](https://github.com/goml/gobrain) | 546 | 59 | 2 | Neural Networks written in go | 2014-04-29 13:32:36 | 2023-12-05 16:26:45 |
-| [go-deep](https://github.com/patrikeh/go-deep) | 487 | 61 | 1 | Artificial Neural Network | 2017-12-09 15:10:06 | 2023-12-04 20:11:14 |
-| [regommend](https://blog.owulveryck.info/2019/04/03/from-a-project-to-a-product-the-state-of-onnx-go.html) | 305 | 28 | 0 | Recommendation engine for Go | 2014-02-05 17:00:49 | 2023-12-07 11:49:25 |
-| [goptuna](https://pkg.go.dev/github.com/c-bata/goptuna) | 243 | 17 | 16 | A hyperparameter optimization framework, inspired by Optuna. | 2019-07-24 12:03:05 | 2023-12-01 13:26:51 |
-| [goga](https://github.com/tomcraven/goga) | 205 | 19 | 0 | Golang Genetic Algorithm | 2015-10-20 12:50:51 | 2023-11-30 16:25:01 |
+| [golearn](https://github.com/sjwhitworth/golearn) | 9,103 | 1,258 | 85 | Machine Learning for Go | 2013-12-26 13:06:14 | 2024-02-12 22:59:46 |
+| [gorse](https://gorse.io) | 7,890 | 739 | 74 | Gorse open source recommender system engine | 2018-08-14 11:01:09 | 2024-02-13 02:24:38 |
+| [gorgonia](https://gorgonia.org/) | 5,261 | 458 | 106 | Gorgonia is a library that helps facilitate machine learning in Go. | 2016-09-14 23:19:43 | 2024-02-13 01:37:01 |
+| [gosseract](https://pkg.go.dev/github.com/otiai10/gosseract) | 2,396 | 305 | 22 | Go package for OCR (Optical Character Recognition), by using Tesseract C++ library | 2013-10-11 07:27:53 | 2024-02-12 13:55:52 |
+| [tfgo](https://pgaleone.eu/tensorflow/go/2017/05/29/understanding-tensorflow-using-go/) | 2,347 | 198 | 18 | Tensorflow + Go, the gopher way | 2017-05-23 13:27:39 | 2024-02-12 09:23:49 |
+| [goml](https://github.com/cdipaolo/goml) | 1,531 | 179 | 3 | On-line Machine Learning in Go (and so much more) | 2015-06-27 05:52:01 | 2024-02-08 08:53:48 |
+| [eaopt](https://pkg.go.dev/github.com/MaxHalford/eaopt) | 869 | 99 | 8 | :four_leaf_clover: Evolutionary optimization library for Go (genetic algorithm, partical swarm optimization, differential evolution) | 2016-01-31 00:04:52 | 2024-01-15 18:46:16 |
+| [bayesian](https://github.com/jbrukh/bayesian) | 782 | 127 | 8 | Naive Bayesian Classification for Golang. | 2011-11-23 04:17:00 | 2024-02-03 03:09:59 |
+| [CloudForest](https://github.com/ryanbressler/CloudForest) | 735 | 93 | 34 | Ensembles of decision trees in go/golang. | 2012-10-22 17:38:16 | 2024-01-04 15:53:56 |
+| [ocrserver](https://ocr-example.herokuapp.com/) | 633 | 137 | 1 | A simple OCR API server, seriously easy to be deployed by Docker, on Heroku as well | 2015-11-15 07:57:42 | 2024-02-12 14:56:17 |
+| [onnx-go](https://blog.owulveryck.info/2019/04/03/from-a-project-to-a-product-the-state-of-onnx-go.html) | 594 | 64 | 39 | onnx-go gives the ability to import a pre-trained neural network within Go without being linked to a framework or library. | 2018-08-28 07:39:20 | 2024-02-06 07:57:27 |
+| [gobrain](https://github.com/goml/gobrain) | 549 | 59 | 2 | Neural Networks written in go | 2014-04-29 13:32:36 | 2024-01-24 16:54:32 |
+| [go-deep](https://github.com/patrikeh/go-deep) | 497 | 61 | 2 | Artificial Neural Network | 2017-12-09 15:10:06 | 2024-02-10 02:06:16 |
+| [regommend](https://blog.owulveryck.info/2019/04/03/from-a-project-to-a-product-the-state-of-onnx-go.html) | 306 | 28 | 0 | Recommendation engine for Go | 2014-02-05 17:00:49 | 2024-01-27 07:30:36 |
+| [goptuna](https://pkg.go.dev/github.com/c-bata/goptuna) | 249 | 19 | 17 | A hyperparameter optimization framework, inspired by Optuna. | 2019-07-24 12:03:05 | 2024-01-26 12:35:28 |
+| [goga](https://github.com/tomcraven/goga) | 205 | 20 | 1 | Golang Genetic Algorithm | 2015-10-20 12:50:51 | 2024-01-30 13:43:25 |
+| [goRecommend](https://pkg.go.dev/github.com/c-bata/goptuna) | 200 | 23 | 0 | Collaborative Filtering (CF) Algorithms in Go!  | 2014-07-16 05:32:23 | 2024-02-02 00:48:21 |
 | [go-galib](https://github.com/thoj/go-galib) | 195 | 41 | 0 | Genetic Algorithms library written in Go / golang | 2009-11-30 10:46:58 | 2023-10-04 06:07:03 |
-| [goRecommend](https://pkg.go.dev/github.com/c-bata/goptuna) | 195 | 22 | 0 | Collaborative Filtering (CF) Algorithms in Go!  | 2014-07-16 05:32:23 | 2023-12-01 13:16:58 |
-| [shield](https://github.com/eaigner/shield) | 154 | 33 | 5 | Bayesian text classifier with flexible tokenizers and storage backends for Go | 2013-04-10 19:38:16 | 2023-09-28 10:21:49 |
+| [shield](https://github.com/eaigner/shield) | 155 | 33 | 5 | Bayesian text classifier with flexible tokenizers and storage backends for Go | 2013-04-10 19:38:16 | 2023-12-21 13:14:21 |
 | [go-fann](https://github.com/vksnk/go-fann) | 115 | 21 | 2 | Go bindings for FANN, library for artificial neural networks | 2011-03-10 21:08:27 | 2023-10-10 09:40:17 |
-| [go-featureprocessing](https://github.com/nikolaydubina/go-featureprocessing) | 102 | 8 | 4 | 🔥 Fast, simple sklearn-like feature processing for Go | 2020-12-18 13:09:18 | 2023-11-26 10:56:26 |
+| [go-featureprocessing](https://github.com/nikolaydubina/go-featureprocessing) | 107 | 8 | 4 | 🔥 Fast, simple sklearn-like feature processing for Go | 2020-12-18 13:09:18 | 2024-01-27 00:38:12 |
 | [goscore](https://gorse.io) | 93 | 22 | 3 | Go Scoring API for PMML | 2017-08-19 11:08:39 | 2023-12-01 13:24:58 |
-| [gonet](https://pkg.go.dev/github.com/dathoangnd/gonet) | 80 | 8 | 0 | Neural Network for Go. | 2020-01-11 18:27:28 | 2023-12-01 13:16:30 |
 | [fonet](https://github.com/Fontinalis/fonet) | 79 | 17 | 2 | fonet is a deep neural network package for Go. | 2017-10-03 15:57:15 | 2023-10-06 03:49:01 |
-| [libsvm](https://pkg.go.dev/github.com/otiai10/gosseract) | 73 | 13 | 1 | libsvm go version | 2012-07-31 07:57:47 | 2023-01-16 01:34:04 |
+| [gonet](https://pkg.go.dev/github.com/dathoangnd/gonet) | 78 | 8 | 0 | Neural Network for Go. | 2020-01-11 18:27:28 | 2024-02-13 12:22:01 |
+| [libsvm](https://pkg.go.dev/github.com/otiai10/gosseract) | 73 | 12 | 1 | libsvm go version | 2012-07-31 07:57:47 | 2023-01-16 01:34:04 |
+| [gomind](https://github.com/surenderthakran/gomind) | 72 | 8 | 7 | A simplistic Neural Network Library in Go | 2017-10-19 03:48:51 | 2024-01-16 03:27:26 |
 | [neat](https://github.com/jinyeom/neat) | 69 | 13 | 4 | NEAT (NeuroEvolution of Augmenting Topologies) implemented in Go | 2016-11-17 04:23:14 | 2023-12-01 13:26:15 |
-| [gomind](https://github.com/surenderthakran/gomind) | 69 | 8 | 7 | A simplistic Neural Network Library in Go | 2017-10-19 03:48:51 | 2023-12-02 17:55:11 |
 | [neural-go](https://github.com/schuyler/neural-go) | 67 | 16 | 1 | A multilayer perceptron network implemented in Go, with training via backpropagation. | 2011-10-17 09:31:33 | 2023-11-15 21:15:18 |
 | [go-pr](https://github.com/daviddengcn/go-pr) | 62 | 14 | 0 | Pattern recognition package in Go lang. | 2013-06-07 02:36:20 | 2022-09-27 08:38:25 |
 | [Varis](https://github.com/Xamber/Varis) | 53 | 9 | 0 | Golang Neural Network  | 2017-10-10 08:43:27 | 2023-12-01 13:17:10 |
 | [golinear](https://github.com/danieldk/golinear) | 44 | 12 | 0 | liblinear bindings for Go | 2013-04-05 15:37:01 | 2023-09-14 18:45:19 |
-| [go-cluster](https://github.com/e-XpertSolutions/go-cluster) | 39 | 9 | 0 | k-modes and k-prototypes clustering algorithms implementation in Go | 2017-10-04 12:24:52 | 2023-04-27 09:04:36 |
+| [go-cluster](https://github.com/e-XpertSolutions/go-cluster) | 40 | 9 | 0 | k-modes and k-prototypes clustering algorithms implementation in Go | 2017-10-04 12:24:52 | 2023-12-29 06:02:12 |
+| [randomForest](https://blog.owulveryck.info/2019/04/03/from-a-project-to-a-product-the-state-of-onnx-go.html) | 39 | 7 | 0 | Random Forest implementation in golang | 2018-10-25 07:05:29 | 2024-01-04 06:39:45 |
 | [godist](https://github.com/e-dard/godist) | 36 | 7 | 0 | Probability distributions and associated methods in Go | 2014-09-05 09:48:51 | 2023-11-15 21:13:05 |
-| [randomForest](https://blog.owulveryck.info/2019/04/03/from-a-project-to-a-product-the-state-of-onnx-go.html) | 36 | 7 | 0 | Random Forest implementation in golang | 2018-10-25 07:05:29 | 2023-11-28 00:11:21 |
-| [ddt](https://github.com/sgrodriguez/ddt) | 32 | 4 | 1 | Golang Dynamic Decision Tree | 2020-05-20 13:51:42 | 2023-11-15 02:21:13 |
-| [evoli](https://github.com/khezen/evoli) | 27 | 9 | 21 | Genetic Algorithm and Particle Swarm Optimization | 2015-06-12 06:58:30 | 2023-08-25 09:08:56 |
+| [ddt](https://github.com/sgrodriguez/ddt) | 33 | 4 | 1 | Golang Dynamic Decision Tree | 2020-05-20 13:51:42 | 2023-12-18 06:27:49 |
+| [evoli](https://github.com/khezen/evoli) | 28 | 9 | 21 | Genetic Algorithm and Particle Swarm Optimization | 2015-06-12 06:58:30 | 2023-12-29 06:00:48 |
 | [probab](https://blog.owulveryck.info/2019/04/03/from-a-project-to-a-product-the-state-of-onnx-go.html) | 19 | 7 | 3 | Automatically exported from code.google.com/p/probab | 2015-09-14 12:07:52 | 2023-11-13 20:12:08 |
 </details>
 
@@ -1759,31 +1759,31 @@ Libraries for making HTTP requests.
 ### ORM
 Libraries that implement Object-Relational Mapping or datamapping techniques.
 
-<sup>*Last Update: 2023-12-09 18:57:24*</sup>
+<sup>*Last Update: 2024-02-13 22:27:24*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [gorm](https://gorm.io) | 34,257 | 3,814 | 283 | The fantastic ORM library for Golang, aims to be developer friendly | 2013-10-25 08:31:38 | 2023-12-09 11:44:19 |
-| [ent](https://entgo.io) | 14,348 | 902 | 383 | An entity framework for Go | 2019-06-12 22:53:55 | 2023-12-09 08:25:18 |
-| [sqlboiler](https://github.com/volatiletech/sqlboiler) | 6,159 | 560 | 96 | Generate a Go ORM tailored to your database schema. | 2016-02-21 06:18:25 | 2023-12-08 18:26:21 |
-| [pg](https://pg.uptrace.dev/) | 5,496 | 405 | 115 | Golang ORM with focus on PostgreSQL features and performance | 2013-04-24 12:31:41 | 2023-12-09 05:03:27 |
-| [gorp](https://github.com/go-gorp/gorp) | 3,698 | 414 | 146 | Go Relational Persistence - an ORM-ish library for Go | 2012-01-04 19:50:09 | 2023-12-08 19:48:58 |
-| [db](https://upper.io/) | 3,411 | 241 | 152 | Data access layer for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features. | 2013-10-23 02:04:36 | 2023-12-08 03:25:18 |
-| [gormt](https://xxjwxc.github.io/post/gormt/) | 2,276 | 373 | 57 | database to golang struct | 2019-05-05 13:10:26 | 2023-12-09 04:45:06 |
-| [reform](https://gopkg.in/reform.v1) | 1,425 | 73 | 86 | A better ORM for Go, based on non-empty interfaces and code generation. | 2016-02-25 09:41:09 | 2023-11-26 08:39:04 |
-| [pop](https://github.com/gobuffalo/pop) | 1,391 | 248 | 95 | A Tasty Treat For All Your Database Needs | 2018-02-07 21:13:46 | 2023-12-06 18:39:37 |
-| [go-sqlbuilder](https://pkg.go.dev/github.com/huandu/go-sqlbuilder) | 1,131 | 103 | 5 | A flexible and powerful SQL string builder library plus a zero-config ORM. | 2017-12-27 16:37:48 | 2023-12-08 13:58:56 |
-| [go-queryset](https://github.com/jirfag/go-queryset) | 715 | 72 | 20 | 100% type-safe ORM for Go (Golang) with code generation and MySQL, PostgreSQL, Sqlite3, SQL Server support. GORM under the hood. | 2017-09-03 17:29:30 | 2023-12-05 13:40:07 |
-| [rel](https://go-rel.github.io/) | 694 | 59 | 26 | :gem: Modern ORM for Golang - Testable, Extendable and Crafted Into a Clean and Elegant API | 2019-10-06 07:08:01 | 2023-12-04 02:24:56 |
-| [beego](beego.me) | 682 | 177 | 0 | beego is an open-source, high-performance web framework for the Go programming language. | 2020-12-13 14:58:50 | 2023-12-08 22:51:53 |
-| [qbs](https://github.com/coocood/qbs) | 546 | 101 | 10 | QBS stands for Query By Struct. A Go ORM. | 2013-02-02 05:40:59 | 2023-10-28 10:53:34 |
+| [gorm](https://gorm.io) | 34,790 | 3,863 | 285 | The fantastic ORM library for Golang, aims to be developer friendly | 2013-10-25 08:31:38 | 2024-02-13 15:04:10 |
+| [ent](https://entgo.io) | 14,596 | 922 | 422 | An entity framework for Go | 2019-06-12 22:53:55 | 2024-02-13 04:46:51 |
+| [sqlboiler](https://github.com/volatiletech/sqlboiler) | 6,305 | 569 | 91 | Generate a Go ORM tailored to your database schema. | 2016-02-21 06:18:25 | 2024-02-12 15:39:09 |
+| [pg](https://pg.uptrace.dev/) | 5,536 | 407 | 115 | Golang ORM with focus on PostgreSQL features and performance | 2013-04-24 12:31:41 | 2024-02-13 02:26:28 |
+| [gorp](https://github.com/go-gorp/gorp) | 3,707 | 413 | 146 | Go Relational Persistence - an ORM-ish library for Go | 2012-01-04 19:50:09 | 2024-02-12 19:20:54 |
+| [db](https://upper.io/) | 3,442 | 243 | 155 | Data access layer for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features. | 2013-10-23 02:04:36 | 2024-02-10 04:02:05 |
+| [gormt](https://xxjwxc.github.io/post/gormt/) | 2,301 | 379 | 56 | database to golang struct | 2019-05-05 13:10:26 | 2024-02-10 14:54:36 |
+| [reform](https://gopkg.in/reform.v1) | 1,429 | 73 | 86 | A better ORM for Go, based on non-empty interfaces and code generation. | 2016-02-25 09:41:09 | 2024-02-11 20:16:11 |
+| [pop](https://github.com/gobuffalo/pop) | 1,395 | 247 | 95 | A Tasty Treat For All Your Database Needs | 2018-02-07 21:13:46 | 2024-02-10 04:04:09 |
+| [go-sqlbuilder](https://pkg.go.dev/github.com/huandu/go-sqlbuilder) | 1,159 | 107 | 6 | A flexible and powerful SQL string builder library plus a zero-config ORM. | 2017-12-27 16:37:48 | 2024-02-09 00:54:00 |
+| [rel](https://go-rel.github.io/) | 720 | 59 | 27 | :gem: Modern ORM for Golang - Testable, Extendable and Crafted Into a Clean and Elegant API | 2019-10-06 07:08:01 | 2024-02-11 02:07:06 |
+| [go-queryset](https://github.com/jirfag/go-queryset) | 717 | 72 | 20 | 100% type-safe ORM for Go (Golang) with code generation and MySQL, PostgreSQL, Sqlite3, SQL Server support. GORM under the hood. | 2017-09-03 17:29:30 | 2024-01-10 01:31:59 |
+| [beego](beego.me) | 696 | 180 | 0 | beego is an open-source, high-performance web framework for the Go programming language. | 2020-12-13 14:58:50 | 2024-01-31 08:32:44 |
+| [qbs](https://github.com/coocood/qbs) | 548 | 101 | 10 | QBS stands for Query By Struct. A Go ORM. | 2013-02-02 05:40:59 | 2024-01-24 06:27:27 |
 | [zoom](https://github.com/albrow/zoom) | 304 | 28 | 2 | A blazing-fast datastore and querying engine for Go built on Redis. | 2013-07-17 00:32:34 | 2023-10-19 17:09:17 |
-| [gosql](https://github.com/rushteam/gosql) | 175 | 23 | 6 | golang orm and sql builder | 2020-04-27 09:16:29 | 2023-11-24 02:27:31 |
+| [gosql](https://github.com/rushteam/gosql) | 176 | 23 | 6 | golang orm and sql builder | 2020-04-27 09:16:29 | 2023-12-18 06:58:51 |
 | [grimoire](https://fs02.github.io/grimoire) | 160 | 18 | 0 | Database access layer for golang | 2018-03-05 16:52:20 | 2023-09-25 03:44:37 |
 | [go-store](https://github.com/gosuri/go-store) | 112 | 9 | 1 | A simple and fast Redis backed key-value store library for Go | 2015-03-22 12:07:29 | 2023-09-25 03:42:25 |
-| [go-firestorm](https://github.com/jschoedt/go-firestorm) | 47 | 8 | 0 | Simple Go ORM for Google/Firebase Cloud Firestore | 2018-12-04 14:53:53 | 2023-09-25 03:41:53 |
+| [go-firestorm](https://github.com/jschoedt/go-firestorm) | 47 | 9 | 0 | Simple Go ORM for Google/Firebase Cloud Firestore | 2018-12-04 14:53:53 | 2023-09-25 03:41:53 |
 | [marlow](https://github.com/marlow/marlow) | 14 | 3 | 0 | persistence layer code generation for golang | 2020-08-11 13:34:00 | 2023-10-27 20:13:41 |
 | [lore](https://github.com/abrahambotros/lore) | 14 | 3 | 0 | Light Object-Relational Environment (LORE) provides a simple and lightweight pseudo-ORM/pseudo-struct-mapping environment for Go | 2017-04-29 03:57:15 | 2023-09-25 08:03:17 |
 </details>
