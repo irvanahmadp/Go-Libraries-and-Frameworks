@@ -1,7 +1,7 @@
 {
 	"name": "Serialization",
 	"index_last_check": 0,
-	"last_update": 1702123057,
+	"last_update": 1707951345,
 	"libraries": [
 		{
 			"id": 75135036,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/json-iterator/go",
 			"homepage": "http://jsoniter.com/migrate-from-go-std.html",
 			"created_at": "2016-11-30T00:30:24Z",
-			"updated_at": "2023-12-09T06:33:04Z",
+			"updated_at": "2024-02-14T16:36:46Z",
 			"svn_url": "https://github.com/json-iterator/go",
-			"stargazers_count": 12766,
-			"watchers_count": 12766,
-			"forks_count": 1069,
-			"open_issues_count": 248
+			"stargazers_count": 12909,
+			"watchers_count": 12909,
+			"forks_count": 1076,
+			"open_issues_count": 250
 		},
 		{
 			"id": 27051771,
@@ -24,11 +24,11 @@
 			"html_url": "https://github.com/golang/protobuf",
 			"homepage": "",
 			"created_at": "2014-11-23T23:07:23Z",
-			"updated_at": "2023-12-09T04:42:59Z",
+			"updated_at": "2024-02-13T23:58:11Z",
 			"svn_url": "https://github.com/golang/protobuf",
-			"stargazers_count": 9375,
-			"watchers_count": 9375,
-			"forks_count": 1646,
+			"stargazers_count": 9457,
+			"watchers_count": 9457,
+			"forks_count": 1653,
 			"open_issues_count": 96
 		},
 		{
@@ -38,12 +38,12 @@
 			"html_url": "https://github.com/mitchellh/mapstructure",
 			"homepage": "",
 			"created_at": "2013-05-20T05:24:34Z",
-			"updated_at": "2023-12-09T05:07:18Z",
+			"updated_at": "2024-02-14T21:09:53Z",
 			"svn_url": "https://github.com/mitchellh/mapstructure",
-			"stargazers_count": 7316,
-			"watchers_count": 7316,
-			"forks_count": 684,
-			"open_issues_count": 84
+			"stargazers_count": 7482,
+			"watchers_count": 7482,
+			"forks_count": 697,
+			"open_issues_count": 82
 		},
 		{
 			"id": 27483832,
@@ -52,12 +52,12 @@
 			"html_url": "https://github.com/gogo/protobuf",
 			"homepage": "",
 			"created_at": "2014-12-03T11:27:10Z",
-			"updated_at": "2023-12-09T08:55:42Z",
+			"updated_at": "2024-02-14T16:36:35Z",
 			"svn_url": "https://github.com/gogo/protobuf",
-			"stargazers_count": 5608,
-			"watchers_count": 5608,
-			"forks_count": 829,
-			"open_issues_count": 236
+			"stargazers_count": 5619,
+			"watchers_count": 5619,
+			"forks_count": 839,
+			"open_issues_count": 235
 		},
 		{
 			"id": 10373529,
@@ -66,11 +66,11 @@
 			"html_url": "https://github.com/ugorji/go",
 			"homepage": "",
 			"created_at": "2013-05-30T02:13:13Z",
-			"updated_at": "2023-12-04T16:33:22Z",
+			"updated_at": "2024-02-12T16:18:05Z",
 			"svn_url": "https://github.com/ugorji/go",
-			"stargazers_count": 1784,
-			"watchers_count": 1784,
-			"forks_count": 365,
+			"stargazers_count": 1796,
+			"watchers_count": 1796,
+			"forks_count": 364,
 			"open_issues_count": 1
 		},
 		{
@@ -80,11 +80,11 @@
 			"html_url": "https://github.com/jszwec/csvutil",
 			"homepage": "",
 			"created_at": "2017-10-30T04:09:48Z",
-			"updated_at": "2023-12-06T00:15:22Z",
+			"updated_at": "2024-02-12T12:58:33Z",
 			"svn_url": "https://github.com/jszwec/csvutil",
-			"stargazers_count": 844,
-			"watchers_count": 844,
-			"forks_count": 58,
+			"stargazers_count": 868,
+			"watchers_count": 868,
+			"forks_count": 60,
 			"open_issues_count": 0
 		},
 		{
@@ -94,12 +94,12 @@
 			"html_url": "https://github.com/pascaldekloe/colfer",
 			"homepage": "",
 			"created_at": "2015-09-05T16:42:41Z",
-			"updated_at": "2023-12-09T11:57:25Z",
+			"updated_at": "2024-02-11T08:43:10Z",
 			"svn_url": "https://github.com/pascaldekloe/colfer",
-			"stargazers_count": 724,
-			"watchers_count": 724,
+			"stargazers_count": 727,
+			"watchers_count": 727,
 			"forks_count": 56,
-			"open_issues_count": 9
+			"open_issues_count": 10
 		},
 		{
 			"id": 186904487,
@@ -108,12 +108,12 @@
 			"html_url": "https://github.com/fxamacker/cbor",
 			"homepage": "",
 			"created_at": "2019-05-15T21:22:15Z",
-			"updated_at": "2023-12-04T20:32:56Z",
+			"updated_at": "2024-02-09T14:19:29Z",
 			"svn_url": "https://github.com/fxamacker/cbor",
-			"stargazers_count": 619,
-			"watchers_count": 619,
-			"forks_count": 57,
-			"open_issues_count": 18
+			"stargazers_count": 643,
+			"watchers_count": 643,
+			"forks_count": 63,
+			"open_issues_count": 25
 		},
 		{
 			"id": 14214963,
@@ -122,7 +122,7 @@
 			"html_url": "https://github.com/glycerine/go-capnproto",
 			"homepage": "",
 			"created_at": "2013-11-07T20:28:12Z",
-			"updated_at": "2023-09-08T16:43:17Z",
+			"updated_at": "2024-01-03T14:10:56Z",
 			"svn_url": "https://github.com/glycerine/go-capnproto",
 			"stargazers_count": 288,
 			"watchers_count": 288,
@@ -150,10 +150,10 @@
 			"html_url": "https://github.com/danhper/structomap",
 			"homepage": "https://godoc.org/github.com/danhper/structomap",
 			"created_at": "2015-05-13T08:54:11Z",
-			"updated_at": "2023-11-10T03:46:41Z",
+			"updated_at": "2024-01-15T23:16:55Z",
 			"svn_url": "https://github.com/danhper/structomap",
-			"stargazers_count": 143,
-			"watchers_count": 143,
+			"stargazers_count": 144,
+			"watchers_count": 144,
 			"forks_count": 11,
 			"open_issues_count": 0
 		},
@@ -164,11 +164,11 @@
 			"html_url": "https://github.com/ghostiam/binstruct",
 			"homepage": "",
 			"created_at": "2018-10-23T15:42:22Z",
-			"updated_at": "2023-11-27T01:03:46Z",
+			"updated_at": "2024-01-27T22:39:15Z",
 			"svn_url": "https://github.com/ghostiam/binstruct",
-			"stargazers_count": 80,
-			"watchers_count": 80,
-			"forks_count": 19,
+			"stargazers_count": 82,
+			"watchers_count": 82,
+			"forks_count": 20,
 			"open_issues_count": 0
 		},
 		{
@@ -178,10 +178,10 @@
 			"html_url": "https://github.com/glycerine/bambam",
 			"homepage": "",
 			"created_at": "2014-09-17T14:39:12Z",
-			"updated_at": "2023-09-08T16:50:41Z",
+			"updated_at": "2024-02-06T10:06:21Z",
 			"svn_url": "https://github.com/glycerine/bambam",
-			"stargazers_count": 67,
-			"watchers_count": 67,
+			"stargazers_count": 66,
+			"watchers_count": 66,
 			"forks_count": 12,
 			"open_issues_count": 3
 		},
@@ -196,7 +196,7 @@
 			"svn_url": "https://github.com/Logicalis/asn1",
 			"stargazers_count": 53,
 			"watchers_count": 53,
-			"forks_count": 27,
+			"forks_count": 28,
 			"open_issues_count": 6
 		},
 		{
@@ -234,10 +234,10 @@
 			"html_url": "https://github.com/epiclabs-io/elastic",
 			"homepage": "",
 			"created_at": "2020-02-25T19:55:00Z",
-			"updated_at": "2023-09-29T08:28:04Z",
+			"updated_at": "2023-12-28T06:43:55Z",
 			"svn_url": "https://github.com/epiclabs-io/elastic",
-			"stargazers_count": 23,
-			"watchers_count": 23,
+			"stargazers_count": 24,
+			"watchers_count": 24,
 			"forks_count": 4,
 			"open_issues_count": 1
 		},
@@ -290,7 +290,7 @@
 			"html_url": "https://github.com/sbourlon/go-lctree",
 			"homepage": "",
 			"created_at": "2020-05-04T05:39:46Z",
-			"updated_at": "2022-09-27T09:21:38Z",
+			"updated_at": "2024-02-02T19:31:54Z",
 			"svn_url": "https://github.com/sbourlon/go-lctree",
 			"stargazers_count": 4,
 			"watchers_count": 4,
