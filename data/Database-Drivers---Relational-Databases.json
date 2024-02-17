@@ -1,7 +1,7 @@
 {
 	"name": "Database Drivers - Relational Databases",
 	"index_last_check": 0,
-	"last_update": 1702298230,
+	"last_update": 1708180418,
 	"libraries": [
 		{
 			"id": 7083242,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/go-sql-driver/mysql",
 			"homepage": "https://pkg.go.dev/github.com/go-sql-driver/mysql",
 			"created_at": "2012-12-09T20:33:55Z",
-			"updated_at": "2023-12-11T10:01:49Z",
+			"updated_at": "2024-02-17T13:57:34Z",
 			"svn_url": "https://github.com/go-sql-driver/mysql",
-			"stargazers_count": 13886,
-			"watchers_count": 13886,
-			"forks_count": 2380,
-			"open_issues_count": 73
+			"stargazers_count": 14026,
+			"watchers_count": 14026,
+			"forks_count": 2381,
+			"open_issues_count": 61
 		},
 		{
 			"id": 9120526,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/jackc/pgx",
 			"homepage": "",
 			"created_at": "2013-03-30T19:06:26Z",
-			"updated_at": "2023-12-11T10:52:48Z",
+			"updated_at": "2024-02-17T12:22:36Z",
 			"svn_url": "https://github.com/jackc/pgx",
-			"stargazers_count": 8647,
-			"watchers_count": 8647,
-			"forks_count": 784,
-			"open_issues_count": 142
+			"stargazers_count": 9006,
+			"watchers_count": 9006,
+			"forks_count": 806,
+			"open_issues_count": 157
 		},
 		{
 			"id": 3698588,
@@ -38,12 +38,12 @@
 			"html_url": "https://github.com/lib/pq",
 			"homepage": "https://pkg.go.dev/github.com/lib/pq",
 			"created_at": "2012-03-12T18:50:22Z",
-			"updated_at": "2023-12-11T09:22:22Z",
+			"updated_at": "2024-02-17T09:13:21Z",
 			"svn_url": "https://github.com/lib/pq",
-			"stargazers_count": 8468,
-			"watchers_count": 8468,
-			"forks_count": 954,
-			"open_issues_count": 307
+			"stargazers_count": 8604,
+			"watchers_count": 8604,
+			"forks_count": 963,
+			"open_issues_count": 314
 		},
 		{
 			"id": 2755696,
@@ -52,12 +52,12 @@
 			"html_url": "https://github.com/mattn/go-sqlite3",
 			"homepage": "http://mattn.github.io/go-sqlite3",
 			"created_at": "2011-11-11T12:36:50Z",
-			"updated_at": "2023-12-11T08:24:32Z",
+			"updated_at": "2024-02-17T04:16:25Z",
 			"svn_url": "https://github.com/mattn/go-sqlite3",
-			"stargazers_count": 7056,
-			"watchers_count": 7056,
-			"forks_count": 1107,
-			"open_issues_count": 137
+			"stargazers_count": 7250,
+			"watchers_count": 7250,
+			"forks_count": 1110,
+			"open_issues_count": 141
 		},
 		{
 			"id": 15213446,
@@ -66,12 +66,12 @@
 			"html_url": "https://github.com/denisenkom/go-mssqldb",
 			"homepage": "",
 			"created_at": "2013-12-16T00:10:47Z",
-			"updated_at": "2023-12-11T06:17:39Z",
+			"updated_at": "2024-02-15T01:35:11Z",
 			"svn_url": "https://github.com/denisenkom/go-mssqldb",
-			"stargazers_count": 1775,
-			"watchers_count": 1775,
-			"forks_count": 502,
-			"open_issues_count": 166
+			"stargazers_count": 1785,
+			"watchers_count": 1785,
+			"forks_count": 510,
+			"open_issues_count": 171
 		},
 		{
 			"id": 3581394,
@@ -80,11 +80,11 @@
 			"html_url": "https://github.com/mattn/go-oci8",
 			"homepage": "https://mattn.kaoriya.net/",
 			"created_at": "2012-02-29T12:19:16Z",
-			"updated_at": "2023-11-27T08:32:17Z",
+			"updated_at": "2024-01-29T12:43:51Z",
 			"svn_url": "https://github.com/mattn/go-oci8",
-			"stargazers_count": 618,
-			"watchers_count": 618,
-			"forks_count": 216,
+			"stargazers_count": 622,
+			"watchers_count": 622,
+			"forks_count": 215,
 			"open_issues_count": 20
 		},
 		{
@@ -94,12 +94,12 @@
 			"html_url": "https://github.com/godror/godror",
 			"homepage": "",
 			"created_at": "2019-11-21T21:23:17Z",
-			"updated_at": "2023-12-07T16:34:21Z",
+			"updated_at": "2024-02-10T02:43:24Z",
 			"svn_url": "https://github.com/godror/godror",
-			"stargazers_count": 471,
-			"watchers_count": 471,
-			"forks_count": 96,
-			"open_issues_count": 5
+			"stargazers_count": 487,
+			"watchers_count": 487,
+			"forks_count": 95,
+			"open_issues_count": 4
 		},
 		{
 			"id": 270098255,
@@ -108,11 +108,11 @@
 			"html_url": "https://github.com/cvilsmeier/sqinn-go",
 			"homepage": "",
 			"created_at": "2020-06-06T20:37:12Z",
-			"updated_at": "2023-12-08T05:44:58Z",
+			"updated_at": "2024-02-12T10:59:33Z",
 			"svn_url": "https://github.com/cvilsmeier/sqinn-go",
-			"stargazers_count": 348,
-			"watchers_count": 348,
-			"forks_count": 15,
+			"stargazers_count": 389,
+			"watchers_count": 389,
+			"forks_count": 16,
 			"open_issues_count": 0
 		},
 		{
@@ -122,11 +122,11 @@
 			"html_url": "https://github.com/nakagami/firebirdsql",
 			"homepage": "",
 			"created_at": "2013-08-27T13:09:14Z",
-			"updated_at": "2023-12-02T08:52:49Z",
+			"updated_at": "2024-02-08T06:51:43Z",
 			"svn_url": "https://github.com/nakagami/firebirdsql",
-			"stargazers_count": 209,
-			"watchers_count": 209,
-			"forks_count": 57,
+			"stargazers_count": 214,
+			"watchers_count": 214,
+			"forks_count": 60,
 			"open_issues_count": 12
 		},
 		{
@@ -136,10 +136,10 @@
 			"html_url": "https://github.com/mattn/go-adodb",
 			"homepage": "http://mattn.kaoriya.net/",
 			"created_at": "2011-11-14T04:32:50Z",
-			"updated_at": "2023-11-17T15:16:34Z",
+			"updated_at": "2024-01-18T09:15:41Z",
 			"svn_url": "https://github.com/mattn/go-adodb",
-			"stargazers_count": 132,
-			"watchers_count": 132,
+			"stargazers_count": 135,
+			"watchers_count": 135,
 			"forks_count": 36,
 			"open_issues_count": 19
 		},
@@ -150,11 +150,11 @@
 			"html_url": "https://github.com/apache/calcite-avatica-go",
 			"homepage": "",
 			"created_at": "2017-08-08T07:00:08Z",
-			"updated_at": "2023-12-06T10:38:25Z",
+			"updated_at": "2024-01-27T22:41:52Z",
 			"svn_url": "https://github.com/apache/calcite-avatica-go",
-			"stargazers_count": 110,
-			"watchers_count": 110,
-			"forks_count": 37,
+			"stargazers_count": 113,
+			"watchers_count": 113,
+			"forks_count": 38,
 			"open_issues_count": 0
 		},
 		{
@@ -164,10 +164,10 @@
 			"html_url": "https://github.com/minus5/gofreetds",
 			"homepage": "",
 			"created_at": "2012-12-06T17:29:26Z",
-			"updated_at": "2023-05-24T11:51:09Z",
+			"updated_at": "2024-01-28T14:06:23Z",
 			"svn_url": "https://github.com/minus5/gofreetds",
-			"stargazers_count": 109,
-			"watchers_count": 109,
+			"stargazers_count": 110,
+			"watchers_count": 110,
 			"forks_count": 48,
 			"open_issues_count": 18
 		},
@@ -178,10 +178,10 @@
 			"html_url": "https://github.com/viant/bgc",
 			"homepage": "",
 			"created_at": "2016-06-13T20:24:26Z",
-			"updated_at": "2023-04-23T05:10:45Z",
+			"updated_at": "2024-02-01T01:58:27Z",
 			"svn_url": "https://github.com/viant/bgc",
-			"stargazers_count": 20,
-			"watchers_count": 20,
+			"stargazers_count": 21,
+			"watchers_count": 21,
 			"forks_count": 8,
 			"open_issues_count": 0
 		},
@@ -192,10 +192,10 @@
 			"html_url": "https://github.com/alexeyco/pig",
 			"homepage": "",
 			"created_at": "2021-04-15T15:33:23Z",
-			"updated_at": "2023-10-12T23:00:33Z",
+			"updated_at": "2024-02-04T11:18:27Z",
 			"svn_url": "https://github.com/alexeyco/pig",
-			"stargazers_count": 15,
-			"watchers_count": 15,
+			"stargazers_count": 16,
+			"watchers_count": 16,
 			"forks_count": 3,
 			"open_issues_count": 0
 		}

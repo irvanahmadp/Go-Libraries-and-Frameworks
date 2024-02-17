@@ -216,14 +216,14 @@ Libraries and tools helping with build automation.
 ### CSS Preprocessors
 Libraries for preprocessing CSS files.
 
-<sup>*Last Update: 2024-01-21 18:53:01*</sup>
+<sup>*Last Update: 2024-02-17 21:33:48*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [gcss](https://github.com/yosssi/gcss) | 488 | 39 | 8 | Pure Go CSS Preprocessor | 2014-09-04 14:38:20 | 2024-01-20 20:43:59 |
-| [go-libsass](http://godoc.org/github.com/wellington/go-libsass) | 201 | 28 | 17 | Go wrapper for libsass, the only Sass 3.5 compiler for Go | 2015-04-19 15:09:47 | 2024-01-16 13:48:43 |
+| [gcss](https://github.com/yosssi/gcss) | 488 | 39 | 8 | Pure Go CSS Preprocessor | 2014-09-04 14:38:20 | 2024-02-15 23:41:28 |
+| [go-libsass](http://godoc.org/github.com/wellington/go-libsass) | 201 | 28 | 17 | Go wrapper for libsass, the only Sass 3.5 compiler for Go | 2015-04-19 15:09:47 | 2024-01-23 23:54:14 |
 </details>
 
 ### Command Line - Advanced Console UIs
@@ -664,26 +664,26 @@ libraries for building and using SQL
 ### Database Drivers - Relational Databases
 
 
-<sup>*Last Update: 2023-12-11 19:37:10*</sup>
+<sup>*Last Update: 2024-02-17 21:33:38*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [mysql](https://pkg.go.dev/github.com/go-sql-driver/mysql) | 13,886 | 2,380 | 73 | Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package | 2012-12-09 20:33:55 | 2023-12-11 10:01:49 |
-| [pgx](https://github.com/jackc/pgx) | 8,647 | 784 | 142 | PostgreSQL driver and toolkit for Go | 2013-03-30 19:06:26 | 2023-12-11 10:52:48 |
-| [pq](https://pkg.go.dev/github.com/lib/pq) | 8,468 | 954 | 307 | Pure Go Postgres driver for database/sql | 2012-03-12 18:50:22 | 2023-12-11 09:22:22 |
-| [go-sqlite3](http://mattn.github.io/go-sqlite3) | 7,056 | 1,107 | 137 | sqlite3 driver for go using database/sql | 2011-11-11 12:36:50 | 2023-12-11 08:24:32 |
-| [go-mssqldb](https://github.com/denisenkom/go-mssqldb) | 1,775 | 502 | 166 | Microsoft SQL server driver written in go language | 2013-12-16 00:10:47 | 2023-12-11 06:17:39 |
-| [go-oci8](https://mattn.kaoriya.net/) | 618 | 216 | 20 | Oracle driver for Go using database/sql | 2012-02-29 12:19:16 | 2023-11-27 08:32:17 |
-| [godror](https://github.com/godror/godror) | 471 | 96 | 5 | GO DRiver for ORacle DB | 2019-11-21 21:23:17 | 2023-12-07 16:34:21 |
-| [sqinn-go](https://github.com/cvilsmeier/sqinn-go) | 348 | 15 | 0 | Golang SQLite without cgo | 2020-06-06 20:37:12 | 2023-12-08 05:44:58 |
-| [firebirdsql](https://github.com/nakagami/firebirdsql) | 209 | 57 | 12 | Firebird RDBMS sql driver for Go (golang) | 2013-08-27 13:09:14 | 2023-12-02 08:52:49 |
-| [go-adodb](http://mattn.kaoriya.net/) | 132 | 36 | 19 | Microsoft ActiveX Object DataBase driver for go that using exp/sql | 2011-11-14 04:32:50 | 2023-11-17 15:16:34 |
-| [calcite-avatica-go](https://github.com/apache/calcite-avatica-go) | 110 | 37 | 0 | Mirror of Apache Calcite - Avatica Go SQL Driver | 2017-08-08 07:00:08 | 2023-12-06 10:38:25 |
-| [gofreetds](https://github.com/minus5/gofreetds) | 109 | 48 | 18 | Go Sql Server database driver. | 2012-12-06 17:29:26 | 2023-05-24 11:51:09 |
-| [bgc](https://github.com/viant/bgc) | 20 | 8 | 0 | Datastore Connectivity for BigQuery in go | 2016-06-13 20:24:26 | 2023-04-23 05:10:45 |
-| [pig](https://github.com/alexeyco/pig) | 15 | 3 | 0 | Simple pgx wrapper to execute and scan query results | 2021-04-15 15:33:23 | 2023-10-12 23:00:33 |
+| [mysql](https://pkg.go.dev/github.com/go-sql-driver/mysql) | 14,026 | 2,381 | 61 | Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package | 2012-12-09 20:33:55 | 2024-02-17 13:57:34 |
+| [pgx](https://github.com/jackc/pgx) | 9,006 | 806 | 157 | PostgreSQL driver and toolkit for Go | 2013-03-30 19:06:26 | 2024-02-17 12:22:36 |
+| [pq](https://pkg.go.dev/github.com/lib/pq) | 8,604 | 963 | 314 | Pure Go Postgres driver for database/sql | 2012-03-12 18:50:22 | 2024-02-17 09:13:21 |
+| [go-sqlite3](http://mattn.github.io/go-sqlite3) | 7,250 | 1,110 | 141 | sqlite3 driver for go using database/sql | 2011-11-11 12:36:50 | 2024-02-17 04:16:25 |
+| [go-mssqldb](https://github.com/denisenkom/go-mssqldb) | 1,785 | 510 | 171 | Microsoft SQL server driver written in go language | 2013-12-16 00:10:47 | 2024-02-15 01:35:11 |
+| [go-oci8](https://mattn.kaoriya.net/) | 622 | 215 | 20 | Oracle driver for Go using database/sql | 2012-02-29 12:19:16 | 2024-01-29 12:43:51 |
+| [godror](https://github.com/godror/godror) | 487 | 95 | 4 | GO DRiver for ORacle DB | 2019-11-21 21:23:17 | 2024-02-10 02:43:24 |
+| [sqinn-go](https://github.com/cvilsmeier/sqinn-go) | 389 | 16 | 0 | Golang SQLite without cgo | 2020-06-06 20:37:12 | 2024-02-12 10:59:33 |
+| [firebirdsql](https://github.com/nakagami/firebirdsql) | 214 | 60 | 12 | Firebird RDBMS sql driver for Go (golang) | 2013-08-27 13:09:14 | 2024-02-08 06:51:43 |
+| [go-adodb](http://mattn.kaoriya.net/) | 135 | 36 | 19 | Microsoft ActiveX Object DataBase driver for go that using exp/sql | 2011-11-14 04:32:50 | 2024-01-18 09:15:41 |
+| [calcite-avatica-go](https://github.com/apache/calcite-avatica-go) | 113 | 38 | 0 | Mirror of Apache Calcite - Avatica Go SQL Driver | 2017-08-08 07:00:08 | 2024-01-27 22:41:52 |
+| [gofreetds](https://github.com/minus5/gofreetds) | 110 | 48 | 18 | Go Sql Server database driver. | 2012-12-06 17:29:26 | 2024-01-28 14:06:23 |
+| [bgc](https://github.com/viant/bgc) | 21 | 8 | 0 | Datastore Connectivity for BigQuery in go | 2016-06-13 20:24:26 | 2024-02-01 01:58:27 |
+| [pig](https://github.com/alexeyco/pig) | 16 | 3 | 0 | Simple pgx wrapper to execute and scan query results | 2021-04-15 15:33:23 | 2024-02-04 11:18:27 |
 </details>
 
 ### Database Drivers - Search and Analytic Databases
@@ -708,24 +708,24 @@ libraries for building and using SQL
 ### Date and Time
 Libraries for working with dates and times.
 
-<sup>*Last Update: 2023-12-11 19:37:02*</sup>
+<sup>*Last Update: 2024-02-17 21:33:28*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [now](https://github.com/jinzhu/now) | 4,287 | 235 | 13 | Now is a time toolkit for golang | 2013-11-18 10:55:30 | 2023-12-11 06:17:38 |
-| [dateparse](https://github.com/araddon/dateparse) | 1,939 | 156 | 59 | GoLang Parse many date strings without knowing format in advance. | 2014-04-21 02:55:48 | 2023-12-11 10:21:16 |
-| [carbon](https://github.com/uniplaces/carbon) | 768 | 55 | 2 | Carbon for Golang, an extension for Time | 2016-08-03 10:55:52 | 2023-12-02 19:03:43 |
-| [durafmt](https://github.com/hako/durafmt) | 475 | 51 | 10 | :clock8:  Better time duration formatting in Go!  | 2016-05-20 21:49:33 | 2023-12-06 18:08:27 |
-| [timeutil](https://github.com/leekchan/timeutil) | 194 | 15 | 2 | timeutil - useful extensions (Timedelta, Strftime, ...) to the golang's time package | 2015-08-02 01:32:06 | 2023-08-22 11:02:40 |
-| [gostradamus](https://github.com/bykof/gostradamus) | 192 | 6 | 3 | Gostradamus: Better DateTimes for Go 🕰️ | 2020-04-07 12:29:21 | 2023-11-12 14:53:58 |
-| [go-persian-calendar](https://pkg.go.dev/github.com/yaa110/go-persian-calendar) | 175 | 22 | 5 | The implementation of Persian (Solar Hijri) Calendar in Go | 2016-01-31 18:40:23 | 2023-12-10 11:10:21 |
-| [iso8601](https://github.com/relvacode/iso8601) | 132 | 15 | 2 | A fast ISO8601 date parser for Go | 2017-04-25 15:54:18 | 2023-10-06 09:59:45 |
-| [date](https://godoc.org/github.com/rickb777/date) | 117 | 22 | 0 | A Go package for working with dates | 2015-11-23 22:58:07 | 2023-11-02 05:48:18 |
-| [go-str2duration](https://pkg.go.dev/github.com/yaa110/go-persian-calendar) | 85 | 6 | 1 | Convert string to duration in golang | 2020-02-02 06:04:07 | 2023-12-07 09:52:24 |
-| [timespan](https://github.com/SaidinWoT/timespan) | 82 | 12 | 3 | Golang package to manipulate time intervals. | 2014-10-07 03:57:02 | 2022-09-26 09:53:23 |
-| [go-sunrise](https://pkg.go.dev/github.com/yaa110/go-persian-calendar) | 79 | 13 | 1 | Go package for calculating the sunrise and sunset times for a given location | 2017-06-15 20:49:41 | 2023-11-14 15:25:10 |
+| [now](https://github.com/jinzhu/now) | 4,326 | 238 | 13 | Now is a time toolkit for golang | 2013-11-18 10:55:30 | 2024-02-08 19:55:13 |
+| [dateparse](https://github.com/araddon/dateparse) | 1,963 | 162 | 61 | GoLang Parse many date strings without knowing format in advance. | 2014-04-21 02:55:48 | 2024-02-16 05:31:50 |
+| [carbon](https://github.com/uniplaces/carbon) | 770 | 55 | 1 | Carbon for Golang, an extension for Time | 2016-08-03 10:55:52 | 2024-02-16 20:57:05 |
+| [durafmt](https://github.com/hako/durafmt) | 485 | 52 | 9 | :clock8:  Better time duration formatting in Go!  | 2016-05-20 21:49:33 | 2024-02-08 09:18:05 |
+| [timeutil](https://github.com/leekchan/timeutil) | 193 | 15 | 2 | timeutil - useful extensions (Timedelta, Strftime, ...) to the golang's time package | 2015-08-02 01:32:06 | 2024-01-30 04:13:36 |
+| [gostradamus](https://github.com/bykof/gostradamus) | 193 | 6 | 1 | Gostradamus: Better DateTimes for Go 🕰️ | 2020-04-07 12:29:21 | 2024-01-12 10:04:51 |
+| [go-persian-calendar](https://pkg.go.dev/github.com/yaa110/go-persian-calendar) | 185 | 23 | 6 | The implementation of Persian (Solar Hijri) Calendar in Go | 2016-01-31 18:40:23 | 2024-02-09 22:35:05 |
+| [iso8601](https://github.com/relvacode/iso8601) | 134 | 15 | 2 | A fast ISO8601 date parser for Go | 2017-04-25 15:54:18 | 2024-02-06 20:00:52 |
+| [date](https://godoc.org/github.com/rickb777/date) | 122 | 23 | 0 | A Go package for working with dates | 2015-11-23 22:58:07 | 2024-02-17 09:59:53 |
+| [go-str2duration](https://pkg.go.dev/github.com/yaa110/go-persian-calendar) | 87 | 6 | 1 | Convert string to duration in golang | 2020-02-02 06:04:07 | 2024-01-09 08:45:20 |
+| [timespan](https://github.com/SaidinWoT/timespan) | 84 | 12 | 3 | Golang package to manipulate time intervals. | 2014-10-07 03:57:02 | 2024-02-10 05:22:07 |
+| [go-sunrise](https://pkg.go.dev/github.com/yaa110/go-persian-calendar) | 80 | 13 | 1 | Go package for calculating the sunrise and sunset times for a given location | 2017-06-15 20:49:41 | 2024-02-17 05:15:56 |
 | [feiertage](https://github.com/wlbr/feiertage) | 45 | 8 | 1 | Gesetzliche Feiertage und mehr in Deutschland und Österreich (Bank holidays/public holidays in Austria and Germany) | 2015-11-04 14:19:27 | 2023-11-06 10:05:26 |
 | [kair](https://github.com/GuilhermeCaruso/kair) | 25 | 6 | 0 | :clock1: Date and Time - Golang Formatting Library | 2018-10-03 15:44:07 | 2023-02-03 00:57:40 |
 | [cronrange](https://github.com/1set/cronrange) | 18 | 7 | 2 | time range expression in cron style | 2019-11-10 01:30:45 | 2022-09-26 09:52:51 |
@@ -984,14 +984,14 @@ Packages to support functional programming in Go.
 ### GUI - Interaction
 Libraries for building GUI Applications.
 
-<sup>*Last Update: 2024-02-11 21:38:17*</sup>
+<sup>*Last Update: 2024-02-17 21:33:24*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [robotgo](https://github.com/go-vgo/robotgo) | 9,051 | 887 | 153 | RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar | 2016-09-26 16:26:56 | 2024-02-11 01:05:25 |
-| [systray](https://github.com/getlantern/systray) | 3,042 | 409 | 98 | a cross platfrom Go library to place an icon and menu in the notification area | 2014-11-12 03:41:57 | 2024-02-10 07:27:00 |
+| [robotgo](https://github.com/go-vgo/robotgo) | 9,062 | 888 | 153 | RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar | 2016-09-26 16:26:56 | 2024-02-17 12:02:49 |
+| [systray](https://github.com/getlantern/systray) | 3,045 | 410 | 98 | a cross platfrom Go library to place an icon and menu in the notification area | 2014-11-12 03:41:57 | 2024-02-16 09:31:05 |
 | [gosx-notifier](https://github.com/deckarep/gosx-notifier) | 583 | 51 | 10 | gosx-notifier is a Go framework for sending desktop notifications to OSX 10.8 or higher | 2013-11-25 06:35:16 | 2024-02-03 12:29:22 |
 | [trayhost](https://github.com/shurcooL/trayhost) | 247 | 19 | 9 | Cross-platform Go library to place an icon in the host operating system's taskbar. | 2014-04-25 04:02:30 | 2024-02-07 08:46:15 |
 | [mac-sleep-notifier](https://github.com/prashantgupta24/mac-sleep-notifier) | 30 | 6 | 0 | macOS Sleep/ Wake notifications in golang | 2019-03-30 00:43:23 | 2023-12-14 05:20:27 |
@@ -1078,20 +1078,20 @@ Tools to enhance the language with features like generics via code generation.
 ### Geographic
 Geographic tools and servers
 
-<sup>*Last Update: 2023-12-13 19:34:07*</sup>
+<sup>*Last Update: 2024-02-17 21:33:44*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [tile38](https://tile38.com) | 8,773 | 551 | 133 | Real-time Geospatial and Geofencing | 2016-03-04 23:07:44 | 2023-12-12 22:39:16 |
-| [geo](https://github.com/golang/geo) | 1,598 | 231 | 22 | S2 geometry library in Go | 2014-12-03 23:02:15 | 2023-12-09 19:51:34 |
-| [mbtileserver](https://github.com/consbio/mbtileserver) | 563 | 90 | 14 | Basic Go server for mbtiles | 2014-11-01 04:12:14 | 2023-12-13 09:13:28 |
-| [osm](https://github.com/paulmach/osm) | 310 | 43 | 4 | General purpose library for reading, writing and working with OpenStreetMap data | 2016-02-02 00:59:03 | 2023-12-12 18:24:31 |
-| [wgs84](https://github.com/wroge/wgs84) | 107 | 12 | 4 | A zero-dependency Go package for coordinate transformations. | 2019-06-08 17:17:59 | 2023-12-09 19:53:01 |
-| [geoserver](https://github.com/hishamkaram/geoserver) | 85 | 22 | 4 | geoserver is a Go library for manipulating a GeoServer instance via the GeoServer REST API. | 2018-03-26 21:36:49 | 2023-11-02 02:42:49 |
+| [tile38](https://tile38.com) | 8,832 | 556 | 134 | Real-time Geospatial and Geofencing | 2016-03-04 23:07:44 | 2024-02-16 20:36:57 |
+| [geo](https://github.com/golang/geo) | 1,622 | 234 | 23 | S2 geometry library in Go | 2014-12-03 23:02:15 | 2024-02-14 15:04:22 |
+| [mbtileserver](https://github.com/consbio/mbtileserver) | 576 | 94 | 13 | Basic Go server for mbtiles | 2014-11-01 04:12:14 | 2024-02-17 13:04:11 |
+| [osm](https://github.com/paulmach/osm) | 327 | 44 | 2 | General purpose library for reading, writing and working with OpenStreetMap data | 2016-02-02 00:59:03 | 2024-02-16 02:50:14 |
+| [wgs84](https://github.com/wroge/wgs84) | 110 | 13 | 3 | A zero-dependency Go package for coordinate transformations. | 2019-06-08 17:17:59 | 2024-02-12 08:16:22 |
+| [geoserver](https://github.com/hishamkaram/geoserver) | 85 | 22 | 4 | geoserver is a Go library for manipulating a GeoServer instance via the GeoServer REST API. | 2018-03-26 21:36:49 | 2023-12-22 02:04:59 |
 | [gismanager](https://github.com/hishamkaram/gismanager) | 50 | 10 | 1 | Publish Your GIS Data(Vector Data) to PostGIS and Geoserver | 2018-09-29 12:51:37 | 2023-04-14 15:44:10 |
-| [pbf](https://github.com/maguro/pbf) | 46 | 7 | 3 | OpenStreetMap PBF golang parser | 2017-09-18 23:13:18 | 2023-11-24 22:56:40 |
+| [pbf](https://github.com/maguro/pbf) | 47 | 7 | 3 | OpenStreetMap PBF golang parser | 2017-09-18 23:13:18 | 2023-12-19 22:29:03 |
 | [s2-geojson](https://github.com/pantrif/s2-geojson) | 26 | 9 | 2 | Draw a polygon on the map or paste a geoJSON and explore how the s2.RegionCoverer covers it with S2 cells depending on the min and max levels | 2020-03-27 09:47:32 | 2023-12-09 19:51:12 |
 </details>
 
@@ -1520,20 +1520,20 @@ Libraries for working with dependency injection.
 ### Miscellaneous - Project Layout
 Unofficial set of patterns for structuring projects.
 
-<sup>*Last Update: 2024-02-08 19:17:16*</sup>
+<sup>*Last Update: 2024-02-17 21:33:18*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [project-layout](https://github.com/golang-standards/project-layout) | 44,446 | 4,871 | 86 | Standard Go Project Layout | 2017-09-09 16:33:26 | 2024-02-08 11:14:59 |
-| [modern-go-application](https://github.com/sagikazarmark/modern-go-application) | 1,749 | 214 | 22 | Modern Go Application example | 2018-09-14 12:19:02 | 2024-02-07 07:06:24 |
-| [cookiecutter-golang](https://github.com/lacion/cookiecutter-golang) | 656 | 211 | 2 | A Go project template | 2016-12-18 18:22:26 | 2024-02-06 06:46:54 |
-| [seed](https://github.com/golang-templates/seed) | 428 | 46 | 2 | Go application GitHub repository template. | 2020-04-30 21:31:36 | 2024-02-07 08:53:55 |
-| [go-todo-backend](https://github.com/Fs02/go-todo-backend) | 288 | 34 | 0 | Go Todo Backend example using modular project layout for product microservice. | 2020-06-25 14:28:50 | 2024-02-03 12:12:07 |
-| [scaffold](https://github.com/catchplay/scaffold) | 147 | 28 | 2 | Generate scaffold project layout for Go. | 2018-12-11 10:36:03 | 2024-02-05 16:23:56 |
+| [project-layout](https://github.com/golang-standards/project-layout) | 44,608 | 4,883 | 87 | Standard Go Project Layout | 2017-09-09 16:33:26 | 2024-02-17 13:11:39 |
+| [modern-go-application](https://github.com/sagikazarmark/modern-go-application) | 1,757 | 214 | 22 | Modern Go Application example | 2018-09-14 12:19:02 | 2024-02-15 07:36:58 |
+| [cookiecutter-golang](https://github.com/lacion/cookiecutter-golang) | 658 | 212 | 2 | A Go project template | 2016-12-18 18:22:26 | 2024-02-16 09:14:25 |
+| [seed](https://github.com/golang-templates/seed) | 428 | 46 | 1 | Go application GitHub repository template. | 2020-04-30 21:31:36 | 2024-02-07 08:53:55 |
+| [go-todo-backend](https://github.com/Fs02/go-todo-backend) | 290 | 34 | 0 | Go Todo Backend example using modular project layout for product microservice. | 2020-06-25 14:28:50 | 2024-02-16 14:55:28 |
+| [scaffold](https://github.com/catchplay/scaffold) | 148 | 28 | 2 | Generate scaffold project layout for Go. | 2018-12-11 10:36:03 | 2024-02-10 23:18:16 |
 | [go-sample](https://github.com/zitryss/go-sample) | 126 | 25 | 0 | Go Project Sample Layout | 2019-01-24 23:41:46 | 2024-01-27 22:43:30 |
-| [gobase](https://github.com/wajox/gobase) | 52 | 6 | 0 | This is a simple skeleton for golang applications | 2020-12-15 16:54:20 | 2023-12-22 06:17:06 |
+| [gobase](https://github.com/wajox/gobase) | 53 | 6 | 0 | This is a simple skeleton for golang applications | 2020-12-15 16:54:20 | 2024-02-15 09:27:32 |
 | [inizio](https://github.com/insidieux/inizio) | 18 | 2 | 0 | Golang project standard layout generator | 2021-03-02 20:59:22 | 2024-02-05 15:11:11 |
 </details>
 
