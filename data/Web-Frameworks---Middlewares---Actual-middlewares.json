@@ -1,7 +1,7 @@
 {
 	"name": "Web Frameworks - Middlewares - Actual middlewares",
 	"index_last_check": 0,
-	"last_update": 1702735268,
+	"last_update": 1708524458,
 	"libraries": [
 		{
 			"id": 35771021,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/didip/tollbooth",
 			"homepage": "",
 			"created_at": "2015-05-17T15:20:03Z",
-			"updated_at": "2023-12-16T13:01:26Z",
+			"updated_at": "2024-02-21T03:04:56Z",
 			"svn_url": "https://github.com/didip/tollbooth",
-			"stargazers_count": 2532,
-			"watchers_count": 2532,
-			"forks_count": 209,
-			"open_issues_count": 7
+			"stargazers_count": 2560,
+			"watchers_count": 2560,
+			"forks_count": 210,
+			"open_issues_count": 9
 		},
 		{
 			"id": 25719147,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/rs/cors",
 			"homepage": "",
 			"created_at": "2014-10-25T03:49:45Z",
-			"updated_at": "2023-12-14T18:15:26Z",
+			"updated_at": "2024-02-20T10:56:30Z",
 			"svn_url": "https://github.com/rs/cors",
-			"stargazers_count": 2468,
-			"watchers_count": 2468,
-			"forks_count": 216,
-			"open_issues_count": 15
+			"stargazers_count": 2496,
+			"watchers_count": 2496,
+			"forks_count": 217,
+			"open_issues_count": 12
 		},
 		{
 			"id": 43542144,
@@ -38,11 +38,11 @@
 			"html_url": "https://github.com/ulule/limiter",
 			"homepage": "https://lingrino.com",
 			"created_at": "2015-10-02T08:12:38Z",
-			"updated_at": "2023-12-14T06:52:15Z",
+			"updated_at": "2024-02-19T18:22:30Z",
 			"svn_url": "https://github.com/ulule/limiter",
-			"stargazers_count": 1874,
-			"watchers_count": 1874,
-			"forks_count": 137,
+			"stargazers_count": 1903,
+			"watchers_count": 1903,
+			"forks_count": 138,
 			"open_issues_count": 16
 		},
 		{
@@ -52,10 +52,10 @@
 			"html_url": "https://github.com/mitchellh/go-server-timing",
 			"homepage": "https://lingrino.com",
 			"created_at": "2018-02-12T03:56:02Z",
-			"updated_at": "2023-12-12T12:27:47Z",
+			"updated_at": "2024-02-20T16:05:27Z",
 			"svn_url": "https://github.com/mitchellh/go-server-timing",
-			"stargazers_count": 852,
-			"watchers_count": 852,
+			"stargazers_count": 859,
+			"watchers_count": 859,
 			"forks_count": 38,
 			"open_issues_count": 10
 		},
@@ -66,10 +66,10 @@
 			"html_url": "https://github.com/lingrino/go-fault",
 			"homepage": "https://lingrino.com",
 			"created_at": "2020-05-14T16:13:17Z",
-			"updated_at": "2023-12-02T04:29:31Z",
+			"updated_at": "2024-02-21T07:17:09Z",
 			"svn_url": "https://github.com/lingrino/go-fault",
-			"stargazers_count": 481,
-			"watchers_count": 481,
+			"stargazers_count": 495,
+			"watchers_count": 495,
 			"forks_count": 25,
 			"open_issues_count": 0
 		},
@@ -80,10 +80,10 @@
 			"html_url": "https://github.com/philippgille/ln-paywall",
 			"homepage": "",
 			"created_at": "2018-06-29T21:51:00Z",
-			"updated_at": "2023-10-17T11:42:49Z",
+			"updated_at": "2024-01-24T13:26:03Z",
 			"svn_url": "https://github.com/philippgille/ln-paywall",
-			"stargazers_count": 137,
-			"watchers_count": 137,
+			"stargazers_count": 138,
+			"watchers_count": 138,
 			"forks_count": 9,
 			"open_issues_count": 18
 		},

@@ -1,7 +1,7 @@
 {
 	"name": "Email",
 	"index_last_check": 0,
-	"last_update": 1702735239,
+	"last_update": 1708524450,
 	"libraries": [
 		{
 			"id": 18858585,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/mailhog/MailHog",
 			"homepage": "",
 			"created_at": "2014-04-16T22:28:49Z",
-			"updated_at": "2023-12-15T20:55:58Z",
+			"updated_at": "2024-02-21T11:12:05Z",
 			"svn_url": "https://github.com/mailhog/MailHog",
-			"stargazers_count": 12860,
-			"watchers_count": 12860,
-			"forks_count": 1015,
-			"open_issues_count": 241
+			"stargazers_count": 13100,
+			"watchers_count": 13100,
+			"forks_count": 1032,
+			"open_issues_count": 247
 		},
 		{
 			"id": 86179273,
@@ -24,11 +24,11 @@
 			"html_url": "https://github.com/matcornic/hermes",
 			"homepage": "",
 			"created_at": "2017-03-25T18:25:36Z",
-			"updated_at": "2023-12-13T17:34:34Z",
+			"updated_at": "2024-02-21T02:49:16Z",
 			"svn_url": "https://github.com/matcornic/hermes",
-			"stargazers_count": 2712,
-			"watchers_count": 2712,
-			"forks_count": 233,
+			"stargazers_count": 2741,
+			"watchers_count": 2741,
+			"forks_count": 238,
 			"open_issues_count": 31
 		},
 		{
@@ -38,12 +38,12 @@
 			"html_url": "https://github.com/jordan-wright/email",
 			"homepage": "",
 			"created_at": "2013-12-12T20:11:59Z",
-			"updated_at": "2023-12-13T06:00:18Z",
+			"updated_at": "2024-02-21T03:13:22Z",
 			"svn_url": "https://github.com/jordan-wright/email",
-			"stargazers_count": 2486,
-			"watchers_count": 2486,
-			"forks_count": 368,
-			"open_issues_count": 56
+			"stargazers_count": 2522,
+			"watchers_count": 2522,
+			"forks_count": 370,
+			"open_issues_count": 55
 		},
 		{
 			"id": 57150400,
@@ -52,12 +52,12 @@
 			"html_url": "https://github.com/emersion/go-imap",
 			"homepage": "",
 			"created_at": "2016-04-26T17:59:18Z",
-			"updated_at": "2023-12-16T10:52:23Z",
+			"updated_at": "2024-02-21T06:48:43Z",
 			"svn_url": "https://github.com/emersion/go-imap",
-			"stargazers_count": 1890,
-			"watchers_count": 1890,
-			"forks_count": 299,
-			"open_issues_count": 39
+			"stargazers_count": 1941,
+			"watchers_count": 1941,
+			"forks_count": 306,
+			"open_issues_count": 32
 		},
 		{
 			"id": 322539168,
@@ -66,12 +66,12 @@
 			"html_url": "https://github.com/AfterShip/email-verifier",
 			"homepage": "",
 			"created_at": "2020-12-18T08:47:28Z",
-			"updated_at": "2023-12-16T03:05:44Z",
+			"updated_at": "2024-02-19T14:03:29Z",
 			"svn_url": "https://github.com/AfterShip/email-verifier",
-			"stargazers_count": 985,
-			"watchers_count": 985,
-			"forks_count": 121,
-			"open_issues_count": 9
+			"stargazers_count": 1022,
+			"watchers_count": 1022,
+			"forks_count": 125,
+			"open_issues_count": 12
 		},
 		{
 			"id": 12774055,
@@ -80,12 +80,12 @@
 			"html_url": "https://github.com/sendgrid/sendgrid-go",
 			"homepage": "https://sendgrid.com",
 			"created_at": "2013-09-12T03:31:13Z",
-			"updated_at": "2023-12-16T11:31:40Z",
+			"updated_at": "2024-02-19T04:07:19Z",
 			"svn_url": "https://github.com/sendgrid/sendgrid-go",
-			"stargazers_count": 939,
-			"watchers_count": 939,
+			"stargazers_count": 943,
+			"watchers_count": 943,
 			"forks_count": 306,
-			"open_issues_count": 19
+			"open_issues_count": 22
 		},
 		{
 			"id": 72696598,
@@ -94,11 +94,11 @@
 			"html_url": "https://github.com/albertito/chasquid",
 			"homepage": "https://blitiri.com.ar/p/chasquid/",
 			"created_at": "2016-11-03T01:28:05Z",
-			"updated_at": "2023-12-14T04:15:59Z",
+			"updated_at": "2024-02-16T07:51:01Z",
 			"svn_url": "https://github.com/albertito/chasquid",
-			"stargazers_count": 760,
-			"watchers_count": 760,
-			"forks_count": 57,
+			"stargazers_count": 795,
+			"watchers_count": 795,
+			"forks_count": 59,
 			"open_issues_count": 6
 		},
 		{
@@ -108,11 +108,11 @@
 			"html_url": "https://github.com/mailgun/mailgun-go",
 			"homepage": "https://mailchain.xyz",
 			"created_at": "2014-02-28T00:28:44Z",
-			"updated_at": "2023-12-07T18:07:40Z",
+			"updated_at": "2024-02-09T16:11:32Z",
 			"svn_url": "https://github.com/mailgun/mailgun-go",
-			"stargazers_count": 668,
-			"watchers_count": 668,
-			"forks_count": 147,
+			"stargazers_count": 675,
+			"watchers_count": 675,
+			"forks_count": 148,
 			"open_issues_count": 2
 		},
 		{
@@ -122,11 +122,11 @@
 			"html_url": "https://github.com/xhit/go-simple-mail",
 			"homepage": "",
 			"created_at": "2019-09-15T05:38:54Z",
-			"updated_at": "2023-12-14T13:52:57Z",
+			"updated_at": "2024-02-21T07:49:42Z",
 			"svn_url": "https://github.com/xhit/go-simple-mail",
-			"stargazers_count": 548,
-			"watchers_count": 548,
-			"forks_count": 79,
+			"stargazers_count": 575,
+			"watchers_count": 575,
+			"forks_count": 87,
 			"open_issues_count": 11
 		},
 		{
@@ -136,11 +136,11 @@
 			"html_url": "https://github.com/emersion/go-message",
 			"homepage": "",
 			"created_at": "2016-12-31T09:31:52Z",
-			"updated_at": "2023-12-15T12:26:45Z",
+			"updated_at": "2024-01-20T17:34:56Z",
 			"svn_url": "https://github.com/emersion/go-message",
-			"stargazers_count": 340,
-			"watchers_count": 340,
-			"forks_count": 101,
+			"stargazers_count": 347,
+			"watchers_count": 347,
+			"forks_count": 104,
 			"open_issues_count": 25
 		},
 		{
@@ -150,10 +150,10 @@
 			"html_url": "https://github.com/aymerick/douceur",
 			"homepage": "",
 			"created_at": "2015-04-09T10:21:26Z",
-			"updated_at": "2023-11-09T19:22:37Z",
+			"updated_at": "2024-02-15T20:26:19Z",
 			"svn_url": "https://github.com/aymerick/douceur",
-			"stargazers_count": 234,
-			"watchers_count": 234,
+			"stargazers_count": 239,
+			"watchers_count": 239,
 			"forks_count": 42,
 			"open_issues_count": 9
 		},
@@ -164,10 +164,10 @@
 			"html_url": "https://github.com/hectane/hectane",
 			"homepage": "",
 			"created_at": "2015-08-28T01:36:47Z",
-			"updated_at": "2023-12-03T23:26:32Z",
+			"updated_at": "2024-02-01T22:47:42Z",
 			"svn_url": "https://github.com/hectane/hectane",
-			"stargazers_count": 218,
-			"watchers_count": 218,
+			"stargazers_count": 219,
+			"watchers_count": 219,
 			"forks_count": 25,
 			"open_issues_count": 16
 		},
@@ -178,7 +178,7 @@
 			"html_url": "https://github.com/mailchain/mailchain-legacy",
 			"homepage": "https://mailchain.xyz",
 			"created_at": "2019-04-11T17:37:31Z",
-			"updated_at": "2023-09-18T13:20:16Z",
+			"updated_at": "2024-01-19T10:26:15Z",
 			"svn_url": "https://github.com/mailchain/mailchain-legacy",
 			"stargazers_count": 141,
 			"watchers_count": 141,
@@ -192,10 +192,10 @@
 			"html_url": "https://github.com/vanng822/go-premailer",
 			"homepage": "",
 			"created_at": "2015-02-16T22:19:18Z",
-			"updated_at": "2023-12-05T01:18:50Z",
+			"updated_at": "2024-01-26T14:02:17Z",
 			"svn_url": "https://github.com/vanng822/go-premailer",
-			"stargazers_count": 124,
-			"watchers_count": 124,
+			"stargazers_count": 129,
+			"watchers_count": 129,
 			"forks_count": 18,
 			"open_issues_count": 4
 		},
@@ -206,12 +206,12 @@
 			"html_url": "https://github.com/toorop/go-dkim",
 			"homepage": "",
 			"created_at": "2015-04-29T15:38:27Z",
-			"updated_at": "2023-10-31T20:02:05Z",
+			"updated_at": "2024-01-16T10:11:25Z",
 			"svn_url": "https://github.com/toorop/go-dkim",
-			"stargazers_count": 92,
-			"watchers_count": 92,
+			"stargazers_count": 94,
+			"watchers_count": 94,
 			"forks_count": 38,
-			"open_issues_count": 6
+			"open_issues_count": 5
 		},
 		{
 			"id": 28453997,
@@ -234,10 +234,10 @@
 			"html_url": "https://github.com/go-email-validator/go-email-validator",
 			"homepage": "",
 			"created_at": "2020-12-10T18:27:20Z",
-			"updated_at": "2023-11-14T03:54:55Z",
+			"updated_at": "2023-12-27T13:34:12Z",
 			"svn_url": "https://github.com/go-email-validator/go-email-validator",
-			"stargazers_count": 50,
-			"watchers_count": 50,
+			"stargazers_count": 52,
+			"watchers_count": 52,
 			"forks_count": 11,
 			"open_issues_count": 3
 		}

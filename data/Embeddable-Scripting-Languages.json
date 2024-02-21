@@ -1,7 +1,7 @@
 {
 	"name": "Embeddable Scripting Languages",
 	"index_last_check": 0,
-	"last_update": 1702735226,
+	"last_update": 1708524441,
 	"libraries": [
 		{
 			"id": 30828052,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/yuin/gopher-lua",
 			"homepage": "",
 			"created_at": "2015-02-15T13:23:37Z",
-			"updated_at": "2023-12-16T09:17:27Z",
+			"updated_at": "2024-02-21T07:10:16Z",
 			"svn_url": "https://github.com/yuin/gopher-lua",
-			"stargazers_count": 5783,
-			"watchers_count": 5783,
-			"forks_count": 657,
-			"open_issues_count": 65
+			"stargazers_count": 5894,
+			"watchers_count": 5894,
+			"forks_count": 621,
+			"open_issues_count": 72
 		},
 		{
 			"id": 140958903,
@@ -24,11 +24,11 @@
 			"html_url": "https://github.com/expr-lang/expr",
 			"homepage": "https://expr-lang.org",
 			"created_at": "2018-07-14T15:57:34Z",
-			"updated_at": "2023-12-16T05:58:23Z",
+			"updated_at": "2024-02-21T09:57:49Z",
 			"svn_url": "https://github.com/expr-lang/expr",
-			"stargazers_count": 4830,
-			"watchers_count": 4830,
-			"forks_count": 377,
+			"stargazers_count": 5265,
+			"watchers_count": 5265,
+			"forks_count": 345,
 			"open_issues_count": 21
 		},
 		{
@@ -38,12 +38,12 @@
 			"html_url": "https://github.com/dop251/goja",
 			"homepage": "",
 			"created_at": "2016-11-04T22:04:06Z",
-			"updated_at": "2023-12-16T09:41:29Z",
+			"updated_at": "2024-02-21T13:51:16Z",
 			"svn_url": "https://github.com/dop251/goja",
-			"stargazers_count": 4487,
-			"watchers_count": 4487,
-			"forks_count": 356,
-			"open_issues_count": 27
+			"stargazers_count": 4720,
+			"watchers_count": 4720,
+			"forks_count": 372,
+			"open_issues_count": 28
 		},
 		{
 			"id": 164809872,
@@ -52,12 +52,12 @@
 			"html_url": "https://github.com/d5/tengo",
 			"homepage": "https://tengolang.com",
 			"created_at": "2019-01-09T07:17:17Z",
-			"updated_at": "2023-12-15T01:24:01Z",
+			"updated_at": "2024-02-21T12:08:21Z",
 			"svn_url": "https://github.com/d5/tengo",
-			"stargazers_count": 3344,
-			"watchers_count": 3344,
-			"forks_count": 266,
-			"open_issues_count": 74
+			"stargazers_count": 3392,
+			"watchers_count": 3392,
+			"forks_count": 325,
+			"open_issues_count": 76
 		},
 		{
 			"id": 15344288,
@@ -66,12 +66,12 @@
 			"html_url": "https://github.com/Shopify/go-lua",
 			"homepage": "",
 			"created_at": "2013-12-20T17:29:43Z",
-			"updated_at": "2023-12-15T19:13:58Z",
+			"updated_at": "2024-02-21T07:17:36Z",
 			"svn_url": "https://github.com/Shopify/go-lua",
-			"stargazers_count": 2827,
-			"watchers_count": 2827,
-			"forks_count": 230,
-			"open_issues_count": 45
+			"stargazers_count": 2866,
+			"watchers_count": 2866,
+			"forks_count": 229,
+			"open_issues_count": 46
 		},
 		{
 			"id": 124602093,
@@ -80,12 +80,12 @@
 			"html_url": "https://github.com/google/cel-go",
 			"homepage": "https://opensource.google.com/projects/cel",
 			"created_at": "2018-03-09T22:57:58Z",
-			"updated_at": "2023-12-16T06:48:40Z",
+			"updated_at": "2024-02-20T23:44:34Z",
 			"svn_url": "https://github.com/google/cel-go",
-			"stargazers_count": 1917,
-			"watchers_count": 1917,
-			"forks_count": 248,
-			"open_issues_count": 34
+			"stargazers_count": 1979,
+			"watchers_count": 1979,
+			"forks_count": 256,
+			"open_issues_count": 38
 		},
 		{
 			"id": 4960374,
@@ -94,10 +94,10 @@
 			"html_url": "https://github.com/sbinet/go-python",
 			"homepage": "",
 			"created_at": "2012-07-09T15:43:31Z",
-			"updated_at": "2023-12-12T15:26:39Z",
+			"updated_at": "2024-02-20T09:33:48Z",
 			"svn_url": "https://github.com/sbinet/go-python",
-			"stargazers_count": 1511,
-			"watchers_count": 1511,
+			"stargazers_count": 1518,
+			"watchers_count": 1518,
 			"forks_count": 176,
 			"open_issues_count": 27
 		},
@@ -108,12 +108,12 @@
 			"html_url": "https://github.com/mattn/anko",
 			"homepage": "http://play-anko.appspot.com/",
 			"created_at": "2014-03-28T07:29:40Z",
-			"updated_at": "2023-12-15T18:28:39Z",
+			"updated_at": "2024-02-15T20:44:46Z",
 			"svn_url": "https://github.com/mattn/anko",
-			"stargazers_count": 1402,
-			"watchers_count": 1402,
-			"forks_count": 128,
-			"open_issues_count": 25
+			"stargazers_count": 1419,
+			"watchers_count": 1419,
+			"forks_count": 127,
+			"open_issues_count": 24
 		},
 		{
 			"id": 42682742,
@@ -122,12 +122,12 @@
 			"html_url": "https://github.com/deuill/go-php",
 			"homepage": "",
 			"created_at": "2015-09-17T21:23:52Z",
-			"updated_at": "2023-12-10T21:48:29Z",
+			"updated_at": "2024-02-21T01:59:43Z",
 			"svn_url": "https://github.com/deuill/go-php",
-			"stargazers_count": 910,
-			"watchers_count": 910,
-			"forks_count": 149,
-			"open_issues_count": 21
+			"stargazers_count": 921,
+			"watchers_count": 921,
+			"forks_count": 150,
+			"open_issues_count": 22
 		},
 		{
 			"id": 28949956,
@@ -150,12 +150,12 @@
 			"html_url": "https://github.com/PaesslerAG/gval",
 			"homepage": "",
 			"created_at": "2017-09-27T08:32:49Z",
-			"updated_at": "2023-12-14T16:40:42Z",
+			"updated_at": "2024-02-20T04:36:12Z",
 			"svn_url": "https://github.com/PaesslerAG/gval",
-			"stargazers_count": 675,
-			"watchers_count": 675,
-			"forks_count": 80,
-			"open_issues_count": 22
+			"stargazers_count": 691,
+			"watchers_count": 691,
+			"forks_count": 82,
+			"open_issues_count": 23
 		},
 		{
 			"id": 1144572,
@@ -164,11 +164,11 @@
 			"html_url": "https://github.com/aarzilli/golua",
 			"homepage": "",
 			"created_at": "2010-12-06T21:39:53Z",
-			"updated_at": "2023-12-11T07:23:49Z",
+			"updated_at": "2024-02-05T09:45:30Z",
 			"svn_url": "https://github.com/aarzilli/golua",
-			"stargazers_count": 631,
-			"watchers_count": 631,
-			"forks_count": 165,
+			"stargazers_count": 634,
+			"watchers_count": 634,
+			"forks_count": 164,
 			"open_issues_count": 7
 		},
 		{
@@ -178,10 +178,10 @@
 			"html_url": "https://github.com/jcla1/gisp",
 			"homepage": "https://docs.gentee.org",
 			"created_at": "2014-01-11T14:05:43Z",
-			"updated_at": "2023-12-06T13:55:40Z",
+			"updated_at": "2024-02-04T17:22:55Z",
 			"svn_url": "https://github.com/jcla1/gisp",
-			"stargazers_count": 505,
-			"watchers_count": 505,
+			"stargazers_count": 510,
+			"watchers_count": 510,
 			"forks_count": 37,
 			"open_issues_count": 1
 		},
@@ -192,12 +192,12 @@
 			"html_url": "https://github.com/gentee/gentee",
 			"homepage": "https://docs.gentee.org",
 			"created_at": "2018-01-14T15:49:05Z",
-			"updated_at": "2023-12-14T00:13:41Z",
+			"updated_at": "2024-02-02T07:20:38Z",
 			"svn_url": "https://github.com/gentee/gentee",
-			"stargazers_count": 122,
-			"watchers_count": 122,
+			"stargazers_count": 124,
+			"watchers_count": 124,
 			"forks_count": 15,
-			"open_issues_count": 1
+			"open_issues_count": 2
 		},
 		{
 			"id": 87002120,
@@ -206,10 +206,10 @@
 			"html_url": "https://github.com/alexeyco/binder",
 			"homepage": "",
 			"created_at": "2017-04-02T17:14:52Z",
-			"updated_at": "2023-12-15T18:27:05Z",
+			"updated_at": "2024-01-24T10:09:25Z",
 			"svn_url": "https://github.com/alexeyco/binder",
-			"stargazers_count": 68,
-			"watchers_count": 68,
+			"stargazers_count": 69,
+			"watchers_count": 69,
 			"forks_count": 10,
 			"open_issues_count": 2
 		},
@@ -248,10 +248,10 @@
 			"html_url": "https://github.com/db47h/ngaro",
 			"homepage": "",
 			"created_at": "2016-08-09T15:23:50Z",
-			"updated_at": "2023-05-09T02:52:15Z",
+			"updated_at": "2024-01-24T02:39:54Z",
 			"svn_url": "https://github.com/db47h/ngaro",
-			"stargazers_count": 25,
-			"watchers_count": 25,
+			"stargazers_count": 26,
+			"watchers_count": 26,
 			"forks_count": 3,
 			"open_issues_count": 1
 		}

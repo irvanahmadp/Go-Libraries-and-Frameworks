@@ -1,8 +1,8 @@
 {
-	"last_update": 1708436430,
+	"last_update": 1708524467,
 	"rate_limit": 60,
 	"rate_limit_remaining": 0,
-	"rate_limit_reset": 1708439997,
+	"rate_limit_reset": 1708528042,
 	"categories": [
 		{
 			"name": "Audio and Music",
@@ -22,7 +22,7 @@
 		{
 			"name": "Build Automation",
 			"description": "Libraries and tools helping with build automation.",
-			"last_update": 1702735253
+			"last_update": 1708524458
 		},
 		{
 			"name": "CSS Preprocessors",
@@ -112,12 +112,12 @@
 		{
 			"name": "Email",
 			"description": "Libraries and tools that implement email creation and sending.",
-			"last_update": 1702735239
+			"last_update": 1708524450
 		},
 		{
 			"name": "Embeddable Scripting Languages",
 			"description": "Embedding other languages inside your go code.",
-			"last_update": 1702735226
+			"last_update": 1708524441
 		},
 		{
 			"name": "Error Handling",
@@ -397,7 +397,7 @@
 		{
 			"name": "Web Frameworks - Middlewares - Actual middlewares",
 			"description": "",
-			"last_update": 1702735268
+			"last_update": 1708524458
 		},
 		{
 			"name": "Web Frameworks - Middlewares - Libraries for creating HTTP middlewares",
