@@ -1,7 +1,7 @@
 {
 	"name": "Microsoft Office - Microsoft Excel",
-	"index_last_check": 0,
-	"last_update": 1705671723,
+	"index_last_check": 3,
+	"last_update": 1708905494,
 	"libraries": [
 		{
 			"id": 66841911,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/qax-os/excelize",
 			"homepage": "https://xuri.me/excelize",
 			"created_at": "2016-08-29T12:32:12Z",
-			"updated_at": "2023-12-20T10:07:01Z",
+			"updated_at": "2024-02-25T20:36:43Z",
 			"svn_url": "https://github.com/qax-os/excelize",
-			"stargazers_count": 16417,
-			"watchers_count": 16417,
-			"forks_count": 1607,
-			"open_issues_count": 85
+			"stargazers_count": 16808,
+			"watchers_count": 16808,
+			"forks_count": 1619,
+			"open_issues_count": 90
 		},
 		{
 			"id": 1966991,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/tealeg/xlsx",
 			"homepage": "",
 			"created_at": "2011-06-28T15:20:28Z",
-			"updated_at": "2023-12-20T03:04:39Z",
+			"updated_at": "2024-02-25T17:03:09Z",
 			"svn_url": "https://github.com/tealeg/xlsx",
-			"stargazers_count": 5614,
-			"watchers_count": 5614,
-			"forks_count": 813,
-			"open_issues_count": 6
+			"stargazers_count": 5709,
+			"watchers_count": 5709,
+			"forks_count": 803,
+			"open_issues_count": 8
 		},
 		{
 			"id": 102260918,
@@ -38,10 +38,10 @@
 			"html_url": "https://github.com/szyhf/go-excel",
 			"homepage": "",
 			"created_at": "2017-09-03T11:51:58Z",
-			"updated_at": "2023-12-08T06:29:47Z",
+			"updated_at": "2024-01-17T06:05:10Z",
 			"svn_url": "https://github.com/szyhf/go-excel",
-			"stargazers_count": 180,
-			"watchers_count": 180,
+			"stargazers_count": 182,
+			"watchers_count": 182,
 			"forks_count": 34,
 			"open_issues_count": 1
 		},

@@ -1,7 +1,7 @@
 {
 	"name": "GUI - Toolkits",
 	"index_last_check": 0,
-	"last_update": 1708775968,
+	"last_update": 1708905484,
 	"libraries": [
 		{
 			"id": 120227732,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/fyne-io/fyne",
 			"homepage": "https://fyne.io/",
 			"created_at": "2018-02-04T22:07:16Z",
-			"updated_at": "2024-02-24T08:23:34Z",
+			"updated_at": "2024-02-25T20:11:19Z",
 			"svn_url": "https://github.com/fyne-io/fyne",
-			"stargazers_count": 22660,
-			"watchers_count": 22660,
-			"forks_count": 1278,
-			"open_issues_count": 643
+			"stargazers_count": 22676,
+			"watchers_count": 22676,
+			"forks_count": 1279,
+			"open_issues_count": 644
 		},
 		{
 			"id": 161951219,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/wailsapp/wails",
 			"homepage": "https://wails.io",
 			"created_at": "2018-12-15T23:14:06Z",
-			"updated_at": "2024-02-24T08:31:59Z",
+			"updated_at": "2024-02-25T23:37:44Z",
 			"svn_url": "https://github.com/wailsapp/wails",
-			"stargazers_count": 21145,
-			"watchers_count": 21145,
-			"forks_count": 1010,
-			"open_issues_count": 253
+			"stargazers_count": 21166,
+			"watchers_count": 21166,
+			"forks_count": 1011,
+			"open_issues_count": 255
 		},
 		{
 			"id": 100781035,
@@ -38,12 +38,12 @@
 			"html_url": "https://github.com/webview/webview",
 			"homepage": "https://webview.dev",
 			"created_at": "2017-08-19T08:26:00Z",
-			"updated_at": "2024-02-24T11:42:48Z",
+			"updated_at": "2024-02-25T16:01:41Z",
 			"svn_url": "https://github.com/webview/webview",
-			"stargazers_count": 11867,
-			"watchers_count": 11867,
+			"stargazers_count": 11869,
+			"watchers_count": 11869,
 			"forks_count": 899,
-			"open_issues_count": 211
+			"open_issues_count": 206
 		},
 		{
 			"id": 26836182,
@@ -52,10 +52,10 @@
 			"html_url": "https://github.com/therecipe/qt",
 			"homepage": "",
 			"created_at": "2014-11-19T00:03:08Z",
-			"updated_at": "2024-02-24T10:53:52Z",
+			"updated_at": "2024-02-25T12:32:25Z",
 			"svn_url": "https://github.com/therecipe/qt",
-			"stargazers_count": 10149,
-			"watchers_count": 10149,
+			"stargazers_count": 10152,
+			"watchers_count": 10152,
 			"forks_count": 726,
 			"open_issues_count": 371
 		},
@@ -66,11 +66,11 @@
 			"html_url": "https://github.com/andlabs/ui",
 			"homepage": "",
 			"created_at": "2014-02-17T23:44:00Z",
-			"updated_at": "2024-02-23T18:56:42Z",
+			"updated_at": "2024-02-25T10:55:45Z",
 			"svn_url": "https://github.com/andlabs/ui",
-			"stargazers_count": 8321,
-			"watchers_count": 8321,
-			"forks_count": 802,
+			"stargazers_count": 8322,
+			"watchers_count": 8322,
+			"forks_count": 651,
 			"open_issues_count": 124
 		},
 		{
@@ -80,11 +80,11 @@
 			"html_url": "https://github.com/maxence-charriere/go-app",
 			"homepage": "https://go-app.dev",
 			"created_at": "2016-10-12T00:31:33Z",
-			"updated_at": "2024-02-24T06:08:32Z",
+			"updated_at": "2024-02-25T19:55:36Z",
 			"svn_url": "https://github.com/maxence-charriere/go-app",
-			"stargazers_count": 7605,
-			"watchers_count": 7605,
-			"forks_count": 400,
+			"stargazers_count": 7609,
+			"watchers_count": 7609,
+			"forks_count": 348,
 			"open_issues_count": 124
 		},
 		{
@@ -122,10 +122,10 @@
 			"html_url": "https://github.com/sciter-sdk/go-sciter",
 			"homepage": "https://sciter.com",
 			"created_at": "2015-10-15T12:41:06Z",
-			"updated_at": "2024-02-23T08:14:00Z",
+			"updated_at": "2024-02-25T03:21:51Z",
 			"svn_url": "https://github.com/sciter-sdk/go-sciter",
-			"stargazers_count": 2558,
-			"watchers_count": 2558,
+			"stargazers_count": 2557,
+			"watchers_count": 2557,
 			"forks_count": 266,
 			"open_issues_count": 95
 		},
@@ -136,10 +136,10 @@
 			"html_url": "https://github.com/mattn/go-gtk",
 			"homepage": "http://mattn.github.com/go-gtk",
 			"created_at": "2009-11-26T16:58:53Z",
-			"updated_at": "2024-02-22T14:20:08Z",
+			"updated_at": "2024-02-25T02:15:38Z",
 			"svn_url": "https://github.com/mattn/go-gtk",
-			"stargazers_count": 2055,
-			"watchers_count": 2055,
+			"stargazers_count": 2057,
+			"watchers_count": 2057,
 			"forks_count": 300,
 			"open_issues_count": 74
 		},
