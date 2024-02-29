@@ -1,8 +1,8 @@
 {
-	"last_update": 1709043167,
+	"last_update": 1709215220,
 	"rate_limit": 60,
 	"rate_limit_remaining": 0,
-	"rate_limit_reset": 1709046741,
+	"rate_limit_reset": 1709218795,
 	"categories": [
 		{
 			"name": "Audio and Music",
@@ -52,7 +52,7 @@
 		{
 			"name": "Data Structures",
 			"description": "Generic datastructures and algorithms in Go.",
-			"last_update": 1703256655
+			"last_update": 1709215194
 		},
 		{
 			"name": "Database - Database schema migration",
