@@ -1,7 +1,7 @@
 {
 	"name": "Testing - Selenium and browser control tools",
 	"index_last_check": 0,
-	"last_update": 1704117854,
+	"last_update": 1709302250,
 	"libraries": [
 		{
 			"id": 79921099,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/chromedp/chromedp",
 			"homepage": "",
 			"created_at": "2017-01-24T14:54:30Z",
-			"updated_at": "2023-12-31T08:01:33Z",
+			"updated_at": "2024-03-01T12:08:56Z",
 			"svn_url": "https://github.com/chromedp/chromedp",
-			"stargazers_count": 9877,
-			"watchers_count": 9877,
-			"forks_count": 762,
-			"open_issues_count": 62
+			"stargazers_count": 10136,
+			"watchers_count": 10136,
+			"forks_count": 755,
+			"open_issues_count": 76
 		},
 		{
 			"id": 235431922,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/go-rod/rod",
 			"homepage": "https://go-rod.github.io",
 			"created_at": "2020-01-21T20:09:45Z",
-			"updated_at": "2024-01-01T11:23:48Z",
+			"updated_at": "2024-03-01T02:05:58Z",
 			"svn_url": "https://github.com/go-rod/rod",
-			"stargazers_count": 4439,
-			"watchers_count": 4439,
-			"forks_count": 302,
-			"open_issues_count": 107
+			"stargazers_count": 4594,
+			"watchers_count": 4594,
+			"forks_count": 305,
+			"open_issues_count": 110
 		},
 		{
 			"id": 66257173,
@@ -38,12 +38,12 @@
 			"html_url": "https://github.com/aerokube/selenoid",
 			"homepage": "https://aerokube.com/selenoid/latest/",
 			"created_at": "2016-08-22T09:11:16Z",
-			"updated_at": "2023-12-30T04:33:43Z",
+			"updated_at": "2024-02-29T16:20:36Z",
 			"svn_url": "https://github.com/aerokube/selenoid",
-			"stargazers_count": 2433,
-			"watchers_count": 2433,
-			"forks_count": 321,
-			"open_issues_count": 266
+			"stargazers_count": 2468,
+			"watchers_count": 2468,
+			"forks_count": 310,
+			"open_issues_count": 64
 		},
 		{
 			"id": 287942241,
@@ -52,12 +52,12 @@
 			"html_url": "https://github.com/playwright-community/playwright-go",
 			"homepage": "https://playwright-community.github.io/playwright-go/",
 			"created_at": "2020-08-16T12:46:14Z",
-			"updated_at": "2023-12-30T09:18:21Z",
+			"updated_at": "2024-03-01T10:58:48Z",
 			"svn_url": "https://github.com/playwright-community/playwright-go",
-			"stargazers_count": 1583,
-			"watchers_count": 1583,
-			"forks_count": 131,
-			"open_issues_count": 46
+			"stargazers_count": 1673,
+			"watchers_count": 1673,
+			"forks_count": 135,
+			"open_issues_count": 52
 		},
 		{
 			"id": 84717184,
@@ -66,11 +66,11 @@
 			"html_url": "https://github.com/mafredri/cdp",
 			"homepage": "",
 			"created_at": "2017-03-12T10:25:41Z",
-			"updated_at": "2023-12-29T07:19:31Z",
+			"updated_at": "2024-02-27T04:47:58Z",
 			"svn_url": "https://github.com/mafredri/cdp",
-			"stargazers_count": 702,
-			"watchers_count": 702,
-			"forks_count": 47,
+			"stargazers_count": 709,
+			"watchers_count": 709,
+			"forks_count": 48,
 			"open_issues_count": 13
 		},
 		{
@@ -80,12 +80,12 @@
 			"html_url": "https://github.com/aerokube/ggr",
 			"homepage": "https://aerokube.com/ggr/latest/",
 			"created_at": "2016-06-16T15:33:24Z",
-			"updated_at": "2023-12-11T10:36:29Z",
+			"updated_at": "2024-02-17T18:38:03Z",
 			"svn_url": "https://github.com/aerokube/ggr",
-			"stargazers_count": 303,
-			"watchers_count": 303,
-			"forks_count": 69,
-			"open_issues_count": 12
+			"stargazers_count": 307,
+			"watchers_count": 307,
+			"forks_count": 72,
+			"open_issues_count": 11
 		}
 	]
 }
