@@ -1,7 +1,7 @@
 {
 	"name": "Video",
 	"index_last_check": 0,
-	"last_update": 1704380052,
+	"last_update": 1709604736,
 	"libraries": [
 		{
 			"id": 35992974,
@@ -10,11 +10,11 @@
 			"html_url": "https://github.com/giorgisio/goav",
 			"homepage": "",
 			"created_at": "2015-05-21T05:31:14Z",
-			"updated_at": "2024-01-02T16:19:31Z",
+			"updated_at": "2024-03-02T18:04:01Z",
 			"svn_url": "https://github.com/giorgisio/goav",
-			"stargazers_count": 2052,
-			"watchers_count": 2052,
-			"forks_count": 414,
+			"stargazers_count": 2059,
+			"watchers_count": 2059,
+			"forks_count": 364,
 			"open_issues_count": 48
 		},
 		{
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/grafov/m3u8",
 			"homepage": "http://tools.ietf.org/html/draft-pantos-http-live-streaming",
 			"created_at": "2013-02-05T22:26:30Z",
-			"updated_at": "2024-01-02T22:31:01Z",
+			"updated_at": "2024-03-04T22:00:24Z",
 			"svn_url": "https://github.com/grafov/m3u8",
-			"stargazers_count": 1121,
-			"watchers_count": 1121,
-			"forks_count": 301,
-			"open_issues_count": 62
+			"stargazers_count": 1134,
+			"watchers_count": 1134,
+			"forks_count": 298,
+			"open_issues_count": 63
 		},
 		{
 			"id": 9190862,
@@ -38,12 +38,12 @@
 			"html_url": "https://github.com/3d0c/gmf",
 			"homepage": "",
 			"created_at": "2013-04-03T09:07:47Z",
-			"updated_at": "2023-12-29T08:02:59Z",
+			"updated_at": "2024-02-29T21:05:56Z",
 			"svn_url": "https://github.com/3d0c/gmf",
 			"stargazers_count": 870,
 			"watchers_count": 870,
-			"forks_count": 217,
-			"open_issues_count": 47
+			"forks_count": 216,
+			"open_issues_count": 48
 		},
 		{
 			"id": 76661194,
@@ -52,12 +52,12 @@
 			"html_url": "https://github.com/asticode/go-astisub",
 			"homepage": "",
 			"created_at": "2016-12-16T14:47:59Z",
-			"updated_at": "2024-01-04T10:29:13Z",
+			"updated_at": "2024-02-25T10:34:39Z",
 			"svn_url": "https://github.com/asticode/go-astisub",
-			"stargazers_count": 529,
-			"watchers_count": 529,
-			"forks_count": 105,
-			"open_issues_count": 16
+			"stargazers_count": 546,
+			"watchers_count": 546,
+			"forks_count": 106,
+			"open_issues_count": 15
 		},
 		{
 			"id": 96219187,
@@ -66,10 +66,10 @@
 			"html_url": "https://github.com/asticode/go-astits",
 			"homepage": "",
 			"created_at": "2017-07-04T13:06:15Z",
-			"updated_at": "2024-01-02T16:35:23Z",
+			"updated_at": "2024-03-02T18:04:11Z",
 			"svn_url": "https://github.com/asticode/go-astits",
-			"stargazers_count": 510,
-			"watchers_count": 510,
+			"stargazers_count": 519,
+			"watchers_count": 519,
 			"forks_count": 52,
 			"open_issues_count": 13
 		},
@@ -80,10 +80,10 @@
 			"html_url": "https://github.com/adrg/libvlc-go",
 			"homepage": "https://pkg.go.dev/github.com/adrg/libvlc-go/v3",
 			"created_at": "2015-01-06T14:01:50Z",
-			"updated_at": "2023-12-31T00:02:53Z",
+			"updated_at": "2024-03-01T07:00:03Z",
 			"svn_url": "https://github.com/adrg/libvlc-go",
-			"stargazers_count": 389,
-			"watchers_count": 389,
+			"stargazers_count": 398,
+			"watchers_count": 398,
 			"forks_count": 48,
 			"open_issues_count": 6
 		},
@@ -94,11 +94,11 @@
 			"html_url": "https://github.com/ziutek/gst",
 			"homepage": "",
 			"created_at": "2011-07-26T00:44:40Z",
-			"updated_at": "2023-08-27T12:31:57Z",
+			"updated_at": "2024-03-02T18:03:49Z",
 			"svn_url": "https://github.com/ziutek/gst",
 			"stargazers_count": 168,
 			"watchers_count": 168,
-			"forks_count": 49,
+			"forks_count": 48,
 			"open_issues_count": 9
 		},
 		{
@@ -108,10 +108,10 @@
 			"html_url": "https://github.com/quangngotan95/go-m3u8",
 			"homepage": "https://tools.ietf.org/html/rfc8216",
 			"created_at": "2018-11-06T02:42:27Z",
-			"updated_at": "2023-11-30T08:21:29Z",
+			"updated_at": "2024-02-04T18:46:22Z",
 			"svn_url": "https://github.com/quangngotan95/go-m3u8",
-			"stargazers_count": 109,
-			"watchers_count": 109,
+			"stargazers_count": 110,
+			"watchers_count": 110,
 			"forks_count": 24,
 			"open_issues_count": 2
 		},
@@ -126,7 +126,7 @@
 			"svn_url": "https://github.com/korandiz/v4l",
 			"stargazers_count": 77,
 			"watchers_count": 77,
-			"forks_count": 14,
+			"forks_count": 15,
 			"open_issues_count": 0
 		},
 		{
@@ -150,10 +150,10 @@
 			"html_url": "https://github.com/unki2aut/go-mpd",
 			"homepage": "",
 			"created_at": "2018-11-02T19:09:07Z",
-			"updated_at": "2023-12-09T20:14:06Z",
+			"updated_at": "2024-02-05T21:34:55Z",
 			"svn_url": "https://github.com/unki2aut/go-mpd",
-			"stargazers_count": 19,
-			"watchers_count": 19,
+			"stargazers_count": 22,
+			"watchers_count": 22,
 			"forks_count": 6,
 			"open_issues_count": 0
 		}
