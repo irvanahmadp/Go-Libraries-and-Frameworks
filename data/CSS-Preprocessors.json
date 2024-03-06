@@ -1,7 +1,7 @@
 {
 	"name": "CSS Preprocessors",
 	"index_last_check": 0,
-	"last_update": 1709604741,
+	"last_update": 1709732298,
 	"libraries": [
 		{
 			"id": 23666134,
@@ -14,8 +14,8 @@
 			"svn_url": "https://github.com/yosssi/gcss",
 			"stargazers_count": 488,
 			"watchers_count": 488,
-			"forks_count": 39,
-			"open_issues_count": 8
+			"forks_count": 40,
+			"open_issues_count": 10
 		},
 		{
 			"id": 34211333,
