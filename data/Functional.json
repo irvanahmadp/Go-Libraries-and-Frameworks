@@ -1,7 +1,7 @@
 {
 	"name": "Functional",
 	"index_last_check": 0,
-	"last_update": 1707314032,
+	"last_update": 1709775976,
 	"libraries": [
 		{
 			"id": 21420279,
@@ -10,10 +10,10 @@
 			"html_url": "https://github.com/tobyhede/go-underscore",
 			"homepage": "",
 			"created_at": "2014-07-02T10:27:16Z",
-			"updated_at": "2024-02-05T20:08:02Z",
+			"updated_at": "2024-03-02T22:44:05Z",
 			"svn_url": "https://github.com/tobyhede/go-underscore",
-			"stargazers_count": 1290,
-			"watchers_count": 1290,
+			"stargazers_count": 1293,
+			"watchers_count": 1293,
 			"forks_count": 68,
 			"open_issues_count": 4
 		},
@@ -24,10 +24,10 @@
 			"html_url": "https://github.com/TeaEntityLab/fpGo",
 			"homepage": "",
 			"created_at": "2018-05-24T09:08:45Z",
-			"updated_at": "2024-02-03T04:20:28Z",
+			"updated_at": "2024-02-21T12:30:04Z",
 			"svn_url": "https://github.com/TeaEntityLab/fpGo",
-			"stargazers_count": 334,
-			"watchers_count": 334,
+			"stargazers_count": 336,
+			"watchers_count": 336,
 			"forks_count": 21,
 			"open_issues_count": 1
 		},
