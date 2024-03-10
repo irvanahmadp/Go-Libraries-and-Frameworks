@@ -120,43 +120,43 @@ Libraries for manipulating audio.
 ### Authentication and OAuth
 Libraries for implementing authentications schemes.
 
-<sup>*Last Update: 2024-01-17 20:28:46*</sup>
+<sup>*Last Update: 2024-03-10 19:34:25*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [casbin](https://casbin.org) | 16,342 | 1,647 | 44 | An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN | 2017-04-08 07:51:23 | 2024-01-17 13:10:55 |
-| [oauth2](https://golang.org/x/oauth2) | 5,016 | 1,028 | 187 | Go OAuth2 | 2014-04-14 15:07:35 | 2024-01-16 15:31:17 |
-| [goth](https://blog.gobuffalo.io/goth-needs-a-new-maintainer-626cd47ca37b) | 4,637 | 564 | 101 | Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications. | 2014-10-14 20:38:12 | 2024-01-17 13:25:21 |
-| [authboss](https://github.com/volatiletech/authboss) | 3,578 | 205 | 36 | The boss of http auth. | 2015-01-03 05:12:02 | 2024-01-16 13:45:08 |
-| [go-oauth2-server](https://github.com/RichardKnop/go-oauth2-server) | 2,072 | 310 | 29 | A standalone, specification-compliant,  OAuth2 server written in Golang. | 2015-11-01 13:30:09 | 2024-01-13 05:27:12 |
-| [go-jose](https://github.com/square/go-jose) | 1,984 | 374 | 0 | An implementation of JOSE standards (JWE, JWS, JWT) in Go | 2014-11-14 18:27:31 | 2024-01-13 23:53:03 |
-| [loginsrv](https://github.com/qvest-digital/loginsrv) | 1,906 | 156 | 28 | JWT login microservice with plugable backends such as OAuth2, Google, Github, htpasswd, osiam, .. | 2016-11-11 12:11:21 | 2024-01-10 00:49:57 |
-| [osin](https://golang.org/x/oauth2) | 1,871 | 402 | 5 | Golang OAuth2 server library | 2013-09-10 19:52:00 | 2024-01-15 07:57:37 |
-| [scs](https://github.com/alexedwards/scs) | 1,802 | 196 | 12 | HTTP Session Management for Go | 2016-08-08 16:42:05 | 2024-01-17 00:23:01 |
-| [gologin](https://github.com/dghubble/gologin) | 1,682 | 174 | 1 | Go login handlers for authentication providers (OAuth1, OAuth2) | 2015-06-23 04:40:52 | 2024-01-17 07:21:42 |
-| [gorbac](https://github.com/mikespook/gorbac) | 1,528 | 227 | 4 | goRBAC provides a lightweight role-based access control (RBAC) implementation in Golang. | 2013-12-26 10:00:41 | 2024-01-13 13:26:20 |
-| [paseto](https://github.com/o1egl/paseto) | 776 | 36 | 6 | Platform-Agnostic Security Tokens implementation in GO (Golang) | 2018-01-23 05:27:39 | 2024-01-17 06:48:20 |
-| [jwt](https://github.com/cristalhq/jwt) | 633 | 42 | 2 | Safe, simple and fast JSON Web Tokens for Go | 2019-07-20 18:14:58 | 2024-01-14 18:51:55 |
-| [go-guardian](https://github.com/shaj13/go-guardian) | 509 | 55 | 10 | Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication. | 2020-05-14 12:15:56 | 2024-01-14 00:01:16 |
-| [permissions2](https://github.com/xyproto/permissions2) | 498 | 37 | 1 |   :closed_lock_with_key: Middleware for keeping track of users, login states and permissions | 2014-11-19 12:23:37 | 2024-01-13 23:53:05 |
-| [jwt](https://github.com/pascaldekloe/jwt) | 343 | 24 | 0 | JSON Web Token library | 2018-03-21 11:59:53 | 2024-01-09 02:38:46 |
-| [jeff](https://github.com/abraithwaite/jeff) | 259 | 17 | 3 | 🍍Jeff provides the simplest way to manage web sessions in Go. | 2018-08-02 19:31:23 | 2024-01-11 21:57:07 |
+| [casbin](https://casbin.org) | 16,630 | 1,579 | 54 | An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN | 2017-04-08 07:51:23 | 2024-03-10 04:33:06 |
+| [oauth2](https://golang.org/x/oauth2) | 5,083 | 961 | 195 | Go OAuth2 | 2014-04-14 15:07:35 | 2024-03-09 22:56:02 |
+| [goth](https://blog.gobuffalo.io/goth-needs-a-new-maintainer-626cd47ca37b) | 4,811 | 537 | 104 | Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications. | 2014-10-14 20:38:12 | 2024-03-10 11:53:38 |
+| [authboss](https://github.com/volatiletech/authboss) | 3,614 | 201 | 38 | The boss of http auth. | 2015-01-03 05:12:02 | 2024-03-09 02:14:02 |
+| [go-oauth2-server](https://github.com/RichardKnop/go-oauth2-server) | 2,085 | 309 | 29 | A standalone, specification-compliant,  OAuth2 server written in Golang. | 2015-11-01 13:30:09 | 2024-03-09 17:10:42 |
+| [go-jose](https://github.com/square/go-jose) | 1,981 | 272 | 0 | An implementation of JOSE standards (JWE, JWS, JWT) in Go | 2014-11-14 18:27:31 | 2024-03-01 12:14:27 |
+| [loginsrv](https://github.com/qvest-digital/loginsrv) | 1,911 | 153 | 28 | JWT login microservice with plugable backends such as OAuth2, Google, Github, htpasswd, osiam, .. | 2016-11-11 12:11:21 | 2024-03-03 12:45:58 |
+| [osin](https://golang.org/x/oauth2) | 1,876 | 396 | 3 | Golang OAuth2 server library | 2013-09-10 19:52:00 | 2024-03-05 06:08:04 |
+| [scs](https://github.com/alexedwards/scs) | 1,862 | 154 | 14 | HTTP Session Management for Go | 2016-08-08 16:42:05 | 2024-03-10 03:01:17 |
+| [gologin](https://github.com/dghubble/gologin) | 1,752 | 137 | 0 | Go login handlers for authentication providers (OAuth1, OAuth2) | 2015-06-23 04:40:52 | 2024-03-10 12:08:37 |
+| [gorbac](https://github.com/mikespook/gorbac) | 1,542 | 227 | 4 | goRBAC provides a lightweight role-based access control (RBAC) implementation in Golang. | 2013-12-26 10:00:41 | 2024-03-07 09:48:33 |
+| [paseto](https://github.com/o1egl/paseto) | 791 | 36 | 6 | Platform-Agnostic Security Tokens implementation in GO (Golang) | 2018-01-23 05:27:39 | 2024-03-07 23:52:00 |
+| [jwt](https://github.com/cristalhq/jwt) | 636 | 42 | 2 | Safe, simple and fast JSON Web Tokens for Go | 2019-07-20 18:14:58 | 2024-03-08 15:16:06 |
+| [go-guardian](https://github.com/shaj13/go-guardian) | 519 | 55 | 10 | Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication. | 2020-05-14 12:15:56 | 2024-02-29 21:14:30 |
+| [permissions2](https://github.com/xyproto/permissions2) | 500 | 36 | 1 |   :closed_lock_with_key: Middleware for keeping track of users, login states and permissions | 2014-11-19 12:23:37 | 2024-03-01 00:55:50 |
+| [jwt](https://github.com/pascaldekloe/jwt) | 347 | 23 | 0 | JSON Web Token library | 2018-03-21 11:59:53 | 2024-03-04 22:36:19 |
+| [jeff](https://github.com/abraithwaite/jeff) | 260 | 17 | 3 | 🍍Jeff provides the simplest way to manage web sessions in Go. | 2018-08-02 19:31:23 | 2024-03-05 10:20:24 |
 | [jwt-auth](https://github.com/adam-hanna/jwt-auth) | 231 | 43 | 4 | This package provides json web token (jwt) middleware for goLang http servers | 2016-07-05 23:31:43 | 2023-11-16 07:44:43 |
-| [httpauth](https://blog.gobuffalo.io/goth-needs-a-new-maintainer-626cd47ca37b) | 219 | 30 | 5 | HTTP Authentication middlewares | 2014-05-26 22:53:57 | 2023-04-30 05:53:08 |
+| [httpauth](https://blog.gobuffalo.io/goth-needs-a-new-maintainer-626cd47ca37b) | 219 | 31 | 5 | HTTP Authentication middlewares | 2014-05-26 22:53:57 | 2024-03-05 03:32:53 |
 | [branca](https://branca.io) | 171 | 20 | 0 | :key: Secure alternative to JWT. Authenticated Encrypted API Tokens for Go. | 2018-01-09 15:27:31 | 2024-01-10 13:24:04 |
-| [sessionup](https://github.com/swithek/sessionup) | 122 | 7 | 3 | Straightforward HTTP session management | 2019-07-23 18:55:21 | 2023-09-18 22:06:41 |
-| [sjwt](https://godoc.org/github.com/brianvoe/sjwt) | 114 | 10 | 1 | Simple JWT Golang | 2019-06-20 04:06:21 | 2023-11-20 11:14:30 |
+| [sessionup](https://github.com/swithek/sessionup) | 125 | 7 | 3 | Straightforward HTTP session management | 2019-07-23 18:55:21 | 2024-03-06 19:27:15 |
+| [sjwt](https://godoc.org/github.com/brianvoe/sjwt) | 116 | 10 | 1 | Simple JWT Golang | 2019-06-20 04:06:21 | 2024-03-05 16:09:32 |
 | [session](https://github.com/icza/session) | 114 | 17 | 4 | Go session management for web servers (including support for Google App Engine - GAE). | 2016-02-08 09:07:07 | 2024-01-05 09:27:30 |
-| [rbac](https://github.com/zpatrick/rbac) | 107 | 25 | 0 | Minimalistic RBAC package for Go applications | 2018-08-02 00:11:04 | 2023-06-20 17:52:41 |
+| [rbac](https://github.com/zpatrick/rbac) | 109 | 24 | 0 | Minimalistic RBAC package for Go applications | 2018-08-02 00:11:04 | 2024-02-25 12:48:19 |
 | [jwt](https://github.com/robbert229/jwt) | 105 | 28 | 8 | This is an implementation of JWT in golang! | 2016-06-05 22:01:37 | 2024-01-09 23:20:05 |
-| [sessions](https://github.com/adam-hanna/sessions) | 75 | 11 | 4 | A dead simple, highly performant, highly customizable sessions middleware for go http servers. | 2017-04-29 01:09:28 | 2023-08-07 04:30:13 |
+| [sessions](https://github.com/adam-hanna/sessions) | 76 | 11 | 4 | A dead simple, highly performant, highly customizable sessions middleware for go http servers. | 2017-04-29 01:09:28 | 2024-02-07 18:28:52 |
 | [securecookie](https://github.com/chmike/securecookie) | 74 | 11 | 1 | Fast, secure and efficient secure cookie encoder/decoder  | 2017-09-03 14:40:29 | 2023-08-26 00:38:03 |
-| [otpgo](https://github.com/jltorresm/otpgo) | 64 | 9 | 2 | Time-Based One-Time Password (TOTP) and HMAC-Based One-Time Password (HOTP) library for Go. | 2020-08-19 13:20:23 | 2024-01-13 05:28:24 |
+| [otpgo](https://github.com/jltorresm/otpgo) | 65 | 9 | 2 | Time-Based One-Time Password (TOTP) and HMAC-Based One-Time Password (HOTP) library for Go. | 2020-08-19 13:20:23 | 2024-01-26 06:51:02 |
 | [go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) | 60 | 7 | 0 | Golang library for providing a canonical representation of email address. | 2020-08-21 23:13:04 | 2023-10-24 19:08:54 |
-| [scope](https://github.com/ThundR67/scope) | 33 | 7 | 1 | Easily Manage OAuth2 Scopes In Go | 2019-09-23 10:48:14 | 2023-10-07 21:10:33 |
-| [cookiestxt](https://casbin.org) | 12 | 5 | 1 | cookiestxt implement parser of cookies txt format | 2017-10-09 11:27:19 | 2023-04-05 17:00:07 |
+| [scope](https://github.com/ThundR67/scope) | 35 | 7 | 1 | Easily Manage OAuth2 Scopes In Go | 2019-09-23 10:48:14 | 2024-02-21 14:30:06 |
+| [cookiestxt](https://casbin.org) | 12 | 6 | 1 | cookiestxt implement parser of cookies txt format | 2017-10-09 11:27:19 | 2023-04-05 17:00:07 |
 | [sessiongate-go](https://github.com/f0rmiga/sessiongate-go) | 9 | 2 | 0 | A driver for the SessionGate Redis module - easy session management using the Go language. | 2017-10-20 03:39:11 | 2023-08-19 15:44:39 |
 | [casbin](https://casbin.org/) | 1 | 0 | 0 | An authorization library that supports access control models like ACL, RBAC, ABAC in Golang | 2021-05-29 04:09:46 | 2021-06-23 04:53:51 |
 </details>
@@ -796,13 +796,13 @@ Packages that help with building Distributed Systems.
 ### Dynamic DNS
 Tools for updating dynamic DNS records.
 
-<sup>*Last Update: 2024-02-14 16:35:46*</sup>
+<sup>*Last Update: 2024-03-10 19:34:54*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [godns](https://timothyye.github.io/godns/) | 1,404 | 258 | 14 | A dynamic DNS client tool that supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go. | 2014-05-11 11:49:17 | 2024-02-14 02:54:00 |
+| [godns](https://timothyye.github.io/godns/) | 1,417 | 208 | 13 | A dynamic DNS client tool that supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go. | 2014-05-11 11:49:17 | 2024-03-07 00:19:48 |
 | [ddns](https://github.com/skibish/ddns) | 241 | 22 | 1 | Personal DDNS client with Digital Ocean Networking DNS as backend. | 2017-03-13 21:02:27 | 2024-01-09 17:45:06 |
 </details>
 
@@ -2749,28 +2749,28 @@ Full stack web frameworks.
 ### Web Frameworks - Routers
 
 
-<sup>*Last Update: 2024-01-17 20:29:04*</sup>
+<sup>*Last Update: 2024-03-10 19:34:44*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [mux](https://gorilla.github.io) | 19,755 | 1,839 | 26 | Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍 | 2012-10-02 21:32:24 | 2024-01-17 06:31:06 |
-| [chi](https://go-chi.io) | 16,340 | 988 | 71 | lightweight, idiomatic and composable router for building Go HTTP services | 2015-10-15 20:46:29 | 2024-01-17 11:14:16 |
-| [httprouter](https://pkg.go.dev/github.com/julienschmidt/httprouter) | 16,058 | 1,471 | 88 | A high performance HTTP request router that scales well | 2013-12-05 15:10:55 | 2024-01-17 04:01:59 |
-| [web](https://github.com/gocraft/web) | 1,503 | 165 | 24 | Go Router + Middleware. Your Contexts. | 2013-11-16 20:48:20 | 2024-01-17 07:11:29 |
-| [bone](http://go-zoo.github.io/bone) | 1,296 | 91 | 3 | Lightning Fast HTTP Multiplexer | 2014-11-19 02:16:36 | 2024-01-01 07:43:04 |
-| [goji](https://goji.io) | 948 | 72 | 6 | Goji is a minimalistic and flexible HTTP request multiplexer for Go (golang) | 2015-11-16 00:52:41 | 2024-01-14 20:44:27 |
-| [fasthttprouter](http://godoc.org/github.com/buaazp/fasthttprouter) | 875 | 93 | 19 | A high performance fasthttp request router that scales well | 2015-12-13 09:32:30 | 2024-01-15 12:38:44 |
-| [httptreemux](https://github.com/dimfeld/httptreemux) | 612 | 57 | 7 | High-speed, flexible tree-based HTTP router for Go. | 2014-05-14 20:10:20 | 2024-01-17 06:19:09 |
-| [gorouter](https://xujiajun.cn/gorouter) | 531 | 87 | 0 | xujiajun/gorouter is a simple and fast HTTP router for Go. It is easy to build RESTful APIs and your web framework. | 2018-01-29 09:28:28 | 2023-12-15 09:48:45 |
-| [ozzo-routing](https://github.com/go-ozzo/ozzo-routing) | 446 | 51 | 11 | An extremely fast Go (golang) HTTP router that supports regular expression route matching. Comes with full support for building RESTful APIs. | 2015-10-27 01:03:14 | 2023-12-13 00:30:58 |
+| [mux](https://gorilla.github.io) | 19,961 | 1,826 | 23 | Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍 | 2012-10-02 21:32:24 | 2024-03-10 08:45:09 |
+| [chi](https://go-chi.io) | 16,739 | 943 | 70 | lightweight, idiomatic and composable router for building Go HTTP services | 2015-10-15 20:46:29 | 2024-03-10 12:11:24 |
+| [httprouter](https://pkg.go.dev/github.com/julienschmidt/httprouter) | 16,188 | 1,449 | 80 | A high performance HTTP request router that scales well | 2013-12-05 15:10:55 | 2024-03-10 07:36:14 |
+| [web](https://github.com/gocraft/web) | 1,506 | 123 | 24 | Go Router + Middleware. Your Contexts. | 2013-11-16 20:48:20 | 2024-02-20 18:39:19 |
+| [bone](http://go-zoo.github.io/bone) | 1,296 | 91 | 3 | Lightning Fast HTTP Multiplexer | 2014-11-19 02:16:36 | 2024-02-08 16:12:19 |
+| [goji](https://goji.io) | 954 | 72 | 6 | Goji is a minimalistic and flexible HTTP request multiplexer for Go (golang) | 2015-11-16 00:52:41 | 2024-03-02 11:28:26 |
+| [fasthttprouter](http://godoc.org/github.com/buaazp/fasthttprouter) | 875 | 93 | 19 | A high performance fasthttp request router that scales well | 2015-12-13 09:32:30 | 2024-03-05 04:28:32 |
+| [httptreemux](https://github.com/dimfeld/httptreemux) | 615 | 58 | 7 | High-speed, flexible tree-based HTTP router for Go. | 2014-05-14 20:10:20 | 2024-03-07 13:43:20 |
+| [gorouter](https://xujiajun.cn/gorouter) | 531 | 87 | 0 | xujiajun/gorouter is a simple and fast HTTP router for Go. It is easy to build RESTful APIs and your web framework. | 2018-01-29 09:28:28 | 2024-02-26 09:15:09 |
+| [ozzo-routing](https://github.com/go-ozzo/ozzo-routing) | 449 | 51 | 11 | An extremely fast Go (golang) HTTP router that supports regular expression route matching. Comes with full support for building RESTful APIs. | 2015-10-27 01:03:14 | 2024-02-17 04:02:41 |
 | [lars](https://github.com/go-playground/lars) | 389 | 26 | 1 | :rotating_light: Is a lightweight, fast and extensible zero allocation HTTP router for Go used to create customizable frameworks. | 2015-12-24 17:28:45 | 2023-11-26 08:39:35 |
 | [siesta](https://github.com/VividCortex/siesta) | 350 | 15 | 0 | Composable framework for writing HTTP handlers in Go. | 2014-09-23 13:55:56 | 2023-12-27 19:22:57 |
-| [vestigo](https://github.com/husobee/vestigo) | 267 | 31 | 13 | Echo Inspired Stand Alone URL Router | 2015-09-22 03:08:03 | 2023-12-13 09:15:14 |
-| [router](https://github.com/gowww/router) | 187 | 14 | 0 | ⚡️ A lightning fast HTTP router | 2017-05-25 10:29:27 | 2024-01-11 01:15:40 |
-| [gorouter](https://rafallorenz.com/gorouter) | 150 | 16 | 9 | Go Server/API micro framework, HTTP request router, multiplexer, mux | 2016-07-14 13:13:34 | 2023-11-24 03:46:36 |
-| [pure](https://github.com/go-playground/pure) | 148 | 14 | 0 | :non-potable_water: Is a lightweight  HTTP router that sticks to the std "net/http" implementation | 2016-09-23 19:57:58 | 2024-01-13 13:12:54 |
+| [vestigo](https://github.com/husobee/vestigo) | 267 | 32 | 13 | Echo Inspired Stand Alone URL Router | 2015-09-22 03:08:03 | 2024-02-20 05:55:39 |
+| [router](https://github.com/gowww/router) | 188 | 14 | 0 | ⚡️ A lightning fast HTTP router | 2017-05-25 10:29:27 | 2024-02-11 14:26:48 |
+| [gorouter](https://rafallorenz.com/gorouter) | 151 | 16 | 9 | Go Server/API micro framework, HTTP request router, multiplexer, mux | 2016-07-14 13:13:34 | 2024-02-12 11:14:36 |
+| [pure](https://github.com/go-playground/pure) | 148 | 14 | 0 | :non-potable_water: Is a lightweight  HTTP router that sticks to the std "net/http" implementation | 2016-09-23 19:57:58 | 2024-01-28 17:46:45 |
 | [alien](https://github.com/gernest/alien) | 129 | 14 | 3 | A lightweight and  fast http router from outer space | 2016-01-30 23:23:10 | 2024-01-13 13:32:19 |
 | [violetear](http://violetear.org) | 107 | 11 | 1 | Go HTTP router | 2015-06-19 16:49:41 | 2023-12-19 17:37:51 |
 | [Bxog](http://go-zoo.github.io/bone) | 103 | 8 | 0 | Bxog is a simple and fast HTTP router for Go (HTTP request multiplexer). | 2016-05-19 12:20:08 | 2024-01-11 12:49:34 |
