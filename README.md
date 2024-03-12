@@ -229,41 +229,41 @@ Libraries for preprocessing CSS files.
 ### Command Line - Advanced Console UIs
 Libraries for building Console Applications and Console User Interfaces.
 
-<sup>*Last Update: 2024-01-19 20:41:32*</sup>
+<sup>*Last Update: 2024-03-12 08:18:26*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [termui](https://github.com/gizak/termui) | 12,788 | 790 | 99 | Golang terminal dashboard | 2015-02-03 14:09:27 | 2024-01-19 08:23:41 |
-| [gocui](https://github.com/jroimartin/gocui) | 9,535 | 648 | 75 | Minimalist Go package aimed at creating Console User Interfaces. | 2014-01-04 02:50:20 | 2024-01-19 10:13:11 |
-| [go-prompt](https://godoc.org/github.com/c-bata/go-prompt) | 5,125 | 391 | 109 | Building powerful interactive prompts in Go, inspired by python-prompt-toolkit. | 2017-08-14 16:02:09 | 2024-01-18 12:41:27 |
-| [termbox-go](http://godoc.org/github.com/nsf/termbox-go) | 4,607 | 413 | 47 | Pure Go termbox implementation | 2012-01-12 21:03:03 | 2024-01-16 10:19:41 |
-| [pterm](https://pterm.sh) | 4,414 | 173 | 45 | ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform compatible. | 2020-09-17 15:52:59 | 2024-01-19 08:58:05 |
-| [progressbar](https://pkg.go.dev/github.com/schollz/progressbar/v3?tab=doc) | 3,665 | 209 | 34 | A really basic thread-safe progress bar for Golang applications | 2017-10-26 18:28:10 | 2024-01-18 10:48:07 |
-| [termdash](http://godoc.org/github.com/nsf/termbox-go) | 2,412 | 120 | 46 | Terminal based dashboard. | 2018-03-24 12:01:49 | 2024-01-19 06:08:18 |
-| [asciigraph](https://pkg.go.dev/github.com/guptarohit/asciigraph) | 2,387 | 95 | 12 | Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies. | 2018-06-17 10:37:16 | 2024-01-14 05:56:28 |
-| [mpb](https://github.com/vbauerster/mpb) | 2,191 | 125 | 11 | multi progress bar for Go cli applications | 2016-12-14 11:56:29 | 2024-01-13 22:42:40 |
-| [uiprogress](https://github.com/gosuri/uiprogress) | 2,060 | 126 | 25 | A go library to render progress bars in terminal applications | 2015-11-17 00:59:24 | 2024-01-12 23:45:10 |
-| [uilive](https://github.com/gosuri/uilive) | 1,641 | 87 | 11 | uilive is a go library for updating terminal output in realtime | 2015-11-16 06:13:10 | 2024-01-19 06:18:01 |
-| [color](https://gookit.github.io/color/) | 1,426 | 82 | 5 | 🎨 Terminal color rendering library, support 8/16 colors, 256 colors, RGB color rendering output, support Print/Sprintf methods, compatible with Windows. GO CLI 控制台颜色渲染工具库，支持16色，256色，RGB色彩渲染输出，使用类似于 Print/Sprintf，兼容并支持 Windows 环境的色彩渲染 | 2018-07-01 07:28:17 | 2024-01-17 17:24:54 |
-| [aurora](https://pkg.go.dev/github.com/guptarohit/asciigraph) | 1,374 | 61 | 3 | Golang ultimate ANSI-colors that supports Printf/Sprintf methods | 2016-11-06 22:37:12 | 2024-01-10 13:43:59 |
-| [go-isatty](http://godoc.org/github.com/mattn/go-isatty) | 772 | 110 | 13 | Change the color of console text. | 2014-04-01 01:53:09 | 2024-01-10 10:15:54 |
-| [go-colorable](http://godoc.org/github.com/mattn/go-colorable) | 726 | 96 | 10 | Another Text Attribute Manupulator | 2014-07-30 02:38:06 | 2024-01-10 19:26:33 |
-| [uitable](https://github.com/gosuri/uitable) | 717 | 33 | 8 | A go library to improve readability in terminal apps using tabular data | 2015-11-13 21:59:21 | 2024-01-04 16:02:00 |
-| [gommon](https://github.com/labstack/gommon) | 513 | 131 | 13 | Common packages for Go | 2015-03-12 22:35:57 | 2024-01-15 14:11:18 |
-| [simpletable](https://github.com/alexeyco/simpletable) | 499 | 32 | 5 | Simple tables in terminal with Go | 2017-03-29 07:27:23 | 2024-01-16 15:19:13 |
+| [termui](https://github.com/gizak/termui) | 12,866 | 775 | 99 | Golang terminal dashboard | 2015-02-03 14:09:27 | 2024-03-11 15:50:17 |
+| [gocui](https://github.com/jroimartin/gocui) | 9,604 | 602 | 75 | Minimalist Go package aimed at creating Console User Interfaces. | 2014-01-04 02:50:20 | 2024-03-11 15:41:30 |
+| [go-prompt](https://godoc.org/github.com/c-bata/go-prompt) | 5,158 | 337 | 109 | Building powerful interactive prompts in Go, inspired by python-prompt-toolkit. | 2017-08-14 16:02:09 | 2024-03-11 17:08:48 |
+| [termbox-go](http://godoc.org/github.com/nsf/termbox-go) | 4,626 | 373 | 47 | Pure Go termbox implementation | 2012-01-12 21:03:03 | 2024-03-11 13:07:22 |
+| [pterm](https://pterm.sh) | 4,480 | 179 | 52 | ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform compatible. | 2020-09-17 15:52:59 | 2024-03-11 09:39:17 |
+| [progressbar](https://pkg.go.dev/github.com/schollz/progressbar/v3?tab=doc) | 3,747 | 208 | 31 | A really basic thread-safe progress bar for Golang applications | 2017-10-26 18:28:10 | 2024-03-11 09:39:12 |
+| [termdash](http://godoc.org/github.com/nsf/termbox-go) | 2,547 | 126 | 43 | Terminal based dashboard. | 2018-03-24 12:01:49 | 2024-03-11 01:41:38 |
+| [asciigraph](https://pkg.go.dev/github.com/guptarohit/asciigraph) | 2,418 | 93 | 13 | Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies. | 2018-06-17 10:37:16 | 2024-03-11 07:03:18 |
+| [mpb](https://github.com/vbauerster/mpb) | 2,204 | 125 | 12 | multi progress bar for Go cli applications | 2016-12-14 11:56:29 | 2024-03-09 07:17:55 |
+| [uiprogress](https://github.com/gosuri/uiprogress) | 2,064 | 125 | 26 | A go library to render progress bars in terminal applications | 2015-11-17 00:59:24 | 2024-03-08 17:36:16 |
+| [uilive](https://github.com/gosuri/uilive) | 1,653 | 82 | 11 | uilive is a go library for updating terminal output in realtime | 2015-11-16 06:13:10 | 2024-03-09 01:21:34 |
+| [color](https://gookit.github.io/color/) | 1,441 | 84 | 7 | 🎨 Terminal color rendering library, support 8/16 colors, 256 colors, RGB color rendering output, support Print/Sprintf methods, compatible with Windows. GO CLI 控制台颜色渲染工具库，支持16色，256色，RGB色彩渲染输出，使用类似于 Print/Sprintf，兼容并支持 Windows 环境的色彩渲染 | 2018-07-01 07:28:17 | 2024-03-10 11:41:14 |
+| [aurora](https://pkg.go.dev/github.com/guptarohit/asciigraph) | 1,387 | 61 | 2 | Golang ultimate ANSI-colors that supports Printf/Sprintf methods | 2016-11-06 22:37:12 | 2024-03-07 09:01:13 |
+| [go-isatty](http://godoc.org/github.com/mattn/go-isatty) | 790 | 109 | 13 | Change the color of console text. | 2014-04-01 01:53:09 | 2024-03-05 02:48:02 |
+| [go-colorable](http://godoc.org/github.com/mattn/go-colorable) | 735 | 96 | 9 | Another Text Attribute Manupulator | 2014-07-30 02:38:06 | 2024-03-01 04:04:37 |
+| [uitable](https://github.com/gosuri/uitable) | 722 | 33 | 8 | A go library to improve readability in terminal apps using tabular data | 2015-11-13 21:59:21 | 2024-02-28 19:17:55 |
+| [gommon](https://github.com/labstack/gommon) | 517 | 101 | 13 | Common packages for Go | 2015-03-12 22:35:57 | 2024-03-07 23:14:34 |
+| [simpletable](https://github.com/alexeyco/simpletable) | 507 | 32 | 5 | Simple tables in terminal with Go | 2017-03-29 07:27:23 | 2024-03-04 05:35:38 |
+| [box-cli-maker](https://github.com/Delta456/box-cli-maker) | 445 | 25 | 7 | Make Highly Customized Boxes for CLI | 2020-05-01 07:23:56 | 2024-03-09 15:33:49 |
 | [chalk](https://github.com/ttacon/chalk) | 442 | 21 | 2 | Intuitive package for prettifying terminal/console output. http://godoc.org/github.com/ttacon/chalk | 2014-07-18 19:38:58 | 2024-01-18 16:39:12 |
-| [box-cli-maker](https://github.com/Delta456/box-cli-maker) | 437 | 26 | 7 | Make Highly Customized Boxes for CLI | 2020-05-01 07:23:56 | 2024-01-13 03:56:48 |
-| [yacspin](https://github.com/theckman/yacspin) | 425 | 13 | 6 | Yet Another CLi Spinner; providing over 80 easy to use and customizable terminal spinners for multiple OSes | 2019-12-29 07:41:23 | 2024-01-14 05:59:02 |
-| [tabby](https://github.com/cheynewallace/tabby) | 341 | 18 | 3 | A tiny library for super simple Golang tables | 2018-12-17 23:35:39 | 2024-01-04 16:29:02 |
-| [go-colortext](http://godoc.org/github.com/mattn/go-colorable) | 214 | 22 | 3 | Change the color of console text. | 2013-01-23 03:38:54 | 2023-07-30 06:16:45 |
-| [cfmt](https://github.com/mingrammer/cfmt) | 100 | 7 | 1 | :art: Contextual fmt inspired by bootstrap color classes | 2018-03-15 19:04:27 | 2023-12-15 01:30:57 |
+| [yacspin](https://github.com/theckman/yacspin) | 428 | 13 | 6 | Yet Another CLi Spinner; providing over 80 easy to use and customizable terminal spinners for multiple OSes | 2019-12-29 07:41:23 | 2024-03-06 09:19:39 |
+| [tabby](https://github.com/cheynewallace/tabby) | 344 | 18 | 3 | A tiny library for super simple Golang tables | 2018-12-17 23:35:39 | 2024-02-19 03:23:27 |
+| [go-colortext](http://godoc.org/github.com/mattn/go-colorable) | 213 | 22 | 3 | Change the color of console text. | 2013-01-23 03:38:54 | 2024-02-21 08:11:38 |
+| [cfmt](https://github.com/mingrammer/cfmt) | 102 | 7 | 1 | :art: Contextual fmt inspired by bootstrap color classes | 2018-03-15 19:04:27 | 2024-03-06 09:09:34 |
 | [tabular](https://github.com/InVisionApp/tabular) | 76 | 7 | 0 | Tabular simplifies printing ASCII tables from command line utilities | 2018-04-23 21:17:03 | 2023-12-25 13:44:01 |
-| [cfmt](https://github.com/i582/cfmt) | 62 | 3 | 0 | Small library for simple and convenient formatted stylized output to the console. | 2020-11-13 20:29:45 | 2023-12-08 06:30:40 |
+| [cfmt](https://github.com/i582/cfmt) | 62 | 3 | 0 | Small library for simple and convenient formatted stylized output to the console. | 2020-11-13 20:29:45 | 2024-02-24 02:31:48 |
 | [table](https://github.com/tomlazar/table) | 49 | 3 | 1 | pretty colorfull tables in go with less effort | 2020-09-22 05:42:34 | 2023-12-27 16:36:23 |
 | [ctc](https://github.com/wzshiming/ctc) | 46 | 3 | 1 | Console Text Colors - The non-invasive cross-platform terminal color library does not need to modify the Print method | 2018-04-27 18:07:42 | 2024-01-18 10:26:54 |
-| [marker](https://github.com/cyucelen/marker) | 45 | 13 | 4 |  🖍️ Marker is the easiest way to match and mark strings for colorful terminal outputs! | 2019-08-28 15:44:08 | 2023-11-24 06:23:22 |
+| [marker](https://github.com/cyucelen/marker) | 46 | 13 | 4 |  🖍️ Marker is the easiest way to match and mark strings for colorful terminal outputs! | 2019-08-28 15:44:08 | 2024-02-20 03:16:12 |
 | [colourize](https://github.com/TreyBastian/colourize) | 26 | 4 | 0 | An ANSI colour terminal package for Go | 2015-05-11 11:49:39 | 2023-02-20 07:52:41 |
 | [go-ataman](https://github.com/workanator/go-ataman) | 16 | 3 | 0 | Another Text Attribute Manupulator | 2017-05-17 19:04:57 | 2023-09-27 02:03:14 |
 </details>
@@ -1469,13 +1469,13 @@ Libraries that implement messaging systems.
 ### Microsoft Office
 
 
-<sup>*Last Update: 2024-03-07 08:46:20*</sup>
+<sup>*Last Update: 2024-03-12 08:18:56*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [unioffice](https://unidoc.io/unioffice/) | 4,116 | 448 | 33 | Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents | 2017-08-29 01:25:48 | 2024-03-06 03:23:15 |
+| [unioffice](https://unidoc.io/unioffice/) | 4,120 | 448 | 33 | Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents | 2017-08-29 01:25:48 | 2024-03-11 23:58:42 |
 </details>
 
 ### Microsoft Office - Microsoft Excel
@@ -2069,33 +2069,33 @@ Libraries and tools for stream processing and reactive programming.
 ### Template Engines
 Libraries and tools for templating and lexing.
 
-<sup>*Last Update: 2024-01-19 20:41:49*</sup>
+<sup>*Last Update: 2024-03-12 08:18:41*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [gofpdf](http://godoc.org/github.com/jung-kurt/gofpdf) | 4,224 | 789 | 56 | A PDF document generator with high level support for text, drawing and images | 2015-03-13 11:57:30 | 2024-01-19 08:40:43 |
-| [sprig](http://masterminds.github.io/sprig/) | 3,872 | 450 | 135 | Useful template functions for Go templates. | 2013-11-22 01:20:40 | 2024-01-18 11:33:38 |
-| [quicktemplate](https://github.com/valyala/quicktemplate) | 2,952 | 149 | 37 | Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template | 2016-03-06 21:42:01 | 2024-01-16 20:49:16 |
-| [pongo2](https://www.schlachter.tech/pongo2) | 2,725 | 303 | 66 | Django-syntax like template-engine for Go | 2013-08-23 01:00:08 | 2024-01-19 12:30:25 |
-| [hero](https://shiyanhui.github.io/hero) | 1,554 | 107 | 28 | A handy, fast and powerful go template engine. | 2017-01-15 13:31:50 | 2024-01-09 18:56:25 |
-| [maroto](https://maroto.io) | 1,342 | 169 | 23 | A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple. | 2019-05-20 23:27:47 | 2024-01-19 03:11:52 |
-| [jet](https://shiyanhui.github.io/hero) | 1,119 | 101 | 23 | Jet  template engine | 2016-03-31 16:53:36 | 2024-01-19 01:48:39 |
-| [mustache](https://github.com/hoisie/mustache) | 1,098 | 249 | 33 | The mustache template language in Go | 2009-12-30 21:05:05 | 2024-01-09 15:27:25 |
-| [amber](https://github.com/eknkc/amber) | 915 | 63 | 24 | Amber is an elegant templating engine for Go Programming Language, inspired from HAML and Jade | 2012-10-31 20:27:24 | 2024-01-18 12:45:10 |
-| [gorazor](https://github.com/sipin/gorazor) | 838 | 89 | 2 | Razor view engine for go | 2014-05-01 05:30:31 | 2024-01-06 05:48:43 |
-| [ace](https://github.com/yosssi/ace) | 828 | 89 | 30 | HTML template engine for Go | 2014-07-13 13:39:19 | 2023-12-27 03:15:51 |
-| [fasttemplate](https://github.com/valyala/fasttemplate) | 785 | 79 | 12 | Simple and fast template engine for Go | 2015-08-19 12:44:22 | 2023-12-26 07:33:16 |
-| [raymond](https://github.com/aymerick/raymond) | 572 | 95 | 19 | Handlebars for golang | 2015-04-22 13:07:59 | 2024-01-18 03:15:49 |
-| [ego](https://github.com/benbjohnson/ego) | 569 | 42 | 10 | An ERB-style templating language for Go. | 2014-02-23 18:14:41 | 2024-01-09 06:33:51 |
-| [goview](https://github.com/foolin/goview) | 390 | 33 | 16 | Goview is a lightweight, minimalist and idiomatic template library based on golang html/template for building Go web application. | 2019-04-14 11:22:41 | 2024-01-17 10:51:35 |
-| [liquid](https://godoc.org/github.com/osteele/liquid) | 251 | 50 | 26 | A Liquid template engine in Go | 2017-06-26 14:39:52 | 2024-01-18 22:49:11 |
-| [soy](https://github.com/robfig/soy) | 173 | 42 | 7 | Go implementation for Soy templates (Google Closure templates) | 2013-12-15 01:14:48 | 2023-12-25 07:48:21 |
+| [gofpdf](http://godoc.org/github.com/jung-kurt/gofpdf) | 4,246 | 754 | 56 | A PDF document generator with high level support for text, drawing and images | 2015-03-13 11:57:30 | 2024-03-11 16:50:22 |
+| [sprig](http://masterminds.github.io/sprig/) | 3,929 | 413 | 137 | Useful template functions for Go templates. | 2013-11-22 01:20:40 | 2024-03-11 19:22:44 |
+| [quicktemplate](https://github.com/valyala/quicktemplate) | 2,980 | 146 | 37 | Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template | 2016-03-06 21:42:01 | 2024-03-11 20:37:13 |
+| [pongo2](https://www.schlachter.tech/pongo2) | 2,755 | 265 | 68 | Django-syntax like template-engine for Go | 2013-08-23 01:00:08 | 2024-03-11 03:11:04 |
+| [hero](https://shiyanhui.github.io/hero) | 1,553 | 108 | 28 | A handy, fast and powerful go template engine. | 2017-01-15 13:31:50 | 2024-03-06 19:12:03 |
+| [maroto](https://maroto.io) | 1,405 | 171 | 30 | A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple. | 2019-05-20 23:27:47 | 2024-03-11 16:50:49 |
+| [jet](https://shiyanhui.github.io/hero) | 1,155 | 101 | 21 | Jet  template engine | 2016-03-31 16:53:36 | 2024-03-09 07:19:19 |
+| [mustache](https://github.com/hoisie/mustache) | 1,096 | 220 | 32 | The mustache template language in Go | 2009-12-30 21:05:05 | 2024-02-27 08:11:52 |
+| [amber](https://github.com/eknkc/amber) | 914 | 63 | 24 | Amber is an elegant templating engine for Go Programming Language, inspired from HAML and Jade | 2012-10-31 20:27:24 | 2024-02-13 18:12:02 |
+| [gorazor](https://github.com/sipin/gorazor) | 838 | 89 | 2 | Razor view engine for go | 2014-05-01 05:30:31 | 2024-02-07 18:17:33 |
+| [ace](https://github.com/yosssi/ace) | 829 | 89 | 30 | HTML template engine for Go | 2014-07-13 13:39:19 | 2024-02-08 14:00:27 |
+| [fasttemplate](https://github.com/valyala/fasttemplate) | 797 | 81 | 12 | Simple and fast template engine for Go | 2015-08-19 12:44:22 | 2024-03-11 13:36:13 |
+| [raymond](https://github.com/aymerick/raymond) | 577 | 96 | 19 | Handlebars for golang | 2015-04-22 13:07:59 | 2024-02-19 00:02:23 |
+| [ego](https://github.com/benbjohnson/ego) | 577 | 42 | 10 | An ERB-style templating language for Go. | 2014-02-23 18:14:41 | 2024-03-02 09:05:24 |
+| [goview](https://github.com/foolin/goview) | 396 | 34 | 15 | Goview is a lightweight, minimalist and idiomatic template library based on golang html/template for building Go web application. | 2019-04-14 11:22:41 | 2024-03-07 23:12:25 |
+| [liquid](https://godoc.org/github.com/osteele/liquid) | 258 | 51 | 26 | A Liquid template engine in Go | 2017-06-26 14:39:52 | 2024-03-11 12:57:14 |
+| [soy](https://github.com/robfig/soy) | 172 | 42 | 7 | Go implementation for Soy templates (Google Closure templates) | 2013-12-15 01:14:48 | 2024-02-10 16:25:28 |
 | [kasia.go](https://github.com/ziutek/kasia.go) | 74 | 10 | 2 | Templating system for HTML and other text documents - go implementation | 2010-12-07 10:46:05 | 2022-03-15 21:35:36 |
 | [velvet](http://masterminds.github.io/sprig/) | 73 | 10 | 2 | A sweet velvety templating package | 2016-12-29 16:46:57 | 2023-12-14 00:07:32 |
 | [extemplate](https://git.sr.ht/~dvko/extemplate) | 56 | 17 | 1 | Wrapper package for Go's template/html to allow for easy file-based template inheritance. | 2018-08-10 20:34:19 | 2023-12-25 07:37:37 |
-| [gospin](https://github.com/m1/gospin) | 52 | 8 | 3 | Article spinning and spintax/spinning syntax engine written in Go, useful for A/B, testing pieces of text/articles and creating more natural conversations | 2019-02-22 17:04:51 | 2023-12-25 07:38:08 |
+| [gospin](https://github.com/m1/gospin) | 54 | 8 | 3 | Article spinning and spintax/spinning syntax engine written in Go, useful for A/B, testing pieces of text/articles and creating more natural conversations | 2019-02-22 17:04:51 | 2024-02-29 00:08:48 |
 | [damsel](https://github.com/dskinner/damsel) | 23 | 6 | 1 | Package damsel provides html outlining via css-selectors and common template functionality. | 2012-05-02 23:06:48 | 2023-03-17 14:34:28 |
 </details>
 
@@ -2783,17 +2783,17 @@ Full stack web frameworks.
 ### WebAssembly
 
 
-<sup>*Last Update: 2024-01-25 21:25:39*</sup>
+<sup>*Last Update: 2024-03-12 08:18:53*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [tinygo](https://tinygo.org) | 13,985 | 821 | 521 | Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM. | 2018-06-07 16:39:19 | 2024-01-25 11:54:20 |
-| [dom](https://github.com/dennwc/dom) | 483 | 59 | 10 | DOM library for Go and WASM | 2018-06-30 18:37:35 | 2024-01-16 21:38:17 |
-| [go-canvas](https://github.com/markfarnan/go-canvas) | 220 | 17 | 4 | Library to use HTML5 Canvas  from Go-WASM, with all drawing within go code | 2019-05-05 14:05:55 | 2024-01-20 19:39:15 |
-| [wasmbrowsertest](https://github.com/agnivade/wasmbrowsertest) | 166 | 25 | 3 | Run WASM tests inside your browser | 2018-07-14 18:42:24 | 2024-01-23 00:29:28 |
-| [webapi](https://github.com/gowebapi/webapi) | 151 | 12 | 3 | Go Lang Web Assembly bindings for DOM, HTML etc | 2019-02-08 05:58:35 | 2024-01-20 16:34:34 |
+| [tinygo](https://tinygo.org) | 14,268 | 820 | 529 | Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM. | 2018-06-07 16:39:19 | 2024-03-12 00:20:31 |
+| [dom](https://github.com/dennwc/dom) | 482 | 59 | 10 | DOM library for Go and WASM | 2018-06-30 18:37:35 | 2024-03-01 01:35:05 |
+| [go-canvas](https://github.com/markfarnan/go-canvas) | 225 | 17 | 4 | Library to use HTML5 Canvas  from Go-WASM, with all drawing within go code | 2019-05-05 14:05:55 | 2024-03-08 03:33:29 |
+| [wasmbrowsertest](https://github.com/agnivade/wasmbrowsertest) | 172 | 26 | 3 | Run WASM tests inside your browser | 2018-07-14 18:42:24 | 2024-03-07 22:43:44 |
+| [webapi](https://github.com/gowebapi/webapi) | 160 | 12 | 3 | Go Lang Web Assembly bindings for DOM, HTML etc | 2019-02-08 05:58:35 | 2024-02-01 09:33:54 |
 | [vert](https://github.com/norunners/vert) | 96 | 14 | 2 | WebAssembly interop between Go and JS values. | 2018-03-25 17:26:47 | 2024-01-10 05:35:55 |
 </details>
 
