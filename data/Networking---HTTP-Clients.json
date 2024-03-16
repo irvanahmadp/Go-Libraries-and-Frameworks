@@ -1,7 +1,7 @@
 {
 	"name": "Networking - HTTP Clients",
 	"index_last_check": 0,
-	"last_update": 1706101795,
+	"last_update": 1710595786,
 	"libraries": [
 		{
 			"id": 41561105,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/go-resty/resty",
 			"homepage": "",
 			"created_at": "2015-08-28T17:48:47Z",
-			"updated_at": "2024-01-24T11:08:23Z",
+			"updated_at": "2024-03-16T12:35:01Z",
 			"svn_url": "https://github.com/go-resty/resty",
-			"stargazers_count": 8932,
-			"watchers_count": 8932,
-			"forks_count": 708,
-			"open_issues_count": 73
+			"stargazers_count": 9137,
+			"watchers_count": 9137,
+			"forks_count": 657,
+			"open_issues_count": 64
 		},
 		{
 			"id": 118105591,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/gojek/heimdall",
 			"homepage": "http://gojek.tech",
 			"created_at": "2018-01-19T09:32:26Z",
-			"updated_at": "2024-01-20T16:50:49Z",
+			"updated_at": "2024-03-14T21:27:32Z",
 			"svn_url": "https://github.com/gojek/heimdall",
-			"stargazers_count": 2526,
-			"watchers_count": 2526,
-			"forks_count": 250,
-			"open_issues_count": 48
+			"stargazers_count": 2542,
+			"watchers_count": 2542,
+			"forks_count": 210,
+			"open_issues_count": 47
 		},
 		{
 			"id": 37273343,
@@ -38,11 +38,11 @@
 			"html_url": "https://github.com/levigross/grequests",
 			"homepage": "",
 			"created_at": "2015-06-11T16:41:48Z",
-			"updated_at": "2024-01-22T15:40:50Z",
+			"updated_at": "2024-03-16T12:56:42Z",
 			"svn_url": "https://github.com/levigross/grequests",
-			"stargazers_count": 2015,
-			"watchers_count": 2015,
-			"forks_count": 138,
+			"stargazers_count": 2025,
+			"watchers_count": 2025,
+			"forks_count": 133,
 			"open_issues_count": 27
 		},
 		{
@@ -52,11 +52,11 @@
 			"html_url": "https://github.com/dghubble/sling",
 			"homepage": "",
 			"created_at": "2015-04-02T08:42:52Z",
-			"updated_at": "2024-01-24T05:53:43Z",
+			"updated_at": "2024-03-15T22:33:12Z",
 			"svn_url": "https://github.com/dghubble/sling",
-			"stargazers_count": 1619,
-			"watchers_count": 1619,
-			"forks_count": 118,
+			"stargazers_count": 1634,
+			"watchers_count": 1634,
+			"forks_count": 119,
 			"open_issues_count": 0
 		},
 		{
@@ -66,11 +66,11 @@
 			"html_url": "https://github.com/h2non/gentleman",
 			"homepage": "https://pkg.go.dev/github.com/h2non/gentleman?tab=doc",
 			"created_at": "2016-02-21T23:00:24Z",
-			"updated_at": "2024-01-24T09:38:20Z",
+			"updated_at": "2024-03-14T16:31:53Z",
 			"svn_url": "https://github.com/h2non/gentleman",
-			"stargazers_count": 1035,
-			"watchers_count": 1035,
-			"forks_count": 55,
+			"stargazers_count": 1056,
+			"watchers_count": 1056,
+			"forks_count": 53,
 			"open_issues_count": 25
 		},
 		{
@@ -80,11 +80,11 @@
 			"html_url": "https://github.com/sethgrid/pester",
 			"homepage": "",
 			"created_at": "2015-05-20T13:50:49Z",
-			"updated_at": "2024-01-23T02:29:31Z",
+			"updated_at": "2024-03-14T19:05:05Z",
 			"svn_url": "https://github.com/sethgrid/pester",
-			"stargazers_count": 627,
-			"watchers_count": 627,
-			"forks_count": 70,
+			"stargazers_count": 633,
+			"watchers_count": 633,
+			"forks_count": 69,
 			"open_issues_count": 6
 		},
 		{
@@ -94,12 +94,12 @@
 			"html_url": "https://github.com/monaco-io/request",
 			"homepage": "https://pkg.go.dev/github.com/monaco-io/request?tab=doc",
 			"created_at": "2020-03-25T06:24:18Z",
-			"updated_at": "2024-01-15T09:20:38Z",
+			"updated_at": "2024-02-28T16:32:12Z",
 			"svn_url": "https://github.com/monaco-io/request",
-			"stargazers_count": 273,
-			"watchers_count": 273,
-			"forks_count": 29,
-			"open_issues_count": 2
+			"stargazers_count": 280,
+			"watchers_count": 280,
+			"forks_count": 30,
+			"open_issues_count": 3
 		},
 		{
 			"id": 228010857,
@@ -108,10 +108,10 @@
 			"html_url": "https://github.com/bozd4g/go-http-client",
 			"homepage": "",
 			"created_at": "2019-12-14T11:22:19Z",
-			"updated_at": "2024-01-16T01:42:14Z",
+			"updated_at": "2024-02-21T12:24:57Z",
 			"svn_url": "https://github.com/bozd4g/go-http-client",
-			"stargazers_count": 66,
-			"watchers_count": 66,
+			"stargazers_count": 70,
+			"watchers_count": 70,
 			"forks_count": 14,
 			"open_issues_count": 0
 		},
@@ -136,10 +136,10 @@
 			"html_url": "https://github.com/ybbus/httpretry",
 			"homepage": "",
 			"created_at": "2020-02-05T10:17:42Z",
-			"updated_at": "2023-10-16T16:43:59Z",
+			"updated_at": "2024-02-07T08:51:40Z",
 			"svn_url": "https://github.com/ybbus/httpretry",
-			"stargazers_count": 40,
-			"watchers_count": 40,
+			"stargazers_count": 41,
+			"watchers_count": 41,
 			"forks_count": 6,
 			"open_issues_count": 0
 		}
