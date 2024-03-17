@@ -1,7 +1,7 @@
 {
 	"name": "Text Processing - Utility",
 	"index_last_check": 0,
-	"last_update": 1706060883,
+	"last_update": 1710682241,
 	"libraries": [
 		{
 			"id": 29113216,
@@ -10,11 +10,11 @@
 			"html_url": "https://github.com/mvdan/xurls",
 			"homepage": "https://tysug.net",
 			"created_at": "2015-01-12T01:28:46Z",
-			"updated_at": "2024-01-21T09:37:13Z",
+			"updated_at": "2024-03-15T05:07:00Z",
 			"svn_url": "https://github.com/mvdan/xurls",
-			"stargazers_count": 1116,
-			"watchers_count": 1116,
-			"forks_count": 116,
+			"stargazers_count": 1144,
+			"watchers_count": 1144,
+			"forks_count": 113,
 			"open_issues_count": 1
 		},
 		{
@@ -24,10 +24,10 @@
 			"html_url": "https://github.com/bndr/gotabulate",
 			"homepage": "",
 			"created_at": "2014-08-21T07:44:28Z",
-			"updated_at": "2024-01-02T02:52:00Z",
+			"updated_at": "2024-02-04T09:59:32Z",
 			"svn_url": "https://github.com/bndr/gotabulate",
-			"stargazers_count": 307,
-			"watchers_count": 307,
+			"stargazers_count": 309,
+			"watchers_count": 309,
 			"forks_count": 30,
 			"open_issues_count": 5
 		},
@@ -38,10 +38,10 @@
 			"html_url": "https://github.com/yourbasic/radix",
 			"homepage": "",
 			"created_at": "2017-06-09T14:38:58Z",
-			"updated_at": "2024-01-18T18:55:18Z",
+			"updated_at": "2024-02-16T00:55:38Z",
 			"svn_url": "https://github.com/yourbasic/radix",
-			"stargazers_count": 188,
-			"watchers_count": 188,
+			"stargazers_count": 189,
+			"watchers_count": 189,
 			"forks_count": 11,
 			"open_issues_count": 0
 		},
@@ -52,10 +52,10 @@
 			"html_url": "https://github.com/oriser/regroup",
 			"homepage": "",
 			"created_at": "2020-09-08T19:04:42Z",
-			"updated_at": "2024-01-04T16:50:07Z",
+			"updated_at": "2024-03-13T15:46:01Z",
 			"svn_url": "https://github.com/oriser/regroup",
-			"stargazers_count": 138,
-			"watchers_count": 138,
+			"stargazers_count": 141,
+			"watchers_count": 141,
 			"forks_count": 12,
 			"open_issues_count": 2
 		},
@@ -66,10 +66,10 @@
 			"html_url": "https://github.com/JoshuaDoes/gofuckyourself",
 			"homepage": "",
 			"created_at": "2018-09-09T00:07:26Z",
-			"updated_at": "2023-10-04T23:50:08Z",
+			"updated_at": "2024-02-14T20:59:08Z",
 			"svn_url": "https://github.com/JoshuaDoes/gofuckyourself",
-			"stargazers_count": 59,
-			"watchers_count": 59,
+			"stargazers_count": 61,
+			"watchers_count": 61,
 			"forks_count": 8,
 			"open_issues_count": 4
 		},
@@ -88,6 +88,20 @@
 			"open_issues_count": 0
 		},
 		{
+			"id": 126000626,
+			"name": "tagify",
+			"description": "Tagify produces a set of tags from a given source. Source can be either an HTML page, a Markdown document or a plain text. Supports English, Russian, Chinese, Hindi, Spanish, Arabic, Japanese, German, Hebrew, French and Korean languages.",
+			"html_url": "https://github.com/zoomio/tagify",
+			"homepage": "https://www.zoomio.org/tagify",
+			"created_at": "2018-03-20T10:30:11Z",
+			"updated_at": "2024-03-05T20:58:03Z",
+			"svn_url": "https://github.com/zoomio/tagify",
+			"stargazers_count": 36,
+			"watchers_count": 36,
+			"forks_count": 2,
+			"open_issues_count": 3
+		},
+		{
 			"id": 104077592,
 			"name": "xj2go",
 			"description": "Convert xml and json to go struct",
@@ -100,20 +114,6 @@
 			"watchers_count": 34,
 			"forks_count": 8,
 			"open_issues_count": 0
-		},
-		{
-			"id": 126000626,
-			"name": "tagify",
-			"description": "Tagify produces a set of tags from a given source. Source can be either an HTML page, a Markdown document or a plain text. Supports English, Russian, Chinese, Hindi, Spanish, Arabic, Japanese, German, Hebrew, French and Korean languages.",
-			"html_url": "https://github.com/zoomio/tagify",
-			"homepage": "https://www.zoomio.org/tagify",
-			"created_at": "2018-03-20T10:30:11Z",
-			"updated_at": "2024-01-19T10:13:25Z",
-			"svn_url": "https://github.com/zoomio/tagify",
-			"stargazers_count": 34,
-			"watchers_count": 34,
-			"forks_count": 2,
-			"open_issues_count": 3
 		},
 		{
 			"id": 36894128,

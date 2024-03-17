@@ -1,7 +1,7 @@
 {
 	"name": "Server Applications",
 	"index_last_check": 0,
-	"last_update": 1706060865,
+	"last_update": 1710682224,
 	"libraries": [
 		{
 			"id": 29207621,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/caddyserver/caddy",
 			"homepage": "https://caddyserver.com",
 			"created_at": "2015-01-13T19:45:03Z",
-			"updated_at": "2024-01-24T01:02:24Z",
+			"updated_at": "2024-03-17T12:26:01Z",
 			"svn_url": "https://github.com/caddyserver/caddy",
-			"stargazers_count": 51770,
-			"watchers_count": 51770,
-			"forks_count": 3938,
-			"open_issues_count": 138
+			"stargazers_count": 52933,
+			"watchers_count": 52933,
+			"forks_count": 3824,
+			"open_issues_count": 142
 		},
 		{
 			"id": 11225014,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/etcd-io/etcd",
 			"homepage": "https://etcd.io",
 			"created_at": "2013-07-06T21:57:21Z",
-			"updated_at": "2024-01-24T01:46:33Z",
+			"updated_at": "2024-03-17T12:11:01Z",
 			"svn_url": "https://github.com/etcd-io/etcd",
-			"stargazers_count": 45597,
-			"watchers_count": 45597,
-			"forks_count": 9673,
-			"open_issues_count": 292
+			"stargazers_count": 45964,
+			"watchers_count": 45964,
+			"forks_count": 9523,
+			"open_issues_count": 293
 		},
 		{
 			"id": 29261473,
@@ -38,11 +38,11 @@
 			"html_url": "https://github.com/minio/minio",
 			"homepage": "https://min.io/download",
 			"created_at": "2015-01-14T19:23:58Z",
-			"updated_at": "2024-01-23T20:32:45Z",
+			"updated_at": "2024-03-17T13:29:56Z",
 			"svn_url": "https://github.com/minio/minio",
-			"stargazers_count": 42681,
-			"watchers_count": 42681,
-			"forks_count": 5108,
+			"stargazers_count": 43552,
+			"watchers_count": 43552,
+			"forks_count": 5064,
 			"open_issues_count": 48
 		},
 		{
@@ -52,11 +52,11 @@
 			"html_url": "https://github.com/hashicorp/consul",
 			"homepage": "https://www.consul.io",
 			"created_at": "2013-11-04T22:15:27Z",
-			"updated_at": "2024-01-24T01:38:30Z",
+			"updated_at": "2024-03-17T08:35:14Z",
 			"svn_url": "https://github.com/hashicorp/consul",
-			"stargazers_count": 27513,
-			"watchers_count": 27513,
-			"forks_count": 4434,
+			"stargazers_count": 27658,
+			"watchers_count": 27658,
+			"forks_count": 4357,
 			"open_issues_count": 1298
 		},
 		{
@@ -66,26 +66,12 @@
 			"html_url": "https://github.com/nsqio/nsq",
 			"homepage": "https://nsq.io",
 			"created_at": "2012-05-12T14:37:08Z",
-			"updated_at": "2024-01-24T01:40:35Z",
+			"updated_at": "2024-03-17T11:42:11Z",
 			"svn_url": "https://github.com/nsqio/nsq",
-			"stargazers_count": 24301,
-			"watchers_count": 24301,
-			"forks_count": 2920,
+			"stargazers_count": 24452,
+			"watchers_count": 24452,
+			"forks_count": 2876,
 			"open_issues_count": 62
-		},
-		{
-			"id": 115436884,
-			"name": "roadrunner",
-			"description": "🤯 High-performance PHP application server, process manager written in Go and powered with plugins",
-			"html_url": "https://github.com/roadrunner-server/roadrunner",
-			"homepage": "https://roadrunner.dev",
-			"created_at": "2017-12-26T16:13:10Z",
-			"updated_at": "2024-01-22T14:39:58Z",
-			"svn_url": "https://github.com/roadrunner-server/roadrunner",
-			"stargazers_count": 7560,
-			"watchers_count": 7560,
-			"forks_count": 400,
-			"open_issues_count": 49
 		},
 		{
 			"id": 197914161,
@@ -94,12 +80,26 @@
 			"html_url": "https://github.com/drakkan/sftpgo",
 			"homepage": "",
 			"created_at": "2019-07-20T10:18:31Z",
-			"updated_at": "2024-01-24T01:05:11Z",
+			"updated_at": "2024-03-17T09:06:42Z",
 			"svn_url": "https://github.com/drakkan/sftpgo",
-			"stargazers_count": 7551,
-			"watchers_count": 7551,
-			"forks_count": 629,
-			"open_issues_count": 22
+			"stargazers_count": 7869,
+			"watchers_count": 7869,
+			"forks_count": 647,
+			"open_issues_count": 25
+		},
+		{
+			"id": 115436884,
+			"name": "roadrunner",
+			"description": "🤯 High-performance PHP application server, process manager written in Go and powered with plugins",
+			"html_url": "https://github.com/roadrunner-server/roadrunner",
+			"homepage": "https://roadrunner.dev",
+			"created_at": "2017-12-26T16:13:10Z",
+			"updated_at": "2024-03-16T16:29:31Z",
+			"svn_url": "https://github.com/roadrunner-server/roadrunner",
+			"stargazers_count": 7639,
+			"watchers_count": 7639,
+			"forks_count": 401,
+			"open_issues_count": 48
 		},
 		{
 			"id": 43268361,
@@ -108,11 +108,11 @@
 			"html_url": "https://github.com/cortesi/devd",
 			"homepage": "",
 			"created_at": "2015-09-27T22:43:00Z",
-			"updated_at": "2024-01-20T09:26:46Z",
+			"updated_at": "2024-03-14T04:20:38Z",
 			"svn_url": "https://github.com/cortesi/devd",
-			"stargazers_count": 3382,
-			"watchers_count": 3382,
-			"forks_count": 151,
+			"stargazers_count": 3390,
+			"watchers_count": 3390,
+			"forks_count": 141,
 			"open_issues_count": 25
 		},
 		{
@@ -122,26 +122,26 @@
 			"html_url": "https://github.com/flipt-io/flipt",
 			"homepage": "https://flipt.io",
 			"created_at": "2016-11-05T00:09:07Z",
-			"updated_at": "2024-01-24T00:00:43Z",
+			"updated_at": "2024-03-16T19:16:29Z",
 			"svn_url": "https://github.com/flipt-io/flipt",
-			"stargazers_count": 3138,
-			"watchers_count": 3138,
-			"forks_count": 163,
-			"open_issues_count": 27
+			"stargazers_count": 3238,
+			"watchers_count": 3238,
+			"forks_count": 165,
+			"open_issues_count": 36
 		},
 		{
 			"id": 31953662,
 			"name": "algernon",
-			"description": "Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support",
+			"description": "Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis and PostgreSQL support",
 			"html_url": "https://github.com/xyproto/algernon",
 			"homepage": "https://algernon.roboticoverlords.org",
 			"created_at": "2015-03-10T11:25:30Z",
-			"updated_at": "2024-01-24T01:35:19Z",
+			"updated_at": "2024-03-17T09:41:01Z",
 			"svn_url": "https://github.com/xyproto/algernon",
-			"stargazers_count": 2544,
-			"watchers_count": 2544,
-			"forks_count": 133,
-			"open_issues_count": 23
+			"stargazers_count": 2599,
+			"watchers_count": 2599,
+			"forks_count": 134,
+			"open_issues_count": 25
 		},
 		{
 			"id": 79280946,
@@ -150,12 +150,12 @@
 			"html_url": "https://github.com/getfider/fider",
 			"homepage": "https://fider.io",
 			"created_at": "2017-01-17T22:55:19Z",
-			"updated_at": "2024-01-23T03:35:28Z",
+			"updated_at": "2024-03-15T02:39:53Z",
 			"svn_url": "https://github.com/getfider/fider",
-			"stargazers_count": 2506,
-			"watchers_count": 2506,
-			"forks_count": 589,
-			"open_issues_count": 55
+			"stargazers_count": 2585,
+			"watchers_count": 2585,
+			"forks_count": 600,
+			"open_issues_count": 58
 		},
 		{
 			"id": 105691816,
@@ -164,12 +164,12 @@
 			"html_url": "https://github.com/openflagr/flagr",
 			"homepage": "https://openflagr.github.io/flagr",
 			"created_at": "2017-10-03T19:07:32Z",
-			"updated_at": "2024-01-23T16:41:52Z",
+			"updated_at": "2024-03-16T21:52:31Z",
 			"svn_url": "https://github.com/openflagr/flagr",
-			"stargazers_count": 2317,
-			"watchers_count": 2317,
-			"forks_count": 189,
-			"open_issues_count": 1
+			"stargazers_count": 2342,
+			"watchers_count": 2342,
+			"forks_count": 181,
+			"open_issues_count": 2
 		},
 		{
 			"id": 127344362,
@@ -178,12 +178,12 @@
 			"html_url": "https://github.com/trickstercache/trickster",
 			"homepage": "https://trickstercache.org",
 			"created_at": "2018-03-29T20:31:44Z",
-			"updated_at": "2024-01-22T21:56:39Z",
+			"updated_at": "2024-03-11T10:23:22Z",
 			"svn_url": "https://github.com/trickstercache/trickster",
-			"stargazers_count": 1932,
-			"watchers_count": 1932,
-			"forks_count": 174,
-			"open_issues_count": 50
+			"stargazers_count": 1943,
+			"watchers_count": 1943,
+			"forks_count": 176,
+			"open_issues_count": 52
 		},
 		{
 			"id": 130362273,
@@ -192,11 +192,11 @@
 			"html_url": "https://github.com/bilibili/discovery",
 			"homepage": "",
 			"created_at": "2018-04-20T12:57:50Z",
-			"updated_at": "2024-01-21T13:50:07Z",
+			"updated_at": "2024-03-08T08:43:10Z",
 			"svn_url": "https://github.com/bilibili/discovery",
-			"stargazers_count": 1763,
-			"watchers_count": 1763,
-			"forks_count": 401,
+			"stargazers_count": 1764,
+			"watchers_count": 1764,
+			"forks_count": 398,
 			"open_issues_count": 27
 		},
 		{
@@ -206,11 +206,11 @@
 			"html_url": "https://github.com/ortuman/jackal",
 			"homepage": "",
 			"created_at": "2017-11-13T18:17:48Z",
-			"updated_at": "2024-01-22T23:48:21Z",
+			"updated_at": "2024-03-07T23:05:59Z",
 			"svn_url": "https://github.com/ortuman/jackal",
-			"stargazers_count": 1443,
-			"watchers_count": 1443,
-			"forks_count": 133,
+			"stargazers_count": 1442,
+			"watchers_count": 1442,
+			"forks_count": 132,
 			"open_issues_count": 22
 		},
 		{
@@ -220,12 +220,12 @@
 			"html_url": "https://github.com/thomaspoignant/go-feature-flag",
 			"homepage": "https://gofeatureflag.org/",
 			"created_at": "2020-12-11T13:19:17Z",
-			"updated_at": "2024-01-23T18:44:21Z",
+			"updated_at": "2024-03-15T09:21:38Z",
 			"svn_url": "https://github.com/thomaspoignant/go-feature-flag",
-			"stargazers_count": 958,
-			"watchers_count": 958,
-			"forks_count": 95,
-			"open_issues_count": 16
+			"stargazers_count": 1035,
+			"watchers_count": 1035,
+			"forks_count": 100,
+			"open_issues_count": 13
 		},
 		{
 			"id": 67635857,
@@ -238,7 +238,7 @@
 			"svn_url": "https://github.com/krotik/dudeldu",
 			"stargazers_count": 144,
 			"watchers_count": 144,
-			"forks_count": 17,
+			"forks_count": 18,
 			"open_issues_count": 0
 		},
 		{
@@ -248,12 +248,12 @@
 			"html_url": "https://github.com/fabiocicerchia/go-proxy-cache",
 			"homepage": "",
 			"created_at": "2020-11-12T15:10:40Z",
-			"updated_at": "2024-01-20T19:47:27Z",
+			"updated_at": "2024-03-14T05:14:34Z",
 			"svn_url": "https://github.com/fabiocicerchia/go-proxy-cache",
-			"stargazers_count": 110,
-			"watchers_count": 110,
-			"forks_count": 14,
-			"open_issues_count": 21
+			"stargazers_count": 116,
+			"watchers_count": 116,
+			"forks_count": 15,
+			"open_issues_count": 30
 		},
 		{
 			"id": 301794968,
@@ -262,12 +262,12 @@
 			"html_url": "https://github.com/blind-oracle/cortex-tenant",
 			"homepage": "",
 			"created_at": "2020-10-06T16:52:25Z",
-			"updated_at": "2024-01-20T22:49:44Z",
+			"updated_at": "2024-03-11T14:56:03Z",
 			"svn_url": "https://github.com/blind-oracle/cortex-tenant",
-			"stargazers_count": 86,
-			"watchers_count": 86,
-			"forks_count": 53,
-			"open_issues_count": 7
+			"stargazers_count": 94,
+			"watchers_count": 94,
+			"forks_count": 55,
+			"open_issues_count": 8
 		},
 		{
 			"id": 180937807,
@@ -276,12 +276,12 @@
 			"html_url": "https://github.com/rekby/lets-proxy2",
 			"homepage": "",
 			"created_at": "2019-04-12T05:39:43Z",
-			"updated_at": "2024-01-13T06:56:04Z",
+			"updated_at": "2024-03-15T13:44:03Z",
 			"svn_url": "https://github.com/rekby/lets-proxy2",
-			"stargazers_count": 84,
-			"watchers_count": 84,
+			"stargazers_count": 89,
+			"watchers_count": 89,
 			"forks_count": 17,
-			"open_issues_count": 40
+			"open_issues_count": 41
 		},
 		{
 			"id": 183962880,
@@ -290,10 +290,10 @@
 			"html_url": "https://github.com/blind-oracle/psql-streamer",
 			"homepage": "",
 			"created_at": "2019-04-28T21:55:31Z",
-			"updated_at": "2024-01-20T19:47:13Z",
+			"updated_at": "2024-02-03T00:22:03Z",
 			"svn_url": "https://github.com/blind-oracle/psql-streamer",
-			"stargazers_count": 56,
-			"watchers_count": 56,
+			"stargazers_count": 57,
+			"watchers_count": 57,
 			"forks_count": 13,
 			"open_issues_count": 2
 		},
@@ -304,10 +304,10 @@
 			"html_url": "https://github.com/blind-oracle/nginx-prometheus",
 			"homepage": "",
 			"created_at": "2018-10-23T09:10:27Z",
-			"updated_at": "2023-09-18T15:18:48Z",
+			"updated_at": "2024-02-04T02:11:51Z",
 			"svn_url": "https://github.com/blind-oracle/nginx-prometheus",
-			"stargazers_count": 38,
-			"watchers_count": 38,
+			"stargazers_count": 40,
+			"watchers_count": 40,
 			"forks_count": 5,
 			"open_issues_count": 0
 		},
@@ -318,10 +318,10 @@
 			"html_url": "https://github.com/leberKleber/simple-jwt-provider",
 			"homepage": "",
 			"created_at": "2019-12-18T12:48:14Z",
-			"updated_at": "2023-12-04T14:56:45Z",
+			"updated_at": "2024-02-29T14:32:15Z",
 			"svn_url": "https://github.com/leberKleber/simple-jwt-provider",
-			"stargazers_count": 37,
-			"watchers_count": 37,
+			"stargazers_count": 39,
+			"watchers_count": 39,
 			"forks_count": 5,
 			"open_issues_count": 5
 		},
