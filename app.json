@@ -1,8 +1,8 @@
 {
-	"last_update": 1711011081,
+	"last_update": 1711204030,
 	"rate_limit": 60,
 	"rate_limit_remaining": 0,
-	"rate_limit_reset": 1711012311,
+	"rate_limit_reset": 1711207605,
 	"categories": [
 		{
 			"name": "Audio and Music",
@@ -277,7 +277,7 @@
 		{
 			"name": "Package Management - Unofficial",
 			"description": "Unofficial libraries for package and dependency management",
-			"last_update": 1706275609
+			"last_update": 1711204005
 		},
 		{
 			"name": "Performance",
