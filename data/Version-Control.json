@@ -1,7 +1,7 @@
 {
 	"name": "Version Control",
 	"index_last_check": 0,
-	"last_update": 1707314050,
+	"last_update": 1711804539,
 	"libraries": [
 		{
 			"id": 229030654,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/go-git/go-git",
 			"homepage": "https://pkg.go.dev/github.com/go-git/go-git/v5",
 			"created_at": "2019-12-19T10:27:02Z",
-			"updated_at": "2024-02-07T07:19:06Z",
+			"updated_at": "2024-03-30T11:19:20Z",
 			"svn_url": "https://github.com/go-git/go-git",
-			"stargazers_count": 5335,
-			"watchers_count": 5335,
-			"forks_count": 722,
-			"open_issues_count": 411
+			"stargazers_count": 5430,
+			"watchers_count": 5430,
+			"forks_count": 681,
+			"open_issues_count": 364
 		},
 		{
 			"id": 76279648,
@@ -24,10 +24,10 @@
 			"html_url": "https://github.com/src-d/hercules",
 			"homepage": "",
 			"created_at": "2016-12-12T17:30:29Z",
-			"updated_at": "2024-02-03T16:19:21Z",
+			"updated_at": "2024-03-30T09:02:48Z",
 			"svn_url": "https://github.com/src-d/hercules",
-			"stargazers_count": 1983,
-			"watchers_count": 1983,
+			"stargazers_count": 1998,
+			"watchers_count": 1998,
 			"forks_count": 152,
 			"open_issues_count": 48
 		},
@@ -38,12 +38,12 @@
 			"html_url": "https://github.com/libgit2/git2go",
 			"homepage": "",
 			"created_at": "2013-03-05T19:50:43Z",
-			"updated_at": "2024-02-06T16:11:57Z",
+			"updated_at": "2024-03-29T12:43:00Z",
 			"svn_url": "https://github.com/libgit2/git2go",
-			"stargazers_count": 1885,
-			"watchers_count": 1885,
-			"forks_count": 319,
-			"open_issues_count": 80
+			"stargazers_count": 1903,
+			"watchers_count": 1903,
+			"forks_count": 313,
+			"open_issues_count": 81
 		},
 		{
 			"id": 31865514,

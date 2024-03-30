@@ -1,7 +1,7 @@
 {
 	"name": "Resource Embedding",
 	"index_last_check": 0,
-	"last_update": 1707662274,
+	"last_update": 1711804541,
 	"libraries": [
 		{
 			"id": 16514887,
@@ -10,11 +10,11 @@
 			"html_url": "https://github.com/rakyll/statik",
 			"homepage": "",
 			"created_at": "2014-02-04T14:54:51Z",
-			"updated_at": "2024-02-07T11:46:34Z",
+			"updated_at": "2024-03-27T02:47:48Z",
 			"svn_url": "https://github.com/rakyll/statik",
-			"stargazers_count": 3701,
-			"watchers_count": 3701,
-			"forks_count": 259,
+			"stargazers_count": 3710,
+			"watchers_count": 3710,
+			"forks_count": 221,
 			"open_issues_count": 40
 		},
 		{
@@ -24,11 +24,11 @@
 			"html_url": "https://github.com/gobuffalo/packr",
 			"homepage": "",
 			"created_at": "2017-03-15T22:24:53Z",
-			"updated_at": "2024-02-06T03:31:15Z",
+			"updated_at": "2024-02-26T10:47:16Z",
 			"svn_url": "https://github.com/gobuffalo/packr",
-			"stargazers_count": 3411,
-			"watchers_count": 3411,
-			"forks_count": 198,
+			"stargazers_count": 3412,
+			"watchers_count": 3412,
+			"forks_count": 192,
 			"open_issues_count": 67
 		},
 		{
@@ -38,12 +38,12 @@
 			"html_url": "https://github.com/GeertJohan/go.rice",
 			"homepage": "",
 			"created_at": "2013-10-23T21:29:34Z",
-			"updated_at": "2024-02-07T14:28:27Z",
+			"updated_at": "2024-03-27T01:30:47Z",
 			"svn_url": "https://github.com/GeertJohan/go.rice",
-			"stargazers_count": 2392,
-			"watchers_count": 2392,
-			"forks_count": 234,
-			"open_issues_count": 35
+			"stargazers_count": 2399,
+			"watchers_count": 2399,
+			"forks_count": 184,
+			"open_issues_count": 34
 		},
 		{
 			"id": 35818222,
@@ -52,11 +52,11 @@
 			"html_url": "https://github.com/shurcooL/vfsgen",
 			"homepage": "",
 			"created_at": "2015-05-18T13:03:02Z",
-			"updated_at": "2024-01-26T11:31:11Z",
+			"updated_at": "2024-03-10T01:44:07Z",
 			"svn_url": "https://github.com/shurcooL/vfsgen",
-			"stargazers_count": 981,
-			"watchers_count": 981,
-			"forks_count": 86,
+			"stargazers_count": 980,
+			"watchers_count": 980,
+			"forks_count": 84,
 			"open_issues_count": 32
 		},
 		{
@@ -66,11 +66,11 @@
 			"html_url": "https://github.com/mjibson/esc",
 			"homepage": "http://godoc.org/github.com/mjibson/esc",
 			"created_at": "2014-01-26T05:08:04Z",
-			"updated_at": "2024-02-08T06:55:49Z",
+			"updated_at": "2024-03-26T04:51:57Z",
 			"svn_url": "https://github.com/mjibson/esc",
 			"stargazers_count": 639,
 			"watchers_count": 639,
-			"forks_count": 75,
+			"forks_count": 76,
 			"open_issues_count": 10
 		},
 		{
@@ -80,10 +80,10 @@
 			"html_url": "https://github.com/UnnoTed/fileb0x",
 			"homepage": "",
 			"created_at": "2016-01-23T20:19:33Z",
-			"updated_at": "2024-01-23T07:43:40Z",
+			"updated_at": "2024-03-18T20:58:13Z",
 			"svn_url": "https://github.com/UnnoTed/fileb0x",
-			"stargazers_count": 632,
-			"watchers_count": 632,
+			"stargazers_count": 633,
+			"watchers_count": 633,
 			"forks_count": 53,
 			"open_issues_count": 15
 		},
@@ -150,10 +150,10 @@
 			"html_url": "https://github.com/leaanthony/debme",
 			"homepage": "",
 			"created_at": "2021-04-16T00:25:13Z",
-			"updated_at": "2024-01-13T06:33:55Z",
+			"updated_at": "2024-02-19T21:30:24Z",
 			"svn_url": "https://github.com/leaanthony/debme",
-			"stargazers_count": 28,
-			"watchers_count": 28,
+			"stargazers_count": 29,
+			"watchers_count": 29,
 			"forks_count": 7,
 			"open_issues_count": 1
 		},
