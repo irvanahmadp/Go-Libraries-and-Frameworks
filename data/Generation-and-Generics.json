@@ -1,7 +1,7 @@
 {
 	"name": "Generation and Generics",
 	"index_last_check": 0,
-	"last_update": 1707748193,
+	"last_update": 1712124545,
 	"libraries": [
 		{
 			"id": 15300997,
@@ -10,11 +10,11 @@
 			"html_url": "https://github.com/ahmetb/go-linq",
 			"homepage": "https://godoc.org/github.com/ahmetb/go-linq",
 			"created_at": "2013-12-19T03:05:00Z",
-			"updated_at": "2024-02-05T20:09:12Z",
+			"updated_at": "2024-04-02T12:52:28Z",
 			"svn_url": "https://github.com/ahmetb/go-linq",
-			"stargazers_count": 3401,
-			"watchers_count": 3401,
-			"forks_count": 278,
+			"stargazers_count": 3424,
+			"watchers_count": 3424,
+			"forks_count": 225,
 			"open_issues_count": 11
 		},
 		{
@@ -24,11 +24,11 @@
 			"html_url": "https://github.com/dave/jennifer",
 			"homepage": "",
 			"created_at": "2016-12-04T20:57:38Z",
-			"updated_at": "2024-02-11T12:42:40Z",
+			"updated_at": "2024-04-03T03:05:08Z",
 			"svn_url": "https://github.com/dave/jennifer",
-			"stargazers_count": 3133,
-			"watchers_count": 3133,
-			"forks_count": 159,
+			"stargazers_count": 3159,
+			"watchers_count": 3159,
+			"forks_count": 157,
 			"open_issues_count": 16
 		},
 		{
@@ -38,10 +38,10 @@
 			"html_url": "https://github.com/clipperhouse/gen",
 			"homepage": "http://clipperhouse.com/gen/overview/",
 			"created_at": "2013-10-13T20:26:36Z",
-			"updated_at": "2024-02-07T18:17:27Z",
+			"updated_at": "2024-03-28T03:08:52Z",
 			"svn_url": "https://github.com/clipperhouse/gen",
-			"stargazers_count": 1429,
-			"watchers_count": 1429,
+			"stargazers_count": 1431,
+			"watchers_count": 1431,
 			"forks_count": 90,
 			"open_issues_count": 32
 		},
@@ -52,11 +52,11 @@
 			"html_url": "https://github.com/awalterschulze/goderive",
 			"homepage": "",
 			"created_at": "2017-02-10T21:46:49Z",
-			"updated_at": "2024-02-12T13:36:58Z",
+			"updated_at": "2024-04-02T02:54:12Z",
 			"svn_url": "https://github.com/awalterschulze/goderive",
-			"stargazers_count": 1152,
-			"watchers_count": 1152,
-			"forks_count": 45,
+			"stargazers_count": 1164,
+			"watchers_count": 1164,
+			"forks_count": 46,
 			"open_issues_count": 19
 		},
 		{
@@ -66,12 +66,12 @@
 			"html_url": "https://github.com/hexdigest/gowrap",
 			"homepage": "",
 			"created_at": "2018-09-15T09:20:42Z",
-			"updated_at": "2024-02-10T08:49:31Z",
+			"updated_at": "2024-04-02T06:50:44Z",
 			"svn_url": "https://github.com/hexdigest/gowrap",
-			"stargazers_count": 851,
-			"watchers_count": 851,
-			"forks_count": 77,
-			"open_issues_count": 13
+			"stargazers_count": 879,
+			"watchers_count": 879,
+			"forks_count": 80,
+			"open_issues_count": 18
 		},
 		{
 			"id": 99968554,
@@ -80,12 +80,12 @@
 			"html_url": "https://github.com/abice/go-enum",
 			"homepage": "",
 			"created_at": "2017-08-10T22:07:31Z",
-			"updated_at": "2024-02-11T22:05:16Z",
+			"updated_at": "2024-04-01T15:56:25Z",
 			"svn_url": "https://github.com/abice/go-enum",
-			"stargazers_count": 614,
-			"watchers_count": 614,
-			"forks_count": 52,
-			"open_issues_count": 8
+			"stargazers_count": 646,
+			"watchers_count": 646,
+			"forks_count": 53,
+			"open_issues_count": 9
 		},
 		{
 			"id": 47477512,
@@ -94,10 +94,10 @@
 			"html_url": "https://github.com/rjeczalik/interfaces",
 			"homepage": "",
 			"created_at": "2015-12-06T00:04:50Z",
-			"updated_at": "2024-02-04T07:04:11Z",
+			"updated_at": "2024-03-28T17:05:13Z",
 			"svn_url": "https://github.com/rjeczalik/interfaces",
-			"stargazers_count": 410,
-			"watchers_count": 410,
+			"stargazers_count": 418,
+			"watchers_count": 418,
 			"forks_count": 31,
 			"open_issues_count": 13
 		},
@@ -108,10 +108,10 @@
 			"html_url": "https://github.com/ungerik/pkgreflect",
 			"homepage": "",
 			"created_at": "2012-09-03T07:53:00Z",
-			"updated_at": "2023-10-22T14:44:20Z",
+			"updated_at": "2024-02-23T15:41:21Z",
 			"svn_url": "https://github.com/ungerik/pkgreflect",
-			"stargazers_count": 105,
-			"watchers_count": 105,
+			"stargazers_count": 104,
+			"watchers_count": 104,
 			"forks_count": 16,
 			"open_issues_count": 0
 		},
