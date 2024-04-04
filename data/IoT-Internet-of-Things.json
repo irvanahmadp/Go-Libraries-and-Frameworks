@@ -1,7 +1,7 @@
 {
 	"name": "IoT (Internet of Things)",
 	"index_last_check": 0,
-	"last_update": 1707748207,
+	"last_update": 1712193971,
 	"libraries": [
 		{
 			"id": 12996196,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/hybridgroup/gobot",
 			"homepage": "https://gobot.io",
 			"created_at": "2013-09-21T14:09:19Z",
-			"updated_at": "2024-02-12T13:38:42Z",
+			"updated_at": "2024-04-03T17:48:05Z",
 			"svn_url": "https://github.com/hybridgroup/gobot",
-			"stargazers_count": 8636,
-			"watchers_count": 8636,
-			"forks_count": 1088,
-			"open_issues_count": 117
+			"stargazers_count": 8699,
+			"watchers_count": 8699,
+			"forks_count": 1027,
+			"open_issues_count": 116
 		},
 		{
 			"id": 62978868,
@@ -24,11 +24,11 @@
 			"html_url": "https://github.com/TIBCOSoftware/flogo",
 			"homepage": "http://flogo.io",
 			"created_at": "2016-07-10T02:57:43Z",
-			"updated_at": "2024-02-12T05:53:19Z",
+			"updated_at": "2024-04-02T12:07:02Z",
 			"svn_url": "https://github.com/TIBCOSoftware/flogo",
-			"stargazers_count": 2354,
-			"watchers_count": 2354,
-			"forks_count": 290,
+			"stargazers_count": 2366,
+			"watchers_count": 2366,
+			"forks_count": 291,
 			"open_issues_count": 127
 		},
 		{
@@ -52,11 +52,11 @@
 			"html_url": "https://github.com/google/periph",
 			"homepage": "https://periph.io",
 			"created_at": "2016-10-13T16:53:51Z",
-			"updated_at": "2024-02-03T20:39:22Z",
+			"updated_at": "2024-03-11T15:50:48Z",
 			"svn_url": "https://github.com/google/periph",
-			"stargazers_count": 1763,
-			"watchers_count": 1763,
-			"forks_count": 209,
+			"stargazers_count": 1759,
+			"watchers_count": 1759,
+			"forks_count": 169,
 			"open_issues_count": 0
 		},
 		{
@@ -66,11 +66,11 @@
 			"html_url": "https://github.com/paypal/gatt",
 			"homepage": "http://flogo.io",
 			"created_at": "2014-04-23T13:45:27Z",
-			"updated_at": "2024-02-10T12:57:49Z",
+			"updated_at": "2024-03-26T14:24:26Z",
 			"svn_url": "https://github.com/paypal/gatt",
-			"stargazers_count": 1099,
-			"watchers_count": 1099,
-			"forks_count": 295,
+			"stargazers_count": 1105,
+			"watchers_count": 1105,
+			"forks_count": 281,
 			"open_issues_count": 50
 		},
 		{
@@ -80,10 +80,10 @@
 			"html_url": "https://github.com/heedy/heedy",
 			"homepage": "https://heedy.org",
 			"created_at": "2015-01-16T19:44:21Z",
-			"updated_at": "2024-02-11T19:33:21Z",
+			"updated_at": "2024-03-21T02:25:05Z",
 			"svn_url": "https://github.com/heedy/heedy",
-			"stargazers_count": 387,
-			"watchers_count": 387,
+			"stargazers_count": 393,
+			"watchers_count": 393,
 			"forks_count": 32,
 			"open_issues_count": 21
 		},
@@ -94,10 +94,10 @@
 			"html_url": "https://github.com/goiot/devices",
 			"homepage": "",
 			"created_at": "2016-05-30T08:07:02Z",
-			"updated_at": "2024-01-04T16:05:07Z",
+			"updated_at": "2024-02-25T11:06:34Z",
 			"svn_url": "https://github.com/goiot/devices",
-			"stargazers_count": 263,
-			"watchers_count": 263,
+			"stargazers_count": 264,
+			"watchers_count": 264,
 			"forks_count": 33,
 			"open_issues_count": 9
 		},
@@ -108,10 +108,10 @@
 			"html_url": "https://github.com/amimof/huego",
 			"homepage": "",
 			"created_at": "2017-05-16T05:31:45Z",
-			"updated_at": "2024-01-28T15:33:44Z",
+			"updated_at": "2024-04-02T04:38:26Z",
 			"svn_url": "https://github.com/amimof/huego",
-			"stargazers_count": 245,
-			"watchers_count": 245,
+			"stargazers_count": 247,
+			"watchers_count": 247,
 			"forks_count": 36,
 			"open_issues_count": 10
 		},
@@ -122,10 +122,10 @@
 			"html_url": "https://github.com/sensorbee/sensorbee",
 			"homepage": "http://sensorbee.io/",
 			"created_at": "2016-02-19T07:49:56Z",
-			"updated_at": "2023-12-12T15:28:46Z",
+			"updated_at": "2024-02-25T11:07:46Z",
 			"svn_url": "https://github.com/sensorbee/sensorbee",
-			"stargazers_count": 227,
-			"watchers_count": 227,
+			"stargazers_count": 228,
+			"watchers_count": 228,
 			"forks_count": 42,
 			"open_issues_count": 39
 		},
@@ -136,10 +136,10 @@
 			"html_url": "https://github.com/vaelen/iot",
 			"homepage": "",
 			"created_at": "2018-03-08T06:51:51Z",
-			"updated_at": "2023-11-04T01:47:14Z",
+			"updated_at": "2024-04-02T03:46:00Z",
 			"svn_url": "https://github.com/vaelen/iot",
-			"stargazers_count": 64,
-			"watchers_count": 64,
+			"stargazers_count": 66,
+			"watchers_count": 66,
 			"forks_count": 13,
 			"open_issues_count": 0
 		},
@@ -164,12 +164,12 @@
 			"html_url": "https://github.com/mainflux/mainflux",
 			"homepage": "",
 			"created_at": "2023-12-14T13:27:21Z",
-			"updated_at": "2024-02-06T15:29:48Z",
+			"updated_at": "2024-04-03T18:33:35Z",
 			"svn_url": "https://github.com/mainflux/mainflux",
-			"stargazers_count": 20,
-			"watchers_count": 20,
-			"forks_count": 6,
-			"open_issues_count": 0
+			"stargazers_count": 24,
+			"watchers_count": 24,
+			"forks_count": 10,
+			"open_issues_count": 1
 		}
 	]
 }
