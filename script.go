@@ -252,11 +252,11 @@ func updateCategoryDataFile(categories []Category, appData *App) {
 			categories[indexCategory].LastUpdate = nowUnixTime
 
 		} else {
-			fmt.Println("category: ", category.Name, " skip")
-			fmt.Println("libraries: ", len(urls))
-			fmt.Println("RateLimitRemaining: ", appData.RateLimitRemaining)
-			fmt.Println("nowUnixTime: ", nowUnixTime)
-			fmt.Println("RateLimitReset: ", appData.RateLimitReset)
+			fmt.Println("category:", category.Name, " skip")
+			fmt.Println("libraries:", len(urls))
+			fmt.Println("RateLimitRemaining:", appData.RateLimitRemaining)
+			fmt.Println("nowUnixTime:", nowUnixTime)
+			fmt.Println("RateLimitReset:", appData.RateLimitReset)
 
 		} //categories check end
 		fmt.Println("========")
