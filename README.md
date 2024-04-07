@@ -216,13 +216,13 @@ Libraries and tools helping with build automation.
 ### CSS Preprocessors
 Libraries for preprocessing CSS files.
 
-<sup>*Last Update: 2024-03-06 20:38:18*</sup>
+<sup>*Last Update: 2024-04-07 22:11:53*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [gcss](https://github.com/yosssi/gcss) | 488 | 40 | 10 | Pure Go CSS Preprocessor | 2014-09-04 14:38:20 | 2024-02-28 11:18:42 |
+| [gcss](https://github.com/yosssi/gcss) | 491 | 40 | 10 | Pure Go CSS Preprocessor | 2014-09-04 14:38:20 | 2024-03-21 21:46:27 |
 | [go-libsass](http://godoc.org/github.com/wellington/go-libsass) | 203 | 28 | 17 | Go wrapper for libsass, the only Sass 3.5 compiler for Go | 2015-04-19 15:09:47 | 2024-03-02 01:02:46 |
 </details>
 
@@ -921,28 +921,28 @@ Libraries for handling files and file systems.
 ### Financial
 Packages for accounting and finance.
 
-<sup>*Last Update: 2024-02-15 05:56:10*</sup>
+<sup>*Last Update: 2024-04-07 22:11:45*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [decimal](https://github.com/shopspring/decimal) | 5,676 | 622 | 112 | Arbitrary-precision fixed-point decimal numbers in go | 2015-02-25 20:12:57 | 2024-02-14 13:32:23 |
-| [go-money](https://github.com/Rhymond/go-money) | 1,452 | 139 | 28 | Go implementation of Fowler's Money pattern | 2017-03-20 16:23:54 | 2024-02-14 16:28:31 |
-| [accounting](https://github.com/leekchan/accounting) | 851 | 75 | 13 | money and currency formatting for golang | 2015-08-10 13:23:56 | 2024-02-13 22:50:04 |
-| [techan](https://godoc.org/github.com/sdcoffey/techan) | 775 | 136 | 21 | Technical Analysis Library for Golang | 2017-03-08 03:04:08 | 2024-02-10 12:30:42 |
+| [decimal](https://github.com/shopspring/decimal) | 5,857 | 600 | 112 | Arbitrary-precision fixed-point decimal numbers in go | 2015-02-25 20:12:57 | 2024-04-07 11:03:10 |
+| [go-money](https://github.com/Rhymond/go-money) | 1,482 | 139 | 32 | Go implementation of Fowler's Money pattern | 2017-03-20 16:23:54 | 2024-04-04 20:31:54 |
+| [accounting](https://github.com/leekchan/accounting) | 860 | 74 | 13 | money and currency formatting for golang | 2015-08-10 13:23:56 | 2024-04-01 20:22:19 |
+| [techan](https://godoc.org/github.com/sdcoffey/techan) | 790 | 138 | 21 | Technical Analysis Library for Golang | 2017-03-08 03:04:08 | 2024-04-02 17:40:30 |
 | [go-finance](https://github.com/FlashBoys/go-finance) | 534 | 49 | 4 | :warning: Deprecrated in favor of https://github.com/piquette/finance-go  | 2016-02-28 00:37:46 | 2021-06-23 04:00:30 |
-| [currency](https://pkg.go.dev/github.com/bojanz/currency) | 471 | 40 | 2 | Currency handling for Go. | 2020-04-16 15:34:39 | 2024-02-13 05:47:27 |
-| [orderbook](https://github.com/i25959341/orderbook) | 385 | 138 | 5 | Matching Engine for Limit Order Book in Golang | 2018-04-24 18:05:26 | 2024-02-14 07:36:47 |
-| [go-finance](https://github.com/alpeb/go-finance) | 160 | 23 | 0 | Go library containing a collection of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds and depreciation calculations. | 2017-06-01 15:58:33 | 2024-01-12 06:50:53 |
-| [sleet](https://github.com/BoltApp/sleet) | 132 | 21 | 10 | Payment abstraction library - one interface for multiple payment processors ( inspired by Ruby's ActiveMerchant ) | 2019-11-13 21:56:58 | 2024-02-02 04:48:44 |
-| [ofxgo](https://github.com/aclindsa/ofxgo) | 128 | 27 | 0 | Golang library for querying and parsing OFX | 2015-11-08 13:56:53 | 2024-02-08 00:26:39 |
-| [transaction](https://github.com/claygod/transaction) | 127 | 18 | 0 | Embedded database for accounts transactions. | 2017-10-11 13:50:30 | 2024-01-28 16:39:37 |
+| [currency](https://pkg.go.dev/github.com/bojanz/currency) | 491 | 38 | 2 | Currency handling for Go. | 2020-04-16 15:34:39 | 2024-04-02 14:43:50 |
+| [orderbook](https://github.com/i25959341/orderbook) | 395 | 139 | 5 | Matching Engine for Limit Order Book in Golang | 2018-04-24 18:05:26 | 2024-03-31 03:18:31 |
+| [go-finance](https://github.com/alpeb/go-finance) | 165 | 23 | 0 | Go library containing a collection of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds and depreciation calculations. | 2017-06-01 15:58:33 | 2024-04-07 14:50:11 |
+| [sleet](https://github.com/BoltApp/sleet) | 137 | 21 | 9 | Payment abstraction library - one interface for multiple payment processors ( inspired by Ruby's ActiveMerchant ) | 2019-11-13 21:56:58 | 2024-03-27 05:12:41 |
+| [ofxgo](https://github.com/aclindsa/ofxgo) | 129 | 28 | 1 | Golang library for querying and parsing OFX | 2015-11-08 13:56:53 | 2024-03-09 00:35:46 |
+| [transaction](https://github.com/claygod/transaction) | 127 | 17 | 0 | Embedded database for accounts transactions. | 2017-10-11 13:50:30 | 2024-01-28 16:39:37 |
 | [vat](https://github.com/dannyvankooten/vat) | 110 | 16 | 3 | Go package for dealing with EU VAT. Does VAT number validation & rates retrieval. | 2016-06-18 16:10:09 | 2024-01-24 16:34:45 |
-| [go-finnhub](https://github.com/m1/go-finnhub) | 84 | 17 | 0 | Simple and easy to use client for stock market, forex and crypto data from finnhub.io written in Go. Access real-time financial market data from 60+ stock exchanges, 10 forex brokers, and 15+ crypto exchanges | 2020-01-13 20:47:13 | 2023-12-08 08:24:00 |
-| [currency](https://github.com/bnkamalesh/currency) | 58 | 8 | 0 | A currency computations package. | 2017-05-09 06:06:38 | 2024-02-03 07:48:51 |
+| [go-finnhub](https://github.com/m1/go-finnhub) | 87 | 17 | 0 | Simple and easy to use client for stock market, forex and crypto data from finnhub.io written in Go. Access real-time financial market data from 60+ stock exchanges, 10 forex brokers, and 15+ crypto exchanges | 2020-01-13 20:47:13 | 2024-03-28 17:42:52 |
+| [currency](https://github.com/bnkamalesh/currency) | 59 | 8 | 0 | A currency computations package. | 2017-05-09 06:06:38 | 2024-03-09 07:52:09 |
+| [go-finance](https://www.yellowduck.be) | 25 | 6 | 1 | Finance related Go functions (e.g. exchange rates, VAT number checking, …) | 2019-09-30 06:49:07 | 2024-03-14 10:46:55 |
 | [fastme](https://github.com/newity/fastme) | 24 | 4 | 0 | Arbitrary-precision fixed-point decimal numbers in go | 2020-10-29 13:57:10 | 2021-08-10 04:48:11 |
-| [go-finance](https://www.yellowduck.be) | 24 | 6 | 1 | Finance related Go functions (e.g. exchange rates, VAT number checking, …) | 2019-09-30 06:49:07 | 2024-01-12 06:50:59 |
 </details>
 
 ### Forms
@@ -1614,42 +1614,42 @@ These libraries were placed here because none of the other categories seemed to 
 ### Natural Language Processing
 Libraries for working with human languages.
 
-<sup>*Last Update: 2024-02-14 16:35:16*</sup>
+<sup>*Last Update: 2024-04-07 22:11:23*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [prose](https://github.com/jdkato/prose) | 3,027 | 163 | 21 | :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction. | 2017-02-17 17:08:22 | 2024-02-08 19:55:12 |
-| [go-i18n](https://github.com/nicksnyder/go-i18n) | 2,684 | 318 | 15 | Translate your Go program into multiple languages. | 2012-01-14 21:44:37 | 2024-02-14 08:28:05 |
-| [gse](https://github.com/go-ego/gse) | 2,422 | 211 | 13 | Go efficient multilingual NLP and text segmentation; support English, Chinese, Japanese and others. | 2017-06-23 15:42:35 | 2024-02-07 06:31:55 |
-| [gojieba](https://github.com/yanyiwu/gojieba) | 2,302 | 337 | 61 | "结巴"中文分词的Golang版本 | 2015-09-12 01:30:44 | 2024-02-08 09:06:03 |
-| [spago](https://github.com/nlpodyssey/spago) | 1,694 | 83 | 11 | Self-contained Machine Learning and Natural Language Processing library in Go | 2020-01-05 20:39:29 | 2024-02-08 06:43:02 |
-| [go-pinyin](https://godoc.org/github.com/mozillazg/go-pinyin) | 1,534 | 238 | 16 | 汉字转拼音 | 2014-11-09 14:04:33 | 2024-02-02 02:58:15 |
-| [when](https://github.com/olebedev/when) | 1,307 | 83 | 16 | A natural language date/time parser with pluggable rules | 2016-12-27 13:11:46 | 2024-02-11 11:51:48 |
-| [kagome](https://github.com/ikawaha/kagome) | 774 | 50 | 5 | Self-contained Japanese Morphological Analyzer written in pure Go | 2014-06-26 04:38:13 | 2024-02-12 10:07:36 |
-| [whatlanggo](https://github.com/abadojack/whatlanggo) | 616 | 62 | 12 | Natural language detection library for Go | 2017-02-20 17:32:01 | 2024-02-04 16:04:26 |
-| [nlp](https://github.com/james-bowman/nlp) | 428 | 45 | 5 | Selected Machine Learning algorithms for natural language processing and semantic analysis in Golang | 2017-03-15 08:28:05 | 2024-02-01 02:36:16 |
-| [sentences](https://sentences-231000.appspot.com/) | 404 | 37 | 5 | A multilingual command line sentence tokenizer in Golang | 2015-08-07 01:08:20 | 2024-02-11 19:05:51 |
-| [nlp](https://github.com/shixzie/nlp) | 385 | 35 | 3 | [UNMANTEINED] Extract values from strings and fill your structs with nlp. | 2017-01-25 07:19:03 | 2024-01-22 09:04:54 |
-| [getlang](https://github.com/rylans/getlang) | 163 | 21 | 4 | Natural language detection package in pure Go | 2018-03-01 21:27:30 | 2024-01-22 14:59:59 |
-| [go-unidecode](https://godoc.org/github.com/mozillazg/go-unidecode) | 120 | 20 | 5 | ASCII transliterations of Unicode text. | 2016-07-08 13:15:10 | 2024-02-13 18:13:06 |
-| [RAKE.Go](https://github.com/afjoseph/RAKE.Go) | 107 | 18 | 4 | A Go port of the Rapid Automatic Keyword Extraction algorithm (RAKE) | 2016-12-17 13:36:25 | 2023-12-26 07:11:57 |
+| [prose](https://github.com/jdkato/prose) | 3,031 | 163 | 21 | :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction. | 2017-02-17 17:08:22 | 2024-04-02 17:40:40 |
+| [go-i18n](https://github.com/nicksnyder/go-i18n) | 2,752 | 260 | 16 | Translate your Go program into multiple languages. | 2012-01-14 21:44:37 | 2024-04-06 10:07:01 |
+| [gse](https://github.com/go-ego/gse) | 2,458 | 209 | 13 | Go efficient multilingual NLP and text segmentation; support English, Chinese, Japanese and others. | 2017-06-23 15:42:35 | 2024-04-05 23:31:42 |
+| [gojieba](https://github.com/yanyiwu/gojieba) | 2,318 | 299 | 62 | "结巴"中文分词的Golang版本 | 2015-09-12 01:30:44 | 2024-04-06 08:35:06 |
+| [spago](https://github.com/nlpodyssey/spago) | 1,707 | 86 | 11 | Self-contained Machine Learning and Natural Language Processing library in Go | 2020-01-05 20:39:29 | 2024-04-02 17:40:50 |
+| [go-pinyin](https://godoc.org/github.com/mozillazg/go-pinyin) | 1,554 | 193 | 16 | 汉字转拼音 | 2014-11-09 14:04:33 | 2024-04-05 07:38:58 |
+| [when](https://github.com/olebedev/when) | 1,313 | 79 | 16 | A natural language date/time parser with pluggable rules | 2016-12-27 13:11:46 | 2024-03-30 13:33:03 |
+| [kagome](https://github.com/ikawaha/kagome) | 789 | 53 | 5 | Self-contained Japanese Morphological Analyzer written in pure Go | 2014-06-26 04:38:13 | 2024-04-05 04:43:36 |
+| [whatlanggo](https://github.com/abadojack/whatlanggo) | 624 | 63 | 12 | Natural language detection library for Go | 2017-02-20 17:32:01 | 2024-03-21 21:28:25 |
+| [nlp](https://github.com/james-bowman/nlp) | 431 | 45 | 5 | Selected Machine Learning algorithms for natural language processing and semantic analysis in Golang | 2017-03-15 08:28:05 | 2024-04-05 08:34:29 |
+| [sentences](https://sentences-231000.appspot.com/) | 416 | 38 | 5 | A multilingual command line sentence tokenizer in Golang | 2015-08-07 01:08:20 | 2024-04-06 12:06:43 |
+| [nlp](https://github.com/shixzie/nlp) | 386 | 33 | 3 | [UNMANTEINED] Extract values from strings and fill your structs with nlp. | 2017-01-25 07:19:03 | 2024-04-02 14:39:08 |
+| [getlang](https://github.com/rylans/getlang) | 166 | 21 | 4 | Natural language detection package in pure Go | 2018-03-01 21:27:30 | 2024-04-01 19:52:49 |
+| [go-unidecode](https://godoc.org/github.com/mozillazg/go-unidecode) | 123 | 19 | 5 | ASCII transliterations of Unicode text. | 2016-07-08 13:15:10 | 2024-04-01 07:29:12 |
+| [RAKE.Go](https://github.com/afjoseph/RAKE.Go) | 109 | 18 | 4 | A Go port of the Rapid Automatic Keyword Extraction algorithm (RAKE) | 2016-12-17 13:36:25 | 2024-03-31 05:26:22 |
 | [go-nlp](https://github.com/nuance/go-nlp) | 96 | 12 | 0 | Utilities for working with discrete probability distributions and other tools useful for doing NLP work | 2011-05-02 06:43:36 | 2024-01-19 06:27:55 |
-| [segment](https://github.com/blevesearch/segment) | 84 | 17 | 5 | A Go library for performing Unicode Text Segmentation as described in Unicode Standard Annex #29 | 2014-10-16 19:24:26 | 2024-01-08 15:11:31 |
+| [segment](https://github.com/blevesearch/segment) | 87 | 17 | 5 | A Go library for performing Unicode Text Segmentation as described in Unicode Standard Annex #29 | 2014-10-16 19:24:26 | 2024-04-05 05:08:53 |
 | [gounidecode](https://github.com/fiam/gounidecode) | 79 | 21 | 2 | Unicode transliterator for #golang | 2012-05-01 11:59:34 | 2023-07-25 20:07:55 |
-| [go-stem](svn://go-stem) | 76 | 15 | 1 | Word Stemming in Go | 2011-09-23 19:07:23 | 2023-09-01 11:55:09 |
+| [go-stem](svn://go-stem) | 77 | 15 | 1 | Word Stemming in Go | 2011-09-23 19:07:23 | 2024-02-19 14:50:54 |
 | [textcat](https://github.com/pebbe/textcat) | 71 | 11 | 1 | A Go package for n-gram based text categorization, with support for utf-8 and raw text | 2012-09-21 15:04:45 | 2023-12-27 04:25:50 |
-| [address](https://pkg.go.dev/github.com/bojanz/address) | 69 | 3 | 0 | Address handling for Go. | 2020-10-07 18:15:27 | 2023-10-03 05:04:24 |
-| [MMSEGO](https://github.com/awsong/MMSEGO) | 62 | 14 | 1 | Chinese word splitting algorithm MMSEG in GO | 2012-04-18 04:06:21 | 2022-09-27 08:51:05 |
-| [go-localize](https://github.com/m1/go-localize) | 58 | 12 | 3 | i18n (Internationalization and localization) engine written in Go, used for translating locale strings.  | 2019-12-23 12:02:51 | 2024-01-18 09:50:59 |
-| [stemmer](https://godoc.org/github.com/dchest/stemmer) | 51 | 6 | 0 | Stemmer packages for Go programming language. Includes English, German and Dutch stemmers. | 2011-03-21 02:08:12 | 2024-02-13 15:35:07 |
+| [address](https://pkg.go.dev/github.com/bojanz/address) | 70 | 3 | 0 | Address handling for Go. | 2020-10-07 18:15:27 | 2024-04-07 15:06:44 |
+| [MMSEGO](https://github.com/awsong/MMSEGO) | 63 | 14 | 1 | Chinese word splitting algorithm MMSEG in GO | 2012-04-18 04:06:21 | 2024-04-01 19:53:44 |
+| [go-localize](https://github.com/m1/go-localize) | 58 | 12 | 3 | i18n (Internationalization and localization) engine written in Go, used for translating locale strings.  | 2019-12-23 12:02:51 | 2024-03-27 18:06:00 |
+| [stemmer](https://godoc.org/github.com/dchest/stemmer) | 51 | 7 | 0 | Stemmer packages for Go programming language. Includes English, German and Dutch stemmers. | 2011-03-21 02:08:12 | 2024-02-13 15:35:07 |
 | [go2vec](https://godoc.org/github.com/mozillazg/go-unidecode) | 50 | 5 | 0 | Read and use word2vec vectors in Go | 2015-01-27 12:02:04 | 2023-10-19 10:32:39 |
 | [porter2](http://zhen.org/blog/generating-porter2-fsm-for-fun-and-performance/) | 46 | 7 | 1 | High Performance Porter2 Stemmer | 2015-01-21 07:30:32 | 2022-09-27 08:50:40 |
-| [petrovich](https://github.com/striker2000/petrovich) | 45 | 6 | 0 | Golang port of Petrovich - an inflector for Russian anthroponyms. | 2016-12-26 22:50:38 | 2024-01-31 12:57:54 |
-| [iuliia-go](https://github.com/mehanizm/iuliia-go) | 44 | 6 | 1 | Transliterate Cyrillic → Latin in every possible way | 2020-04-27 09:29:40 | 2024-02-05 12:09:44 |
+| [iuliia-go](https://github.com/mehanizm/iuliia-go) | 46 | 6 | 1 | Transliterate Cyrillic → Latin in every possible way | 2020-04-27 09:29:40 | 2024-02-29 10:05:09 |
+| [petrovich](https://github.com/striker2000/petrovich) | 44 | 6 | 0 | Golang port of Petrovich - an inflector for Russian anthroponyms. | 2016-12-26 22:50:38 | 2024-04-04 14:34:52 |
+| [transliterator](https://github.com/alexsergivan/transliterator) | 39 | 9 | 1 | Golang text Transliterator (i.e München -> Muenchen) | 2020-04-17 14:19:55 | 2024-02-23 04:30:39 |
 | [govader](https://github.com/jonreiter/govader) | 38 | 7 | 1 | vader sentiment analysis in go | 2020-01-19 10:06:15 | 2023-11-07 14:47:59 |
-| [transliterator](https://github.com/alexsergivan/transliterator) | 38 | 9 | 1 | Golang text Transliterator (i.e München -> Muenchen) | 2020-04-17 14:19:55 | 2023-12-14 15:33:52 |
 | [snowball](https://github.com/goodsign/snowball) | 36 | 5 | 0 | Cgo binding for Snowball C library | 2012-12-11 12:42:19 | 2023-08-18 21:23:00 |
 | [mystem](https://github.com/dveselov/mystem) | 32 | 8 | 0 | CGo bindings to Yandex.Mystem | 2016-08-30 14:55:39 | 2024-01-21 16:09:12 |
 | [paicehusk](https://github.com/rookii/paicehusk) | 29 | 7 | 2 | Golang implementation of the Paice/Husk Stemming Algorithm | 2012-09-29 16:06:58 | 2023-07-23 05:39:03 |

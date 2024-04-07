@@ -1,7 +1,7 @@
 {
 	"name": "Financial",
 	"index_last_check": 0,
-	"last_update": 1707951370,
+	"last_update": 1712502705,
 	"libraries": [
 		{
 			"id": 31333618,
@@ -10,11 +10,11 @@
 			"html_url": "https://github.com/shopspring/decimal",
 			"homepage": "",
 			"created_at": "2015-02-25T20:12:57Z",
-			"updated_at": "2024-02-14T13:32:23Z",
+			"updated_at": "2024-04-07T11:03:10Z",
 			"svn_url": "https://github.com/shopspring/decimal",
-			"stargazers_count": 5676,
-			"watchers_count": 5676,
-			"forks_count": 622,
+			"stargazers_count": 5857,
+			"watchers_count": 5857,
+			"forks_count": 600,
 			"open_issues_count": 112
 		},
 		{
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/Rhymond/go-money",
 			"homepage": "",
 			"created_at": "2017-03-20T16:23:54Z",
-			"updated_at": "2024-02-14T16:28:31Z",
+			"updated_at": "2024-04-04T20:31:54Z",
 			"svn_url": "https://github.com/Rhymond/go-money",
-			"stargazers_count": 1452,
-			"watchers_count": 1452,
+			"stargazers_count": 1482,
+			"watchers_count": 1482,
 			"forks_count": 139,
-			"open_issues_count": 28
+			"open_issues_count": 32
 		},
 		{
 			"id": 40483745,
@@ -38,11 +38,11 @@
 			"html_url": "https://github.com/leekchan/accounting",
 			"homepage": "",
 			"created_at": "2015-08-10T13:23:56Z",
-			"updated_at": "2024-02-13T22:50:04Z",
+			"updated_at": "2024-04-01T20:22:19Z",
 			"svn_url": "https://github.com/leekchan/accounting",
-			"stargazers_count": 851,
-			"watchers_count": 851,
-			"forks_count": 75,
+			"stargazers_count": 860,
+			"watchers_count": 860,
+			"forks_count": 74,
 			"open_issues_count": 13
 		},
 		{
@@ -52,11 +52,11 @@
 			"html_url": "https://github.com/sdcoffey/techan",
 			"homepage": "https://godoc.org/github.com/sdcoffey/techan",
 			"created_at": "2017-03-08T03:04:08Z",
-			"updated_at": "2024-02-10T12:30:42Z",
+			"updated_at": "2024-04-02T17:40:30Z",
 			"svn_url": "https://github.com/sdcoffey/techan",
-			"stargazers_count": 775,
-			"watchers_count": 775,
-			"forks_count": 136,
+			"stargazers_count": 790,
+			"watchers_count": 790,
+			"forks_count": 138,
 			"open_issues_count": 21
 		},
 		{
@@ -80,11 +80,11 @@
 			"html_url": "https://github.com/bojanz/currency",
 			"homepage": "https://pkg.go.dev/github.com/bojanz/currency",
 			"created_at": "2020-04-16T15:34:39Z",
-			"updated_at": "2024-02-13T05:47:27Z",
+			"updated_at": "2024-04-02T14:43:50Z",
 			"svn_url": "https://github.com/bojanz/currency",
-			"stargazers_count": 471,
-			"watchers_count": 471,
-			"forks_count": 40,
+			"stargazers_count": 491,
+			"watchers_count": 491,
+			"forks_count": 38,
 			"open_issues_count": 2
 		},
 		{
@@ -94,11 +94,11 @@
 			"html_url": "https://github.com/i25959341/orderbook",
 			"homepage": "",
 			"created_at": "2018-04-24T18:05:26Z",
-			"updated_at": "2024-02-14T07:36:47Z",
+			"updated_at": "2024-03-31T03:18:31Z",
 			"svn_url": "https://github.com/i25959341/orderbook",
-			"stargazers_count": 385,
-			"watchers_count": 385,
-			"forks_count": 138,
+			"stargazers_count": 395,
+			"watchers_count": 395,
+			"forks_count": 139,
 			"open_issues_count": 5
 		},
 		{
@@ -108,10 +108,10 @@
 			"html_url": "https://github.com/alpeb/go-finance",
 			"homepage": "",
 			"created_at": "2017-06-01T15:58:33Z",
-			"updated_at": "2024-01-12T06:50:53Z",
+			"updated_at": "2024-04-07T14:50:11Z",
 			"svn_url": "https://github.com/alpeb/go-finance",
-			"stargazers_count": 160,
-			"watchers_count": 160,
+			"stargazers_count": 165,
+			"watchers_count": 165,
 			"forks_count": 23,
 			"open_issues_count": 0
 		},
@@ -122,12 +122,12 @@
 			"html_url": "https://github.com/BoltApp/sleet",
 			"homepage": "",
 			"created_at": "2019-11-13T21:56:58Z",
-			"updated_at": "2024-02-02T04:48:44Z",
+			"updated_at": "2024-03-27T05:12:41Z",
 			"svn_url": "https://github.com/BoltApp/sleet",
-			"stargazers_count": 132,
-			"watchers_count": 132,
+			"stargazers_count": 137,
+			"watchers_count": 137,
 			"forks_count": 21,
-			"open_issues_count": 10
+			"open_issues_count": 9
 		},
 		{
 			"id": 45782564,
@@ -136,12 +136,12 @@
 			"html_url": "https://github.com/aclindsa/ofxgo",
 			"homepage": "",
 			"created_at": "2015-11-08T13:56:53Z",
-			"updated_at": "2024-02-08T00:26:39Z",
+			"updated_at": "2024-03-09T00:35:46Z",
 			"svn_url": "https://github.com/aclindsa/ofxgo",
-			"stargazers_count": 128,
-			"watchers_count": 128,
-			"forks_count": 27,
-			"open_issues_count": 0
+			"stargazers_count": 129,
+			"watchers_count": 129,
+			"forks_count": 28,
+			"open_issues_count": 1
 		},
 		{
 			"id": 106560493,
@@ -154,7 +154,7 @@
 			"svn_url": "https://github.com/claygod/transaction",
 			"stargazers_count": 127,
 			"watchers_count": 127,
-			"forks_count": 18,
+			"forks_count": 17,
 			"open_issues_count": 0
 		},
 		{
@@ -178,10 +178,10 @@
 			"html_url": "https://github.com/m1/go-finnhub",
 			"homepage": "",
 			"created_at": "2020-01-13T20:47:13Z",
-			"updated_at": "2023-12-08T08:24:00Z",
+			"updated_at": "2024-03-28T17:42:52Z",
 			"svn_url": "https://github.com/m1/go-finnhub",
-			"stargazers_count": 84,
-			"watchers_count": 84,
+			"stargazers_count": 87,
+			"watchers_count": 87,
 			"forks_count": 17,
 			"open_issues_count": 0
 		},
@@ -192,12 +192,26 @@
 			"html_url": "https://github.com/bnkamalesh/currency",
 			"homepage": "",
 			"created_at": "2017-05-09T06:06:38Z",
-			"updated_at": "2024-02-03T07:48:51Z",
+			"updated_at": "2024-03-09T07:52:09Z",
 			"svn_url": "https://github.com/bnkamalesh/currency",
-			"stargazers_count": 58,
-			"watchers_count": 58,
+			"stargazers_count": 59,
+			"watchers_count": 59,
 			"forks_count": 8,
 			"open_issues_count": 0
+		},
+		{
+			"id": 211794144,
+			"name": "go-finance",
+			"description": "Finance related Go functions (e.g. exchange rates, VAT number checking, …)",
+			"html_url": "https://github.com/pieterclaerhout/go-finance",
+			"homepage": "https://www.yellowduck.be",
+			"created_at": "2019-09-30T06:49:07Z",
+			"updated_at": "2024-03-14T10:46:55Z",
+			"svn_url": "https://github.com/pieterclaerhout/go-finance",
+			"stargazers_count": 25,
+			"watchers_count": 25,
+			"forks_count": 6,
+			"open_issues_count": 1
 		},
 		{
 			"id": 308344835,
@@ -212,20 +226,6 @@
 			"watchers_count": 24,
 			"forks_count": 4,
 			"open_issues_count": 0
-		},
-		{
-			"id": 211794144,
-			"name": "go-finance",
-			"description": "Finance related Go functions (e.g. exchange rates, VAT number checking, …)",
-			"html_url": "https://github.com/pieterclaerhout/go-finance",
-			"homepage": "https://www.yellowduck.be",
-			"created_at": "2019-09-30T06:49:07Z",
-			"updated_at": "2024-01-12T06:50:59Z",
-			"svn_url": "https://github.com/pieterclaerhout/go-finance",
-			"stargazers_count": 24,
-			"watchers_count": 24,
-			"forks_count": 6,
-			"open_issues_count": 1
 		}
 	]
 }
