@@ -1,8 +1,8 @@
 {
-	"last_update": 1713187667,
+	"last_update": 1713273070,
 	"rate_limit": 60,
 	"rate_limit_remaining": 0,
-	"rate_limit_reset": 1713191231,
+	"rate_limit_reset": 1713276634,
 	"categories": [
 		{
 			"name": "Audio and Music",
@@ -72,7 +72,7 @@
 		{
 			"name": "Database - SQL query builder",
 			"description": "libraries for building and using SQL",
-			"last_update": 1708264764
+			"last_update": 1713273052
 		},
 		{
 			"name": "Database Drivers - Multiple Backends.",
@@ -82,7 +82,7 @@
 		{
 			"name": "Database Drivers - NoSQL Databases",
 			"description": "",
-			"last_update": 1708264750
+			"last_update": 1713273034
 		},
 		{
 			"name": "Database Drivers - Relational Databases",

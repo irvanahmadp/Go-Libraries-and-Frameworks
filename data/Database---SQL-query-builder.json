@@ -1,7 +1,7 @@
 {
 	"name": "Database - SQL query builder",
 	"index_last_check": 0,
-	"last_update": 1708264764,
+	"last_update": 1713273052,
 	"libraries": [
 		{
 			"id": 16019737,
@@ -10,11 +10,11 @@
 			"html_url": "https://github.com/Masterminds/squirrel",
 			"homepage": "",
 			"created_at": "2014-01-18T05:29:58Z",
-			"updated_at": "2024-02-18T10:29:12Z",
+			"updated_at": "2024-04-16T12:14:27Z",
 			"svn_url": "https://github.com/Masterminds/squirrel",
-			"stargazers_count": 6385,
-			"watchers_count": 6385,
-			"forks_count": 453,
+			"stargazers_count": 6497,
+			"watchers_count": 6497,
+			"forks_count": 448,
 			"open_issues_count": 80
 		},
 		{
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/xo/xo",
 			"homepage": "",
 			"created_at": "2016-02-05T10:22:20Z",
-			"updated_at": "2024-02-15T10:56:57Z",
+			"updated_at": "2024-04-15T02:10:44Z",
 			"svn_url": "https://github.com/xo/xo",
-			"stargazers_count": 3523,
-			"watchers_count": 3523,
-			"forks_count": 314,
-			"open_issues_count": 41
+			"stargazers_count": 3558,
+			"watchers_count": 3558,
+			"forks_count": 310,
+			"open_issues_count": 42
 		},
 		{
 			"id": 31097246,
@@ -38,12 +38,12 @@
 			"html_url": "https://github.com/doug-martin/goqu",
 			"homepage": "http://doug-martin.github.io/goqu/",
 			"created_at": "2015-02-21T01:06:00Z",
-			"updated_at": "2024-02-17T01:37:15Z",
+			"updated_at": "2024-04-14T08:01:07Z",
 			"svn_url": "https://github.com/doug-martin/goqu",
-			"stargazers_count": 2159,
-			"watchers_count": 2159,
-			"forks_count": 229,
-			"open_issues_count": 116
+			"stargazers_count": 2226,
+			"watchers_count": 2226,
+			"forks_count": 196,
+			"open_issues_count": 121
 		},
 		{
 			"id": 173437670,
@@ -52,12 +52,12 @@
 			"html_url": "https://github.com/go-jet/jet",
 			"homepage": "",
 			"created_at": "2019-03-02T11:06:23Z",
-			"updated_at": "2024-02-17T14:35:12Z",
+			"updated_at": "2024-04-16T13:07:03Z",
 			"svn_url": "https://github.com/go-jet/jet",
-			"stargazers_count": 1841,
-			"watchers_count": 1841,
-			"forks_count": 104,
-			"open_issues_count": 34
+			"stargazers_count": 2001,
+			"watchers_count": 2001,
+			"forks_count": 106,
+			"open_issues_count": 32
 		},
 		{
 			"id": 112713415,
@@ -66,11 +66,11 @@
 			"html_url": "https://github.com/didi/gendry",
 			"homepage": "",
 			"created_at": "2017-12-01T08:15:43Z",
-			"updated_at": "2024-02-08T13:09:19Z",
+			"updated_at": "2024-04-15T05:28:57Z",
 			"svn_url": "https://github.com/didi/gendry",
-			"stargazers_count": 1569,
-			"watchers_count": 1569,
-			"forks_count": 190,
+			"stargazers_count": 1572,
+			"watchers_count": 1572,
+			"forks_count": 189,
 			"open_issues_count": 15
 		},
 		{
@@ -80,10 +80,10 @@
 			"html_url": "https://github.com/qustavo/dotsql",
 			"homepage": "",
 			"created_at": "2014-11-20T12:14:39Z",
-			"updated_at": "2024-02-13T12:48:28Z",
+			"updated_at": "2024-04-08T16:47:46Z",
 			"svn_url": "https://github.com/qustavo/dotsql",
-			"stargazers_count": 706,
-			"watchers_count": 706,
+			"stargazers_count": 715,
+			"watchers_count": 715,
 			"forks_count": 55,
 			"open_issues_count": 8
 		},
@@ -94,11 +94,11 @@
 			"html_url": "https://github.com/go-ozzo/ozzo-dbx",
 			"homepage": "",
 			"created_at": "2015-12-10T22:39:26Z",
-			"updated_at": "2024-02-03T18:52:30Z",
+			"updated_at": "2024-04-09T09:28:08Z",
 			"svn_url": "https://github.com/go-ozzo/ozzo-dbx",
-			"stargazers_count": 615,
-			"watchers_count": 615,
-			"forks_count": 80,
+			"stargazers_count": 622,
+			"watchers_count": 622,
+			"forks_count": 81,
 			"open_issues_count": 41
 		},
 		{
@@ -108,11 +108,11 @@
 			"html_url": "https://github.com/rocketlaunchr/dbq",
 			"homepage": "",
 			"created_at": "2019-07-11T02:17:33Z",
-			"updated_at": "2024-02-03T08:43:39Z",
+			"updated_at": "2024-04-10T19:55:06Z",
 			"svn_url": "https://github.com/rocketlaunchr/dbq",
-			"stargazers_count": 389,
-			"watchers_count": 389,
-			"forks_count": 22,
+			"stargazers_count": 390,
+			"watchers_count": 390,
+			"forks_count": 21,
 			"open_issues_count": 1
 		},
 		{
@@ -122,12 +122,12 @@
 			"html_url": "https://github.com/lqs/sqlingo",
 			"homepage": "",
 			"created_at": "2018-11-18T14:11:03Z",
-			"updated_at": "2024-02-17T09:17:40Z",
+			"updated_at": "2024-04-10T20:10:08Z",
 			"svn_url": "https://github.com/lqs/sqlingo",
-			"stargazers_count": 358,
-			"watchers_count": 358,
+			"stargazers_count": 368,
+			"watchers_count": 368,
 			"forks_count": 28,
-			"open_issues_count": 4
+			"open_issues_count": 2
 		},
 		{
 			"id": 21198443,
@@ -136,12 +136,12 @@
 			"html_url": "https://github.com/elgris/sqrl",
 			"homepage": "",
 			"created_at": "2014-06-25T10:03:06Z",
-			"updated_at": "2024-01-03T14:11:24Z",
+			"updated_at": "2024-04-12T21:28:13Z",
 			"svn_url": "https://github.com/elgris/sqrl",
-			"stargazers_count": 266,
-			"watchers_count": 266,
+			"stargazers_count": 272,
+			"watchers_count": 272,
 			"forks_count": 37,
-			"open_issues_count": 7
+			"open_issues_count": 6
 		},
 		{
 			"id": 268091962,
@@ -164,12 +164,12 @@
 			"html_url": "https://github.com/arthurkushman/buildsqlx",
 			"homepage": "",
 			"created_at": "2019-08-18T08:18:21Z",
-			"updated_at": "2024-02-15T04:26:23Z",
+			"updated_at": "2024-04-15T06:47:55Z",
 			"svn_url": "https://github.com/arthurkushman/buildsqlx",
-			"stargazers_count": 140,
-			"watchers_count": 140,
+			"stargazers_count": 145,
+			"watchers_count": 145,
 			"forks_count": 16,
-			"open_issues_count": 8
+			"open_issues_count": 9
 		},
 		{
 			"id": 197893109,
@@ -178,10 +178,10 @@
 			"html_url": "https://github.com/leporo/sqlf",
 			"homepage": "",
 			"created_at": "2019-07-20T07:03:27Z",
-			"updated_at": "2024-01-04T08:40:52Z",
+			"updated_at": "2024-03-28T05:57:17Z",
 			"svn_url": "https://github.com/leporo/sqlf",
-			"stargazers_count": 137,
-			"watchers_count": 137,
+			"stargazers_count": 140,
+			"watchers_count": 140,
 			"forks_count": 12,
 			"open_issues_count": 3
 		},
@@ -192,10 +192,10 @@
 			"html_url": "https://github.com/yandex/go-hasql",
 			"homepage": "https://golang.yandex",
 			"created_at": "2020-08-19T09:56:00Z",
-			"updated_at": "2024-01-29T18:13:25Z",
+			"updated_at": "2024-04-05T18:12:18Z",
 			"svn_url": "https://github.com/yandex/go-hasql",
-			"stargazers_count": 121,
-			"watchers_count": 121,
+			"stargazers_count": 124,
+			"watchers_count": 124,
 			"forks_count": 14,
 			"open_issues_count": 5
 		},
@@ -206,10 +206,10 @@
 			"html_url": "https://github.com/galeone/igor",
 			"homepage": "",
 			"created_at": "2016-03-10T14:45:08Z",
-			"updated_at": "2024-02-12T14:21:47Z",
+			"updated_at": "2024-04-13T13:55:16Z",
 			"svn_url": "https://github.com/galeone/igor",
-			"stargazers_count": 117,
-			"watchers_count": 117,
+			"stargazers_count": 123,
+			"watchers_count": 123,
 			"forks_count": 4,
 			"open_issues_count": 0
 		},
@@ -234,10 +234,10 @@
 			"html_url": "https://github.com/HnH/qry",
 			"homepage": "",
 			"created_at": "2019-08-20T09:01:00Z",
-			"updated_at": "2024-02-01T11:10:43Z",
+			"updated_at": "2024-02-27T10:37:40Z",
 			"svn_url": "https://github.com/HnH/qry",
-			"stargazers_count": 32,
-			"watchers_count": 32,
+			"stargazers_count": 35,
+			"watchers_count": 35,
 			"forks_count": 6,
 			"open_issues_count": 0
 		},
@@ -276,10 +276,10 @@
 			"html_url": "https://github.com/pupizoid/ormlite",
 			"homepage": "",
 			"created_at": "2018-06-28T13:42:09Z",
-			"updated_at": "2023-10-18T14:14:54Z",
+			"updated_at": "2024-03-06T20:01:55Z",
 			"svn_url": "https://github.com/pupizoid/ormlite",
-			"stargazers_count": 12,
-			"watchers_count": 12,
+			"stargazers_count": 13,
+			"watchers_count": 13,
 			"forks_count": 3,
 			"open_issues_count": 0
 		}

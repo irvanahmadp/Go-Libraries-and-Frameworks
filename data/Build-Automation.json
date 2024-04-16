@@ -1,7 +1,7 @@
 {
 	"name": "Build Automation",
-	"index_last_check": 0,
-	"last_update": 1708524458,
+	"index_last_check": 7,
+	"last_update": 1713273065,
 	"libraries": [
 		{
 			"id": 83252983,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/go-task/task",
 			"homepage": "https://taskfile.dev",
 			"created_at": "2017-02-27T00:46:04Z",
-			"updated_at": "2024-02-18T13:17:11Z",
+			"updated_at": "2024-04-16T10:21:04Z",
 			"svn_url": "https://github.com/go-task/task",
-			"stargazers_count": 9460,
-			"watchers_count": 9460,
-			"forks_count": 563,
-			"open_issues_count": 256
+			"stargazers_count": 9966,
+			"watchers_count": 9966,
+			"forks_count": 537,
+			"open_issues_count": 275
 		},
 		{
 			"id": 63139140,
@@ -24,11 +24,11 @@
 			"html_url": "https://github.com/oxequa/realize",
 			"homepage": "",
 			"created_at": "2016-07-12T08:07:25Z",
-			"updated_at": "2024-02-17T14:45:04Z",
+			"updated_at": "2024-04-14T08:56:52Z",
 			"svn_url": "https://github.com/oxequa/realize",
-			"stargazers_count": 4436,
-			"watchers_count": 4436,
-			"forks_count": 233,
+			"stargazers_count": 4445,
+			"watchers_count": 4445,
+			"forks_count": 228,
 			"open_issues_count": 71
 		},
 		{
@@ -38,11 +38,11 @@
 			"html_url": "https://github.com/tj/mmake",
 			"homepage": "https://pkg.go.dev/github.com/goyek/goyek/v2",
 			"created_at": "2017-02-15T22:01:21Z",
-			"updated_at": "2024-02-06T02:44:54Z",
+			"updated_at": "2024-04-10T14:15:24Z",
 			"svn_url": "https://github.com/tj/mmake",
-			"stargazers_count": 1694,
-			"watchers_count": 1694,
-			"forks_count": 47,
+			"stargazers_count": 1702,
+			"watchers_count": 1702,
+			"forks_count": 42,
 			"open_issues_count": 11
 		},
 		{
@@ -52,12 +52,12 @@
 			"html_url": "https://github.com/goyek/goyek",
 			"homepage": "https://pkg.go.dev/github.com/goyek/goyek/v2",
 			"created_at": "2020-10-11T13:20:55Z",
-			"updated_at": "2024-02-14T18:24:20Z",
+			"updated_at": "2024-04-10T13:37:00Z",
 			"svn_url": "https://github.com/goyek/goyek",
-			"stargazers_count": 485,
-			"watchers_count": 485,
-			"forks_count": 30,
-			"open_issues_count": 1
+			"stargazers_count": 501,
+			"watchers_count": 501,
+			"forks_count": 29,
+			"open_issues_count": 2
 		},
 		{
 			"id": 221222446,
@@ -80,10 +80,10 @@
 			"html_url": "https://github.com/gopinath-langote/1build",
 			"homepage": "https://1build.gitbook.io",
 			"created_at": "2019-04-23T17:05:38Z",
-			"updated_at": "2024-02-06T02:43:10Z",
+			"updated_at": "2024-02-21T05:34:19Z",
 			"svn_url": "https://github.com/gopinath-langote/1build",
-			"stargazers_count": 220,
-			"watchers_count": 220,
+			"stargazers_count": 221,
+			"watchers_count": 221,
 			"forks_count": 30,
 			"open_issues_count": 33
 		},
@@ -94,7 +94,7 @@
 			"html_url": "https://github.com/go-gilbert/gilbert",
 			"homepage": "https://go-gilbert.github.io/",
 			"created_at": "2019-01-30T09:02:31Z",
-			"updated_at": "2024-01-08T04:36:12Z",
+			"updated_at": "2024-04-02T17:40:33Z",
 			"svn_url": "https://github.com/go-gilbert/gilbert",
 			"stargazers_count": 114,
 			"watchers_count": 114,
@@ -113,7 +113,7 @@
 			"stargazers_count": 80,
 			"watchers_count": 80,
 			"forks_count": 6,
-			"open_issues_count": 3
+			"open_issues_count": 2
 		},
 		{
 			"id": 343796033,
@@ -122,7 +122,7 @@
 			"html_url": "https://github.com/GuilhermeCaruso/anko",
 			"homepage": "",
 			"created_at": "2021-03-02T14:08:42Z",
-			"updated_at": "2024-01-04T05:16:17Z",
+			"updated_at": "2024-04-13T22:04:40Z",
 			"svn_url": "https://github.com/GuilhermeCaruso/anko",
 			"stargazers_count": 36,
 			"watchers_count": 36,
