@@ -95,24 +95,24 @@ List of frameworks and libraries from [awesome-go](https://github.com/avelino/aw
 ### Audio and Music
 Libraries for manipulating audio.
 
-<sup>*Last Update: 2024-02-24 18:59:22*</sup>
+<sup>*Last Update: 2024-04-21 20:14:22*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [oto](https://github.com/ebitengine/oto) | 1,441 | 126 | 19 | ♪ A low-level library to play sound on multiple platforms ♪ | 2017-05-04 12:16:30 | 2024-02-24 00:50:14 |
-| [portaudio](https://github.com/gordonklaus/portaudio) | 655 | 89 | 4 | Go bindings for the PortAudio audio I/O library | 2015-09-16 07:59:23 | 2024-02-16 14:50:30 |
-| [music-theory](https://gopkg.in/music-theory.v0) | 423 | 42 | 8 | Go models of Note, Scale, Chord and Key | 2016-03-17 03:50:17 | 2024-02-07 16:10:17 |
-| [waveform](https://github.com/mdlayher/waveform) | 352 | 29 | 4 | Go package capable of generating waveform images from audio streams. MIT Licensed. | 2014-09-13 18:07:36 | 2023-10-19 10:26:45 |
-| [GoAudio](https://github.com/DylanMeeus/GoAudio) | 320 | 41 | 7 | Go tools for audio processing & creation 🎶 | 2020-07-05 01:35:41 | 2024-02-16 19:48:00 |
-| [id3v2](https://pkg.go.dev/github.com/bogem/id3v2/v2) | 319 | 52 | 20 | 🎵 ID3 decoding and encoding library for Go | 2016-05-15 18:36:53 | 2024-02-12 11:40:15 |
-| [flac](https://github.com/mewkiz/flac) | 282 | 43 | 8 | Package flac provides access to FLAC (Free Lossless Audio Codec) streams. | 2012-11-01 20:13:58 | 2024-02-20 02:03:44 |
-| [portmidi](https://github.com/rakyll/portmidi) | 281 | 60 | 14 | Go bindings for libportmidi | 2013-11-10 14:24:56 | 2024-02-21 01:34:03 |
-| [malgo](https://pkg.go.dev/github.com/bogem/id3v2/v2) | 254 | 45 | 4 | Mini audio library | 2017-11-09 18:27:52 | 2024-02-23 19:38:49 |
-| [mix](https://gopkg.in/mix.v0) | 174 | 25 | 8 | Sequence-based Go-native audio mixer for music apps | 2016-01-03 15:53:57 | 2024-01-30 06:18:52 |
-| [gaad](https://github.com/Comcast/gaad) | 120 | 22 | 2 | GAAD (Go Advanced Audio Decoder) | 2016-07-11 14:19:16 | 2024-02-14 14:27:34 |
-| [minimp3](https://github.com/tosone/minimp3) | 117 | 18 | 0 | Decode mp3 base on https://github.com/lieff/minimp3 | 2018-01-26 09:10:31 | 2024-02-02 09:30:31 |
+| [oto](https://github.com/ebitengine/oto) | 1,485 | 126 | 20 | ♪ A low-level library to play sound on multiple platforms ♪ | 2017-05-04 12:16:30 | 2024-04-21 08:31:59 |
+| [portaudio](https://github.com/gordonklaus/portaudio) | 668 | 89 | 4 | Go bindings for the PortAudio audio I/O library | 2015-09-16 07:59:23 | 2024-04-19 15:04:45 |
+| [music-theory](https://gopkg.in/music-theory.v0) | 426 | 44 | 8 | Go models of Note, Scale, Chord and Key | 2016-03-17 03:50:17 | 2024-04-18 00:58:38 |
+| [waveform](https://github.com/mdlayher/waveform) | 355 | 27 | 4 | Go package capable of generating waveform images from audio streams. MIT Licensed. | 2014-09-13 18:07:36 | 2024-03-30 13:08:17 |
+| [GoAudio](https://github.com/DylanMeeus/GoAudio) | 325 | 41 | 7 | Go tools for audio processing & creation 🎶 | 2020-07-05 01:35:41 | 2024-04-21 04:15:53 |
+| [id3v2](https://pkg.go.dev/github.com/bogem/id3v2/v2) | 323 | 52 | 20 | 🎵 ID3 decoding and encoding library for Go | 2016-05-15 18:36:53 | 2024-04-17 08:51:24 |
+| [flac](https://github.com/mewkiz/flac) | 286 | 43 | 8 | Package flac provides access to FLAC (Free Lossless Audio Codec) streams. | 2012-11-01 20:13:58 | 2024-04-19 04:35:32 |
+| [portmidi](https://github.com/rakyll/portmidi) | 282 | 60 | 14 | Go bindings for libportmidi | 2013-11-10 14:24:56 | 2024-03-22 14:35:49 |
+| [malgo](https://pkg.go.dev/github.com/bogem/id3v2/v2) | 261 | 45 | 4 | Mini audio library | 2017-11-09 18:27:52 | 2024-04-21 05:15:55 |
+| [mix](https://gopkg.in/mix.v0) | 175 | 24 | 8 | Sequence-based Go-native audio mixer for music apps | 2016-01-03 15:53:57 | 2024-04-21 05:11:23 |
+| [gaad](https://github.com/Comcast/gaad) | 121 | 22 | 2 | GAAD (Go Advanced Audio Decoder) | 2016-07-11 14:19:16 | 2024-04-21 09:18:15 |
+| [minimp3](https://github.com/tosone/minimp3) | 118 | 19 | 0 | Decode mp3 base on https://github.com/lieff/minimp3 | 2018-01-26 09:10:31 | 2024-04-17 08:16:43 |
 | [vorbis](https://github.com/mccoyst/vorbis) | 32 | 6 | 3 | A "native" ogg vorbis decoder for Go (uses inline stb_vorbis) | 2013-07-12 02:45:39 | 2022-10-24 08:41:49 |
 | [gosamplerate](https://github.com/dh1tw/gosamplerate) | 32 | 12 | 0 | Go Bindings for libsamplerate | 2016-11-20 21:19:31 | 2024-02-18 20:06:59 |
 </details>
@@ -196,7 +196,7 @@ Libraries for building and working with bots.
 ### Build Automation
 Libraries and tools helping with build automation.
 
-<sup>*Last Update: 2024-04-16 20:11:05*</sup>
+<sup>*Last Update: 2024-04-21 20:14:22*</sup>
 <details>
   <summary>Show Table</summary>
 
@@ -206,7 +206,7 @@ Libraries and tools helping with build automation.
 | [realize](https://github.com/oxequa/realize) | 4,445 | 228 | 71 | Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading. | 2016-07-12 08:07:25 | 2024-04-14 08:56:52 |
 | [mmake](https://pkg.go.dev/github.com/goyek/goyek/v2) | 1,702 | 42 | 11 | Modern Make  | 2017-02-15 22:01:21 | 2024-04-10 14:15:24 |
 | [goyek](https://pkg.go.dev/github.com/goyek/goyek/v2) | 501 | 29 | 2 | Task automation Go library | 2020-10-11 13:20:55 | 2024-04-10 13:37:00 |
-| [taskctl](https://github.com/taskctl/taskctl) | 274 | 38 | 15 | Concurrent task runner, developer's routine tasks automation toolkit. Simple modern alternative to GNU Make 🧰 | 2019-11-12 13:19:09 | 2024-02-15 00:04:12 |
+| [taskctl](https://github.com/taskctl/taskctl) | 276 | 38 | 15 | Concurrent task runner, developer's routine tasks automation toolkit. Simple modern alternative to GNU Make 🧰 | 2019-11-12 13:19:09 | 2024-03-18 19:36:18 |
 | [1build](https://1build.gitbook.io) | 221 | 30 | 33 | Frictionless way of managing project-specific commands | 2019-04-23 17:05:38 | 2024-02-21 05:34:19 |
 | [gilbert](https://go-gilbert.github.io/) | 114 | 7 | 0 | Build system and task runner for Go projects | 2019-01-30 09:02:31 | 2024-04-02 17:40:33 |
 | [gaper](https://github.com/maxcnunes/gaper) | 80 | 6 | 2 | Builds and restarts a Go project when it crashes or some watched file changes | 2018-06-16 02:46:38 | 2024-02-06 02:40:43 |
@@ -809,57 +809,57 @@ Tools for updating dynamic DNS records.
 ### Email
 Libraries and tools that implement email creation and sending.
 
-<sup>*Last Update: 2024-02-21 21:07:30*</sup>
+<sup>*Last Update: 2024-04-21 20:14:14*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [MailHog](https://github.com/mailhog/MailHog) | 13,100 | 1,032 | 247 | Web and API based SMTP testing | 2014-04-16 22:28:49 | 2024-02-21 11:12:05 |
-| [hermes](https://github.com/matcornic/hermes) | 2,741 | 238 | 31 | Golang package that generates clean, responsive HTML e-mails for sending transactional mail | 2017-03-25 18:25:36 | 2024-02-21 02:49:16 |
-| [email](https://github.com/jordan-wright/email) | 2,522 | 370 | 55 | Robust and flexible email library for Go | 2013-12-12 20:11:59 | 2024-02-21 03:13:22 |
-| [go-imap](https://github.com/emersion/go-imap) | 1,941 | 306 | 32 | 📥 An IMAP library for clients and servers | 2016-04-26 17:59:18 | 2024-02-21 06:48:43 |
-| [email-verifier](https://github.com/AfterShip/email-verifier) | 1,022 | 125 | 12 | :white_check_mark: A Go library for email verification without sending any emails. | 2020-12-18 08:47:28 | 2024-02-19 14:03:29 |
-| [sendgrid-go](https://sendgrid.com) | 943 | 306 | 22 | The Official Twilio SendGrid Golang API Library | 2013-09-12 03:31:13 | 2024-02-19 04:07:19 |
-| [chasquid](https://blitiri.com.ar/p/chasquid/) | 795 | 59 | 6 | SMTP (email) server with a focus on simplicity, security, and ease of operation [mirror] | 2016-11-03 01:28:05 | 2024-02-16 07:51:01 |
-| [mailgun-go](https://mailchain.xyz) | 675 | 148 | 2 | Go library for sending mail with the Mailgun API. | 2014-02-28 00:28:44 | 2024-02-09 16:11:32 |
-| [go-simple-mail](https://github.com/xhit/go-simple-mail) | 575 | 87 | 11 | Golang package for send email. Support keep alive connection, TLS and SSL. Easy for bulk SMTP. | 2019-09-15 05:38:54 | 2024-02-21 07:49:42 |
-| [go-message](https://github.com/emersion/go-message) | 347 | 104 | 25 | ✉️ A streaming Go library for the Internet Message Format and mail messages | 2016-12-31 09:31:52 | 2024-01-20 17:34:56 |
-| [douceur](https://github.com/aymerick/douceur) | 239 | 42 | 9 | A simple CSS parser and inliner in Go | 2015-04-09 10:21:26 | 2024-02-15 20:26:19 |
-| [hectane](https://github.com/hectane/hectane) | 219 | 25 | 16 | Lightweight SMTP client written in Go | 2015-08-28 01:36:47 | 2024-02-01 22:47:42 |
-| [mailchain-legacy](https://mailchain.xyz) | 141 | 51 | 44 | Using Mailchain, blockchain users can now send and receive rich-media HTML messages with attachments via a blockchain address. | 2019-04-11 17:37:31 | 2024-01-19 10:26:15 |
-| [go-premailer](https://github.com/vanng822/go-premailer) | 129 | 18 | 4 | Inline styling for html mail in golang | 2015-02-16 22:19:18 | 2024-01-26 14:02:17 |
-| [go-dkim](https://github.com/toorop/go-dkim) | 94 | 38 | 5 | DKIM package for golang | 2015-04-29 15:38:27 | 2024-01-16 10:11:25 |
+| [MailHog](https://github.com/mailhog/MailHog) | 13,315 | 1,029 | 248 | Web and API based SMTP testing | 2014-04-16 22:28:49 | 2024-04-21 12:54:44 |
+| [hermes](https://github.com/matcornic/hermes) | 2,773 | 236 | 31 | Golang package that generates clean, responsive HTML e-mails for sending transactional mail | 2017-03-25 18:25:36 | 2024-04-19 18:13:41 |
+| [email](https://github.com/jordan-wright/email) | 2,566 | 322 | 55 | Robust and flexible email library for Go | 2013-12-12 20:11:59 | 2024-04-19 20:54:20 |
+| [go-imap](https://github.com/emersion/go-imap) | 1,990 | 280 | 33 | 📥 An IMAP library for clients and servers | 2016-04-26 17:59:18 | 2024-04-21 05:59:58 |
+| [email-verifier](https://github.com/AfterShip/email-verifier) | 1,064 | 132 | 14 | :white_check_mark: A Go library for email verification without sending any emails. | 2020-12-18 08:47:28 | 2024-04-20 09:26:59 |
+| [sendgrid-go](https://sendgrid.com) | 954 | 260 | 22 | The Official Twilio SendGrid Golang API Library | 2013-09-12 03:31:13 | 2024-04-18 01:17:22 |
+| [chasquid](https://blitiri.com.ar/p/chasquid/) | 845 | 57 | 5 | SMTP (email) server with a focus on simplicity, security, and ease of operation [mirror] | 2016-11-03 01:28:05 | 2024-04-21 11:10:23 |
+| [mailgun-go](https://mailchain.xyz) | 677 | 146 | 4 | Go library for sending mail with the Mailgun API. | 2014-02-28 00:28:44 | 2024-04-11 05:26:56 |
+| [go-simple-mail](https://github.com/xhit/go-simple-mail) | 596 | 92 | 10 | Golang package for send email. Support keep alive connection, TLS and SSL. Easy for bulk SMTP. | 2019-09-15 05:38:54 | 2024-04-18 11:38:21 |
+| [go-message](https://github.com/emersion/go-message) | 354 | 107 | 27 | ✉️ A streaming Go library for the Internet Message Format and mail messages | 2016-12-31 09:31:52 | 2024-04-19 11:51:29 |
+| [douceur](https://github.com/aymerick/douceur) | 240 | 42 | 9 | A simple CSS parser and inliner in Go | 2015-04-09 10:21:26 | 2024-03-27 11:39:24 |
+| [hectane](https://github.com/hectane/hectane) | 220 | 25 | 16 | Lightweight SMTP client written in Go | 2015-08-28 01:36:47 | 2024-04-15 09:28:06 |
+| [mailchain-legacy](https://mailchain.xyz) | 142 | 51 | 44 | Using Mailchain, blockchain users can now send and receive rich-media HTML messages with attachments via a blockchain address. | 2019-04-11 17:37:31 | 2024-03-21 05:40:31 |
+| [go-premailer](https://github.com/vanng822/go-premailer) | 132 | 19 | 5 | Inline styling for html mail in golang | 2015-02-16 22:19:18 | 2024-04-11 15:40:13 |
+| [go-dkim](https://github.com/toorop/go-dkim) | 95 | 38 | 5 | DKIM package for golang | 2015-04-29 15:38:27 | 2024-03-12 23:43:50 |
 | [smtp](https://sendgrid.com) | 74 | 31 | 7 | MailHog SMTP Protocol | 2014-12-24 16:13:49 | 2023-09-17 20:51:33 |
-| [go-email-validator](https://github.com/go-email-validator/go-email-validator) | 52 | 11 | 3 | 📧 Golang Email address validator | 2020-12-10 18:27:20 | 2023-12-27 13:34:12 |
+| [go-email-validator](https://github.com/go-email-validator/go-email-validator) | 51 | 11 | 3 | 📧 Golang Email address validator | 2020-12-10 18:27:20 | 2024-03-25 05:37:38 |
 </details>
 
 ### Embeddable Scripting Languages
 Embedding other languages inside your go code.
 
-<sup>*Last Update: 2024-02-21 21:07:21*</sup>
+<sup>*Last Update: 2024-04-21 20:14:07*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [gopher-lua](https://github.com/yuin/gopher-lua) | 5,894 | 621 | 72 | GopherLua: VM and compiler for Lua in Go | 2015-02-15 13:23:37 | 2024-02-21 07:10:16 |
-| [expr](https://expr-lang.org) | 5,265 | 345 | 21 | Expression language and expression evaluation for Go | 2018-07-14 15:57:34 | 2024-02-21 09:57:49 |
-| [goja](https://github.com/dop251/goja) | 4,720 | 372 | 28 | ECMAScript/JavaScript engine in pure Go | 2016-11-04 22:04:06 | 2024-02-21 13:51:16 |
-| [tengo](https://tengolang.com) | 3,392 | 325 | 76 | A fast script language for Go | 2019-01-09 07:17:17 | 2024-02-21 12:08:21 |
-| [go-lua](https://github.com/Shopify/go-lua) | 2,866 | 229 | 46 | A Lua VM in Go | 2013-12-20 17:29:43 | 2024-02-21 07:17:36 |
-| [cel-go](https://opensource.google.com/projects/cel) | 1,979 | 256 | 38 | Fast, portable, non-Turing complete expression evaluation with gradual typing (Go) | 2018-03-09 22:57:58 | 2024-02-20 23:44:34 |
-| [go-python](https://github.com/sbinet/go-python) | 1,518 | 176 | 27 | naive go bindings to the CPython2 C-API | 2012-07-09 15:43:31 | 2024-02-20 09:33:48 |
-| [anko](http://play-anko.appspot.com/) | 1,419 | 127 | 24 | Scriptable interpreter written in golang | 2014-03-28 07:29:40 | 2024-02-15 20:44:46 |
-| [go-php](https://github.com/deuill/go-php) | 921 | 150 | 22 | PHP bindings for the Go programming language (Golang) | 2015-09-17 21:23:52 | 2024-02-21 01:59:43 |
-| [go-duktape](https://github.com/olebedev/go-duktape) | 779 | 97 | 8 | [abandoned] Duktape JavaScript engine bindings for Go | 2015-01-08 05:09:05 | 2023-12-16 09:45:01 |
-| [gval](https://github.com/PaesslerAG/gval) | 691 | 82 | 23 | Expression evaluation in golang | 2017-09-27 08:32:49 | 2024-02-20 04:36:12 |
-| [golua](https://github.com/aarzilli/golua) | 634 | 164 | 7 | Go bindings for Lua C API - in progress | 2010-12-06 21:39:53 | 2024-02-05 09:45:30 |
-| [gisp](https://docs.gentee.org) | 510 | 37 | 1 | Simple LISP in Go | 2014-01-11 14:05:43 | 2024-02-04 17:22:55 |
-| [gentee](https://docs.gentee.org) | 124 | 15 | 2 | Gentee - script programming language for automation. It uses VM and compiler written in Go (Golang). | 2018-01-14 15:49:05 | 2024-02-02 07:20:38 |
+| [gopher-lua](https://github.com/yuin/gopher-lua) | 5,997 | 629 | 79 | GopherLua: VM and compiler for Lua in Go | 2015-02-15 13:23:37 | 2024-04-20 22:15:13 |
+| [expr](https://expr-lang.org) | 5,561 | 360 | 25 | Expression language and expression evaluation for Go | 2018-07-14 15:57:34 | 2024-04-20 19:37:09 |
+| [goja](https://github.com/dop251/goja) | 4,923 | 343 | 29 | ECMAScript/JavaScript engine in pure Go | 2016-11-04 22:04:06 | 2024-04-21 00:34:09 |
+| [tengo](https://tengolang.com) | 3,440 | 293 | 76 | A fast script language for Go | 2019-01-09 07:17:17 | 2024-04-21 03:48:08 |
+| [go-lua](https://github.com/Shopify/go-lua) | 2,928 | 187 | 47 | A Lua VM in Go | 2013-12-20 17:29:43 | 2024-04-21 08:14:36 |
+| [cel-go](https://cel.dev) | 2,031 | 203 | 43 | Fast, portable, non-Turing complete expression evaluation with gradual typing (Go) | 2018-03-09 22:57:58 | 2024-04-19 22:57:01 |
+| [go-python](https://github.com/sbinet/go-python) | 1,516 | 140 | 27 | naive go bindings to the CPython2 C-API | 2012-07-09 15:43:31 | 2024-04-19 18:06:42 |
+| [anko](http://play-anko.appspot.com/) | 1,435 | 118 | 24 | Scriptable interpreter written in golang | 2014-03-28 07:29:40 | 2024-04-21 03:46:04 |
+| [go-php](https://github.com/deuill/go-php) | 923 | 150 | 22 | PHP bindings for the Go programming language (Golang) | 2015-09-17 21:23:52 | 2024-03-29 10:00:34 |
+| [go-duktape](https://github.com/olebedev/go-duktape) | 779 | 97 | 8 | [abandoned] Duktape JavaScript engine bindings for Go | 2015-01-08 05:09:05 | 2024-04-08 16:42:50 |
+| [gval](https://github.com/PaesslerAG/gval) | 696 | 82 | 24 | Expression evaluation in golang | 2017-09-27 08:32:49 | 2024-04-07 15:31:12 |
+| [golua](https://github.com/aarzilli/golua) | 636 | 161 | 7 | Go bindings for Lua C API - in progress | 2010-12-06 21:39:53 | 2024-04-21 13:01:32 |
+| [gisp](https://docs.gentee.org) | 511 | 37 | 1 | Simple LISP in Go | 2014-01-11 14:05:43 | 2024-04-13 13:14:59 |
+| [gentee](https://docs.gentee.org) | 128 | 15 | 2 | Gentee - script programming language for automation. It uses VM and compiler written in Go (Golang). | 2018-01-14 15:49:05 | 2024-04-20 01:57:53 |
 | [binder](https://github.com/alexeyco/binder) | 69 | 10 | 2 | High level go to Lua binder. Write less, do more. | 2017-04-02 17:14:52 | 2024-01-24 10:09:25 |
-| [purl](https://github.com/ian-kent/purl) | 39 | 5 | 2 | Perl, but fluffy like a cat! | 2014-11-29 19:06:01 | 2023-10-28 05:24:45 |
-| [ecal](https://github.com/krotik/ecal) | 37 | 4 | 0 | A simple embeddable scripting language which supports concurrent event processing. | 2020-11-30 15:58:56 | 2023-12-11 21:24:53 |
+| [purl](https://github.com/ian-kent/purl) | 41 | 5 | 2 | Perl, but fluffy like a cat! | 2014-11-29 19:06:01 | 2024-04-02 06:26:43 |
+| [ecal](https://github.com/krotik/ecal) | 38 | 4 | 0 | A simple embeddable scripting language which supports concurrent event processing. | 2020-11-30 15:58:56 | 2024-03-11 21:31:56 |
 | [ngaro](https://github.com/db47h/ngaro) | 26 | 3 | 1 | An embeddable implementation of the Ngaro Virtual Machine for Go programs | 2016-08-09 15:23:50 | 2024-01-24 02:39:54 |
 </details>
 
@@ -2152,18 +2152,18 @@ Libraries and tools for templating and lexing.
 ### Testing - Selenium and browser control tools
 
 
-<sup>*Last Update: 2024-03-01 21:10:50*</sup>
+<sup>*Last Update: 2024-04-21 20:14:32*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [chromedp](https://github.com/chromedp/chromedp) | 10,136 | 755 | 76 | A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol. | 2017-01-24 14:54:30 | 2024-03-01 12:08:56 |
+| [chromedp](https://github.com/chromedp/chromedp) | 10,347 | 764 | 97 | A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol. | 2017-01-24 14:54:30 | 2024-04-21 12:36:15 |
 | [rod](https://go-rod.github.io) | 4,594 | 305 | 110 | A Devtools driver for web automation and scraping | 2020-01-21 20:09:45 | 2024-03-01 02:05:58 |
 | [selenoid](https://aerokube.com/selenoid/latest/) | 2,468 | 310 | 64 | Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary. | 2016-08-22 09:11:16 | 2024-02-29 16:20:36 |
-| [playwright-go](https://playwright-community.github.io/playwright-go/) | 1,673 | 135 | 52 | Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API. | 2020-08-16 12:46:14 | 2024-03-01 10:58:48 |
-| [cdp](https://github.com/mafredri/cdp) | 709 | 48 | 13 | Package cdp provides type-safe bindings for the Chrome DevTools Protocol (CDP), written in the Go programming language. | 2017-03-12 10:25:41 | 2024-02-27 04:47:58 |
-| [ggr](https://aerokube.com/ggr/latest/) | 307 | 72 | 11 | A lightweight load balancer used to create big Selenium clusters | 2016-06-16 15:33:24 | 2024-02-17 18:38:03 |
+| [playwright-go](https://playwright-community.github.io/playwright-go/) | 1,776 | 135 | 27 | Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API. | 2020-08-16 12:46:14 | 2024-04-21 08:43:47 |
+| [cdp](https://github.com/mafredri/cdp) | 715 | 48 | 13 | Package cdp provides type-safe bindings for the Chrome DevTools Protocol (CDP), written in the Go programming language. | 2017-03-12 10:25:41 | 2024-04-08 11:13:42 |
+| [ggr](https://aerokube.com/ggr/latest/) | 311 | 73 | 11 | A lightweight load balancer used to create big Selenium clusters | 2016-06-16 15:33:24 | 2024-04-20 10:31:14 |
 </details>
 
 ### Testing - Testing Frameworks
