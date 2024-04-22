@@ -1,7 +1,7 @@
 {
 	"name": "OpenGL",
 	"index_last_check": 0,
-	"last_update": 1709302259,
+	"last_update": 1713762063,
 	"libraries": [
 		{
 			"id": 10151943,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/go-gl/glfw",
 			"homepage": "",
 			"created_at": "2013-05-19T06:38:45Z",
-			"updated_at": "2024-02-29T15:00:25Z",
+			"updated_at": "2024-04-22T00:20:41Z",
 			"svn_url": "https://github.com/go-gl/glfw",
-			"stargazers_count": 1488,
-			"watchers_count": 1488,
-			"forks_count": 172,
-			"open_issues_count": 24
+			"stargazers_count": 1506,
+			"watchers_count": 1506,
+			"forks_count": 175,
+			"open_issues_count": 23
 		},
 		{
 			"id": 31151120,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/go-gl/gl",
 			"homepage": "",
 			"created_at": "2015-02-22T03:29:45Z",
-			"updated_at": "2024-02-29T21:17:05Z",
+			"updated_at": "2024-04-19T15:58:03Z",
 			"svn_url": "https://github.com/go-gl/gl",
-			"stargazers_count": 1019,
-			"watchers_count": 1019,
-			"forks_count": 68,
-			"open_issues_count": 17
+			"stargazers_count": 1032,
+			"watchers_count": 1032,
+			"forks_count": 70,
+			"open_issues_count": 16
 		},
 		{
 			"id": 8180452,
@@ -38,10 +38,10 @@
 			"html_url": "https://github.com/go-gl/mathgl",
 			"homepage": "",
 			"created_at": "2013-02-13T14:18:55Z",
-			"updated_at": "2024-02-27T03:16:14Z",
+			"updated_at": "2024-04-18T14:51:19Z",
 			"svn_url": "https://github.com/go-gl/mathgl",
-			"stargazers_count": 525,
-			"watchers_count": 525,
+			"stargazers_count": 531,
+			"watchers_count": 531,
 			"forks_count": 64,
 			"open_issues_count": 10
 		},
@@ -52,10 +52,10 @@
 			"html_url": "https://github.com/goxjs/gl",
 			"homepage": "",
 			"created_at": "2015-05-18T08:10:15Z",
-			"updated_at": "2023-11-14T09:41:34Z",
+			"updated_at": "2024-03-31T22:29:03Z",
 			"svn_url": "https://github.com/goxjs/gl",
-			"stargazers_count": 169,
-			"watchers_count": 169,
+			"stargazers_count": 171,
+			"watchers_count": 171,
 			"forks_count": 29,
 			"open_issues_count": 8
 		},
