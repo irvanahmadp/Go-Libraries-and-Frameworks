@@ -889,33 +889,33 @@ Libraries for handling errors.
 ### File Handling
 Libraries for handling files and file systems.
 
-<sup>*Last Update: 2024-03-01 21:10:14*</sup>
+<sup>*Last Update: 2024-04-27 19:33:13*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [pdfcpu](http://pdfcpu.io/) | 5,955 | 420 | 74 | A PDF processor written in Go. | 2017-06-18 17:27:38 | 2024-03-01 13:37:35 |
-| [afero](https://github.com/spf13/afero) | 5,607 | 539 | 127 | A FileSystem Abstraction System for Go | 2014-10-28 14:19:05 | 2024-02-29 18:51:40 |
-| [notify](https://github.com/rjeczalik/notify) | 874 | 120 | 48 | File system event notification library on steroids. | 2014-09-08 16:09:34 | 2024-02-26 10:46:42 |
-| [copy](https://pkg.go.dev/github.com/otiai10/copy) | 654 | 162 | 13 | Go copy directory recursively | 2017-09-01 03:18:56 | 2024-02-28 07:33:31 |
-| [afs](https://github.com/viant/afs) | 282 | 34 | 3 | Abstract File Storage | 2019-08-19 18:43:38 | 2024-02-12 16:55:40 |
-| [vfs](https://github.com/C2FO/vfs) | 268 | 28 | 9 | Pluggable, extensible virtual file system for Go | 2017-08-01 18:06:14 | 2024-02-26 18:25:37 |
-| [bigfile](https://learnku.com/docs/bigfile) | 247 | 48 | 3 | Bigfile -- a file transfer system that supports http, rpc and ftp protocol   https://bigfile.site   | 2019-07-15 10:43:50 | 2024-01-03 08:29:39 |
-| [go-exiftool](https://github.com/barasher/go-exiftool) | 215 | 41 | 6 | Golang wrapper for Exiftool : extract as much metadata as possible (EXIF, ...) from files (pictures, pdf, office documents, ...) | 2019-05-12 20:34:09 | 2024-03-01 03:51:05 |
+| [pdfcpu](http://pdfcpu.io/) | 6,246 | 442 | 85 | A PDF processor written in Go. | 2017-06-18 17:27:38 | 2024-04-27 11:44:10 |
+| [afero](https://github.com/spf13/afero) | 5,688 | 494 | 131 | A FileSystem Abstraction System for Go | 2014-10-28 14:19:05 | 2024-04-26 14:05:14 |
+| [notify](https://github.com/rjeczalik/notify) | 881 | 123 | 49 | File system event notification library on steroids. | 2014-09-08 16:09:34 | 2024-04-16 11:39:57 |
+| [copy](https://pkg.go.dev/github.com/otiai10/copy) | 674 | 111 | 12 | Go copy directory recursively | 2017-09-01 03:18:56 | 2024-04-17 09:49:05 |
+| [afs](https://github.com/viant/afs) | 290 | 34 | 3 | Abstract File Storage | 2019-08-19 18:43:38 | 2024-04-24 20:17:30 |
+| [vfs](https://github.com/C2FO/vfs) | 278 | 28 | 10 | Pluggable, extensible virtual file system for Go | 2017-08-01 18:06:14 | 2024-04-24 20:40:57 |
+| [bigfile](https://learnku.com/docs/bigfile) | 249 | 48 | 3 | Bigfile -- a file transfer system that supports http, rpc and ftp protocol   https://bigfile.site   | 2019-07-15 10:43:50 | 2024-04-06 13:36:21 |
+| [go-exiftool](https://github.com/barasher/go-exiftool) | 223 | 41 | 6 | Golang wrapper for Exiftool : extract as much metadata as possible (EXIF, ...) from files (pictures, pdf, office documents, ...) | 2019-05-12 20:34:09 | 2024-04-09 07:57:41 |
 | [go-csv-tag](https://github.com/artonge/go-csv-tag) | 112 | 31 | 0 | Read csv file from go using tags | 2017-06-18 15:31:16 | 2024-01-18 20:54:43 |
-| [checksum](https://github.com/codingsince1985/checksum) | 97 | 17 | 1 | Compute message digest for large files in Go | 2014-11-05 09:37:00 | 2024-01-29 09:41:59 |
+| [checksum](https://github.com/codingsince1985/checksum) | 98 | 17 | 1 | Compute message digest for large files in Go | 2014-11-05 09:37:00 | 2024-04-07 07:08:45 |
 | [skywalker](https://github.com/dixonwille/skywalker) | 96 | 5 | 1 | A package to allow one to concurrently go through a filesystem with ease | 2017-08-01 20:08:25 | 2024-02-26 10:47:22 |
-| [parquet](https://github.com/parsyl/parquet) | 89 | 12 | 1 | A library for reading and writing parquet files. | 2019-01-29 21:52:30 | 2024-02-23 22:22:10 |
+| [parquet](https://github.com/parsyl/parquet) | 95 | 12 | 1 | A library for reading and writing parquet files. | 2019-01-29 21:52:30 | 2024-04-24 18:32:58 |
 | [opc](https://github.com/qmuntal/opc) | 75 | 8 | 0 | Go implementation of the Open Packaging Conventions (OPC) | 2018-11-06 14:49:06 | 2024-02-28 03:36:32 |
 | [tarfs](https://github.com/posener/tarfs) | 59 | 9 | 1 | An implementation of the FileSystem interface for tar files. | 2017-03-10 22:13:11 | 2023-12-01 17:22:42 |
-| [baraka](https://github.com/xis/baraka) | 53 | 7 | 2 | a tool for handling file uploads simple | 2020-07-12 21:56:50 | 2024-02-26 10:47:53 |
-| [go-gtfs](https://github.com/artonge/go-gtfs) | 38 | 23 | 0 | Load GTFS files in golang | 2017-07-09 09:30:31 | 2023-11-08 10:31:01 |
-| [flop](https://github.com/homedepot/flop) | 34 | 12 | 0 | Go file operations library chasing GNU APIs. | 2019-03-01 13:41:39 | 2023-06-26 22:45:43 |
-| [gut](https://github.com/1set/gut) | 28 | 9 | 13 | 🍱 yet another collection of go utilities & tools | 2019-10-05 23:47:24 | 2024-02-21 16:44:59 |
+| [baraka](https://github.com/xis/baraka) | 53 | 7 | 2 | a tool for handling file uploads simple | 2020-07-12 21:56:50 | 2024-04-07 13:56:42 |
+| [go-gtfs](https://github.com/artonge/go-gtfs) | 39 | 23 | 0 | Load GTFS files in golang | 2017-07-09 09:30:31 | 2024-03-27 01:05:24 |
+| [flop](https://github.com/homedepot/flop) | 33 | 12 | 0 | Go file operations library chasing GNU APIs. | 2019-03-01 13:41:39 | 2024-03-30 19:29:21 |
+| [gut](https://github.com/1set/gut) | 27 | 9 | 13 | 🍱 yet another collection of go utilities & tools | 2019-10-05 23:47:24 | 2024-04-22 17:30:52 |
 | [go-decent-copy](https://github.com/hugocarreira/go-decent-copy) | 21 | 8 | 1 | copy files for humans | 2018-10-16 07:08:24 | 2023-10-30 02:09:25 |
 | [todotxt](https://github.com/1set/todotxt) | 20 | 6 | 1 | Parser for todo.txt files in Go ✅ | 2020-11-06 17:41:59 | 2023-12-15 11:22:17 |
-| [higgs](https://github.com/dastoori/higgs) | 18 | 4 | 0 | A tiny cross-platform Go library to hide/unhide files and directories | 2020-12-13 18:33:10 | 2023-10-22 08:05:01 |
+| [higgs](https://github.com/dastoori/higgs) | 19 | 4 | 0 | A tiny cross-platform Go library to hide/unhide files and directories | 2020-12-13 18:33:10 | 2024-03-22 03:03:34 |
 </details>
 
 ### Financial
@@ -1481,14 +1481,14 @@ Libraries that implement messaging systems.
 ### Microsoft Office - Microsoft Excel
 Libraries for working with Microsoft Excel.
 
-<sup>*Last Update: 2024-04-24 21:22:36*</sup>
+<sup>*Last Update: 2024-04-27 19:33:29*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [excelize](https://xuri.me/excelize) | 17,272 | 1,659 | 96 | Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets | 2016-08-29 12:32:12 | 2024-04-24 06:43:38 |
-| [xlsx](https://github.com/tealeg/xlsx) | 5,750 | 806 | 6 | Go library for reading and writing XLSX files.  | 2011-06-28 15:20:28 | 2024-04-24 05:22:34 |
+| [excelize](https://xuri.me/excelize) | 17,289 | 1,662 | 97 | Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets | 2016-08-29 12:32:12 | 2024-04-27 12:13:52 |
+| [xlsx](https://github.com/tealeg/xlsx) | 5,750 | 805 | 6 | Go library for reading and writing XLSX files.  | 2011-06-28 15:20:28 | 2024-04-27 03:49:16 |
 | [go-excel](https://github.com/szyhf/go-excel) | 186 | 35 | 1 | A simple and light excel file reader to read a standard excel as a table faster | 一个轻量级的Excel数据读取库，用一种更`关系数据库`的方式解析Excel。 | 2017-09-03 11:51:58 | 2024-04-19 07:31:25 |
 | [xlsx](https://github.com/plandem/xlsx) | 172 | 24 | 13 | Fast and reliable way to work with Microsoft Excel™ [xlsx] files in Golang | 2017-08-26 23:11:38 | 2024-03-15 23:58:24 |
 | [goxlsxwriter](https://github.com/fterrag/goxlsxwriter) | 21 | 7 | 0 | Golang bindings for libxlsxwriter for writing XLSX files | 2017-03-13 04:15:17 | 2023-07-11 01:40:47 |
@@ -1908,33 +1908,33 @@ Unofficial libraries for package and dependency management
 ### Science and Data Analysis
 Libraries for scientific computing and data analyzing.
 
-<sup>*Last Update: 2024-02-24 18:58:53*</sup>
+<sup>*Last Update: 2024-04-27 19:32:51*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [gonum](https://www.gonum.org/) | 7,139 | 516 | 232 | Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more | 2017-03-25 14:54:38 | 2024-02-23 22:35:38 |
-| [stats](https://github.com/montanaflynn/stats) | 2,856 | 174 | 18 | A well tested and comprehensive Golang statistics library package with no dependencies. | 2014-12-16 03:25:19 | 2024-02-21 16:20:41 |
-| [plot](https://github.com/gonum/plot) | 2,593 | 206 | 87 | A repository for plotting and visualizing data | 2013-07-23 07:01:13 | 2024-02-23 22:35:34 |
-| [gosl](https://github.com/cpmech/gosl) | 1,795 | 196 | 0 | Linear algebra, eigenvalues, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, differential equations. | 2015-02-09 23:00:38 | 2024-02-24 08:33:17 |
-| [streamtools](http://nytlabs.github.io/streamtools/) | 1,313 | 111 | 47 | tools for working with streams of data | 2013-07-05 18:58:45 | 2024-01-26 09:51:18 |
-| [dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 1,104 | 93 | 15 | DataFrames for Go: For statistics, machine-learning, and data manipulation/exploration | 2018-10-01 12:19:31 | 2024-02-22 00:56:58 |
-| [go-dsp](http://godoc.org/github.com/mjibson/go-dsp) | 842 | 90 | 7 | Digital Signal Processing for Go | 2011-11-02 06:28:41 | 2024-02-22 06:54:21 |
-| [orb](https://github.com/paulmach/orb) | 796 | 95 | 10 | Types and utilities for working with 2d geometry in Golang | 2016-03-28 01:19:01 | 2024-02-23 06:14:48 |
-| [chart](https://github.com/vdobler/chart) | 764 | 106 | 6 | Provide basic charts in go | 2011-06-27 12:19:42 | 2024-02-23 19:34:39 |
-| [goraph](https://github.com/gyuho/goraph) | 729 | 119 | 5 | Package goraph implements graph data structure and algorithms. | 2014-02-27 03:15:55 | 2024-02-16 17:20:22 |
-| [graph](https://yourbasic.org/golang/your-basic-func/) | 672 | 98 | 6 | Graph algorithms and data structures | 2017-04-27 18:43:54 | 2024-02-21 15:08:27 |
-| [ewma](https://github.com/VividCortex/ewma) | 424 | 36 | 5 | Exponentially Weighted Moving Average algorithms for Go. | 2013-07-05 21:33:25 | 2024-01-31 17:31:19 |
-| [calendarheatmap](https://calendarheatmap.io) | 383 | 17 | 12 | 📅 Calendar heatmap inspired by GitHub contribution activity  | 2020-07-01 18:30:48 | 2024-02-21 15:11:09 |
-| [TextRank](https://github.com/DavidBelicza/TextRank) | 193 | 22 | 5 | :wink: :cyclone: :strawberry: TextRank implementation in Golang with extendable features (summarization, phrase extraction) and multithreading (goroutine). | 2018-01-09 19:36:17 | 2024-02-21 02:27:08 |
-| [gohistogram](http://godoc.org/github.com/VividCortex/gohistogram) | 173 | 31 | 4 | Streaming approximate histograms in Go | 2013-07-02 12:53:22 | 2024-02-06 18:47:24 |
-| [sparse](https://github.com/james-bowman/sparse) | 150 | 23 | 4 | Sparse matrix formats for linear algebra supporting scientific and machine learning applications | 2017-05-16 13:54:36 | 2024-02-01 02:41:58 |
-| [go-estimate](https://github.com/milosgajdos/go-estimate) | 107 | 8 | 2 | State estimation and filtering algorithms in Go | 2018-11-04 22:32:52 | 2024-02-19 17:08:11 |
+| [gonum](https://www.gonum.org/) | 7,261 | 517 | 240 | Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more | 2017-03-25 14:54:38 | 2024-04-27 06:06:59 |
+| [stats](https://github.com/montanaflynn/stats) | 2,881 | 168 | 19 | A well tested and comprehensive Golang statistics library package with no dependencies. | 2014-12-16 03:25:19 | 2024-04-23 09:56:02 |
+| [plot](https://github.com/gonum/plot) | 2,635 | 205 | 87 | A repository for plotting and visualizing data | 2013-07-23 07:01:13 | 2024-04-27 01:52:50 |
+| [gosl](https://github.com/cpmech/gosl) | 1,806 | 196 | 0 | Linear algebra, eigenvalues, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, differential equations. | 2015-02-09 23:00:38 | 2024-04-26 07:59:36 |
+| [streamtools](http://nytlabs.github.io/streamtools/) | 1,312 | 111 | 47 | tools for working with streams of data | 2013-07-05 18:58:45 | 2024-04-27 03:52:41 |
+| [dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | 1,120 | 94 | 15 | DataFrames for Go: For statistics, machine-learning, and data manipulation/exploration | 2018-10-01 12:19:31 | 2024-04-27 10:34:02 |
+| [go-dsp](http://godoc.org/github.com/mjibson/go-dsp) | 844 | 88 | 7 | Digital Signal Processing for Go | 2011-11-02 06:28:41 | 2024-04-14 05:29:24 |
+| [orb](https://github.com/paulmach/orb) | 836 | 98 | 10 | Types and utilities for working with 2d geometry in Golang | 2016-03-28 01:19:01 | 2024-04-26 09:46:08 |
+| [chart](https://github.com/vdobler/chart) | 767 | 105 | 6 | Provide basic charts in go | 2011-06-27 12:19:42 | 2024-04-08 22:39:26 |
+| [goraph](https://github.com/gyuho/goraph) | 731 | 77 | 5 | Package goraph implements graph data structure and algorithms. | 2014-02-27 03:15:55 | 2024-04-24 03:14:57 |
+| [graph](https://yourbasic.org/golang/your-basic-func/) | 684 | 63 | 6 | Graph algorithms and data structures | 2017-04-27 18:43:54 | 2024-04-18 13:53:14 |
+| [ewma](https://github.com/VividCortex/ewma) | 430 | 36 | 5 | Exponentially Weighted Moving Average algorithms for Go. | 2013-07-05 21:33:25 | 2024-04-15 17:02:45 |
+| [calendarheatmap](https://calendarheatmap.io) | 386 | 17 | 12 | 📅 Calendar heatmap inspired by GitHub contribution activity  | 2020-07-01 18:30:48 | 2024-04-18 08:11:11 |
+| [TextRank](https://github.com/DavidBelicza/TextRank) | 196 | 22 | 5 | :wink: :cyclone: :strawberry: TextRank implementation in Golang with extendable features (summarization, phrase extraction) and multithreading (goroutine). | 2018-01-09 19:36:17 | 2024-04-26 09:18:28 |
+| [gohistogram](http://godoc.org/github.com/VividCortex/gohistogram) | 174 | 31 | 4 | Streaming approximate histograms in Go | 2013-07-02 12:53:22 | 2024-04-10 09:26:26 |
+| [sparse](https://github.com/james-bowman/sparse) | 153 | 23 | 4 | Sparse matrix formats for linear algebra supporting scientific and machine learning applications | 2017-05-16 13:54:36 | 2024-04-06 13:16:58 |
+| [go-estimate](https://github.com/milosgajdos/go-estimate) | 109 | 8 | 2 | State estimation and filtering algorithms in Go | 2018-11-04 22:32:52 | 2024-04-17 18:52:24 |
 | [pagerank](https://github.com/alixaxel/pagerank) | 80 | 21 | 3 | Weighted PageRank implementation in Go | 2015-08-06 01:33:34 | 2024-02-22 19:22:08 |
 | [geom](https://github.com/skelterjohn/geom) | 55 | 18 | 1 | 2d geometry for golang | 2011-06-07 17:49:11 | 2023-04-02 02:39:45 |
 | [evaler](https://github.com/soniah/evaler) | 52 | 17 | 5 | Implements a simple floating point arithmetic expression evaluator in Go (golang). | 2012-09-04 23:37:58 | 2023-07-30 06:09:50 |
-| [decimal](https://github.com/db47h/decimal) | 38 | 3 | 0 | An arbitrary-precision decimal floating-point arithmetic package for Go | 2020-05-27 15:23:59 | 2023-08-10 09:46:31 |
+| [decimal](https://github.com/db47h/decimal) | 39 | 3 | 0 | An arbitrary-precision decimal floating-point arithmetic package for Go | 2020-05-27 15:23:59 | 2024-03-19 03:31:26 |
 | [triangolatte](https://github.com/tchayen/triangolatte) | 36 | 3 | 4 | 2D triangulation library. Allows translating lines and polygons (both based on points) to the language of GPUs. | 2018-07-18 21:17:09 | 2023-11-18 05:44:58 |
 | [goent](https://github.com/kzahedi/goent) | 34 | 4 | 0 | GO Implementation of Entropy Measures | 2017-08-08 05:37:12 | 2023-12-29 07:02:15 |
 | [piecewiselinear](https://pkg.go.dev/github.com/sgreben/piecewiselinear) | 26 | 3 | 0 | tiny linear interpolation library for go | 2018-10-21 13:19:44 | 2023-12-08 09:29:05 |
