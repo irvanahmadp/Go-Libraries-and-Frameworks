@@ -1,7 +1,7 @@
 {
 	"name": "Web Frameworks - Middlewares - Libraries for creating HTTP middlewares",
 	"index_last_check": 0,
-	"last_update": 1709604726,
+	"last_update": 1714311103,
 	"libraries": [
 		{
 			"id": 19922293,
@@ -10,11 +10,11 @@
 			"html_url": "https://github.com/urfave/negroni",
 			"homepage": "",
 			"created_at": "2014-05-18T22:09:10Z",
-			"updated_at": "2024-03-01T06:03:45Z",
+			"updated_at": "2024-04-27T04:27:57Z",
 			"svn_url": "https://github.com/urfave/negroni",
-			"stargazers_count": 7405,
-			"watchers_count": 7405,
-			"forks_count": 575,
+			"stargazers_count": 7417,
+			"watchers_count": 7417,
+			"forks_count": 576,
 			"open_issues_count": 8
 		},
 		{
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/justinas/alice",
 			"homepage": "https://godoc.org/github.com/justinas/alice",
 			"created_at": "2014-05-25T07:27:41Z",
-			"updated_at": "2024-03-04T15:57:00Z",
+			"updated_at": "2024-04-28T10:15:47Z",
 			"svn_url": "https://github.com/justinas/alice",
-			"stargazers_count": 2944,
-			"watchers_count": 2944,
-			"forks_count": 152,
-			"open_issues_count": 9
+			"stargazers_count": 2984,
+			"watchers_count": 2984,
+			"forks_count": 151,
+			"open_issues_count": 8
 		},
 		{
 			"id": 20692563,
@@ -38,11 +38,11 @@
 			"html_url": "https://github.com/unrolled/render",
 			"homepage": "",
 			"created_at": "2014-06-10T16:20:35Z",
-			"updated_at": "2024-03-04T05:14:47Z",
+			"updated_at": "2024-04-26T11:45:52Z",
 			"svn_url": "https://github.com/unrolled/render",
-			"stargazers_count": 1890,
-			"watchers_count": 1890,
-			"forks_count": 141,
+			"stargazers_count": 1896,
+			"watchers_count": 1896,
+			"forks_count": 140,
 			"open_issues_count": 0
 		},
 		{
@@ -52,10 +52,10 @@
 			"html_url": "https://github.com/thoas/stats",
 			"homepage": "",
 			"created_at": "2015-03-05T18:02:50Z",
-			"updated_at": "2024-02-02T07:45:55Z",
+			"updated_at": "2024-04-26T22:11:41Z",
 			"svn_url": "https://github.com/thoas/stats",
-			"stargazers_count": 594,
-			"watchers_count": 594,
+			"stargazers_count": 595,
+			"watchers_count": 595,
 			"forks_count": 53,
 			"open_issues_count": 9
 		},
@@ -84,7 +84,7 @@
 			"svn_url": "https://github.com/thedevsaddam/renderer",
 			"stargazers_count": 261,
 			"watchers_count": 261,
-			"forks_count": 31,
+			"forks_count": 30,
 			"open_issues_count": 0
 		},
 		{
@@ -98,7 +98,7 @@
 			"svn_url": "https://github.com/stephens2424/muxchain",
 			"stargazers_count": 208,
 			"watchers_count": 208,
-			"forks_count": 12,
+			"forks_count": 9,
 			"open_issues_count": 1
 		},
 		{
@@ -119,11 +119,11 @@
 			"id": 48580192,
 			"name": "gores",
 			"description": "Go package that handles HTML, JSON, XML and etc. responses",
-			"html_url": "https://github.com/alioygur/gores",
+			"html_url": "https://github.com/aliuygur/gores",
 			"homepage": "",
 			"created_at": "2015-12-25T12:41:01Z",
 			"updated_at": "2023-12-13T09:46:30Z",
-			"svn_url": "https://github.com/alioygur/gores",
+			"svn_url": "https://github.com/aliuygur/gores",
 			"stargazers_count": 102,
 			"watchers_count": 102,
 			"forks_count": 4,
