@@ -164,33 +164,33 @@ Libraries for implementing authentications schemes.
 ### Bot Building
 Libraries for building and working with bots.
 
-<sup>*Last Update: 2024-03-01 21:10:26*</sup>
+<sup>*Last Update: 2024-05-04 19:03:25*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [telegram-bot-api](https://go-telegram-bot-api.dev) | 5,296 | 802 | 125 | Golang bindings for the Telegram Bot API | 2015-06-25 05:33:57 | 2024-03-01 10:26:21 |
-| [olivia](https://olivia-ai.org) | 3,645 | 356 | 29 | 💁‍♀️Your new best friend powered by an artificial neural network | 2018-06-05 18:19:31 | 2024-02-28 08:18:51 |
-| [telebot](https://github.com/tucnak/telebot) | 3,518 | 409 | 19 | Telebot is a Telegram bot framework in Go. | 2015-06-25 19:27:50 | 2024-03-01 09:56:17 |
-| [kelp](https://kelpbot.io) | 1,061 | 256 | 176 | Kelp is a free and open-source trading bot for the Stellar DEX and 100+ centralized exchanges | 2018-08-08 23:31:18 | 2024-02-27 23:41:41 |
-| [golang-crypto-trading-bot](https://github.com/saniales/golang-crypto-trading-bot) | 981 | 241 | 5 | A golang implementation of a console-based trading bot for cryptocurrency exchanges | 2017-05-14 22:11:41 | 2024-02-28 09:29:57 |
-| [bot](https://github.com/go-chat-bot/bot) | 811 | 191 | 15 | IRC, Slack, Telegram and RocketChat bot written in go | 2015-09-22 16:41:13 | 2024-03-01 14:04:12 |
-| [slacker](https://github.com/shomali11/slacker) | 807 | 123 | 0 | Slack Bot Framework | 2017-05-20 01:41:20 | 2024-02-26 10:47:19 |
-| [joe](https://joe-bot.net) | 471 | 26 | 6 | A general-purpose bot library inspired by Hubot but written in Go.   :robot: | 2019-03-03 11:19:18 | 2024-02-26 20:28:02 |
-| [tbot](https://yanzay.github.io/tbot-doc/) | 349 | 54 | 2 | Go library for Telegram Bot API | 2015-09-11 16:19:25 | 2024-03-01 00:48:35 |
-| [go-twitch-irc](https://github.com/gempir/go-twitch-irc) | 330 | 57 | 7 | go irc client for twitch.tv | 2017-03-23 21:31:35 | 2024-02-25 10:40:47 |
-| [echotron](https://t.me/s/echotronnews) | 313 | 21 | 1 | An elegant and concurrent library for the Telegram bot API in Go. | 2019-07-22 17:31:49 | 2024-02-28 05:36:00 |
-| [go-sarah](https://pkg.go.dev/github.com/oklahomer/go-sarah/v4) | 260 | 16 | 0 | Simple yet customizable bot framework written in Go. | 2016-11-06 10:04:43 | 2024-01-11 13:54:47 |
-| [tenyks](http://tenyks.io) | 175 | 19 | 12 | The Tenyks IRC bot. | 2012-08-26 02:02:24 | 2024-02-24 03:41:41 |
-| [slack-bot](https://github.com/innogames/slack-bot) | 161 | 42 | 7 | Ready to use Slack bot for lazy developers: start Jenkins jobs, watch Jira tickets, watch pull requests with AI support... | 2019-07-19 07:49:06 | 2024-02-26 17:21:16 |
+| [telegram-bot-api](https://go-telegram-bot-api.dev) | 5,438 | 832 | 131 | Golang bindings for the Telegram Bot API | 2015-06-25 05:33:57 | 2024-05-02 13:47:08 |
+| [olivia](https://olivia-ai.org) | 3,661 | 354 | 29 | 💁‍♀️Your new best friend powered by an artificial neural network | 2018-06-05 18:19:31 | 2024-05-04 05:47:27 |
+| [telebot](https://github.com/tucnak/telebot) | 3,656 | 422 | 28 | Telebot is a Telegram bot framework in Go. | 2015-06-25 19:27:50 | 2024-05-03 17:11:28 |
+| [kelp](https://kelpbot.io) | 1,071 | 259 | 176 | Kelp is a free and open-source trading bot for the Stellar DEX and 100+ centralized exchanges | 2018-08-08 23:31:18 | 2024-04-28 08:45:42 |
+| [golang-crypto-trading-bot](https://github.com/saniales/golang-crypto-trading-bot) | 1,015 | 245 | 5 | A golang implementation of a console-based trading bot for cryptocurrency exchanges | 2017-05-14 22:11:41 | 2024-04-29 22:43:47 |
+| [bot](https://github.com/go-chat-bot/bot) | 817 | 189 | 12 | IRC, Slack, Telegram and RocketChat bot written in go | 2015-09-22 16:41:13 | 2024-04-09 21:36:14 |
+| [slacker](https://github.com/shomali11/slacker) | 810 | 122 | 0 | Slack Bot Framework | 2017-05-20 01:41:20 | 2024-04-29 21:38:29 |
+| [joe](https://joe-bot.net) | 472 | 26 | 5 | A general-purpose bot library inspired by Hubot but written in Go.   :robot: | 2019-03-03 11:19:18 | 2024-03-31 11:28:23 |
+| [tbot](https://yanzay.github.io/tbot-doc/) | 352 | 54 | 2 | Go library for Telegram Bot API | 2015-09-11 16:19:25 | 2024-05-01 06:30:46 |
+| [go-twitch-irc](https://github.com/gempir/go-twitch-irc) | 342 | 56 | 7 | go irc client for twitch.tv | 2017-03-23 21:31:35 | 2024-05-04 01:04:04 |
+| [echotron](https://t.me/s/echotronnews) | 333 | 23 | 1 | An elegant and concurrent library for the Telegram bot API in Go. | 2019-07-22 17:31:49 | 2024-04-17 13:47:55 |
+| [go-sarah](https://pkg.go.dev/github.com/oklahomer/go-sarah/v4) | 261 | 16 | 0 | Simple yet customizable bot framework written in Go. | 2016-11-06 10:04:43 | 2024-03-11 10:11:03 |
+| [tenyks](http://tenyks.io) | 178 | 19 | 12 | The Tenyks IRC bot. | 2012-08-26 02:02:24 | 2024-03-25 19:59:16 |
+| [slack-bot](https://github.com/innogames/slack-bot) | 165 | 42 | 7 | Ready to use Slack bot for lazy developers: start Jenkins jobs, watch Jira tickets, watch pull requests with AI support... | 2019-07-19 07:49:06 | 2024-04-30 07:13:49 |
 | [hanu](https://sbstjn.com/host-golang-slackbot-on-heroku-with-hanu.html) | 153 | 25 | 3 | Golang Framework for writing Slack bots | 2016-09-16 07:10:42 | 2024-02-21 10:03:15 |
-| [go-tgbot](https://github.com/olebedev/go-tgbot) | 117 | 4 | 2 | Golang  telegram bot API wrapper, session-based router and middleware | 2016-12-11 06:06:32 | 2023-12-26 14:05:04 |
-| [ephemeral-roles](https://github.com/ewohltman/ephemeral-roles) | 85 | 10 | 6 | A Discord bot for managing ephemeral roles based upon voice channel member presence. | 2017-12-19 15:20:30 | 2024-02-25 18:00:01 |
-| [margelet](https://github.com/zhulik/margelet) | 83 | 15 | 2 | Telegram Bot Framework for Go | 2015-11-21 13:02:17 | 2024-02-16 07:05:44 |
+| [go-tgbot](https://github.com/olebedev/go-tgbot) | 120 | 5 | 2 | Golang  telegram bot API wrapper, session-based router and middleware | 2016-12-11 06:06:32 | 2024-04-22 12:43:55 |
+| [ephemeral-roles](https://github.com/ewohltman/ephemeral-roles) | 87 | 10 | 9 | A Discord bot for managing ephemeral roles based upon voice channel member presence. | 2017-12-19 15:20:30 | 2024-04-11 08:09:53 |
+| [margelet](https://github.com/zhulik/margelet) | 84 | 15 | 2 | Telegram Bot Framework for Go | 2015-11-21 13:02:17 | 2024-03-25 15:38:48 |
 | [slackscot](https://github.com/alexandre-normand/slackscot) | 56 | 10 | 3 | Slack bot core/framework written in Go with support for reactions to message updates/deletes | 2015-10-22 04:54:55 | 2023-09-18 15:27:30 |
-| [govkbot](https://github.com/nikepan/govkbot) | 46 | 6 | 1 | VK bot package for Go | 2016-07-11 22:09:54 | 2023-11-30 11:22:04 |
-| [micha](https://github.com/onrik/micha) | 26 | 5 | 1 | Client lib for Telegram bot api | 2016-04-14 12:09:44 | 2023-09-18 15:27:25 |
+| [govkbot](https://github.com/nikepan/govkbot) | 50 | 6 | 1 | VK bot package for Go | 2016-07-11 22:09:54 | 2024-04-11 15:53:55 |
+| [micha](https://github.com/onrik/micha) | 27 | 5 | 1 | Client lib for Telegram bot api | 2016-04-14 12:09:44 | 2024-03-25 15:38:55 |
 </details>
 
 ### Build Automation
@@ -319,7 +319,7 @@ Libraries for building standard or basic Command Line applications.
 ### Configuration
 Libraries for configuration parsing.
 
-<sup>*Last Update: 2024-05-03 16:52:13*</sup>
+<sup>*Last Update: 2024-05-04 19:03:25*</sup>
 <details>
   <summary>Show Table</summary>
 
@@ -353,7 +353,7 @@ Libraries for configuration parsing.
 | [envcfg](https://godoc.org/github.com/tomazk/envcfg) | 103 | 8 | 0 | Un-marshaling environment variables to Go structs | 2014-11-29 11:43:53 | 2024-03-01 23:44:35 |
 | [envh](https://github.com/antham/envh) | 98 | 2 | 0 | Go helpers to manage environment variables | 2017-01-12 11:25:48 | 2024-01-08 13:09:18 |
 | [configuro](https://medium.com/better-programming/designing-cloud-native-configuration-framework-eefb0b3793cb) | 92 | 12 | 0 | An opinionated configuration loading framework for Containerized and Cloud-Native applications. | 2020-04-09 22:10:34 | 2024-03-10 19:52:42 |
-| [xdg](https://github.com/OpenPeeDeeP/xdg) | 80 | 7 | 2 | A cross platform package that follows the XDG Standard | 2017-07-20 15:58:29 | 2023-12-08 07:37:08 |
+| [xdg](https://github.com/OpenPeeDeeP/xdg) | 81 | 7 | 2 | A cross platform package that follows the XDG Standard | 2017-07-20 15:58:29 | 2024-04-27 14:02:47 |
 | [hocon](https://hjson.github.io/) | 72 | 14 | 12 | go implementation of lightbend's HOCON configuration library https://github.com/lightbend/config | 2020-03-01 18:20:12 | 2024-04-22 20:49:39 |
 | [gofigure](https://github.com/ian-kent/gofigure) | 67 | 9 | 1 | Go configuration made easy! | 2014-11-25 00:12:40 | 2024-01-03 14:11:48 |
 | [configure](https://github.com/paked/configure) | 56 | 10 | 2 | Configure is a Go package that gives you easy configuration of your project through redundancy | 2015-06-14 07:46:56 | 2024-01-03 14:12:24 |
@@ -377,18 +377,18 @@ Libraries for configuration parsing.
 ### Continuous Integration
 Tools for help with continuous integration.
 
-<sup>*Last Update: 2024-03-05 09:12:10*</sup>
+<sup>*Last Update: 2024-05-04 19:03:35*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [gitness](https://gitness.com) | 31,212 | 2,727 | 133 | Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery. | 2014-02-07 07:54:44 | 2024-03-05 01:59:44 |
-| [cds](https://ovh.github.io/cds/) | 4,396 | 413 | 152 | Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform | 2016-10-11 08:28:23 | 2024-03-04 20:52:03 |
-| [goveralls](https://github.com/mattn/goveralls) | 773 | 140 | 17 | A tool for testing, building, signing, and publishing binaries. | 2013-04-17 10:58:40 | 2024-02-21 17:11:39 |
+| [gitness](https://gitness.com) | 31,464 | 2,754 | 140 | Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery. | 2014-02-07 07:54:44 | 2024-05-04 11:19:32 |
+| [cds](https://ovh.github.io/cds/) | 4,447 | 414 | 142 | Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform | 2016-10-11 08:28:23 | 2024-05-02 11:57:40 |
+| [goveralls](https://github.com/mattn/goveralls) | 778 | 140 | 17 | A tool for testing, building, signing, and publishing binaries. | 2013-04-17 10:58:40 | 2024-05-01 18:51:15 |
 | [overalls](https://github.com/go-playground/overalls) | 114 | 26 | 2 | :jeans:Multi-Package go project coverprofile for tools like goveralls | 2015-07-30 11:30:11 | 2023-10-03 00:20:25 |
-| [duci](https://github.com/duck8823/duci) | 74 | 4 | 10 | The simple ci server  | 2018-04-01 01:51:02 | 2023-04-13 01:57:00 |
-| [gomason](https://github.com/nikogura/gomason) | 61 | 9 | 4 | A tool for testing, building, signing, and publishing binaries. | 2017-11-18 00:59:11 | 2024-02-29 09:18:23 |
+| [duci](https://github.com/duck8823/duci) | 74 | 5 | 10 | The simple ci server  | 2018-04-01 01:51:02 | 2023-04-13 01:57:00 |
+| [gomason](https://github.com/nikogura/gomason) | 62 | 9 | 4 | A tool for testing, building, signing, and publishing binaries. | 2017-11-18 00:59:11 | 2024-03-07 19:48:47 |
 | [roveralls](https://github.com/lawrencewoodman/roveralls) | 20 | 5 | 0 | A Go recursive coverage testing tool | 2016-06-26 07:45:32 | 2024-02-19 16:44:09 |
 </details>
 
@@ -1481,15 +1481,15 @@ Libraries that implement messaging systems.
 ### Microsoft Office - Microsoft Excel
 Libraries for working with Microsoft Excel.
 
-<sup>*Last Update: 2024-04-27 19:33:29*</sup>
+<sup>*Last Update: 2024-05-04 19:03:47*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [excelize](https://xuri.me/excelize) | 17,289 | 1,662 | 97 | Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets | 2016-08-29 12:32:12 | 2024-04-27 12:13:52 |
-| [xlsx](https://github.com/tealeg/xlsx) | 5,750 | 805 | 6 | Go library for reading and writing XLSX files.  | 2011-06-28 15:20:28 | 2024-04-27 03:49:16 |
-| [go-excel](https://github.com/szyhf/go-excel) | 186 | 35 | 1 | A simple and light excel file reader to read a standard excel as a table faster | 一个轻量级的Excel数据读取库，用一种更`关系数据库`的方式解析Excel。 | 2017-09-03 11:51:58 | 2024-04-19 07:31:25 |
+| [excelize](https://xuri.me/excelize) | 17,314 | 1,665 | 98 | Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets | 2016-08-29 12:32:12 | 2024-05-04 10:53:52 |
+| [xlsx](https://github.com/tealeg/xlsx) | 5,761 | 806 | 7 | Go library for reading and writing XLSX files.  | 2011-06-28 15:20:28 | 2024-05-02 05:41:15 |
+| [go-excel](https://github.com/szyhf/go-excel) | 187 | 35 | 1 | A simple and light excel file reader to read a standard excel as a table faster | 一个轻量级的Excel数据读取库，用一种更`关系数据库`的方式解析Excel。 | 2017-09-03 11:51:58 | 2024-04-28 07:15:37 |
 | [xlsx](https://github.com/plandem/xlsx) | 172 | 24 | 13 | Fast and reliable way to work with Microsoft Excel™ [xlsx] files in Golang | 2017-08-26 23:11:38 | 2024-03-15 23:58:24 |
 | [goxlsxwriter](https://github.com/fterrag/goxlsxwriter) | 21 | 7 | 0 | Golang bindings for libxlsxwriter for writing XLSX files | 2017-03-13 04:15:17 | 2023-07-11 01:40:47 |
 </details>
@@ -2587,23 +2587,23 @@ General utilities and tools to make your life easier.
 ### Validation
 Libraries for validation.
 
-<sup>*Last Update: 2024-03-06 20:38:04*</sup>
+<sup>*Last Update: 2024-05-04 19:03:42*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [validator](https://github.com/go-playground/validator) | 15,223 | 1,241 | 282 | :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving | 2015-02-12 16:32:22 | 2024-03-06 10:16:34 |
-| [govalidator](https://github.com/asaskevich/govalidator) | 5,910 | 548 | 169 | [Go] Package of validators and sanitizers for strings, numerics, slices and structs | 2014-06-20 10:45:23 | 2024-03-06 03:51:22 |
-| [ozzo-validation](https://github.com/go-ozzo/ozzo-validation) | 3,514 | 216 | 52 | An idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags. | 2016-06-22 03:47:43 | 2024-03-06 12:12:33 |
-| [govalidator](https://github.com/thedevsaddam/govalidator) | 1,271 | 124 | 43 | Validate Golang request data with simple rules. Highly inspired by Laravel's request validation. | 2017-09-13 16:42:20 | 2024-03-04 07:45:56 |
-| [validate](https://gookit.github.io/validate/) | 996 | 114 | 17 | ⚔ Go package for data validation and filtering. support Map, Struct, Form data. Go通用的数据验证与过滤库，使用简单，内置大部分常用验证、过滤器，支持自定义验证器、自定义消息、字段翻译。 | 2018-07-16 08:23:49 | 2024-03-06 02:50:33 |
-| [checkdigit](https://github.com/osamingo/checkdigit) | 108 | 7 | 1 | Provide check digit algorithms and calculators written in Go | 2019-04-05 09:46:36 | 2024-02-28 08:18:27 |
-| [jio](https://github.com/faceair/jio) | 96 | 11 | 3 | jio is a json schema validator similar to joi | 2018-10-28 11:02:45 | 2024-01-27 04:27:50 |
-| [validate](https://gookit.github.io/validate/) | 93 | 21 | 0 | This package provides a framework for writing validations for Go applications. | 2018-02-10 18:25:55 | 2024-02-26 10:47:30 |
-| [terraform-validator](https://github.com/thazelart/terraform-validator) | 80 | 9 | 1 | A norms and conventions validator for Terraform | 2019-05-29 11:37:15 | 2023-09-29 13:16:57 |
-| [gody](https://pkg.go.dev/github.com/guiferpa/gody) | 66 | 5 | 1 | :balloon: A lightweight struct validator for Go | 2018-11-01 21:08:16 | 2024-01-22 08:02:41 |
-| [govalid](https://github.com/twharmon/govalid) | 36 | 5 | 1 | Struct validation using tags | 2019-02-17 23:25:43 | 2023-12-25 18:37:20 |
+| [validator](https://github.com/go-playground/validator) | 15,602 | 1,260 | 291 | :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving | 2015-02-12 16:32:22 | 2024-05-04 02:40:57 |
+| [govalidator](https://github.com/asaskevich/govalidator) | 5,930 | 550 | 168 | [Go] Package of validators and sanitizers for strings, numerics, slices and structs | 2014-06-20 10:45:23 | 2024-05-04 09:34:26 |
+| [ozzo-validation](https://github.com/go-ozzo/ozzo-validation) | 3,575 | 217 | 52 | An idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags. | 2016-06-22 03:47:43 | 2024-05-04 10:39:25 |
+| [govalidator](https://github.com/thedevsaddam/govalidator) | 1,288 | 124 | 43 | Validate Golang request data with simple rules. Highly inspired by Laravel's request validation. | 2017-09-13 16:42:20 | 2024-04-30 16:18:16 |
+| [validate](https://gookit.github.io/validate/) | 1,008 | 115 | 18 | ⚔ Go package for data validation and filtering. support Map, Struct, Form data. Go通用的数据验证与过滤库，使用简单，内置大部分常用验证、过滤器，支持自定义验证器、自定义消息、字段翻译。 | 2018-07-16 08:23:49 | 2024-05-02 13:59:17 |
+| [checkdigit](https://github.com/osamingo/checkdigit) | 111 | 7 | 1 | Provide check digit algorithms and calculators written in Go | 2019-04-05 09:46:36 | 2024-04-11 09:56:27 |
+| [jio](https://github.com/faceair/jio) | 103 | 11 | 3 | jio is a json schema validator similar to joi | 2018-10-28 11:02:45 | 2024-04-27 13:46:56 |
+| [validate](https://gookit.github.io/validate/) | 94 | 23 | 0 | This package provides a framework for writing validations for Go applications. | 2018-02-10 18:25:55 | 2024-04-05 23:22:47 |
+| [terraform-validator](https://github.com/thazelart/terraform-validator) | 79 | 9 | 1 | A norms and conventions validator for Terraform | 2019-05-29 11:37:15 | 2024-04-05 13:33:48 |
+| [gody](https://pkg.go.dev/github.com/guiferpa/gody) | 67 | 5 | 1 | :balloon: A lightweight struct validator for Go | 2018-11-01 21:08:16 | 2024-04-24 21:23:12 |
+| [govalid](https://github.com/twharmon/govalid) | 37 | 5 | 1 | Struct validation using tags | 2019-02-17 23:25:43 | 2024-03-08 14:34:15 |
 </details>
 
 ### Version Control
@@ -2626,23 +2626,23 @@ Libraries for version control.
 ### Video
 Libraries for manipulating video.
 
-<sup>*Last Update: 2024-03-05 09:12:16*</sup>
+<sup>*Last Update: 2024-05-04 19:03:38*</sup>
 <details>
   <summary>Show Table</summary>
 
 | Project Name | Stars | Forks | Open Issues | Description | Created At | Last Update |
 | ------------ | ----- | ----- | ----------- | ----------- | ---------- | ----------- |
-| [goav](https://github.com/giorgisio/goav) | 2,059 | 364 | 48 | Golang bindings for FFmpeg (This repository is no longer maintained) | 2015-05-21 05:31:14 | 2024-03-02 18:04:01 |
-| [m3u8](http://tools.ietf.org/html/draft-pantos-http-live-streaming) | 1,134 | 298 | 63 | Parser and generator of M3U8-playlists for Apple HLS. Library for Go language. :cinema: | 2013-02-05 22:26:30 | 2024-03-04 22:00:24 |
-| [gmf](https://github.com/3d0c/gmf) | 870 | 216 | 48 | Go Media Framework | 2013-04-03 09:07:47 | 2024-02-29 21:05:56 |
-| [go-astisub](https://github.com/asticode/go-astisub) | 546 | 106 | 15 | Manipulate subtitles in GO (.srt, .ssa/.ass, .stl, .ttml, .vtt (webvtt), teletext, etc.) | 2016-12-16 14:47:59 | 2024-02-25 10:34:39 |
-| [go-astits](https://github.com/asticode/go-astits) | 519 | 52 | 13 | Demux and mux MPEG Transport Streams (.ts) natively in GO | 2017-07-04 13:06:15 | 2024-03-02 18:04:11 |
-| [libvlc-go](https://pkg.go.dev/github.com/adrg/libvlc-go/v3) | 398 | 48 | 6 | Go bindings for libVLC and high-level media player interface | 2015-01-06 14:01:50 | 2024-03-01 07:00:03 |
+| [goav](https://github.com/giorgisio/goav) | 2,072 | 363 | 48 | Golang bindings for FFmpeg (This repository is no longer maintained) | 2015-05-21 05:31:14 | 2024-05-04 04:34:12 |
+| [m3u8](http://tools.ietf.org/html/draft-pantos-http-live-streaming) | 1,167 | 302 | 64 | Parser and generator of M3U8-playlists for Apple HLS. Library for Go language. :cinema: | 2013-02-05 22:26:30 | 2024-05-03 05:38:33 |
+| [gmf](https://github.com/3d0c/gmf) | 873 | 170 | 49 | Go Media Framework | 2013-04-03 09:07:47 | 2024-05-01 09:31:51 |
+| [go-astisub](https://github.com/asticode/go-astisub) | 556 | 107 | 16 | Manipulate subtitles in GO (.srt, .ssa/.ass, .stl, .ttml, .vtt (webvtt), teletext, etc.) | 2016-12-16 14:47:59 | 2024-05-04 08:33:37 |
+| [go-astits](https://github.com/asticode/go-astits) | 523 | 52 | 13 | Demux and mux MPEG Transport Streams (.ts) natively in GO | 2017-07-04 13:06:15 | 2024-05-03 08:46:05 |
+| [libvlc-go](https://pkg.go.dev/github.com/adrg/libvlc-go/v3) | 408 | 48 | 7 | Go bindings for libVLC and high-level media player interface | 2015-01-06 14:01:50 | 2024-04-26 23:49:30 |
 | [gst](https://github.com/ziutek/gst) | 168 | 48 | 9 | Go bindings for GStreamer (retired: currently I don't use/develop this package) | 2011-07-26 00:44:40 | 2024-03-02 18:03:49 |
-| [go-m3u8](https://tools.ietf.org/html/rfc8216) | 110 | 24 | 2 | Parse and generate m3u8 playlists for Apple HTTP Live Streaming (HLS) in Golang (ported from gem https://github.com/sethdeckard/m3u8) | 2018-11-06 02:42:27 | 2024-02-04 18:46:22 |
-| [v4l](https://pkg.go.dev/github.com/korandiz/v4l) | 77 | 15 | 0 | Facade to the Video4Linux video capture interface.  | 2016-10-25 10:50:25 | 2023-09-18 15:05:05 |
-| [libgosubs](https://github.com/wargarblgarbl/libgosubs) | 24 | 5 | 0 | golang library to read and write various subtitle formats | 2017-05-03 21:05:25 | 2023-08-17 13:54:41 |
-| [go-mpd](https://github.com/unki2aut/go-mpd) | 22 | 6 | 0 | Go library for parsing and generating MPEG-DASH Media Presentation Description (MPD) files | 2018-11-02 19:09:07 | 2024-02-05 21:34:55 |
+| [go-m3u8](https://tools.ietf.org/html/rfc8216) | 112 | 24 | 2 | Parse and generate m3u8 playlists for Apple HTTP Live Streaming (HLS) in Golang (ported from gem https://github.com/sethdeckard/m3u8) | 2018-11-06 02:42:27 | 2024-03-21 03:54:35 |
+| [v4l](https://pkg.go.dev/github.com/korandiz/v4l) | 77 | 16 | 1 | Facade to the Video4Linux video capture interface.  | 2016-10-25 10:50:25 | 2023-09-18 15:05:05 |
+| [libgosubs](https://github.com/wargarblgarbl/libgosubs) | 24 | 5 | 1 | golang library to read and write various subtitle formats | 2017-05-03 21:05:25 | 2023-08-17 13:54:41 |
+| [go-mpd](https://github.com/unki2aut/go-mpd) | 22 | 7 | 0 | Go library for parsing and generating MPEG-DASH Media Presentation Description (MPD) files | 2018-11-02 19:09:07 | 2024-04-10 17:50:02 |
 </details>
 
 ### Web Frameworks
