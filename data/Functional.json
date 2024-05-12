@@ -1,7 +1,7 @@
 {
 	"name": "Functional",
 	"index_last_check": 0,
-	"last_update": 1709775976,
+	"last_update": 1715513648,
 	"libraries": [
 		{
 			"id": 21420279,
@@ -10,10 +10,10 @@
 			"html_url": "https://github.com/tobyhede/go-underscore",
 			"homepage": "",
 			"created_at": "2014-07-02T10:27:16Z",
-			"updated_at": "2024-03-02T22:44:05Z",
+			"updated_at": "2024-04-24T08:47:03Z",
 			"svn_url": "https://github.com/tobyhede/go-underscore",
-			"stargazers_count": 1293,
-			"watchers_count": 1293,
+			"stargazers_count": 1295,
+			"watchers_count": 1295,
 			"forks_count": 68,
 			"open_issues_count": 4
 		},
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/TeaEntityLab/fpGo",
 			"homepage": "",
 			"created_at": "2018-05-24T09:08:45Z",
-			"updated_at": "2024-02-21T12:30:04Z",
+			"updated_at": "2024-04-23T18:43:18Z",
 			"svn_url": "https://github.com/TeaEntityLab/fpGo",
-			"stargazers_count": 336,
-			"watchers_count": 336,
+			"stargazers_count": 341,
+			"watchers_count": 341,
 			"forks_count": 21,
-			"open_issues_count": 1
+			"open_issues_count": 0
 		},
 		{
 			"id": 340210292,
@@ -38,11 +38,11 @@
 			"html_url": "https://github.com/rbrahul/gofp",
 			"homepage": "",
 			"created_at": "2021-02-19T00:01:39Z",
-			"updated_at": "2024-02-03T04:20:25Z",
+			"updated_at": "2024-04-06T14:56:50Z",
 			"svn_url": "https://github.com/rbrahul/gofp",
-			"stargazers_count": 144,
-			"watchers_count": 144,
-			"forks_count": 8,
+			"stargazers_count": 145,
+			"watchers_count": 145,
+			"forks_count": 9,
 			"open_issues_count": 0
 		},
 		{
@@ -52,10 +52,10 @@
 			"html_url": "https://github.com/seborama/fuego",
 			"homepage": "",
 			"created_at": "2018-11-05T22:24:09Z",
-			"updated_at": "2024-01-07T02:35:26Z",
+			"updated_at": "2024-04-21T13:20:33Z",
 			"svn_url": "https://github.com/seborama/fuego",
-			"stargazers_count": 142,
-			"watchers_count": 142,
+			"stargazers_count": 141,
+			"watchers_count": 141,
 			"forks_count": 12,
 			"open_issues_count": 0
 		}

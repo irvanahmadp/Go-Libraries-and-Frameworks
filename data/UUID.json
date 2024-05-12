@@ -1,7 +1,7 @@
 {
 	"name": "UUID",
 	"index_last_check": 0,
-	"last_update": 1710425368,
+	"last_update": 1715513654,
 	"libraries": [
 		{
 			"id": 51620247,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/google/uuid",
 			"homepage": "",
 			"created_at": "2016-02-12T22:17:59Z",
-			"updated_at": "2024-03-14T09:05:40Z",
+			"updated_at": "2024-05-12T09:27:54Z",
 			"svn_url": "https://github.com/google/uuid",
-			"stargazers_count": 4937,
-			"watchers_count": 4937,
-			"forks_count": 356,
-			"open_issues_count": 31
+			"stargazers_count": 5037,
+			"watchers_count": 5037,
+			"forks_count": 361,
+			"open_issues_count": 33
 		},
 		{
 			"id": 75744278,
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/oklog/ulid",
 			"homepage": "",
 			"created_at": "2016-12-06T15:26:52Z",
-			"updated_at": "2024-03-14T09:07:03Z",
+			"updated_at": "2024-05-12T10:19:00Z",
 			"svn_url": "https://github.com/oklog/ulid",
-			"stargazers_count": 4042,
-			"watchers_count": 4042,
-			"forks_count": 154,
-			"open_issues_count": 6
+			"stargazers_count": 4168,
+			"watchers_count": 4168,
+			"forks_count": 157,
+			"open_issues_count": 7
 		},
 		{
 			"id": 140785428,
@@ -38,12 +38,12 @@
 			"html_url": "https://github.com/gofrs/uuid",
 			"homepage": "https://gof.rs/projects/uuid/",
 			"created_at": "2018-07-13T02:13:28Z",
-			"updated_at": "2024-03-14T12:15:28Z",
+			"updated_at": "2024-05-11T03:08:44Z",
 			"svn_url": "https://github.com/gofrs/uuid",
-			"stargazers_count": 1487,
-			"watchers_count": 1487,
-			"forks_count": 105,
-			"open_issues_count": 10
+			"stargazers_count": 1505,
+			"watchers_count": 1505,
+			"forks_count": 106,
+			"open_issues_count": 8
 		},
 		{
 			"id": 119120832,
@@ -52,10 +52,10 @@
 			"html_url": "https://github.com/edwingeng/wuid",
 			"homepage": "",
 			"created_at": "2018-01-27T01:16:28Z",
-			"updated_at": "2024-03-11T23:40:22Z",
+			"updated_at": "2024-05-06T02:47:49Z",
 			"svn_url": "https://github.com/edwingeng/wuid",
-			"stargazers_count": 514,
-			"watchers_count": 514,
+			"stargazers_count": 520,
+			"watchers_count": 520,
 			"forks_count": 48,
 			"open_issues_count": 2
 		},
@@ -94,10 +94,10 @@
 			"html_url": "https://github.com/jakenvac/Goid",
 			"homepage": "",
 			"created_at": "2017-05-19T10:40:45Z",
-			"updated_at": "2024-01-16T01:38:49Z",
+			"updated_at": "2024-04-26T21:47:44Z",
 			"svn_url": "https://github.com/jakenvac/Goid",
-			"stargazers_count": 40,
-			"watchers_count": 40,
+			"stargazers_count": 41,
+			"watchers_count": 41,
 			"forks_count": 4,
 			"open_issues_count": 1
 		},
@@ -108,10 +108,10 @@
 			"html_url": "https://github.com/twharmon/gouid",
 			"homepage": "",
 			"created_at": "2020-10-08T19:54:41Z",
-			"updated_at": "2023-12-14T00:14:35Z",
+			"updated_at": "2024-03-28T12:06:19Z",
 			"svn_url": "https://github.com/twharmon/gouid",
-			"stargazers_count": 22,
-			"watchers_count": 22,
+			"stargazers_count": 23,
+			"watchers_count": 23,
 			"forks_count": 4,
 			"open_issues_count": 0
 		},
