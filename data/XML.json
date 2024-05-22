@@ -1,7 +1,7 @@
 {
 	"name": "XML",
 	"index_last_check": 0,
-	"last_update": 1711011072,
+	"last_update": 1716341111,
 	"libraries": [
 		{
 			"id": 111842183,
@@ -10,11 +10,11 @@
 			"html_url": "https://github.com/miku/zek",
 			"homepage": "",
 			"created_at": "2017-11-23T19:03:11Z",
-			"updated_at": "2024-03-12T08:59:43Z",
+			"updated_at": "2024-05-18T18:07:47Z",
 			"svn_url": "https://github.com/miku/zek",
-			"stargazers_count": 724,
-			"watchers_count": 724,
-			"forks_count": 62,
+			"stargazers_count": 734,
+			"watchers_count": 734,
+			"forks_count": 63,
 			"open_issues_count": 9
 		},
 		{
@@ -24,12 +24,12 @@
 			"html_url": "https://github.com/antchfx/xpath",
 			"homepage": "",
 			"created_at": "2016-10-09T05:51:24Z",
-			"updated_at": "2024-03-20T18:43:52Z",
+			"updated_at": "2024-05-21T06:21:02Z",
 			"svn_url": "https://github.com/antchfx/xpath",
-			"stargazers_count": 644,
-			"watchers_count": 644,
-			"forks_count": 79,
-			"open_issues_count": 15
+			"stargazers_count": 656,
+			"watchers_count": 656,
+			"forks_count": 84,
+			"open_issues_count": 14
 		},
 		{
 			"id": 70380227,
@@ -38,10 +38,10 @@
 			"html_url": "https://github.com/antchfx/xquery",
 			"homepage": "https://github.com/antchfx/xpath",
 			"created_at": "2016-10-09T05:54:10Z",
-			"updated_at": "2024-02-19T08:12:51Z",
+			"updated_at": "2024-04-13T03:38:21Z",
 			"svn_url": "https://github.com/antchfx/xquery",
-			"stargazers_count": 158,
-			"watchers_count": 158,
+			"stargazers_count": 159,
+			"watchers_count": 159,
 			"forks_count": 28,
 			"open_issues_count": 0
 		},
@@ -52,10 +52,10 @@
 			"html_url": "https://github.com/sbabiv/xml2map",
 			"homepage": "",
 			"created_at": "2018-08-06T17:51:46Z",
-			"updated_at": "2024-03-12T21:35:37Z",
+			"updated_at": "2024-05-10T15:06:31Z",
 			"svn_url": "https://github.com/sbabiv/xml2map",
-			"stargazers_count": 62,
-			"watchers_count": 62,
+			"stargazers_count": 63,
+			"watchers_count": 63,
 			"forks_count": 13,
 			"open_issues_count": 2
 		},
@@ -66,10 +66,10 @@
 			"html_url": "https://github.com/shabbyrobe/xmlwriter",
 			"homepage": "",
 			"created_at": "2017-04-11T04:43:26Z",
-			"updated_at": "2024-01-18T04:02:15Z",
+			"updated_at": "2024-04-16T21:40:05Z",
 			"svn_url": "https://github.com/shabbyrobe/xmlwriter",
-			"stargazers_count": 26,
-			"watchers_count": 26,
+			"stargazers_count": 27,
+			"watchers_count": 27,
 			"forks_count": 6,
 			"open_issues_count": 1
 		},
