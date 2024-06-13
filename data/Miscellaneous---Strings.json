@@ -1,7 +1,7 @@
 {
 	"name": "Miscellaneous - Strings",
 	"index_last_check": 0,
-	"last_update": 1711804538,
+	"last_update": 1718252628,
 	"libraries": [
 		{
 			"id": 28851913,
@@ -10,26 +10,12 @@
 			"html_url": "https://github.com/huandu/xstrings",
 			"homepage": "",
 			"created_at": "2015-01-06T07:25:26Z",
-			"updated_at": "2024-03-26T13:26:20Z",
+			"updated_at": "2024-06-13T01:48:08Z",
 			"svn_url": "https://github.com/huandu/xstrings",
-			"stargazers_count": 1276,
-			"watchers_count": 1276,
+			"stargazers_count": 1335,
+			"watchers_count": 1335,
 			"forks_count": 68,
 			"open_issues_count": 0
-		},
-		{
-			"id": 144949393,
-			"name": "strutil",
-			"description": "String utilities for Go",
-			"html_url": "https://github.com/ozgio/strutil",
-			"homepage": "https://pkg.go.dev/github.com/gobeam/Stringy?tab=doc",
-			"created_at": "2018-08-16T06:56:15Z",
-			"updated_at": "2024-03-25T21:31:47Z",
-			"svn_url": "https://github.com/ozgio/strutil",
-			"stargazers_count": 201,
-			"watchers_count": 201,
-			"forks_count": 24,
-			"open_issues_count": 1
 		},
 		{
 			"id": 252624457,
@@ -38,11 +24,25 @@
 			"html_url": "https://github.com/gobeam/stringy",
 			"homepage": "https://pkg.go.dev/github.com/gobeam/Stringy?tab=doc",
 			"created_at": "2020-04-03T03:34:10Z",
-			"updated_at": "2024-03-28T18:35:44Z",
+			"updated_at": "2024-06-08T12:37:41Z",
 			"svn_url": "https://github.com/gobeam/stringy",
-			"stargazers_count": 201,
-			"watchers_count": 201,
-			"forks_count": 17,
+			"stargazers_count": 222,
+			"watchers_count": 222,
+			"forks_count": 18,
+			"open_issues_count": 2
+		},
+		{
+			"id": 144949393,
+			"name": "strutil",
+			"description": "String utilities for Go",
+			"html_url": "https://github.com/ozgio/strutil",
+			"homepage": "https://pkg.go.dev/github.com/gobeam/Stringy?tab=doc",
+			"created_at": "2018-08-16T06:56:15Z",
+			"updated_at": "2024-05-30T11:02:10Z",
+			"svn_url": "https://github.com/ozgio/strutil",
+			"stargazers_count": 202,
+			"watchers_count": 202,
+			"forks_count": 25,
 			"open_issues_count": 1
 		}
 	]
