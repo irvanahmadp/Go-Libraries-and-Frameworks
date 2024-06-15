@@ -1,7 +1,7 @@
 {
 	"name": "Text Processing - Utility",
 	"index_last_check": 0,
-	"last_update": 1710682241,
+	"last_update": 1718460221,
 	"libraries": [
 		{
 			"id": 29113216,
@@ -10,12 +10,12 @@
 			"html_url": "https://github.com/mvdan/xurls",
 			"homepage": "https://tysug.net",
 			"created_at": "2015-01-12T01:28:46Z",
-			"updated_at": "2024-03-15T05:07:00Z",
+			"updated_at": "2024-06-03T09:47:11Z",
 			"svn_url": "https://github.com/mvdan/xurls",
-			"stargazers_count": 1144,
-			"watchers_count": 1144,
-			"forks_count": 113,
-			"open_issues_count": 1
+			"stargazers_count": 1163,
+			"watchers_count": 1163,
+			"forks_count": 114,
+			"open_issues_count": 2
 		},
 		{
 			"id": 23178566,
@@ -24,11 +24,11 @@
 			"html_url": "https://github.com/bndr/gotabulate",
 			"homepage": "",
 			"created_at": "2014-08-21T07:44:28Z",
-			"updated_at": "2024-02-04T09:59:32Z",
+			"updated_at": "2024-06-13T21:20:11Z",
 			"svn_url": "https://github.com/bndr/gotabulate",
-			"stargazers_count": 309,
-			"watchers_count": 309,
-			"forks_count": 30,
+			"stargazers_count": 320,
+			"watchers_count": 320,
+			"forks_count": 31,
 			"open_issues_count": 5
 		},
 		{
@@ -38,10 +38,10 @@
 			"html_url": "https://github.com/yourbasic/radix",
 			"homepage": "",
 			"created_at": "2017-06-09T14:38:58Z",
-			"updated_at": "2024-02-16T00:55:38Z",
+			"updated_at": "2024-06-03T11:57:11Z",
 			"svn_url": "https://github.com/yourbasic/radix",
-			"stargazers_count": 189,
-			"watchers_count": 189,
+			"stargazers_count": 192,
+			"watchers_count": 192,
 			"forks_count": 11,
 			"open_issues_count": 0
 		},
@@ -52,12 +52,12 @@
 			"html_url": "https://github.com/oriser/regroup",
 			"homepage": "",
 			"created_at": "2020-09-08T19:04:42Z",
-			"updated_at": "2024-03-13T15:46:01Z",
+			"updated_at": "2024-06-10T20:10:44Z",
 			"svn_url": "https://github.com/oriser/regroup",
-			"stargazers_count": 141,
-			"watchers_count": 141,
-			"forks_count": 12,
-			"open_issues_count": 2
+			"stargazers_count": 143,
+			"watchers_count": 143,
+			"forks_count": 13,
+			"open_issues_count": 3
 		},
 		{
 			"id": 147979190,
@@ -66,10 +66,10 @@
 			"html_url": "https://github.com/JoshuaDoes/gofuckyourself",
 			"homepage": "",
 			"created_at": "2018-09-09T00:07:26Z",
-			"updated_at": "2024-02-14T20:59:08Z",
+			"updated_at": "2024-06-12T21:02:26Z",
 			"svn_url": "https://github.com/JoshuaDoes/gofuckyourself",
-			"stargazers_count": 61,
-			"watchers_count": 61,
+			"stargazers_count": 63,
+			"watchers_count": 63,
 			"forks_count": 8,
 			"open_issues_count": 4
 		},
@@ -99,7 +99,7 @@
 			"stargazers_count": 36,
 			"watchers_count": 36,
 			"forks_count": 2,
-			"open_issues_count": 3
+			"open_issues_count": 2
 		},
 		{
 			"id": 104077592,
@@ -122,10 +122,10 @@
 			"html_url": "https://github.com/codemodus/kace",
 			"homepage": "",
 			"created_at": "2015-06-04T20:36:49Z",
-			"updated_at": "2023-08-01T23:38:06Z",
+			"updated_at": "2024-06-13T21:20:13Z",
 			"svn_url": "https://github.com/codemodus/kace",
-			"stargazers_count": 20,
-			"watchers_count": 20,
+			"stargazers_count": 19,
+			"watchers_count": 19,
 			"forks_count": 3,
 			"open_issues_count": 1
 		},
@@ -136,10 +136,10 @@
 			"html_url": "https://github.com/Dynom/TySug",
 			"homepage": "https://tysug.net",
 			"created_at": "2018-06-05T19:46:29Z",
-			"updated_at": "2024-01-17T08:28:02Z",
+			"updated_at": "2024-04-04T11:30:37Z",
 			"svn_url": "https://github.com/Dynom/TySug",
-			"stargazers_count": 17,
-			"watchers_count": 17,
+			"stargazers_count": 18,
+			"watchers_count": 18,
 			"forks_count": 3,
 			"open_issues_count": 2
 		},
@@ -170,6 +170,20 @@
 			"watchers_count": 5,
 			"forks_count": 4,
 			"open_issues_count": 1
+		},
+		{
+			"id": 801127568,
+			"name": "parth",
+			"description": "A string argument parser that understands quotes and backslashes",
+			"html_url": "https://github.com/codemodus/parth",
+			"homepage": "",
+			"created_at": "2024-05-15T16:39:27Z",
+			"updated_at": "2024-05-20T03:41:04Z",
+			"svn_url": "https://github.com/codemodus/parth",
+			"stargazers_count": 0,
+			"watchers_count": 0,
+			"forks_count": 0,
+			"open_issues_count": 0
 		}
 	]
 }
