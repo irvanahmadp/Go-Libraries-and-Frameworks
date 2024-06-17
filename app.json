@@ -1,8 +1,8 @@
 {
-	"last_update": 1718460230,
+	"last_update": 1718629695,
 	"rate_limit": 60,
 	"rate_limit_remaining": 0,
-	"rate_limit_reset": 1718463806,
+	"rate_limit_reset": 1718633255,
 	"categories": [
 		{
 			"name": "Audio and Music",
@@ -392,7 +392,7 @@
 		{
 			"name": "Web Frameworks",
 			"description": "Full stack web frameworks.",
-			"last_update": 1710595682
+			"last_update": 1718629654
 		},
 		{
 			"name": "Web Frameworks - Middlewares - Actual middlewares",
